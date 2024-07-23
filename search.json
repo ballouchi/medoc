@@ -1,0 +1,1581 @@
+
+[
+
+{
+"title": "Changements",
+"tags": "",
+"keywords": "changements",
+"url": "changements.html",
+"summary": ""
+}
+,
+
+{
+"title": "Accueil",
+"tags": "getting_started",
+"keywords": "homepage",
+"url": "index.html",
+"summary": "Page d'accueil"
+}
+,
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news.html",
+"summary": ""
+}
+,
+
+{
+"title": "News",
+"tags": "",
+"keywords": "news, blog, updates, release notes, announcements",
+"url": "news_archive.html",
+"summary": ""
+}
+,
+
+{
+"title": "Antihistaminiques H2",
+"tags": "",
+"keywords": "",
+"url": "tag_anti-h2.html",
+"summary": ""
+}
+,
+
+{
+"title": "Inhibiteurs de la pompe à Protons (IPP)",
+"tags": "",
+"keywords": "",
+"url": "tag_ipp.html",
+"summary": ""
+}
+,
+
+
+
+
+{
+"title": "Changements du 15 Juillet 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-07-15.html",
+"summary": "Changements du 15 Juillet 2024"
+}
+,
+
+
+{
+"title": "Ramipril",
+"tags": "anti-hypertenseuriec",
+"keywords": "ramipril zentiva, prevensyl, triatec, rapril, ramipril",
+"url": "ramipril.html",
+"summary": "Traitement de l'hypertension artérielle et de l'insuffisance cardiaque"
+}
+,
+
+
+{
+"title": "Perindopril",
+"tags": "anti-hypertenseuriec",
+"keywords": "cardosyl, therapril, coversyl, perindopril",
+"url": "perindopril.html",
+"summary": "Traitement de l'hypertension artérielle. Prévention de la récidive d'un infarctus du myocarde"
+}
+,
+
+
+{
+"title": "Enalapril",
+"tags": "anti-hypertenseuriec",
+"keywords": "enapril, angiotec, enalapril",
+"url": "enalapril.html",
+"summary": "Traitement de l'hypertension artérielle et de l'insuffisance cardiaque"
+}
+,
+
+
+{
+"title": "Captopril",
+"tags": "anti-hypertenseuriec",
+"keywords": "capto-pril alliance, convertal, hypotensyl, capocard, tensopril, capril, lopril, actopril, captopril",
+"url": "captopril.html",
+"summary": "Traitement de l'hypertension artérielle et de l'insuffisance cardiaque congestive."
+}
+,
+
+
+{
+"title": "Manidipine",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "iperten, manidipine",
+"url": "manidipine.html",
+"summary": "Traitement de l'hypertension artérielle."
+}
+,
+
+
+{
+"title": "Nitrendipine",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "lusopress, nitrendipine",
+"url": "nitrendipine.html",
+"summary": "Traitement de l'hypertension artérielle."
+}
+,
+
+
+{
+"title": "Nifedipine",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "adalate retard, coracten, nifedipine",
+"url": "nifedipine.html",
+"summary": "Traitement de l'hypertension artérielle."
+}
+,
+
+
+{
+"title": "Nicardipine",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "loxen, loxen lp, nicardipine",
+"url": "nicardipine.html",
+"summary": "Traitement de l'hypertension artérielle."
+}
+,
+
+
+{
+"title": "Lercanidipine",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "lowradip, zanidip, lercanidipine",
+"url": "lercanidipine.html",
+"summary": "Traitement de l'hypertension artérielle."
+}
+,
+
+
+{
+"title": "Isradipine",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "icaz, isradipine",
+"url": "isradipine.html",
+"summary": "Traitement de l'hypertension artérielle."
+}
+,
+
+
+{
+"title": "Verapamil",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "isoptine lp, verapamil",
+"url": "verapamil.html",
+"summary": "Traitement de l'hypertension artérielle, de l'angor et de certains types d'arythmies."
+}
+,
+
+
+{
+"title": "Diltiazem",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "altiazem, tildiem, bi-tildiem, mono-tildiem, cardiadil 200, mono-tiazem lp, mono-tildiem lp, cardiadil 300, diltiazem",
+"url": "diltiazem.html",
+"summary": "Traitement préventif des crises d'angor stable et traitement de l'hypertension artérielle"
+}
+,
+
+
+{
+"title": "Amlodipine 10 mg",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "amlotens, amlodipine medis, lodipex 10, tensynel, mibral, lowrac, lodepine, amlodis, amlodipine zentiva, amlor, cardepine, mibral 10, amlodipine",
+"url": "amlodipine-10.html",
+"summary": "Traitement de l'hypertension artérielle et de l'angor"
+}
+,
+
+
+{
+"title": "Amlodipine 5 mg",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "amlor, amlotens, amlodipine medis, lodipex 5, tensynel, amlodep, lowrac, amlodipine zentiva, amlodis, lodepine, mibral, cardepine, amlodipine",
+"url": "amlodipine-5.html",
+"summary": "Traitement de l'hypertension artérielle et de l'angor"
+}
+,
+
+
+{
+"title": "Association de diurétiques",
+"tags": "anti-hypertenseurdiuretique",
+"keywords": "amuretic, isobar, amiloride + hydrochlorothiazide, methyclothiazide + triamterene, aldalix, aldactazine, spironolactone + furosemide, spironolactone + altizide",
+"url": "asso-diuretiq.html",
+"summary": "Traitement de l'hypertension artérielle et des oedèmes"
+}
+,
+
+
+{
+"title": "Spironolactone",
+"tags": "anti-hypertenseurdiuretique",
+"keywords": "noractone, aldactone, aldactone 75, spironolactone",
+"url": "spironolactone.html",
+"summary": "Traitement de l'hypertension artérielle, des oedèmes et de l'hyperaldostéronisme"
+}
+,
+
+
+{
+"title": "Furosémide",
+"tags": "anti-hypertenseurdiuretique",
+"keywords": "furosemide, lasicare, lasilix, ansemid, lasilix retard, furans 20, furoxem",
+"url": "furosemide.html",
+"summary": "Traitement de l'hypertension artérielle, des oedèmes et de l'insuffisance rénale"
+}
+,
+
+
+{
+"title": "Chlorothiazide",
+"tags": "anti-hypertenseurdiuretique",
+"keywords": "chlorothiazide",
+"url": "chlorothiazide.html",
+"summary": "Traitement de l'hypertension artérielle, des oedèmes et de l'insuffisance cardiaque"
+}
+,
+
+
+{
+"title": "Indapamide",
+"tags": "anti-hypertenseurdiuretique",
+"keywords": "flupamide lp, adex lp, fludex lp, diurex, adex, indapamide",
+"url": "indapamide.html",
+"summary": "Traitement de l' hypertension artérielle"
+}
+,
+
+
+{
+"title": "Carvedilol",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "cardilol, karvex, carvidol, carvedilol",
+"url": "carvedilol.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Nebivolol",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "nebicor, nebipress, nebicard, nebilus, nebilet, nebivolol",
+"url": "nebivolol.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Autres Beta-bloquants",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "normocardil, vasocard lp, sotalol mylan, celiprol, betacol lp, propranolol, metoprolol, sotalol, celiprolol, carteolol",
+"url": "autres-betabloq.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Bisoprolol",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "bisocor, biprocard, bonacor, bisopral, evocor 2.5, cincor 2.5, cardensiel, cincor, bisotens, evocor 5, evocor10, detensiel, cincor 10, bisoprolol",
+"url": "bisoprolol.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Betaxolol",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "ketaxol, keval, betaxolol",
+"url": "betaxolol.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Acébutolol",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "sectral, tensiol, cebutral, cebutol 400, acebutolol",
+"url": "acebutolol.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Atenolol",
+"tags": "anti-hypertenseurbeta-bloquant",
+"keywords": "hypoten, atenor, hypoten 50, inicard50, tenormine, inicard100, hypoten 100, atenolol",
+"url": "atenolol.html",
+"summary": "Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Sulfasalazine et Mesalazine",
+"tags": "anti-inflammatoire-intes",
+"keywords": "salazopyrine, cinkasa, pentasa, mesatec",
+"url": "sulfasalazine-mesalazine.html",
+"summary": "Traitement des affections inflammatoires des Intestins: Maladie de Crohn et Recto-Colites."
+}
+,
+
+
+{
+"title": "Dapagliflozine",
+"tags": "autres-diabetediabete",
+"keywords": "inovia5, divinus, inovia10, forxiga, dapagliflozine",
+"url": "dapagliflozine.html",
+"summary": "Traitement du diabète de type 2"
+}
+,
+
+
+{
+"title": "Repaglinide",
+"tags": "autres-diabetediabete",
+"keywords": "novonorm, glinorm, repaglinide",
+"url": "repaglinide.html",
+"summary": "Antidiabètique hypoglycémiant"
+}
+,
+
+
+{
+"title": "Acarbose",
+"tags": "acarbosediabete",
+"keywords": "acarbose adwya, carboless 50, glycarbose, alpha-glucoff, glufix, acarlyse, glucor, carboless 100",
+"url": "acarbose.html",
+"summary": "Traitement du diabète: L'acarbose inhibe les alpha-glucosidases au niveau de la muqueuse intestinale ralentissant la résorption des glucides, ce qui provoque une diminution de l'hyperglycémie après les repas"
+}
+,
+
+
+{
+"title": "Metformine 1000 mg",
+"tags": "metforminediabete",
+"keywords": "diabitos, metformine sanofi, diabiphage, mefor, glucophage",
+"url": "metformine-1g.html",
+"summary": "Traitement du diabète de type 2"
+}
+,
+
+
+{
+"title": "Metformine 850 mg",
+"tags": "metforminediabete",
+"keywords": "diabitos, metformine sanofi, dialon, glucophage, diaformine 850, metforal, diabiphage, mefor, formidiab, diabitos 850, stagid",
+"url": "metformine-850.html",
+"summary": "Traitement du diabète de type 2"
+}
+,
+
+
+{
+"title": "Glipizide (Sucrazide) et Gliquidone (Glurenor)",
+"tags": "sulfamidesdiabete",
+"keywords": "sucrazide, glurenor",
+"url": "glipizide-gliquidone.html",
+"summary": "Les sulfamides hypoglycémiants stimulent la secrétion d'insuline: Traitement du diabète de type 2"
+}
+,
+
+
+{
+"title": "Gliclazide",
+"tags": "sulfamidesdiabete",
+"keywords": "diamezid, diamicron lm, theradiam, diamicron, diabenorm, gliclazide",
+"url": "gliclazide.html",
+"summary": "Les sulfamides hypoglycémiants stimulent la secrétion d'insuline: Traitement du diabète de type 2"
+}
+,
+
+
+{
+"title": "Glibenclamide",
+"tags": "sulfamidesdiabete",
+"keywords": "glibenclamide 2.5, mi-diabenil, hemi-daonil, diabenyl, daonil, glibenclamide",
+"url": "glibenclamide.html",
+"summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
+}
+,
+
+
+{
+"title": "Changements du 7 Mai 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-05-07.html",
+"summary": "Changements du 7 Mai 2024"
+}
+,
+
+
+{
+"title": "Glimepiride 6 mg",
+"tags": "sulfamidesdiabete",
+"keywords": "glimepiride, irys, glimid, amarel, monorel",
+"url": "glimepiride-6mg.html",
+"summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
+}
+,
+
+
+{
+"title": "Glimepiride 4 mg",
+"tags": "sulfamidesdiabete",
+"keywords": "glimepiride winthrop, glitra, diabirel, glimid, irys, monorel, amarel",
+"url": "glimepiride-4mg.html",
+"summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
+}
+,
+
+
+{
+"title": "Glimepiride 3 mg",
+"tags": "sulfamidesdiabete",
+"keywords": "glitra, glimepiride winthrop, diabirel, glimid, irys, monorel, amarel",
+"url": "glimepiride-3mg.html",
+"summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
+}
+,
+
+
+{
+"title": "Glimepiride 2 mg",
+"tags": "sulfamidesdiabete",
+"keywords": "glimepiride winthrop, glimerel, glitra, irys, glimid, monorel, diabirel, amarel",
+"url": "glimepiride-2mg.html",
+"summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
+}
+,
+
+
+{
+"title": "Glimepiride 1 mg",
+"tags": "sulfamidesdiabete",
+"keywords": "glimepiride winthrop, glitra, monorel, irys, glimid, diabirel, amarel",
+"url": "glimepiride-1mg.html",
+"summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
+}
+,
+
+
+{
+"title": "Insuline",
+"tags": "insuline",
+"keywords": "insuman rapid, insuman comb, insuman basal, jusline r, jusline 30/70, jusline n, actrapid, mixtard 30, insulatard 100 ui/ml, actrapid penfill, mixtard 30 penfill, insulatard penfill 100 ui/ml, glargen, apidra solostar, semglee, lantus, lantus solostar, novomix 30 flexpen, novorapid flexpen, levemir flexpen, ryzodeg flex touch",
+"url": "insuline.html",
+"summary": "Traitement du diabète"
+}
+,
+
+
+{
+"title": "Changements du 30 Avril 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-04-30.html",
+"summary": "Changements du 30 Avril 2024"
+}
+,
+
+
+{
+"title": "Diphosphonates (Alendronate, Risedronate et Ranelate de Strontium)",
+"tags": "sq",
+"keywords": "fosalen, fosalen d3, alendronate, colecalciferol, risonel, aktonate, ostenel, actonel, risedronate, protelos, ranelate de strontium",
+"url": "diphosphonates.html",
+"summary": "Inhibiteurs de la résorption osseuse, utilisés dans certaines maladies osseuses"
+}
+,
+
+
+{
+"title": "Antigoutteux (Colchicine et Allopurinol)",
+"tags": "anti-inflammatoiresq",
+"keywords": "colchicine opocalcium, colchicina lirca, purinol 100, alloric, purinol 300, colchicine, allopurinol",
+"url": "antigoutteux.html",
+"summary": "Traitement de la goutte"
+}
+,
+
+
+{
+"title": "Myorelaxants",
+"tags": "anti-inflammatoiresq",
+"keywords": "miorel, myolax, coltramyl, relaxil, thiomed, thiocolchicoside, liorefen, pms-baclofen, decontractyl, baclofene, mephenesine",
+"url": "myorelaxants.html",
+"summary": "Traitement des contractures musculaires douloureuses"
+}
+,
+
+
+{
+"title": "Acide Ursodesoxycholique",
+"tags": "lithiase",
+"keywords": "ursolvan, ursobilane",
+"url": "acide-ursodesoxycholique.html",
+"summary": "Dissolution des calculs biliaires de cholestérol et Traitement de la cirrhose biliaire primitive."
+}
+,
+
+
+{
+"title": "Pancreatine",
+"tags": "enzyme",
+"keywords": "creon",
+"url": "pancreatine.html",
+"summary": "Extrait de pancréas apportant les enzymes pancréatiques nécessaires à la digestion (lipases, protéases, amylases)"
+}
+,
+
+
+{
+"title": "Polyéthylène Glycol",
+"tags": "laxatif",
+"keywords": "fortrans",
+"url": "laxatif.html",
+"summary": "Lavage colique assurant la préparation des patients aux explorations endoscopiques, radiologiques et à la chirurgie colique."
+}
+,
+
+
+{
+"title": "Vitamines",
+"tags": "vitamines",
+"keywords": "d-max, d3 inject, vitamine d3 b.o.n, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacalcidol, vitamin e 100, vitamin e 200, vitamine a, vitamine A Faure",
+"url": "vitamines.html",
+"summary": "Vitamine D et dérivés, Vitamine E et Vitamine A."
+}
+,
+
+
+{
+"title": "Calcium",
+"tags": "mineraux",
+"keywords": "deflatine, calcemil, fixical, calcium sandoz, unimed, chlorure de calcium, calplus, calcitop, calcifast, calperos, tonucal, calciboise, densical",
+"url": "calcium.html",
+"summary": "Prévention et traitement de l'ostéoporose et des carences en calcium."
+}
+,
+
+
+{
+"title": "Metoclopramide",
+"tags": "",
+"keywords": "doperan, pramidyl 10, primperan, pradis fort adultes, pramidyl per os, pradis",
+"url": "metoclopramide.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Domperidone",
+"tags": "",
+"keywords": "oroperidys, dopidium, piradium, domper, dompyrex, perilium",
+"url": "domperidone.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Racecadotril",
+"tags": "",
+"keywords": "diacure nourrisson, diaren nourrisson, enkephal nourrisson, tiortec nourrissons, tiorfan nourrisson, diacure enfant, enkephal enfant, diaren enfant, tiortec enfant, tiorfan enfant, tiorfan",
+"url": "racecadotril.html",
+"summary": "Problèmes Fonctionnels Gastro-Intestinaux"
+}
+,
+
+
+{
+"title": "Nifuroxazide",
+"tags": "",
+"keywords": "nifroxid, ercefuryl, diarryl",
+"url": "nifuroxazide.html",
+"summary": "Problèmes Fonctionnels Gastro-Intestinaux"
+}
+,
+
+
+{
+"title": "Loperamide",
+"tags": "",
+"keywords": "diaretyl, imodium, idium",
+"url": "loperamide.html",
+"summary": "Problèmes Fonctionnels Gastro-Intestinaux"
+}
+,
+
+
+{
+"title": "Diosmectite 3g sachets et Montmorillonite Beidellitique",
+"tags": "",
+"keywords": "smactyl, smecta orange-vanille, gastrostop, bedelix",
+"url": "diosmectite.html",
+"summary": "Problèmes Fonctionnels Gastro-Intestinaux"
+}
+,
+
+
+{
+"title": "Attapulgite",
+"tags": "",
+"keywords": "actapulgite nourrissons, actapulgite",
+"url": "attapulgite.html",
+"summary": "Problèmes Fonctionnels Gastro-Intestinaux"
+}
+,
+
+
+{
+"title": "Autres médicaments pour la diarrhée",
+"tags": "",
+"keywords": "fungizone, amphotericine b, nystatine, mikostat, diarix, normix, rifixine 200, Rifaximina, sulfaguanidine, pivalone, Tixocortol",
+"url": "autres-diarrhees.html",
+"summary": "Antifongiques, Antibiotiques et Anti-inflammatoires pour la diarrhée"
+}
+,
+
+
+{
+"title": "Charbon Activé",
+"tags": "antispasmodiquediarrhee",
+"keywords": "carbactive, carbophos, carbosylane, carbosylane enfant, charbon, siméthicone",
+"url": "charbon.html",
+"summary": "Traitement symptomatique de la diarrhée et des manifestations fonctionnelles intestinales, notamment avec météorisme. Traitement de certaines intoxications médicamenteuses"
+}
+,
+
+
+{
+"title": "Vaccins",
+"tags": "vaccin",
+"keywords": "tetraxim fl/1 dose, vaccin d+t+c+p, poliorix fl/1 dose, imovax polio, tetraxim fl/1 dose, vaccin poliomyélitique, vaccin d+t+c+p, vaccin antitetanique, tetavax",
+"url": "vaccin.html",
+"summary": "Vaccins"
+}
+,
+
+
+{
+"title": "Valaciclovir",
+"tags": "anti-viral",
+"keywords": "cyvaltex 500, aviral, zelivir, valcyvir, zelitrex, valaciclovir",
+"url": "valaciclovir.html",
+"summary": "Agent Antiviral"
+}
+,
+
+
+{
+"title": "Aciclovir",
+"tags": "anti-viral",
+"keywords": "antivir, avaltex, aciclovir opalia, zovirax, aciclovir",
+"url": "aciclovir.html",
+"summary": "Agent Antiviral"
+}
+,
+
+
+{
+"title": "Ectoparasiticides",
+"tags": "anti-parasitaire",
+"keywords": "ascalol, ascabiol, ascapoudre, benzoate de benzyle, benzoate de benzyle + sulfirame, lindane",
+"url": "ectoparasiticides.html",
+"summary": "Agent anti-parasitaire"
+}
+,
+
+
+{
+"title": "Antiprotozoaires",
+"tags": "anti-parasitaire",
+"keywords": "fasigyne, atrican, intetrix, plaquenil, tinidazole, tenonitrozole, tilbroquinol+tiliquinol, hydroxychloroquine",
+"url": "antiprotozoaires.html",
+"summary": "Agent anti-parasitaire"
+}
+,
+
+
+{
+"title": "Pyrantel",
+"tags": "anti-parasitaire",
+"keywords": "helmintox, pyrantin, pyrantel",
+"url": "pyrantel.html",
+"summary": "Agent anti-parasitaire"
+}
+,
+
+
+{
+"title": "Mebendazole",
+"tags": "anti-parasitaire",
+"keywords": "vermox, vermozol, mebendazole",
+"url": "mebendazole.html",
+"summary": "Agent anti-parasitaire"
+}
+,
+
+
+{
+"title": "Albendazole",
+"tags": "anti-parasitaire",
+"keywords": "nemacest, z zole, zendis, albendazole",
+"url": "albendazole.html",
+"summary": "Agent anti-parasitaire"
+}
+,
+
+
+{
+"title": "Metronidazole",
+"tags": "anti-parasitaireantibiotique",
+"keywords": "metrogyl, protogyl, tamizol, flagyl, flamet, metronidazole, metronidazole opalia",
+"url": "metronidazole.html",
+"summary": "Agent anti-infectieux"
+}
+,
+
+
+{
+"title": "Fluconazole",
+"tags": "anti-mycosique",
+"keywords": "flukas, difluzol, flinzol, flucazole, diflucan, flucand 150, fluconazole winthrop, fylcol, diflu4, funzol, fluconazole",
+"url": "fluconazole.html",
+"summary": "Agent antimycosique"
+}
+,
+
+
+{
+"title": "Cotrimoxazole (Sulfametopyrazine + Trimethoprime)",
+"tags": "atb-autresantibiotique",
+"keywords": "berlocid, cotrimox, sulfatrim, bactrim, bactrim forte, sulfametopyrazine + trimethoprime, bactekod, bactrim nourrissons et enfants, cotrimoxazole",
+"url": "cotrimoxazole.html",
+"summary": "Traitement des infections bactériennes dues aux germes sensibles au cotrimoxazole"
+}
+,
+
+
+{
+"title": "Nitrofurantoine",
+"tags": "atb-autresantibiotique",
+"keywords": "furadantine, nitrofurantoine",
+"url": "nitrofurantoine.html",
+"summary": "Antibiotique reservé aux infections des voies urinaires non compliquées"
+}
+,
+
+
+{
+"title": "Thiamphenicol",
+"tags": "atb-autresantibiotique",
+"keywords": "thiobactin, thiamphenicol",
+"url": "thiamphenicol.html",
+"summary": "Traitement limité aux infections graves dues à des germes résistants aux autres antibiotiques"
+}
+,
+
+
+{
+"title": "Fosfomycine",
+"tags": "atb-autresantibiotique",
+"keywords": "cystodose, monuril adulte, fosfomycine",
+"url": "fosfomycine.html",
+"summary": "Traitement de certaines infections urinaires bactériennes"
+}
+,
+
+
+{
+"title": "Rifamycine",
+"tags": "atb-autresantibiotique",
+"keywords": "rifocine, rifamycine",
+"url": "rifamycine.html",
+"summary": "Traitement des infections à Staphylocoques ou à d'autres germes à Gram positif sensibles à la rifamycine"
+}
+,
+
+
+{
+"title": "Acide Fusidique",
+"tags": "atb-autresantibiotique",
+"keywords": "afucid, fusibacter 250, afusidic, fucidine, fusimax, acide fusidique",
+"url": "ac-fusidic.html",
+"summary": "Traitement des infections à Staphylocoques multirésistants notamment dans leurs localisations cutanées, osseuses et articulaires en association avec un autre antibiotique"
+}
+,
+
+
+{
+"title": "Tetracycline",
+"tags": "cyclinesantibiotique",
+"keywords": "metacycline, bronchocine, tetracycline, bromhexine + tetracycline",
+"url": "tetracycline.html",
+"summary": "Antibiotique"
+}
+,
+
+
+{
+"title": "Doxycycline",
+"tags": "cyclinesantibiotique",
+"keywords": "tetradox 100, vibramycine n, doxy, tetradox 200, monocline 200, vibra 200, doxycycline",
+"url": "doxycycline.html",
+"summary": "Antibiotique"
+}
+,
+
+
+{
+"title": "Norfloxacine",
+"tags": "fqantibiotique",
+"keywords": "noracin, norfloxacine",
+"url": "norfloxacine.html",
+"summary": "Traiement des infections uro-génitales"
+}
+,
+
+
+{
+"title": "Levofloxacine",
+"tags": "fqantibiotique",
+"keywords": "levomax, avoxine 500, levorec, levofor, lovik, levodis, levox, tavaflox, levofloxacine winthrop, levoflox, levocine, tavanic, levofloxacine",
+"url": "levofloxacine.html",
+"summary": "Traiement d'infections respiratiores, uro-génitales et intestinales dues à des germes sensibles"
+}
+,
+
+
+{
+"title": "Ciprofloxacine",
+"tags": "fqantibiotique",
+"keywords": "ciprolon 500, cipromax 500, ciprocine, siprodis, ciproflex 500, ciprosaiph, quinolox, ciprodar, cipro 500, sifloks, cipromax 750, ciprolon 750, cipro 750, ciproflex 750, ciprofloxacine",
+"url": "ciprofloxacine.html",
+"summary": "Traiement des infections bactériennes principalement urinaires, génitales et intestinales"
+}
+,
+
+
+{
+"title": "Ofloxacine",
+"tags": "fqantibiotique",
+"keywords": "monoflocet, gamoflo, ofloxacine winthrop, oflodis, oflocet, ofloxacine",
+"url": "ofloxacine.html",
+"summary": "Traiement des infections bactériennes principalement urinaires et génitales"
+}
+,
+
+
+{
+"title": "Lincomycine",
+"tags": "lincomycineantibiotique",
+"keywords": "lincocine, lincomycine",
+"url": "lincomycine.html",
+"summary": "Antibiotique injectable utilisé pour traiter certaines infections sévères dues à des germes sensibles"
+}
+,
+
+
+{
+"title": "Aminosides: Gentamicine et Netilmicine Sulfate",
+"tags": "aminosidesantibiotique",
+"keywords": "unigenta 10, genta 10, unigenta 20, cidomycine 20, genta 20, unigenta 40, cidomycine 40, gentainject 40, genta 40, genta 80, unigenta 80, cidomycine 80, gentainject 80, unigenta 160, genta 160, gentamicine, netromicine, netilmicine sulfate",
+"url": "gentamicine.html",
+"summary": "Les aminosides sont utilisés en association avec un autre antibiotique pour traiter certaines infections bactériennes sévères"
+}
+,
+
+
+{
+"title": "Pristinamycine et Midecamycine",
+"tags": "macrolideantibiotique",
+"keywords": "pyostacine 500, miocamen, pristinamycine, midecamycine",
+"url": "autres-macrolides.html",
+"summary": "Antibiotiques de la famille des Macrolides"
+}
+,
+
+
+{
+"title": "Roxithromycine",
+"tags": "macrolideantibiotique",
+"keywords": "romac, roxamed, roximax, roxithromycine winthrop, rulid 150, roxithromycine",
+"url": "roxithromycine.html",
+"summary": "Antibiotique de la famille des Macrolides"
+}
+,
+
+
+{
+"title": "Spiramycine",
+"tags": "macrolideantibiotique",
+"keywords": "rovamycine, spira 1.5 mui, spira 3 mui, spirox, spiramycine",
+"url": "spiramycine.html",
+"summary": "Antibiotique de la famille des Macrolides"
+}
+,
+
+
+{
+"title": "Spiramycine + Metronidazole",
+"tags": "macrolideantibiotique",
+"keywords": "spirazol, ogyl, spirogyl, rodogyl, spiramizole, bi-spirogyl, biogyl, bi-spirazol, birodogyl, spiramycine + metronidazole",
+"url": "spiramycine-metronidazole.html",
+"summary": "Traitement d'infections dentaires et stomatologiques"
+}
+,
+
+
+{
+"title": "Erythromycine",
+"tags": "macrolideantibiotique",
+"keywords": "erythro 250, erythro 500, abboticine, erythrocine, erythromycine",
+"url": "erythromycine.html",
+"summary": "Antibiotique de la famille des Macrolides"
+}
+,
+
+
+{
+"title": "Clarithromycine",
+"tags": "macrolideantibiotique",
+"keywords": "clarid, dominar, clarimax, klaromin, clamycine, zelid 500, clarithromycine zentiva, xylar 500, zeclar 500, clarithro 500, xylar 250, clarithro 250, zeclar, zelid 250, zeclar enfant, clarithromycine",
+"url": "clarithromycine.html",
+"summary": "Antibiotique de la famille des Macrolides"
+}
+,
+
+
+{
+"title": "Azithromycine",
+"tags": "macrolideantibiotique",
+"keywords": "azithro, zomax, trimax uno, azitromin duo, zithromax uno, zitro, azacine, azitromin trio, azitral, zithrocare, trimax 500, azix, azro, zithromax, azithromycine, azro 600 mg, azix 600, zitromax 600 mg, azix 900, azro 900 mg, zitromax 900 mg, zomax 1500",
+"url": "azithromycine.html",
+"summary": "Antibiotique de la famille des Macrolides"
+}
+,
+
+
+{
+"title": "Cefotaxime",
+"tags": "cephalosporineantibiotique",
+"keywords": "cefotim im iv, cefotim im, cefotaxime",
+"url": "cefotaxime.html",
+"summary": "Céphalosporine du troisième groupe. Traitement injectable de certaines infections bactériennes graves"
+}
+,
+
+
+{
+"title": "Cefpodoxime",
+"tags": "cephalosporineantibiotique",
+"keywords": "cefodox, orelox, orelox enfants et nourrissons, cefpodoxime",
+"url": "cefpodoxime.html",
+"summary": "Céphalosporine du troisième groupe. Traitement de certaines infections bactériennes graves"
+}
+,
+
+
+{
+"title": "Cefixime",
+"tags": "cephalosporineantibiotique",
+"keywords": "oroken nourrissons, faloxim, megacef nourrissons, megacef enfants, oroken enfants, faloxim 100, cefoken, cefixime",
+"url": "cefixime.html",
+"summary": "Céphalosporine du troisième groupe. Traitement de certaines infections bactériennes graves"
+}
+,
+
+
+{
+"title": "Cefuroxime",
+"tags": "cephalosporineantibiotique",
+"keywords": "zinnat, zinox, u-cef, cefuroxime",
+"url": "cefuroxime.html",
+"summary": "Céphalosporine du deuxième groupe"
+}
+,
+
+
+{
+"title": "Cefazoline",
+"tags": "cephalosporineantibiotique",
+"keywords": "cefazol im, cefazol im iv, cefazoline",
+"url": "cefazoline.html",
+"summary": "Céphalosporine du premier groupe, injectable"
+}
+,
+
+
+{
+"title": "Cefadroxil",
+"tags": "cephalosporineantibiotique",
+"keywords": "saiforal, cedrox, oracefal, oracefal dispersible, cefadroxil",
+"url": "cefadroxil.html",
+"summary": "Céphalosporine du premier groupe"
+}
+,
+
+
+{
+"title": "Pivmecillinam (Selexid)",
+"tags": "penicillineantibiotique",
+"keywords": "selexid, pivmecillinam, pénicilline",
+"url": "pivmecillinam.html",
+"summary": "Traitement de certaines infections bactériennes dues à des Entérobactéries"
+}
+,
+
+
+{
+"title": "Pénicilline V (Phénoxyméthylpénicilline)",
+"tags": "penicillineantibiotique",
+"keywords": "oracilline, ospen 1 mui, peni-v, ospen, selexid, phenoxymethylpenicilline, pivmecillinam, pénicilline",
+"url": "peni-v.html",
+"summary": "Traitement de certaines infections bactériennes dues à des Streptocoques sensibles"
+}
+,
+
+
+{
+"title": "Benzathine Benzylpenicilline et Benzylpenicilline (Pénicilline G)",
+"tags": "penicillineantibiotique",
+"keywords": "retarpen, tardipen, penitard, penicilline g unimed, benzathine benzylpenicilline, benzylpenicilline, pénicilline G",
+"url": "peni-g.html",
+"summary": "Traitement injectable de certaines infections bactériennes dues à des germes sensibles"
+}
+,
+
+
+{
+"title": "Oxacilline",
+"tags": "penicillineantibiotique",
+"keywords": "oxacilline winthrop, oxapen, oxacilline zentiva, oxagram, oxacil im iv, oxacilline, pénicilline",
+"url": "oxacilline.html",
+"summary": "Traitement des infections bactériennes dues aux Staphylocoques et aux Streptocoques sensibles"
+}
+,
+
+
+{
+"title": "Flucloxacilline",
+"tags": "penicillineantibiotique",
+"keywords": "staflox, floxapen, fluxa 500, flucloxacilline, pénicilline",
+"url": "flucloxacilline.html",
+"summary": "Traitement des infections bactériennes dues aux Staphylocoques sensibles"
+}
+,
+
+
+{
+"title": "Association Amoxicilline + Acide Clavulanique Injectable",
+"tags": "penicillineantibiotique",
+"keywords": "vaamox iv enfant et nourrisson, vaamox iv adulte, amoxicilline + acide clavulanique, pénicilline",
+"url": "amoxi-clav-inj.html",
+"summary": "Traitement par voie intra-veineuse de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
+}
+,
+
+
+{
+"title": "Association Amoxicilline + Acide Clavulanique Sirop",
+"tags": "penicillineantibiotique",
+"keywords": "clavumox, novaclav nourrissons, mediclav, amoclan, amoxi-clav sanofi nourrissons, augmentin nourrissons, novaclav enfant, clavor 100 mg/12.5mg/ml, amoxi-clav sanofi enfants, ciblor enfant, augmentin, amoxicilline + acide clavulanique, pénicilline",
+"url": "amoxi-clav-sirop.html",
+"summary": "Traitement de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
+}
+,
+
+
+{
+"title": "Association Amoxicilline + Acide Clavulanique 1 g - 125 mg",
+"tags": "penicillineantibiotique",
+"keywords": "mediclav, clavor (8/1), amoclan, amoxi-clav sanofi, novaclav adulte, ciblor, augmentin adulte, amoxicilline + acide clavulanique, pénicilline",
+"url": "amoxi-clav-1-125.html",
+"summary": "Traitement de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
+}
+,
+
+
+{
+"title": "Changements du 4 Mars 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-03-04.html",
+"summary": "Changements du 4 Mars 2024"
+}
+,
+
+
+{
+"title": "Association Amoxicilline + Acide Clavulanique 500 mg - 62,5 mg",
+"tags": "penicillineantibiotique",
+"keywords": "novaclav enfants, clavumox, amoclan, clavor, augmentin enfant, amoxi-clav sanofi adulte, clavor 500 (1:8), augmentin 8/1 adulte, biclavor, amoxicilline + acide clavulanique, mediclav, novaclav adulte, ciblor,pénicilline",
+"url": "amoxi-clav-500-625.html",
+"summary": "Traitement de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
+}
+,
+
+
+{
+"title": "Ampicilline Injectable",
+"tags": "penicillineantibiotique",
+"keywords": "ampicil im iv, ampicil, ampicilline, pénicilline",
+"url": "ampicilline.html",
+"summary": "Traitement  par voie intra-veineuse des infections bactériennes dues aux germes sensibles"
+}
+,
+
+
+{
+"title": "Amoxicilline Injectable",
+"tags": "penicillineantibiotique",
+"keywords": "amoxil im iv, amoxil, amoxicilline, pénicilline",
+"url": "amoxicilline-inj.html",
+"summary": "Traitement  par voie intra-veineuse des infections bactériennes dues aux germes sensibles"
+}
+,
+
+
+{
+"title": "Amoxicilline Sirop",
+"tags": "penicillineantibiotique",
+"keywords": "hiconcil, clamoxyl., novamox, saifoxyl, amoxicilline sanofi, galamox, clamoxyl, amoxal, penamox, penamox 500, amoxicilline, pénicilline",
+"url": "amoxicilline-sirop.html",
+"summary": "Traitement des infections bactériennes dues aux germes sensibles"
+}
+,
+
+
+{
+"title": "Amoxicilline 1 g",
+"tags": "penicillineantibiotique",
+"keywords": "saifoxyl, penamox, amoxicilline sanofi, novamox, clamoxyl dispersible, galamox, amoxal, amoxicilline, pénicilline",
+"url": "amoxicilline-1g.html",
+"summary": "Traitement des infections bactériennes dues aux germes sensibles"
+}
+,
+
+
+{
+"title": "Amoxicilline 500 mg",
+"tags": "penicillineantibiotique",
+"keywords": "amoxicilline winthrop, galamox, saifoxyl, hiconcil, clamoxyl, novamox, clamoxyl dispersible, amoxicilline, amoxicilline sanofi, penamox, amoxal, pénicilline",
+"url": "amoxicilline-500.html",
+"summary": "Traitement des infections bactériennes dues aux germes sensibles"
+}
+,
+
+
+{
+"title": "Autres Médicaments pour Problèmes Fonctionnels Gastro-Intestinaux",
+"tags": "antispasmodique",
+"keywords": "buscopan, n-butylhyocine bromure, spastop, spasmomen, otylonium, meteospasmyl, alverine, duspatalin, mebeverine, riabal enfant, prifinium, librax, clidinium, dicetel 100, pinaverium",
+"url": "autres-trb-fct-intes.html",
+"summary": "Traitement symptomatique des douleurs liées aux troubles fonctionnels Gastro-Intestinaux et à la lithiase biliaire."
+}
+,
+
+
+{
+"title": "Trimebutine",
+"tags": "antispasmodique",
+"keywords": "debricol, debridat, colospasmyl, trimegam, trimedine",
+"url": "trimebutine.html",
+"summary": "Problèmes Fonctionnels Gastro-Intestinaux"
+}
+,
+
+
+{
+"title": "Phloroglucinol",
+"tags": "antispasmodique",
+"keywords": "spasmolax, phloroglucinol winthrop, nospasm, anaspasm-oro, spacinol, phloro, antispasm, perispasm, phloroglucinol, spasmostop, colocalm, spascare, actafon, novasfon, spasmocalm, spasmed, meteoxane, simethicone",
+"url": "phloroglucinol.html",
+"summary": "Antispasmodique"
+}
+,
+
+
+{
+"title": "Alginates",
+"tags": "",
+"keywords": "",
+"url": "alginates.html",
+"summary": "Médicaments Liés à des Problèmes d'acidité"
+}
+,
+
+
+{
+"title": "Autres Médicaments Liés à des Problèmes d’acidité",
+"tags": "acidite",
+"keywords": "di-antacid, di-antacid sans sucre, contracide, pepsane, rocgel 1.2g, antacid, gastramyl, moxal, calmacide, rennie sans sucre, ulcefix, ulcar",
+"url": "acidite-autres.html",
+"summary": "Médicaments Liés à des Problèmes d'acidité"
+}
+,
+
+
+{
+"title": "Cimetidine",
+"tags": "acidite",
+"keywords": "unitag, mexine, cimedine",
+"url": "cimetidine.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
+}
+,
+
+
+{
+"title": "Ranitidine",
+"tags": "acidite",
+"keywords": "tanidina, zantac",
+"url": "ranitidine.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
+}
+,
+
+
+{
+"title": "Famotidine",
+"tags": "acidite",
+"keywords": "famodar abr, uldine 10, ah-deux, uldine 20, famodine 20, famodar, gastrosidin, gastrozen, uldine 40, famodine 40, famodar 40",
+"url": "famotidine.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
+}
+,
+
+
+{
+"title": "Pantoprazole 40 mg",
+"tags": "acidite",
+"keywords": "pentop, pantopral, razon",
+"url": "pantoprazole-40.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Pantoprazole 20 mg",
+"tags": "acidite",
+"keywords": "pentop, pantopral, razon",
+"url": "pantoprazole-20.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Lansoprazole 30 mg",
+"tags": "acidite",
+"keywords": "ippzor, iniprazol, lansopral, lanzor, prazor",
+"url": "lansoprazole-30.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Lansoprazole 15 mg",
+"tags": "acidite",
+"keywords": "iniprazol, ippzor, lansopral, lanzor, prazor",
+"url": "lansoprazole-15.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Omeprazole Injectable",
+"tags": "acidite",
+"keywords": "ipproton perfusion, risek",
+"url": "omeprazole-inj.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Prévention et Traitement des ulcères gastro-duodénaux par voie intraveineuse lorsque la voie orale est impossible."
+}
+,
+
+
+{
+"title": "Omeprazole 20 mg",
+"tags": "acidite",
+"keywords": "omezol, meprazol, oprazole, maalox controle, omeprazole winthrop, gastral, belifax, mopral, ipproton",
+"url": "omeprazole-20.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Omeprazole 10 mg",
+"tags": "aciditeipp",
+"keywords": "omezol, opraalox, meprazol, oprazole, gastral, belifax, ipproton",
+"url": "omeprazole-10.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Prévention des ulcères gastro-duodénaux et de l'oesophagite de reflux."
+}
+,
+
+
+{
+"title": "Esomeprazole 40 mg",
+"tags": "acidite",
+"keywords": "esocalm, stelar, enomeral 40, esocare, mesopral, rugdal, esoral, rgeo, nexus, ippsium 40, inexium, actipp, nexium 40",
+"url": "esomeprazole-40.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Esomeprazole 20 mg et 10 mg",
+"tags": "acidite",
+"keywords": "nexus, stelar, esocalm, esomeprazole zentiva, enomeral 20, esocare, mesopral, ippsium 20, inexium, rugdal, actipp, esoral, nexium 20 mg",
+"url": "esomeprazole.html",
+"summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Association Antalgique Paracetamol + Codeine",
+"tags": "antalgique",
+"keywords": "fortalgic, analgan codeine, stopalgic codeine 300/25, klipal codeine, codoliprane, adoline fort, algisedal, co-algidol, co-algesic, stopalgic codeine 600/50, rompalgine, vigaspir",
+"url": "paracetamol-codeine.html",
+"summary": "Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène"
+}
+,
+
+
+{
+"title": "Association Antalgique Paracetamol + Tramadol",
+"tags": "antalgique",
+"keywords": "supradol, fortadol, algetra, bi-algic, synalvic, cetradol, latifex plus, doliprane pro, zaldiar",
+"url": "paracetamol-tramadol.html",
+"summary": "Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène"
+}
+,
+
+
+{
+"title": "Celecoxib",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "x-back, x-back200, coxibrex, algibrex, inicox 2, adybrex, inflacox, artibrex, inibrex, celoxx, celebrex, celecoxib",
+"url": "celecoxib.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Acide Niflumique",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "niflumic, inflocine enfant, nifluril enfant., inflocine adulte, nifluril, acide niflumique",
+"url": "acide-niflumique.html",
+"summary": "Traitement des maladies inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Acide Mefénamique",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "fenamyl, mefalgic, mefenal, inflamyl, fendol, inflamyl fort, dysman, acide mefenamique",
+"url": "acide-mefenamique.html",
+"summary": "Traitement des maladies inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Piroxicam",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "cyclodex, roxam, feldene dispersible, cycladol, inflaced, piroxen dispersible, feldene, arthrosyl, painoxam, piroxicam-beta-cyclodextrine, piraldene 20, piroxicam",
+"url": "piroxicam.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Meloxicam",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "moven, oximal, mobic, meloxicam",
+"url": "meloxicam.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Indometacine",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "indometacine ips, indopal, methacin 50, tendinyl, indocine, methacin 100, indometacine",
+"url": "indometacine.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Naproxene",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "nipral275, apranax 275, nipral 550, apranax 550, apranax, noxen, naproxene",
+"url": "naproxène.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Ketoprofène",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "ketalgic50, bi-profenid lp, ketofen lp, profenid lp, axen, rhutasuppo, flexen, ketomed im, profenid im, ketoprof 100, ketoprofene",
+"url": "ketoprofene.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Ibuprofène",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "novafen, ibucare 200, ibuprane, upfen, cycloff, ibucare 400, ibuphil 400, brufen, neobrufen, ibucare 600, ibuphil 600, moment 200, ibuprofene",
+"url": "ibuprofene.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Flurbiprofene",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "prodys, antafen, flurofen, antadine, dysfen, flurbiprofene",
+"url": "flurbiprofene.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Acide Tiaprofenique",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "tiapram, flanid, tiagam, bi-tiapram, inflagam, surgam, acide tiaprofenique",
+"url": "acide-tiaprofenique.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Diclofenac",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "votrex, diclofen, voltarene, voltarene lp, votrex 100 mg lp, voltarene enfant, volfenac 100 adulte, xedol, diclopal, diclogesic 75, dicloreum, medisium, diclofenac, artotec, misoprostol",
+"url": "diclofenac.html",
+"summary": "Traitement des états inflammatoires et des douleurs"
+}
+,
+
+
+{
+"title": "Association Antalgique Paracetamol + Cafeine",
+"tags": "antalgique",
+"keywords": "panadol extra, stopalgic extra, algidol extra, analgan extra, algesic extra, novadol extra, adol extra",
+"url": "paracetamol-cafeine.html",
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles."
+}
+,
+
+
+{
+"title": "Association Antalgique Paracetamol + Vitamine C",
+"tags": "antalgique",
+"keywords": "doliprane vitamine c, paralvit vitamine c, efferalgan vitamine c",
+"url": "paracetamol-vitc.html",
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles."
+}
+,
+
+
+{
+"title": "Paracetamol perfusoin intraveineuse",
+"tags": "antalgique",
+"keywords": "parac info, paramed, paralgyl 500, stopalgic, paralgyl 1000, perfalgan",
+"url": "paracetamol-perfusion.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Paracetamol suppositoires",
+"tags": "antalgique",
+"keywords": "analgan nourrissons, efferalgan, analgan jeune enfant, paralvit, paracetamol ips, paralvit adultes",
+"url": "paracetamol-suppo.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Paracetamol sirop",
+"tags": "antalgique",
+"keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes",
+"url": "paracetamol-sirop.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Paracetamol sachets",
+"tags": "antalgique",
+"keywords": "novadol, doliprane",
+"url": "paracetamol-sachets.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Paracetamol 1 g comprimés ou gélules",
+"tags": "antalgique",
+"keywords": "algidol, algesic 1000 mg, stopalgic, novadol, cetamol, adol, panadol, dafalgan, doliprane, paralvit, efferalgan",
+"url": "paracetamol-1000-cp.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Paracetamol 500 mg comprimés ou gélules",
+"tags": "antalgique",
+"keywords": "panadol, adoline, novadol, adol, cetamol, dolopro, algidol, paracetamol ips, efferalgan 500, doliprane, paracetamol i500, analgan, algesic, stopalgic",
+"url": "paracetamol-500-cp.html",
+"summary": ""
+}
+
+
+
+]
