@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
+<link rel="stylesheet" type="text/css" href="css/tableaux.css">
 
 <script src="js/jquery-3.3.1.min.js"></script>
 
@@ -112,7 +113,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
                 <!-- entries without drop-downs appear here -->
 
 
@@ -121,7 +122,11 @@
                 
                 
                 
-                <li><a href="news">Pages</a></li>
+                <li><a href="news">Nouvelles Pages</a></li>
+                
+                
+                
+                <li><a href="news_archive.html">Toutes les Pages</a></li>
                 
                 
                 
@@ -131,50 +136,6 @@
                 
                 <!-- entries with drop-downs appear here -->
                 <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
-                
-                
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jekyll Help<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        
-                        
-                        <li><a href="https://talk.jekyllrb.com" target="_blank" rel="noopener">Jekyll Talk</a></li>
-                        
-                        
-                        
-                        <li><a href="http://jekyllrb.com/docs/home/" target="_blank" rel="noopener">Jekyll documentation</a></li>
-                        
-                        
-                        
-                        <li><a href="http://stackoverflow.com/questions/tagged/jekyll" target="_blank" rel="noopener">Jekyll on Stack Overflow</a></li>
-                        
-                        
-                        
-                        <li><a href="http://idratherbewriting.com/category-jekyll/" target="_blank" rel="noopener">Jekyll on my blog</a></li>
-                        
-                        
-                    </ul>
-                </li>
-                
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        
-                        
-                        <li><a href="mydoc_introduction.html">Jekyll Documentation Theme</a></li>
-                        
-                        
-                        
-                        <li><a href="p1_landing_page.html">Product 1</a></li>
-                        
-                        
-                        
-                        <li><a href="p2_landing_page.html">Product 2</a></li>
-                        
-                        
-                    </ul>
-                </li>
-                
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -214,7 +175,7 @@
         
         
             <!-- Sidebar Column -->
-            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
+            <div class="col-md-3" id="tg-sb-sidebar">
                 
 
 <ul id="mysidebar" class="nav">
@@ -309,7 +270,7 @@
           
           
           
-          <li><a title="Topiques Pour Les Douleurs Articulaires Et Musculaires" href="tag_anti-inflammatoire.html">Topiques Pour Les Douleurs Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -346,7 +307,7 @@
           
           
           
-          <li><a title="Traitement des Vomissements" href="mydoc_lists.html">Traitement des Vomissements</a></li>
+          <li><a title="Traitement des Vomissements (Antiémétiques)" href="tag_anti-emetique.html">Traitement des Vomissements (Antiémétiques)</a></li>
           
           
           
@@ -610,7 +571,7 @@
           
           
           
-          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="mydoc_themes.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
+          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="tag_ara2.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
           
           
           
@@ -638,21 +599,21 @@
           
           
           
-          <li><a title="Associations" href="mydoc_iterm_profiles.html">Associations</a></li>
+          <li><a title="Associations" href="tag_association-antihypertenseurs.html">Associations</a></li>
           
           
           
           
           
           
-          <li><a title="Alpha-bloquants" href="mydoc_push_build_to_server.html">Alpha-bloquants</a></li>
+          <li><a title="Alpha-bloquants" href="tag_alpha-bloquant.html">Alpha-bloquants</a></li>
           
           
           
           
           
           
-          <li><a title="Antihypertenseurs à action centrale" href="mydoc_publishing_github_pages.html">Antihypertenseurs à action centrale</a></li>
+          <li><a title="Antihypertenseurs à action centrale" href="tag_antihypertenseur-central.html">Antihypertenseurs à action centrale</a></li>
           
           
           
@@ -966,9 +927,9 @@
         
 
         <!-- Content Column -->
-        <div class="col-md-12" id="tg-sb-content">
+        <div class="col-md-9" id="tg-sb-content">
             <p>The following pages and posts are tagged with <button type="button" style="cursor: default" class="btn btn-default navbar-btn">antalgique</button></p>
-<table><thead><tr><th>Titre</th><th>Type</th><th>Description</th></tr></thead>
+<table><thead><tr><th>Titre</th><th>Date</th><th>Description</th></tr></thead>
     <tbody>
     
   
@@ -1070,6 +1031,16 @@
    
     
    
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
 
         
         
@@ -1078,7 +1049,7 @@
         
 
         <tr><td><a href="paracetamol-500-cp.html">Paracetamol 500 mg comprimés ou gélules</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">1 January 2024</span></td>
             <td>  </td>
         </tr>
         
@@ -1088,7 +1059,7 @@
         
 
         <tr><td><a href="paracetamol-1000-cp.html">Paracetamol 1 g comprimés ou gélules</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">2 January 2024</span></td>
             <td>  </td>
         </tr>
         
@@ -1098,7 +1069,7 @@
         
 
         <tr><td><a href="paracetamol-sachets.html">Paracetamol sachets</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">3 January 2024</span></td>
             <td>  </td>
         </tr>
         
@@ -1108,7 +1079,7 @@
         
 
         <tr><td><a href="paracetamol-sirop.html">Paracetamol sirop</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">4 January 2024</span></td>
             <td>  </td>
         </tr>
         
@@ -1118,7 +1089,7 @@
         
 
         <tr><td><a href="paracetamol-suppo.html">Paracetamol suppositoires</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">5 January 2024</span></td>
             <td>  </td>
         </tr>
         
@@ -1128,7 +1099,7 @@
         
 
         <tr><td><a href="paracetamol-perfusion.html">Paracetamol perfusoin intraveineuse</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">6 January 2024</span></td>
             <td>  </td>
         </tr>
         
@@ -1138,7 +1109,7 @@
         
 
         <tr><td><a href="paracetamol-vitc.html">Association Antalgique Paracetamol + Vitamine C</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">7 January 2024</span></td>
             <td> Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles. </td>
         </tr>
         
@@ -1148,7 +1119,7 @@
         
 
         <tr><td><a href="paracetamol-cafeine.html">Association Antalgique Paracetamol + Cafeine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">8 January 2024</span></td>
             <td> Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles. </td>
         </tr>
         
@@ -1160,7 +1131,7 @@
         
 
         <tr><td><a href="diclofenac.html">Diclofenac</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">11 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1172,7 +1143,7 @@
         
 
         <tr><td><a href="acide-tiaprofenique.html">Acide Tiaprofenique</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1184,7 +1155,7 @@
         
 
         <tr><td><a href="flurbiprofene.html">Flurbiprofene</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1196,7 +1167,7 @@
         
 
         <tr><td><a href="ibuprofene.html">Ibuprofène</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1208,7 +1179,7 @@
         
 
         <tr><td><a href="ketoprofene.html">Ketoprofène</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1220,7 +1191,7 @@
         
 
         <tr><td><a href="naproxène.html">Naproxene</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1232,7 +1203,7 @@
         
 
         <tr><td><a href="indometacine.html">Indometacine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">13 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1244,7 +1215,7 @@
         
 
         <tr><td><a href="meloxicam.html">Meloxicam</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">14 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1256,7 +1227,7 @@
         
 
         <tr><td><a href="piroxicam.html">Piroxicam</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">14 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1268,7 +1239,7 @@
         
 
         <tr><td><a href="acide-mefenamique.html">Acide Mefénamique</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">15 January 2024</span></td>
             <td> Traitement des maladies inflammatoires et des douleurs </td>
         </tr>
         
@@ -1280,7 +1251,7 @@
         
 
         <tr><td><a href="acide-niflumique.html">Acide Niflumique</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">15 January 2024</span></td>
             <td> Traitement des maladies inflammatoires et des douleurs </td>
         </tr>
         
@@ -1292,7 +1263,7 @@
         
 
         <tr><td><a href="celecoxib.html">Celecoxib</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">17 January 2024</span></td>
             <td> Traitement des états inflammatoires et des douleurs </td>
         </tr>
         
@@ -1302,7 +1273,7 @@
         
 
         <tr><td><a href="paracetamol-tramadol.html">Association Antalgique Paracetamol + Tramadol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">21 January 2024</span></td>
             <td> Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène  </td>
         </tr>
         
@@ -1312,9 +1283,345 @@
         
 
         <tr><td><a href="paracetamol-codeine.html">Association Antalgique Paracetamol + Codeine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">22 January 2024</span></td>
             <td> Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène  </td>
         </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -2006,7 +2313,9 @@
     </div>
 
 </body>
+<!--
 
+-->
 </html>
 
 

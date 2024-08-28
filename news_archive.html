@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
+<link rel="stylesheet" type="text/css" href="css/tableaux.css">
 
 <script src="js/jquery-3.3.1.min.js"></script>
 
@@ -112,7 +113,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
                 <!-- entries without drop-downs appear here -->
 
 
@@ -121,7 +122,11 @@
                 
                 
                 
-                <li class="active"><a href="news">Pages</a></li>
+                <li class="active"><a href="news">Nouvelles Pages</a></li>
+                
+                
+                
+                <li class="active"><a href="news_archive.html">Toutes les Pages</a></li>
                 
                 
                 
@@ -131,50 +136,6 @@
                 
                 <!-- entries with drop-downs appear here -->
                 <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
-                
-                
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jekyll Help<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        
-                        
-                        <li><a href="https://talk.jekyllrb.com" target="_blank" rel="noopener">Jekyll Talk</a></li>
-                        
-                        
-                        
-                        <li><a href="http://jekyllrb.com/docs/home/" target="_blank" rel="noopener">Jekyll documentation</a></li>
-                        
-                        
-                        
-                        <li><a href="http://stackoverflow.com/questions/tagged/jekyll" target="_blank" rel="noopener">Jekyll on Stack Overflow</a></li>
-                        
-                        
-                        
-                        <li><a href="http://idratherbewriting.com/category-jekyll/" target="_blank" rel="noopener">Jekyll on my blog</a></li>
-                        
-                        
-                    </ul>
-                </li>
-                
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        
-                        
-                        <li><a href="mydoc_introduction.html">Jekyll Documentation Theme</a></li>
-                        
-                        
-                        
-                        <li><a href="p1_landing_page.html">Product 1</a></li>
-                        
-                        
-                        
-                        <li><a href="p2_landing_page.html">Product 2</a></li>
-                        
-                        
-                    </ul>
-                </li>
-                
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -214,7 +175,7 @@
         
         
             <!-- Sidebar Column -->
-            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
+            <div class="col-md-3" id="tg-sb-sidebar">
                 
 
 <ul id="mysidebar" class="nav">
@@ -309,7 +270,7 @@
           
           
           
-          <li><a title="Topiques Pour Les Douleurs Articulaires Et Musculaires" href="tag_anti-inflammatoire.html">Topiques Pour Les Douleurs Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -346,7 +307,7 @@
           
           
           
-          <li><a title="Traitement des Vomissements" href="mydoc_lists.html">Traitement des Vomissements</a></li>
+          <li><a title="Traitement des Vomissements (Antiémétiques)" href="tag_anti-emetique.html">Traitement des Vomissements (Antiémétiques)</a></li>
           
           
           
@@ -610,7 +571,7 @@
           
           
           
-          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="mydoc_themes.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
+          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="tag_ara2.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
           
           
           
@@ -638,21 +599,21 @@
           
           
           
-          <li><a title="Associations" href="mydoc_iterm_profiles.html">Associations</a></li>
+          <li><a title="Associations" href="tag_association-antihypertenseurs.html">Associations</a></li>
           
           
           
           
           
           
-          <li><a title="Alpha-bloquants" href="mydoc_push_build_to_server.html">Alpha-bloquants</a></li>
+          <li><a title="Alpha-bloquants" href="tag_alpha-bloquant.html">Alpha-bloquants</a></li>
           
           
           
           
           
           
-          <li><a title="Antihypertenseurs à action centrale" href="mydoc_publishing_github_pages.html">Antihypertenseurs à action centrale</a></li>
+          <li><a title="Antihypertenseurs à action centrale" href="tag_antihypertenseur-central.html">Antihypertenseurs à action centrale</a></li>
           
           
           
@@ -966,7 +927,7 @@
         
 
         <!-- Content Column -->
-        <div class="col-md-12" id="tg-sb-content">
+        <div class="col-md-9" id="tg-sb-content">
             <div class="home">
 
     <div class="post-list">
@@ -979,6 +940,258 @@
         <ul class="this">
             
             <li><time>15 Jul</time><a href="changements-2024-07-15.html">Changements du 15 Juillet 2024</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>27 Jun</time><a href="asso-enalapril-lercanidipine.html">Association Enalapril Lercanidipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>26 Jun</time><a href="asso-perindopril-indapamide-amlodipine.html">Association Perindopril, Indapamide et Amlodipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>26 Jun</time><a href="asso-perindopril-amlodipine.html">Association Perindopril Amlodipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>25 Jun</time><a href="asso-perindopril-indapamide.html">Association Perindopril Indapamide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>25 Jun</time><a href="asso-delapril-indapamide.html">Association Delapril Indapamide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>24 Jun</time><a href="asso-zofenopril-hydrochlorothiazide.html">Association Zofenopril Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>24 Jun</time><a href="asso-ramipril-hydrochlorothiazide.html">Association Ramipril Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>24 Jun</time><a href="asso-enalapril-hydrochlorothiazide.html">Association Enalapril Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>24 Jun</time><a href="asso-captopril-hydrochlorothiazide.html">Association Captopril Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>23 Jun</time><a href="asso-telmisartan-hydrochlorothiazide.html">Association Telmisartan Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>23 Jun</time><a href="asso-olmesartan-hydrochlorothiazide.html">Association Olmesartan Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>23 Jun</time><a href="asso-candesartan-hydrochlorothiazide.html">Association Candesartan Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>22 Jun</time><a href="asso-losartan-hydrochlorothiazide.html">Association Losartan Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>22 Jun</time><a href="asso-irbesartan-hydrochlorothiazide.html">Association Irbesartan Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>22 Jun</time><a href="asso-amlodipine-telmisartan.html">Association Telmisartan Amlodipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>22 Jun</time><a href="asso-amlodipine-irbesartan.html">Association Irbesartan Amlodipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>21 Jun</time><a href="asso-amlodipine-olmesartan.html">Association Olmesartan Amlodipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>21 Jun</time><a href="asso-amlodipine-candesartan.html">Association Candesartan Amlodipine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>20 Jun</time><a href="asso-valsartan-hydrochlorothiazide.html">Association Valsartan et Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>20 Jun</time><a href="asso-amlodipine-valsartan.html">Association Amlodipine Valsartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>20 Jun</time><a href="asso-amlodipine-valsartan-hydrochlorothiazide.html">Association Amlodipine, Valsartan et Hydrochlorothiazide</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>19 Jun</time><a href="asso-indapamide-amlodipine.html">Indapamide + Amlodipine: Association d'un Diurétique et d'un Antagoniste du calcium</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>19 Jun</time><a href="asso-bisoprolol-amlodipine.html">Amlodipine + Bisoprolol: Association d'un Antagoniste du calcium et d'un Beta-bloquant</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>18 Jun</time><a href="asso-bisoprolol-perindopril.html">Cosimprel: Association d'un Beta-bloquant et d'un Inhibiteur de l’enzyme de conversion de l’angiotensine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>17 Jun</time><a href="asso-beta-bloquant-diuretique.html">Nebilet Plus et Tenoretic: Association d'un Beta-bloquant et d'un Diurétique</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>16 Jun</time><a href="moxonidine.html">Moxonidine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>16 Jun</time><a href="methyldopa.html">Méthyldopa</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>15 Jun</time><a href="prazosine.html">Prazosine</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>14 Jun</time><a href="telmisartan.html">Telmisartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>14 Jun</time><a href="olmesartan.html">Olmesartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>13 Jun</time><a href="valsartan.html">Valsartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>13 Jun</time><a href="losartan.html">Losartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>13 Jun</time><a href="irbesartan.html">Irbesartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>13 Jun</time><a href="candesartan.html">Candesartan</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>12 Jun</time><a href="zofenopril.html">Zofenopril</a></li>
+            
+        
+            
+            
+            
+            
+            <li><time>12 Jun</time><a href="trandolapril.html">Trandolapril</a></li>
             
         
             
@@ -2052,7 +2265,9 @@
     </div>
 
 </body>
+<!--
 
+-->
 </html>
 
 

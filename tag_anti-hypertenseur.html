@@ -18,6 +18,7 @@
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
+<link rel="stylesheet" type="text/css" href="css/tableaux.css">
 
 <script src="js/jquery-3.3.1.min.js"></script>
 
@@ -112,7 +113,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
                 <!-- entries without drop-downs appear here -->
 
 
@@ -121,7 +122,11 @@
                 
                 
                 
-                <li><a href="news">Pages</a></li>
+                <li><a href="news">Nouvelles Pages</a></li>
+                
+                
+                
+                <li><a href="news_archive.html">Toutes les Pages</a></li>
                 
                 
                 
@@ -131,50 +136,6 @@
                 
                 <!-- entries with drop-downs appear here -->
                 <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
-                
-                
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Jekyll Help<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        
-                        
-                        <li><a href="https://talk.jekyllrb.com" target="_blank" rel="noopener">Jekyll Talk</a></li>
-                        
-                        
-                        
-                        <li><a href="http://jekyllrb.com/docs/home/" target="_blank" rel="noopener">Jekyll documentation</a></li>
-                        
-                        
-                        
-                        <li><a href="http://stackoverflow.com/questions/tagged/jekyll" target="_blank" rel="noopener">Jekyll on Stack Overflow</a></li>
-                        
-                        
-                        
-                        <li><a href="http://idratherbewriting.com/category-jekyll/" target="_blank" rel="noopener">Jekyll on my blog</a></li>
-                        
-                        
-                    </ul>
-                </li>
-                
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Products<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        
-                        
-                        <li><a href="mydoc_introduction.html">Jekyll Documentation Theme</a></li>
-                        
-                        
-                        
-                        <li><a href="p1_landing_page.html">Product 1</a></li>
-                        
-                        
-                        
-                        <li><a href="p2_landing_page.html">Product 2</a></li>
-                        
-                        
-                    </ul>
-                </li>
-                
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -214,7 +175,7 @@
         
         
             <!-- Sidebar Column -->
-            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
+            <div class="col-md-3" id="tg-sb-sidebar">
                 
 
 <ul id="mysidebar" class="nav">
@@ -309,7 +270,7 @@
           
           
           
-          <li><a title="Topiques Pour Les Douleurs Articulaires Et Musculaires" href="tag_anti-inflammatoire.html">Topiques Pour Les Douleurs Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -346,7 +307,7 @@
           
           
           
-          <li><a title="Traitement des Vomissements" href="mydoc_lists.html">Traitement des Vomissements</a></li>
+          <li><a title="Traitement des Vomissements (Antiémétiques)" href="tag_anti-emetique.html">Traitement des Vomissements (Antiémétiques)</a></li>
           
           
           
@@ -610,7 +571,7 @@
           
           
           
-          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="mydoc_themes.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
+          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="tag_ara2.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
           
           
           
@@ -638,21 +599,21 @@
           
           
           
-          <li><a title="Associations" href="mydoc_iterm_profiles.html">Associations</a></li>
+          <li><a title="Associations" href="tag_association-antihypertenseurs.html">Associations</a></li>
           
           
           
           
           
           
-          <li><a title="Alpha-bloquants" href="mydoc_push_build_to_server.html">Alpha-bloquants</a></li>
+          <li><a title="Alpha-bloquants" href="tag_alpha-bloquant.html">Alpha-bloquants</a></li>
           
           
           
           
           
           
-          <li><a title="Antihypertenseurs à action centrale" href="mydoc_publishing_github_pages.html">Antihypertenseurs à action centrale</a></li>
+          <li><a title="Antihypertenseurs à action centrale" href="tag_antihypertenseur-central.html">Antihypertenseurs à action centrale</a></li>
           
           
           
@@ -966,9 +927,9 @@
         
 
         <!-- Content Column -->
-        <div class="col-md-12" id="tg-sb-content">
+        <div class="col-md-9" id="tg-sb-content">
             <p>The following pages and posts are tagged with <button type="button" style="cursor: default" class="btn btn-default navbar-btn">anti-hypertenseur</button></p>
-<table><thead><tr><th>Titre</th><th>Type</th><th>Description</th></tr></thead>
+<table><thead><tr><th>Titre</th><th>Date</th><th>Description</th></tr></thead>
     <tbody>
     
   
@@ -1070,7 +1031,33 @@
    
     
    
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
 
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
         
         
@@ -1702,7 +1689,7 @@
         
 
         <tr><td><a href="atenolol.html">Atenolol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">1 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1714,7 +1701,7 @@
         
 
         <tr><td><a href="acebutolol.html">Acébutolol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">2 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1726,7 +1713,7 @@
         
 
         <tr><td><a href="betaxolol.html">Betaxolol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">2 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1738,7 +1725,7 @@
         
 
         <tr><td><a href="bisoprolol.html">Bisoprolol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">2 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1750,7 +1737,7 @@
         
 
         <tr><td><a href="autres-betabloq.html">Autres Beta-bloquants</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">3 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1762,7 +1749,7 @@
         
 
         <tr><td><a href="nebivolol.html">Nebivolol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">3 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1774,7 +1761,7 @@
         
 
         <tr><td><a href="carvedilol.html">Carvedilol</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">4 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle, de l'angine de poitrine et des troubles du rythme cardiaque </td>
         </tr>
         
@@ -1786,7 +1773,7 @@
         
 
         <tr><td><a href="indapamide.html">Indapamide</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">5 June 2024</span></td>
             <td> Traitement de l' hypertension artérielle </td>
         </tr>
         
@@ -1798,7 +1785,7 @@
         
 
         <tr><td><a href="chlorothiazide.html">Chlorothiazide</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">6 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle, des oedèmes et de l'insuffisance cardiaque </td>
         </tr>
         
@@ -1810,7 +1797,7 @@
         
 
         <tr><td><a href="furosemide.html">Furosémide</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">6 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle, des oedèmes et de l'insuffisance rénale </td>
         </tr>
         
@@ -1822,7 +1809,7 @@
         
 
         <tr><td><a href="spironolactone.html">Spironolactone</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">6 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle, des oedèmes et de l'hyperaldostéronisme </td>
         </tr>
         
@@ -1834,7 +1821,7 @@
         
 
         <tr><td><a href="asso-diuretiq.html">Association de diurétiques</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">7 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle et des oedèmes </td>
         </tr>
         
@@ -1846,7 +1833,7 @@
         
 
         <tr><td><a href="amlodipine-5.html">Amlodipine 5 mg</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">8 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle et de l'angor </td>
         </tr>
         
@@ -1858,7 +1845,7 @@
         
 
         <tr><td><a href="amlodipine-10.html">Amlodipine 10 mg</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">9 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle et de l'angor </td>
         </tr>
         
@@ -1870,7 +1857,7 @@
         
 
         <tr><td><a href="diltiazem.html">Diltiazem</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">9 June 2024</span></td>
             <td> Traitement préventif des crises d'angor stable et traitement de l'hypertension artérielle </td>
         </tr>
         
@@ -1882,7 +1869,7 @@
         
 
         <tr><td><a href="verapamil.html">Verapamil</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">9 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle, de l'angor et de certains types d'arythmies. </td>
         </tr>
         
@@ -1894,7 +1881,7 @@
         
 
         <tr><td><a href="isradipine.html">Isradipine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">10 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. </td>
         </tr>
         
@@ -1906,7 +1893,7 @@
         
 
         <tr><td><a href="lercanidipine.html">Lercanidipine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">10 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. </td>
         </tr>
         
@@ -1918,7 +1905,7 @@
         
 
         <tr><td><a href="nicardipine.html">Nicardipine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">10 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. </td>
         </tr>
         
@@ -1930,7 +1917,7 @@
         
 
         <tr><td><a href="nifedipine.html">Nifedipine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">10 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. </td>
         </tr>
         
@@ -1942,7 +1929,7 @@
         
 
         <tr><td><a href="nitrendipine.html">Nitrendipine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">10 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. </td>
         </tr>
         
@@ -1954,7 +1941,7 @@
         
 
         <tr><td><a href="manidipine.html">Manidipine</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">11 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. </td>
         </tr>
         
@@ -1966,7 +1953,7 @@
         
 
         <tr><td><a href="captopril.html">Captopril</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle et de l'insuffisance cardiaque congestive. </td>
         </tr>
         
@@ -1978,7 +1965,7 @@
         
 
         <tr><td><a href="enalapril.html">Enalapril</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle et de l'insuffisance cardiaque </td>
         </tr>
         
@@ -1990,7 +1977,7 @@
         
 
         <tr><td><a href="perindopril.html">Perindopril</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle. Prévention de la récidive d'un infarctus du myocarde  </td>
         </tr>
         
@@ -2002,9 +1989,545 @@
         
 
         <tr><td><a href="ramipril.html">Ramipril</a></td>
-            <td><span class="label label-primary">Post</span></td>
+            <td><span class="label label-primary">12 June 2024</span></td>
             <td> Traitement de l'hypertension artérielle et de l'insuffisance cardiaque </td>
         </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="trandolapril.html">Trandolapril</a></td>
+            <td><span class="label label-primary">12 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle et de l'insuffisance cardiaque </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="zofenopril.html">Zofenopril</a></td>
+            <td><span class="label label-primary">12 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle et de l'insuffisance cardiaque </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="candesartan.html">Candesartan</a></td>
+            <td><span class="label label-primary">13 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="irbesartan.html">Irbesartan</a></td>
+            <td><span class="label label-primary">13 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="losartan.html">Losartan</a></td>
+            <td><span class="label label-primary">13 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="valsartan.html">Valsartan</a></td>
+            <td><span class="label label-primary">13 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="olmesartan.html">Olmesartan</a></td>
+            <td><span class="label label-primary">14 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="telmisartan.html">Telmisartan</a></td>
+            <td><span class="label label-primary">14 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="prazosine.html">Prazosine</a></td>
+            <td><span class="label label-primary">15 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="methyldopa.html">Méthyldopa</a></td>
+            <td><span class="label label-primary">16 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="moxonidine.html">Moxonidine</a></td>
+            <td><span class="label label-primary">16 June 2024</span></td>
+            <td> Traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-beta-bloquant-diuretique.html">Nebilet Plus et Tenoretic: Association d'un Beta-bloquant et d'un Diurétique</a></td>
+            <td><span class="label label-primary">17 June 2024</span></td>
+            <td> Association d'un Beta-bloquant et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-bisoprolol-perindopril.html">Cosimprel: Association d'un Beta-bloquant et d'un Inhibiteur de l’enzyme de conversion de l’angiotensine</a></td>
+            <td><span class="label label-primary">18 June 2024</span></td>
+            <td> Association d'un Beta-bloquant et d'un Inhibiteur de l’enzyme de conversion de l’angiotensine pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-bisoprolol-amlodipine.html">Amlodipine + Bisoprolol: Association d'un Antagoniste du calcium et d'un Beta-bloquant</a></td>
+            <td><span class="label label-primary">19 June 2024</span></td>
+            <td> Association d'un Beta-bloquant et d'un Antagoniste du calcium pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-indapamide-amlodipine.html">Indapamide + Amlodipine: Association d'un Diurétique et d'un Antagoniste du calcium</a></td>
+            <td><span class="label label-primary">19 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-amlodipine-valsartan-hydrochlorothiazide.html">Association Amlodipine, Valsartan et Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">20 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium, d'un Antagoniste des récepteurs de l'Angiotensine II et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-amlodipine-valsartan.html">Association Amlodipine Valsartan</a></td>
+            <td><span class="label label-primary">20 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium et d'un Antagoniste des récepteurs de l'Angiotensine II pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-valsartan-hydrochlorothiazide.html">Association Valsartan et Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">20 June 2024</span></td>
+            <td> Association d'un Antagoniste des récepteurs de l'Angiotensine II et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-amlodipine-candesartan.html">Association Candesartan Amlodipine</a></td>
+            <td><span class="label label-primary">21 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium et d'un Antagoniste des récepteurs de l'Angiotensine II pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-amlodipine-olmesartan.html">Association Olmesartan Amlodipine</a></td>
+            <td><span class="label label-primary">21 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium et d'un Antagoniste des récepteurs de l'Angiotensine II pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-amlodipine-irbesartan.html">Association Irbesartan Amlodipine</a></td>
+            <td><span class="label label-primary">22 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium et d'un Antagoniste des récepteurs de l'Angiotensine II pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-amlodipine-telmisartan.html">Association Telmisartan Amlodipine</a></td>
+            <td><span class="label label-primary">22 June 2024</span></td>
+            <td> Association d'un Antagoniste du calcium et d'un Antagoniste des récepteurs de l'Angiotensine II pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-irbesartan-hydrochlorothiazide.html">Association Irbesartan Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">22 June 2024</span></td>
+            <td> Association d'un Diurétique et d'un Antagoniste des récepteurs de l'Angiotensine II pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-losartan-hydrochlorothiazide.html">Association Losartan Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">22 June 2024</span></td>
+            <td> Association d'un Antagoniste des récepteurs de l'Angiotensine II et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-candesartan-hydrochlorothiazide.html">Association Candesartan Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">23 June 2024</span></td>
+            <td> Association d'un Antagoniste des récepteurs de l'Angiotensine II et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-olmesartan-hydrochlorothiazide.html">Association Olmesartan Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">23 June 2024</span></td>
+            <td> Association d'un Antagoniste des récepteurs de l'Angiotensine II et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-telmisartan-hydrochlorothiazide.html">Association Telmisartan Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">23 June 2024</span></td>
+            <td> Association d'un Antagoniste des récepteurs de l'Angiotensine II et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-captopril-hydrochlorothiazide.html">Association Captopril Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">24 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-enalapril-hydrochlorothiazide.html">Association Enalapril Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">24 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-ramipril-hydrochlorothiazide.html">Association Ramipril Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">24 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-zofenopril-hydrochlorothiazide.html">Association Zofenopril Hydrochlorothiazide</a></td>
+            <td><span class="label label-primary">24 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-delapril-indapamide.html">Association Delapril Indapamide</a></td>
+            <td><span class="label label-primary">25 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-perindopril-indapamide.html">Association Perindopril Indapamide</a></td>
+            <td><span class="label label-primary">25 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Diurétique pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-perindopril-amlodipine.html">Association Perindopril Amlodipine</a></td>
+            <td><span class="label label-primary">26 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Antagoniste du calcium pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-perindopril-indapamide-amlodipine.html">Association Perindopril, Indapamide et Amlodipine</a></td>
+            <td><span class="label label-primary">26 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine, d'un Diurétique et d'un Antagoniste du calcium pour le traitement de l'hypertension ... </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="asso-enalapril-lercanidipine.html">Association Enalapril Lercanidipine</a></td>
+            <td><span class="label label-primary">27 June 2024</span></td>
+            <td> Association d'un Inhibiteur de l’enzyme de conversion de l’angiotensine et d'un Antagoniste du calcium pour le traitement de l'hypertension artérielle </td>
+        </tr>
+        
+        
+        
+        
         
         
         
@@ -2030,7 +2553,9 @@
     </div>
 
 </body>
+<!--
 
+-->
 </html>
 
 

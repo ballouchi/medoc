@@ -1,0 +1,98 @@
+/* amoxicilline 500mg-12 */
+#T_6bc4e_row4_col0,
+#T_6bc4e_row4_col1,
+#T_6bc4e_row4_col2,
+#T_6bc4e_row4_col3,
+#T_6bc4e_row4_col4,
+#T_6bc4e_row4_col5,
+#T_6bc4e_row4_col6,
+#T_6bc4e_row4_col7,
+#T_6bc4e_row4_col8 { border-bottom: 1px solid black; }
+
+#T_6bc4e_row5_col2,
+#T_6bc4e_row6_col2,
+#T_6bc4e_row7_col2 { background-color: lightblue; }
+
+/* amoxicilline 500mg-24 */
+#T_d2694_row2_col0,
+#T_d2694_row2_col1,
+#T_d2694_row2_col2,
+#T_d2694_row2_col3,
+#T_d2694_row2_col4,
+#T_d2694_row2_col5,
+#T_d2694_row2_col6,
+#T_d2694_row2_col7,
+#T_d2694_row2_col8 { border-bottom: 1px solid black; }
+
+#T_d2694_row3_col2,
+#T_d2694_row4_col2,
+#T_d2694_row5_col2,
+#T_d2694_row6_col2 { background-color: lightblue; }
+
+/* amoxicilline 1g */
+#T_27771 .row4 { border-bottom: 3px solid black; }
+#T_27771 .row2, 
+#T_27771 .row7 { border-bottom: 1px solid black; }
+
+#T_27771 :is(.row0, .row1, .row2, .row5, .row6, .row7, .row8).col2 { background-color: lightblue; }
+
+/* amoxicilline sirop */
+#T_a4612 .row1,
+#T_a4612 .row9 { border-bottom: 3px solid black; }
+#T_a4612 .row7,
+#T_a4612 .row15 { border-bottom: 1px solid black; }
+#T_a4612 :is(.row8, .row9, .row16, .row17).col3 { background-color: thistle; }
+
+/* amoxicilline inj */
+#T_3c631 .row1 { border-bottom: 1px solid black; }
+#T_3c631 .row2.col1 { background-color: thistle; }
+
+/* amoxi-clav 500-62,5 */
+#T_a7fc1 .row4 { border-bottom: 1px solid black; }
+#T_a7fc1 .row6 { border-bottom: 3px solid black; }
+#T_a7fc1 :is(.row0, .row1, .row2, .row3, .row4).col2 { background-color: lightblue; }
+#T_a7fc1 .row7.col1 { background-color: thistle; }
+
+#T_9eb5a .row0.col2,
+#T_2ef88 :is(.row0, .row1, .row2, .row3).col2 { background-color: lightblue; }
+#T_2ef88 .row3 { border-bottom: 1px solid black; }
+#T_9eb5a .row0.col3,
+#T_7256f .row0.col3 { background-color: thistle; }
+
+/* amoxi-clav sirop */
+#T_bd22e .row5 { border-bottom: 1px solid black; }
+#T_bd22e .row13 { border-bottom: 3px solid black; }
+#T_bd22e .row14.col1 { background-color: thistle; }
+
+/* genta */
+#T_ece1a .row1,
+#T_ece1a .row8,
+#T_ece1a .row12,
+#T_ece1a .row17 { border-bottom: 3px solid black; }
+#T_ece1a .row0,
+#T_ece1a .row4,
+#T_ece1a .row6,
+#T_ece1a .row9,
+#T_ece1a .row13,
+#T_ece1a .row14 { border-bottom: 1px solid black; }
+#T_ece1a :is(.row0, .row6, .row9, .row14, .row5).col3 { background-color: khaki; }
+#T_ece1a :is(.row1, .row7, .row8, .row10, .row11, .row12, .row15, .row16, .row17).col3 { background-color: thistle; }
+
+/* calcium cp*/
+#T_57549 .row0.col3,
+#T_57549 .row8.col3 { background-color: khaki; }
+#T_57549 .row8.col2 { background-color: lightblue; }
+#T_57549 .row9.col1,
+#T_57549 .row9.col3 { background-color: thistle; }
+#T_57549 .row7 { border-bottom: 1px solid black; }
+#T_57549 .row0,
+#T_57549 .row8 { border-bottom: 3px solid black; }
+
+/* vitamines */
+#T_90e04_row0_col2,
+#T_90e04_row1_col2,
+#T_90e04_row2_col2 { background-color: lightsalmon; }
+
+
+
+
