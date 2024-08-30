@@ -9,6 +9,132 @@
   
   
   <url>
+    <loc>http://localhost:4000/molsidomine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/trinitrine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/isosorbide-dinitrate.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/ivabradine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/flecainide.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/disopyramide-phosphate.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/digoxine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/amiodarone.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pravastatine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fluvastatine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/simvastatine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/rosuvastatine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/atorvastatine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/ciprofibrate.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fenofibrate.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/vasoprotecteurs.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/heptaminol.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pentoxyfylline.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/naftidrofuryl.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/dihydroergotoxine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/asso-amlodipine-atorvastatine.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/asso-enalapril-lercanidipine.html</loc>
   </url>
   
@@ -1175,6 +1301,10 @@
   
   
   
+  
+  
+  
+  
   <url>
     <loc>http://localhost:4000/tag_anti-h2.html</loc>
   </url>
@@ -1229,9 +1359,23 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
   <url>
     <loc>http://localhost:4000/tag_ipp.html</loc>
   </url>
+  
+  
+  
+  
+  
+  
   
   
   

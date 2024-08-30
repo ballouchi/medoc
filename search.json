@@ -69,6 +69,216 @@
 
 
 {
+"title": "Molsidomine",
+"tags": "angor",
+"keywords": "molsicor, molsidomine winthrop, angoral, cardomine, dilacor, corvasal, molsidomine",
+"url": "molsidomine.html",
+"summary": "Prévention de la crise angineuse"
+}
+,
+
+
+{
+"title": "Natispray (Trinitrine)",
+"tags": "angor",
+"keywords": "natispray, trinitrine",
+"url": "trinitrine.html",
+"summary": "Traitement de l'angor"
+}
+,
+
+
+{
+"title": "Isosorbide Dinitrate",
+"tags": "angor",
+"keywords": "pensordil, isodil, isosorbide dinitrate",
+"url": "isosorbide-dinitrate.html",
+"summary": "Traitement de l'angor"
+}
+,
+
+
+{
+"title": "Procoralan (Ivabradine)",
+"tags": "insuf-cardiaque",
+"keywords": "procoralan, ivabradine",
+"url": "ivabradine.html",
+"summary": "Traitement de l'insuffisance cardiaque chronique"
+}
+,
+
+
+{
+"title": "Flecainide",
+"tags": "anti-arythmique",
+"keywords": "flecaine lp, flecaine, flecainide",
+"url": "flecainide.html",
+"summary": "Traitement des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Rythmodan (Disopyramide Phosphate)",
+"tags": "anti-arythmique",
+"keywords": "rythmodan, rythmodan lp, disopyramide phosphate",
+"url": "disopyramide-phosphate.html",
+"summary": "Traitement des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Digoxine",
+"tags": "anti-arythmique",
+"keywords": "digoxine nativelle, digoxine nihfi, digoxine",
+"url": "digoxine.html",
+"summary": "Traitement des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Amiodarone",
+"tags": "anti-arythmique",
+"keywords": "ricardyl, cordarone, amiocard, sedacoron, amiodarone",
+"url": "amiodarone.html",
+"summary": "Traitement des troubles du rythme cardiaque"
+}
+,
+
+
+{
+"title": "Pravastatine",
+"tags": "hypolipemiantstatine",
+"keywords": "pravastatine sanofi, pravast, pravastatine",
+"url": "pravastatine.html",
+"summary": "Traitement des hypercholestérolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Fluvastatine",
+"tags": "hypolipemiantstatine",
+"keywords": "fluvasta, lescol, fluvastatine",
+"url": "fluvastatine.html",
+"summary": "Traitement des hypercholestérolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Simvastatine",
+"tags": "hypolipemiantstatine",
+"keywords": "lipicard, sivastyn, zovatin, simvax, redulip, vascor, zovatin 40, redulip 40,  simvastatine zentiva, zovatin 20, redulip 20, simvastatine",
+"url": "simvastatine.html",
+"summary": "Traitement des hypercholestérolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Rosuvastatine",
+"tags": "hypolipemiantstatine",
+"keywords": "rosuvans, rovastine, rosulip, rosuvascor, rozuvie 5, rosuvast5, neacrest, superstat, vissen, crestor, rocor10, rosact, rozuvie 10, rosuvast 10, rosuvastatine sanofi, rocor20, rozuvie 20, rosuvast 20, rosuvastatine",
+"url": "rosuvastatine.html",
+"summary": "Traitement des hypercholestérolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Atorvastatine",
+"tags": "hypolipemiantstatine",
+"keywords": "ator, tahor, choldown, atrovast10, cholestyl, torva, laptor, tavastor, atorvex, statinor, atrovast20, choldown 40, torva 40, atrovast40, choldown 80, atrovast80, laptor 80, atorvastatine",
+"url": "atorvastatine.html",
+"summary": "Traitement des hypercholestérolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Ciprofibrate",
+"tags": "hypolipemiantfibrate",
+"keywords": "lipanor, ciprofibrate",
+"url": "ciprofibrate.html",
+"summary": "Traitement des hypercholésterolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Fenofibrate",
+"tags": "hypolipemiantfibrate",
+"keywords": "hypolip, lipanthyl, fenothyl, fenolip, antilip, lipanthyl 300, fenofibrate",
+"url": "fenofibrate.html",
+"summary": "Traitement des hypercholésterolémies et hypertriglycéridémies"
+}
+,
+
+
+{
+"title": "Vasoprotecteurs",
+"tags": "veinotonique",
+"keywords": "titanoreine, neo-healar, titanoreine lidocaine, ruscolog, carraghenates, zinc sulfate, lipinus albus, vateria indica, mentha piperita, carraghaheen, lidocaine, ruscogenines, tetracaine",
+"url": "vasoprotecteurs.html",
+"summary": "Traitement symptomatique des manifestations douleureuses liées aux hémorroides et aux fissures anales"
+}
+,
+
+
+{
+"title": "Heptaminol",
+"tags": "hypotension",
+"keywords": "hept-a-myl, t 12/8, heptaminol",
+"url": "heptaminol.html",
+"summary": "Traitement de l'hypotension orthostatique"
+}
+,
+
+
+{
+"title": "Pentoxyfylline",
+"tags": "vasodilatateur",
+"keywords": "torental, pentoxiphat lp, pentoxyfylline",
+"url": "pentoxyfylline.html",
+"summary": "Vasodilatateurs péripheriques"
+}
+,
+
+
+{
+"title": "Naftidrofuryl",
+"tags": "vasodilatateur",
+"keywords": "naftor, praxilene 200, naftidrofuryl",
+"url": "naftidrofuryl.html",
+"summary": "Vasodilatateurs péripheriques"
+}
+,
+
+
+{
+"title": "Ergokod (Dihydroergotoxine)",
+"tags": "vasodilatateur",
+"keywords": "ergokod, dihydroergotoxine",
+"url": "dihydroergotoxine.html",
+"summary": "Vasodilatateurs péripheriques"
+}
+,
+
+
+{
+"title": "Association Amlodipine Atorvastatine",
+"tags": "anti-hypertenseurhypolipemiantantagoniste-calciumstatine",
+"keywords": "lipta, caduet, amlodipine, atorvastatine",
+"url": "asso-amlodipine-atorvastatine.html",
+"summary": "Association de traitements de l'hypertension artérielle et de l'hypercholestérolémie"
+}
+,
+
+
+{
 "title": "Association Enalapril Lercanidipine",
 "tags": "anti-hypertenseurassociation-antihypertenseursiecantagoniste-calcium",
 "keywords": "zanextra, enalapril, lercanidipine",
@@ -960,7 +1170,7 @@
 
 {
 "title": "Racecadotril",
-"tags": "diarhee",
+"tags": "diarrhee",
 "keywords": "diacure nourrisson, diaren nourrisson, enkephal nourrisson, tiortec nourrissons, tiorfan nourrisson, diacure enfant, enkephal enfant, diaren enfant, tiortec enfant, tiorfan enfant, tiorfan",
 "url": "racecadotril.html",
 "summary": "Problèmes Fonctionnels Gastro-Intestinaux"
@@ -970,7 +1180,7 @@
 
 {
 "title": "Nifuroxazide",
-"tags": "diarhee",
+"tags": "diarrhee",
 "keywords": "nifroxid, ercefuryl, diarryl",
 "url": "nifuroxazide.html",
 "summary": "Problèmes Fonctionnels Gastro-Intestinaux"
@@ -980,7 +1190,7 @@
 
 {
 "title": "Loperamide",
-"tags": "diarhee",
+"tags": "diarrhee",
 "keywords": "diaretyl, imodium, idium",
 "url": "loperamide.html",
 "summary": "Problèmes Fonctionnels Gastro-Intestinaux"
@@ -990,7 +1200,7 @@
 
 {
 "title": "Diosmectite 3g sachets et Montmorillonite Beidellitique",
-"tags": "diarhee",
+"tags": "diarrhee",
 "keywords": "smactyl, smecta orange-vanille, gastrostop, bedelix",
 "url": "diosmectite.html",
 "summary": "Problèmes Fonctionnels Gastro-Intestinaux"
@@ -1000,7 +1210,7 @@
 
 {
 "title": "Attapulgite",
-"tags": "diarhee",
+"tags": "diarrhee",
 "keywords": "actapulgite nourrissons, actapulgite",
 "url": "attapulgite.html",
 "summary": "Problèmes Fonctionnels Gastro-Intestinaux"
@@ -1010,7 +1220,7 @@
 
 {
 "title": "Autres médicaments pour la diarrhée",
-"tags": "diarhee",
+"tags": "diarrhee",
 "keywords": "fungizone, amphotericine b, nystatine, mikostat, diarix, normix, rifixine 200, Rifaximina, sulfaguanidine, pivalone, Tixocortol",
 "url": "autres-diarrhees.html",
 "summary": "Antifongiques, Antibiotiques et Anti-inflammatoires pour la diarrhée"
@@ -1580,7 +1790,7 @@
 
 {
 "title": "Alginates",
-"tags": "",
+"tags": "acidite",
 "keywords": "",
 "url": "alginates.html",
 "summary": "Médicaments Liés à des Problèmes d'acidité"
@@ -1600,7 +1810,7 @@
 
 {
 "title": "Cimetidine",
-"tags": "acidite",
+"tags": "aciditeanti-h2",
 "keywords": "unitag, mexine, cimedine",
 "url": "cimetidine.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
@@ -1610,7 +1820,7 @@
 
 {
 "title": "Ranitidine",
-"tags": "acidite",
+"tags": "aciditeanti-h2",
 "keywords": "tanidina, zantac",
 "url": "ranitidine.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
@@ -1620,7 +1830,7 @@
 
 {
 "title": "Famotidine",
-"tags": "acidite",
+"tags": "aciditeanti-h2",
 "keywords": "famodar abr, uldine 10, ah-deux, uldine 20, famodine 20, famodar, gastrosidin, gastrozen, uldine 40, famodine 40, famodar 40",
 "url": "famotidine.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
@@ -1630,7 +1840,7 @@
 
 {
 "title": "Pantoprazole 40 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "pentop, pantopral, razon",
 "url": "pantoprazole-40.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -1640,7 +1850,7 @@
 
 {
 "title": "Pantoprazole 20 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "pentop, pantopral, razon",
 "url": "pantoprazole-20.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -1650,7 +1860,7 @@
 
 {
 "title": "Lansoprazole 30 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "ippzor, iniprazol, lansopral, lanzor, prazor",
 "url": "lansoprazole-30.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -1660,7 +1870,7 @@
 
 {
 "title": "Lansoprazole 15 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "iniprazol, ippzor, lansopral, lanzor, prazor",
 "url": "lansoprazole-15.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -1670,7 +1880,7 @@
 
 {
 "title": "Omeprazole Injectable",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "ipproton perfusion, risek",
 "url": "omeprazole-inj.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Prévention et Traitement des ulcères gastro-duodénaux par voie intraveineuse lorsque la voie orale est impossible."
@@ -1680,7 +1890,7 @@
 
 {
 "title": "Omeprazole 20 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "omezol, meprazol, oprazole, maalox controle, omeprazole winthrop, gastral, belifax, mopral, ipproton",
 "url": "omeprazole-20.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -1700,7 +1910,7 @@
 
 {
 "title": "Esomeprazole 40 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "esocalm, stelar, enomeral 40, esocare, mesopral, rugdal, esoral, rgeo, nexus, ippsium 40, inexium, actipp, nexium 40",
 "url": "esomeprazole-40.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -1710,7 +1920,7 @@
 
 {
 "title": "Esomeprazole 20 mg et 10 mg",
-"tags": "acidite",
+"tags": "aciditeipp",
 "keywords": "nexus, stelar, esocalm, esomeprazole zentiva, enomeral 20, esocare, mesopral, ippsium 20, inexium, rugdal, actipp, esoral, nexium 20 mg",
 "url": "esomeprazole.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
