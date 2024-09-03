@@ -3,7 +3,133 @@
   
   
   <url>
+    <loc>http://localhost:4000/kayexalate.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/pizotifene.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/oxetorone.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/cafeine-ergotamine-tartrate.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/eletriptan.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/frovatriptan.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/sumatriptane.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/dipyridamole.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/clopidogrel.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/acenocoumarol.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/dalteparine-sodique.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/tinzaparine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/nadroparine-calcique.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/enoxaparine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/vitamine-k1.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/vitamines-b.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/changements-2024-07-15.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fer-cp.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/fer-inj.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/chlorure-de-sodium.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/chlorure-de-potassium.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/albumine.html</loc>
   </url>
   
   
@@ -1023,6 +1149,12 @@
   
   
   <url>
+    <loc>http://localhost:4000/buscopan.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>http://localhost:4000/autres-trb-fct-intes.html</loc>
   </url>
   
@@ -1125,13 +1257,37 @@
   
   
   <url>
-    <loc>http://localhost:4000/paracetamol-codeine.html</loc>
+    <loc>http://localhost:4000/morphine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/paracetamol-belladona-opium.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/tramadol.html</loc>
   </url>
   
   
   
   <url>
     <loc>http://localhost:4000/paracetamol-tramadol.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/paracetamol-codeine.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/nefopam.html</loc>
   </url>
   
   
@@ -1204,6 +1360,24 @@
   
   <url>
     <loc>http://localhost:4000/diclofenac.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/acide acetylsalicylique-asso.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/acide acetylsalicylique.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>http://localhost:4000/acetylsalicylate de lysine.html</loc>
   </url>
   
   
@@ -1305,6 +1479,10 @@
   
   
   
+  
+  
+  
+  
   <url>
     <loc>http://localhost:4000/tag_anti-h2.html</loc>
   </url>
@@ -1367,9 +1545,29 @@
   
   
   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   <url>
     <loc>http://localhost:4000/tag_ipp.html</loc>
   </url>
+  
+  
+  
+  
+  
+  
+  
+  
   
   
   

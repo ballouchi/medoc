@@ -20,7 +20,7 @@
 ,
 
 {
-"title": "News",
+"title": "Dernières pages",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
 "url": "news.html",
@@ -29,7 +29,7 @@
 ,
 
 {
-"title": "News",
+"title": "Toutes les pages",
 "tags": "",
 "keywords": "news, blog, updates, release notes, announcements",
 "url": "news_archive.html",
@@ -59,11 +59,221 @@
 
 
 {
+"title": "Kayexalate (Polystyrene Sulfonate de Sodium)",
+"tags": "",
+"keywords": "kayexalate , polystyrene sulfonate de sodium",
+"url": "kayexalate.html",
+"summary": "Il est utilisé par voie orale ou en lavement comme échangeur d'ions (potassium contre sodium) en cas d'hyperkaliémie."
+}
+,
+
+
+{
+"title": "Pizotifene",
+"tags": "antimigraineux",
+"keywords": "pizofen, pizotifene simed, pizotifene",
+"url": "pizotifene.html",
+"summary": "Prévention de la migraine"
+}
+,
+
+
+{
+"title": "Nocertone (Oxetorone)",
+"tags": "antimigraineux",
+"keywords": "nocertone, oxetorone",
+"url": "oxetorone.html",
+"summary": "Prévention de la migraine"
+}
+,
+
+
+{
+"title": "Gynergene Cafeine",
+"tags": "antimigraineux",
+"keywords": "gynergene cafeine, cafeine, ergotamine tartrate",
+"url": "cafeine-ergotamine-tartrate.html",
+"summary": "Traitement des crises de migraine."
+}
+,
+
+
+{
+"title": "Relpax (Elétriptan)",
+"tags": "antimigraineux",
+"keywords": "relpax, élétriptan",
+"url": "eletriptan.html",
+"summary": "Traitement des crises de migraine"
+}
+,
+
+
+{
+"title": "Rilamig (Frovatriptan)",
+"tags": "antimigraineux",
+"keywords": "rilamig, frovatriptan",
+"url": "frovatriptan.html",
+"summary": "Traitement des crises de migraine"
+}
+,
+
+
+{
+"title": "Imigran (Sumatriptane)",
+"tags": "antimigraineux",
+"keywords": "imigran, sumatriptane",
+"url": "sumatriptane.html",
+"summary": "Traitement des crises de migraine"
+}
+,
+
+
+{
+"title": "Procardin (Dipyridamole)",
+"tags": "antiagregant",
+"keywords": "procardin, dipyridamole",
+"url": "dipyridamole.html",
+"summary": "Prévention des accidents thromboemboliques en association avec les anticoagulants oraux chez les patients porteurs de prothèses valvulaires"
+}
+,
+
+
+{
+"title": "Clopidogrel",
+"tags": "antiagregant",
+"keywords": "plavix, plagrel, copigrel, cloven, clopix, clopidogrel pfizer, pidogrel, clopidogrel",
+"url": "clopidogrel.html",
+"summary": "Prévention secondaire des évènements athérothrombotiques"
+}
+,
+
+
+{
+"title": "Acenocoumarol",
+"tags": "anticoagulant",
+"keywords": "sintrom, acenocoumarol wzf, acenocoumarol",
+"url": "acenocoumarol.html",
+"summary": "Anticoagulant: Traitement et Prévention des maladies thrombo-emboliques"
+}
+,
+
+
+{
+"title": "Fragmin (Dalteparine Sodique)",
+"tags": "anticoagulant",
+"keywords": "fragmin, dalteparine sodique",
+"url": "dalteparine-sodique.html",
+"summary": "Anticoagulant: Traitement et Prévention des maladies thrombo-emboliques"
+}
+,
+
+
+{
+"title": "Innohep (Tinzaparine)",
+"tags": "anticoagulant",
+"keywords": "innohep, tinzaparine",
+"url": "tinzaparine.html",
+"summary": "Anticoagulant: Traitement et Prévention des maladies thrombo-emboliques"
+}
+,
+
+
+{
+"title": "Nadroparine Calcique",
+"tags": "anticoagulant",
+"keywords": "fraxiparine 2850 ui axa, fraxiparine 5700 ui axa, fraxiparine 7600 ui axa, fraxodi, nadroparine calcique",
+"url": "nadroparine-calcique.html",
+"summary": "Anticoagulant: Traitement et Prévention des maladies thrombo-emboliques"
+}
+,
+
+
+{
+"title": "Enoxaparine",
+"tags": "anticoagulant",
+"keywords": "enoxamed, enoxa 2000 ui anti-xa/0,2ml, lovenox, enoxa 8000 ui anti-xa/0,8ml, enoxa 6000 ui anti-xa/0,6ml, enoxa 4000 ui anti-xa/0,4ml, enoxaparine",
+"url": "enoxaparine.html",
+"summary": "Anticoagulant: Traitement et Prévention des maladies thrombo-emboliques"
+}
+,
+
+
+{
+"title": "Vitamine K",
+"tags": "antihemorragique",
+"keywords": "phytomenadione, vitamine k1, vitamine k",
+"url": "vitamine-k1.html",
+"summary": "Traitement et Prévention des hémorragies par carence en Vitamine K"
+}
+,
+
+
+{
+"title": "Vitamines B9 et B12",
+"tags": "antianemiants",
+"keywords": "folicum, acide folique, vit b12, vita b12, cyanocobalamine, vitamine B12, hydroxocobalamine",
+"url": "vitamines-b.html",
+"summary": "Traitement des anèmies par carence en Vitamines B"
+}
+,
+
+
+{
 "title": "Changements du 15 Juillet 2024",
 "tags": "changements",
 "keywords": "",
 "url": "changements-2024-07-15.html",
 "summary": "Changements du 15 Juillet 2024"
+}
+,
+
+
+{
+"title": "Fer par voie Orale",
+"tags": "antianemiants",
+"keywords": "tardyferon, fer, fumafer, fumarate de fer, hymofer, feredetate de sodium, fer plus, fer3, polymaltose complexe, tardyferon b9, fefol, acide folique",
+"url": "fer-cp.html",
+"summary": "Traitement et Prévention des anèmies par carence en Fer"
+}
+,
+
+
+{
+"title": "Fer par voie Injectable",
+"tags": "antianemiants",
+"keywords": "feroven, iv-fer, fer plus, fer",
+"url": "fer-inj.html",
+"summary": "Traitement des anèmies par carence en Fer"
+}
+,
+
+
+{
+"title": "Chlorure de Sodium",
+"tags": "perfusion",
+"keywords": "chlorure de sodium 10% unimed, chlorure de sodium",
+"url": "chlorure-de-sodium.html",
+"summary": "Apports de sodium pour assurer les besoins quotidients lors de l'alimentation par voie parentérale. Hyponatrémie, déshydratation"
+}
+,
+
+
+{
+"title": "Chlorure de Potassium",
+"tags": "perfusion",
+"keywords": "chlorure de potassium unimed, chlorure de potassium",
+"url": "chlorure-de-potassium.html",
+"summary": "Apports de potassium pour assurer les besoins quotidients lors de l'alimentation par voie parentérale. Traitement d'une hypokaliémie"
+}
+,
+
+
+{
+"title": "Albumine Humaine Plasmatique",
+"tags": "antihemorragiqueperfusion",
+"keywords": "albiomin, albunorm, human albumin 20% behring, albumine humaine plasmatique",
+"url": "albumine.html",
+"summary": "Restauration et maintien du volume de sang circulant"
 }
 ,
 
@@ -1051,7 +1261,7 @@
 {
 "title": "Insuline",
 "tags": "insuline",
-"keywords": "insuman rapid, insuman comb, insuman basal, jusline r, jusline 30/70, jusline n, actrapid, mixtard 30, insulatard 100 ui/ml, actrapid penfill, mixtard 30 penfill, insulatard penfill 100 ui/ml, glargen, apidra solostar, semglee, lantus, lantus solostar, novomix 30 flexpen, novorapid flexpen, levemir flexpen, ryzodeg flex touch",
+"keywords": "glargen, semglee, lantus, lantus solostar, levemir flexpen, novomix 30 flexpen, novorapid flexpen, apidra solostar, ryzodeg flex touch, toujeo solostar, insuline analogue glargine, insuline analogue detemir, insuline analogue insuline aspartate, insuline analogue glulisine, insuline asparte + insuline degludec",
 "url": "insuline.html",
 "summary": "Traitement du diabète"
 }
@@ -1153,7 +1363,7 @@
 "tags": "anti-emetique",
 "keywords": "doperan, pramidyl 10, primperan, pradis fort adultes, pramidyl per os, pradis",
 "url": "metoclopramide.html",
-"summary": ""
+"summary": "Traitement des nausées et vomissements"
 }
 ,
 
@@ -1759,9 +1969,19 @@
 
 
 {
+"title": "Buscopan (N-Butylhyocine Bromure)",
+"tags": "antispasmodique",
+"keywords": "buscopan, n-butylhyocine bromure",
+"url": "buscopan.html",
+"summary": "Traitement symptomatique des douleurs liées aux troubles fonctionnels Gastro-Intestinaux et à la lithiase biliaire."
+}
+,
+
+
+{
 "title": "Autres Médicaments pour Problèmes Fonctionnels Gastro-Intestinaux",
 "tags": "antispasmodique",
-"keywords": "buscopan, n-butylhyocine bromure, spastop, spasmomen, otylonium, meteospasmyl, alverine, duspatalin, mebeverine, riabal enfant, prifinium, librax, clidinium, dicetel 100, pinaverium",
+"keywords": "spastop, spasmomen, otylonium, meteospasmyl, alverine, duspatalin, mebeverine, riabal enfant, prifinium, librax, clidinium, dicetel 100, pinaverium",
 "url": "autres-trb-fct-intes.html",
 "summary": "Traitement symptomatique des douleurs liées aux troubles fonctionnels Gastro-Intestinaux et à la lithiase biliaire."
 }
@@ -1929,18 +2149,38 @@
 
 
 {
-"title": "Association Antalgique Paracetamol + Codeine",
-"tags": "antalgique",
-"keywords": "fortalgic, analgan codeine, stopalgic codeine 300/25, klipal codeine, codoliprane, adoline fort, algisedal, co-algidol, co-algesic, stopalgic codeine 600/50, rompalgine, vigaspir",
-"url": "paracetamol-codeine.html",
-"summary": "Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène"
+"title": "Morphine",
+"tags": "analgesiqueopiace",
+"keywords": "moscontin 10, skenan lp, moscontin 30, moscontin 60, moscontin 100, moscontin 200, morphine",
+"url": "morphine.html",
+"summary": "Douleurs persistantes intenses et/ou rebelles aux autres analgésiques, en particulier les douleurs d'origine cancéreuse."
+}
+,
+
+
+{
+"title": "Lamaline (Paracetamol + Belladona + Opium)",
+"tags": "antalgiqueanalgesiqueopiace",
+"keywords": "lamaline, paracetamol, belladona, opium",
+"url": "paracetamol-belladona-opium.html",
+"summary": "Traitement symptomatique des douluers modérées à intenses et/ou ne répondant pas à l'utilisation d'antalgiques périphériques utilisés seuls."
+}
+,
+
+
+{
+"title": "Tramadol",
+"tags": "opiaceanalgesique",
+"keywords": "astradol, latifex 50, tramadis, tramal, astradol lp, tramal retard, souladol 100, tramadol",
+"url": "tramadol.html",
+"summary": "Traitement des douleurs."
 }
 ,
 
 
 {
 "title": "Association Antalgique Paracetamol + Tramadol",
-"tags": "antalgique",
+"tags": "analgesiqueopiace",
 "keywords": "supradol, fortadol, algetra, bi-algic, synalvic, cetradol, latifex plus, doliprane pro, zaldiar",
 "url": "paracetamol-tramadol.html",
 "summary": "Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène"
@@ -1949,9 +2189,29 @@
 
 
 {
+"title": "Association Antalgique Paracetamol + Codeine",
+"tags": "analgesiqueopiace",
+"keywords": "fortalgic, analgan codeine, stopalgic codeine 300/25, klipal codeine, codoliprane, adoline fort, algisedal, co-algidol, co-algesic, stopalgic codeine 600/50, rompalgine, vigaspir",
+"url": "paracetamol-codeine.html",
+"summary": "Traitement des douleurs aigues d'intensité modérée qui ne peuvent pas être soulagées par d'autres antalgiques comme le paracétamol seul ou l'ibuprofène"
+}
+,
+
+
+{
+"title": "Nefopam",
+"tags": "antalgiqueanalgesique",
+"keywords": "acupan, nefomed, nefopam",
+"url": "nefopam.html",
+"summary": "Traitement symptomatique injectable des affections douloureuses aigues, notamment les douleurs post-opératoires"
+}
+,
+
+
+{
 "title": "Celecoxib",
 "tags": "anti-inflammatoireantalgique",
-"keywords": "x-back, x-back200, coxibrex, algibrex, inicox 2, adybrex, inflacox, artibrex, inibrex, celoxx, celebrex, celecoxib",
+"keywords": "x-back, x-back200, coxibrex, adybrex, inflacox, inicox 2, algibrex, inibrex, artibrex, celoxx, celebrex, celecoxib",
 "url": "celecoxib.html",
 "summary": "Traitement des états inflammatoires et des douleurs"
 }
@@ -2061,7 +2321,7 @@
 {
 "title": "Diclofenac",
 "tags": "anti-inflammatoireantalgique",
-"keywords": "votrex, diclofen, voltarene, voltarene lp, votrex 100 mg lp, voltarene enfant, volfenac 100 adulte, xedol, diclopal, diclogesic 75, dicloreum, medisium, diclofenac, artotec, misoprostol",
+"keywords": "votrex, diclofen, voltarene, voltarene lp, votrex 100 mg lp, voltarene enfant, volfenac 100 adulte, xedol, diclopal, diclogesic 75, dicloreum, medisium, votril, diclofenac, artotec, misoprostol",
 "url": "diclofenac.html",
 "summary": "Traitement des états inflammatoires et des douleurs"
 }
@@ -2069,8 +2329,38 @@
 
 
 {
+"title": "Acide Acétylsalicylique en Association",
+"tags": "antalgiqueantipyretiquesalicyles",
+"keywords": "cafenol, acide acetylsalicylique, cafeine, cebaspirine, vitamine c, vitamine b1, phenaspirine 2 cg, phenaspirine 1 cg, phenobarbital",
+"url": "acide acetylsalicylique-asso.html",
+"summary": "Traitement des douleurs et/ou des états fébriles."
+}
+,
+
+
+{
+"title": "Acide Acétylsalicylique",
+"tags": "antalgiqueantipyretiquesalicyles",
+"keywords": "aspirine ph 8, actalgine, aspirine, acide acetylsalicylique",
+"url": "acide acetylsalicylique.html",
+"summary": "Traitement des douleurs et/ou des états fébriles."
+}
+,
+
+
+{
+"title": "Acetylsalicylate de Lysine",
+"tags": "antalgiqueantipyretiquesalicyles",
+"keywords": "aspegic adultes, aspegic, kardegic, acetylsalicylate de lysine labesfal, acetylsalicylate de lysine",
+"url": "acetylsalicylate de lysine.html",
+"summary": "Traitement des douleurs et/ou des états fébriles."
+}
+,
+
+
+{
 "title": "Association Antalgique Paracetamol + Cafeine",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "panadol extra, stopalgic extra, algidol extra, analgan extra, algesic extra, novadol extra, adol extra",
 "url": "paracetamol-cafeine.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles."
@@ -2080,7 +2370,7 @@
 
 {
 "title": "Association Antalgique Paracetamol + Vitamine C",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "doliprane vitamine c, paralvit vitamine c, efferalgan vitamine c",
 "url": "paracetamol-vitc.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles."
@@ -2090,60 +2380,60 @@
 
 {
 "title": "Paracetamol perfusoin intraveineuse",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "parac info, paramed, paralgyl 500, stopalgic, paralgyl 1000, perfalgan",
 "url": "paracetamol-perfusion.html",
-"summary": ""
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre par voie intraveineuse"
 }
 ,
 
 
 {
 "title": "Paracetamol suppositoires",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "analgan nourrissons, efferalgan, analgan jeune enfant, paralvit, paracetamol ips, paralvit adultes",
 "url": "paracetamol-suppo.html",
-"summary": ""
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }
 ,
 
 
 {
 "title": "Paracetamol sirop",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes",
 "url": "paracetamol-sirop.html",
-"summary": ""
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }
 ,
 
 
 {
 "title": "Paracetamol sachets",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "novadol, doliprane",
 "url": "paracetamol-sachets.html",
-"summary": ""
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }
 ,
 
 
 {
 "title": "Paracetamol 1 g comprimés ou gélules",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "algidol, algesic 1000 mg, stopalgic, novadol, cetamol, adol, panadol, dafalgan, doliprane, paralvit, efferalgan",
 "url": "paracetamol-1000-cp.html",
-"summary": ""
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }
 ,
 
 
 {
 "title": "Paracetamol 500 mg comprimés ou gélules",
-"tags": "antalgique",
+"tags": "antalgiqueparacetamol",
 "keywords": "panadol, adoline, novadol, adol, cetamol, dolopro, algidol, paracetamol ips, efferalgan 500, doliprane, analgan, stopalgic, algesic, paracetamol i500, paracetamol",
 "url": "paracetamol-500-cp.html",
-"summary": ""
+"summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }
 
 
