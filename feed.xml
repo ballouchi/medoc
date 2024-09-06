@@ -5,8 +5,8 @@
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
         <link>http://localhost:4000/</link>
         <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 03 Sep 2024 20:18:36 +0100</pubDate>
-        <lastBuildDate>Tue, 03 Sep 2024 20:18:36 +0100</lastBuildDate>
+        <pubDate>Fri, 06 Sep 2024 21:33:08 +0100</pubDate>
+        <lastBuildDate>Fri, 06 Sep 2024 21:33:08 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
         <item>
@@ -57,642 +57,1425 @@
         </item>
         
         <item>
-            <title>Pizotifene</title>
-            <description>&lt;h2 id=&quot;pizotifene-comprimés-et-sirop&quot;&gt;Pizotifene Comprimés et Sirop&lt;/h2&gt;
+            <title>Zeldox (Ziprasidone)</title>
+            <description>&lt;h2 id=&quot;zeldox-ziprasidone-gélules-et-injectable&quot;&gt;Zeldox (Ziprasidone) Gélules et Injectable:&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_4dcd4_row0_col4, #T_4dcd4_row1_col4 {
+#T_ziprasidone_row0_col4, #T_ziprasidone_row1_col4 {
   background-color: lightgreen;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_4dcd4&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_ziprasidone&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_4dcd4_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_ziprasidone_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PIZOFEN&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;5,745&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,870&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,78%&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;PIZOTIFENE&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ZELDOX&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;20 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Pdre p.prep.injectable&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/1 FL&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;43,371&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;36,865&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;ZIPRASIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;PIZOTIFENE SIMED&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,25 mg/5 ml&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Sirop&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/150 ml&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;9,040&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;7,650&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,62%&lt;/td&gt;
-      &lt;td id=&quot;T_4dcd4_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;PIZOTIFENE&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ZELDOX&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;40 mg&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;88,270&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;75,021&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,99%&lt;/td&gt;
+      &lt;td id=&quot;T_ziprasidone_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;ZIPRASIDONE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Fri, 09 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/pizotifene.html</link>
-            <guid isPermaLink="true">http://localhost:4000/pizotifene.html</guid>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/ziprasidone.html</link>
+            <guid isPermaLink="true">http://localhost:4000/ziprasidone.html</guid>
             
-            <category>antimigraineux</category>
+            <category>neuroleptiques</category>
             
             
         </item>
         
         <item>
-            <title>Nocertone (Oxetorone)</title>
-            <description>&lt;h2 id=&quot;nocertone-oxetorone-comprimés&quot;&gt;Nocertone (Oxetorone) Comprimés&lt;/h2&gt;
+            <title>Risperidone</title>
+            <description>&lt;div&gt;
+
+    &lt;div class=&quot;summary&quot;&gt;Antipsychotique&lt;/div&gt;
+   
+
+    
+    
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
+  var target = $(this.getAttribute(&apos;href&apos;))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+
+
+    
+&lt;/div&gt;
+
+&lt;h2 id=&quot;risperidone-2-mg-comprimés&quot;&gt;Risperidone 2 mg Comprimés&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_oxetorone_row0_col4 {
+#T_risperidone-2-mg_row0_col4, #T_risperidone-2-mg_row1_col4, #T_risperidone-2-mg_row2_col4, #T_risperidone-2-mg_row4_col4, #T_risperidone-2-mg_row5_col4, #T_risperidone-2-mg_row6_col4, #T_risperidone-2-mg_row7_col4, #T_risperidone-2-mg_row9_col4, #T_risperidone-2-mg_row10_col4 {
   background-color: lightgreen;
 }
-&lt;/style&gt;
-
-&lt;table id=&quot;T_oxetorone&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_oxetorone_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;NOCERTONE&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;60 mg&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;7,610&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;6,452&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,78%&lt;/td&gt;
-      &lt;td id=&quot;T_oxetorone_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;OXETORONE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Fri, 09 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/oxetorone.html</link>
-            <guid isPermaLink="true">http://localhost:4000/oxetorone.html</guid>
-            
-            <category>antimigraineux</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Gynergene Cafeine</title>
-            <description>&lt;h2 id=&quot;gynergene-cafeine-ergotamine-tartrate--cafeine-comprimés&quot;&gt;Gynergene Cafeine (Ergotamine Tartrate + Cafeine) Comprimés&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_cafeine-ergotamine-tartrate_row0_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_cafeine-ergotamine-tartrate&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_cafeine-ergotamine-tartrate_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;GYNERGENE CAFEINE&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1 mg&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/20&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;10,723&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;9,112&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,98%&lt;/td&gt;
-      &lt;td id=&quot;T_cafeine-ergotamine-tartrate_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;CAFEINE+ERGOTAMINE TARTRATE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Thu, 08 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/cafeine-ergotamine-tartrate.html</link>
-            <guid isPermaLink="true">http://localhost:4000/cafeine-ergotamine-tartrate.html</guid>
-            
-            <category>antimigraineux</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Relpax (Elétriptan)</title>
-            <description>&lt;h2 id=&quot;relpax-elétriptan&quot;&gt;Relpax (Elétriptan)&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_eletriptan_row0_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_eletriptan&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_eletriptan_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;RELPAX&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;40 mg&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés enrobés&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/3&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;17,087&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;5,696&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;14,523&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_eletriptan_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ÉLÉTRIPTAN&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Wed, 07 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/eletriptan.html</link>
-            <guid isPermaLink="true">http://localhost:4000/eletriptan.html</guid>
-            
-            <category>antimigraineux</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Rilamig (Frovatriptan)</title>
-            <description>&lt;h2 id=&quot;rilamig-frovatriptan&quot;&gt;Rilamig (Frovatriptan)&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_frovatriptan_row0_col4, #T_frovatriptan_row1_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_frovatriptan&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_frovatriptan_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;RILAMIG&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/2&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;17,435&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;8,717&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;14,416&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;82,68%&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;FROVATRIPTAN&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;RILAMIG&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/6&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;50,880&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;8,480&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;43,248&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_frovatriptan_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;FROVATRIPTAN&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Tue, 06 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/frovatriptan.html</link>
-            <guid isPermaLink="true">http://localhost:4000/frovatriptan.html</guid>
-            
-            <category>antimigraineux</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Imigran (Sumatriptane)</title>
-            <description>&lt;h2 id=&quot;imigran-sumatriptane&quot;&gt;Imigran (Sumatriptane)&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_sumatriptane_row0_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_sumatriptane&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_sumatriptane_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;IMIGRAN&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;50 mg&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/2&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;15,878&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;7,939&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;13,496&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_sumatriptane_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;SUMATRIPTANE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Mon, 05 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/sumatriptane.html</link>
-            <guid isPermaLink="true">http://localhost:4000/sumatriptane.html</guid>
-            
-            <category>antimigraineux</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Procardin (Dipyridamole)</title>
-            <description>&lt;h2 id=&quot;procardin-dipyridamole-comprimés&quot;&gt;Procardin (Dipyridamole) Comprimés&lt;/h2&gt;
-
-&lt;div class=&quot;summary&quot;&gt;Prévention des accidents thromboemboliques en association avec les anticoagulants oraux chez les patients porteurs de prothèses valvulaires&lt;/div&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_dipyridamole_row0_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_dipyridamole&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_dipyridamole_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PROCARDIN&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/120&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;7,741&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,065&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;6,528&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;84,33%&lt;/td&gt;
-      &lt;td id=&quot;T_dipyridamole_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;DIPYRIDAMOLE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Sat, 20 Jul 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/dipyridamole.html</link>
-            <guid isPermaLink="true">http://localhost:4000/dipyridamole.html</guid>
-            
-            <category>antiagregant</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Clopidogrel</title>
-            <description>&lt;h2 id=&quot;clopidogrel-comprimés&quot;&gt;Clopidogrel Comprimés&lt;/h2&gt;
-
-&lt;div class=&quot;summary&quot;&gt;Prévention secondaire des évènements athérothrombotiques&lt;/div&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_clopidogrel_row0_col4, #T_clopidogrel_row6_col4, #T_clopidogrel_row7_col4, #T_clopidogrel_row8_col4, #T_clopidogrel_row9_col4 {
+#T_risperidone-2-mg_row8_col4 {
   background-color: lightcoral;
 }
-#T_clopidogrel_row1_col4, #T_clopidogrel_row2_col4, #T_clopidogrel_row3_col4, #T_clopidogrel_row4_col4, #T_clopidogrel_row5_col4, #T_clopidogrel_row10_col4, #T_clopidogrel_row11_col4, #T_clopidogrel_row12_col4, #T_clopidogrel_row13_col4, #T_clopidogrel_row14_col4, #T_clopidogrel_row15_col4 {
-  background-color: lightgreen;
-}
 &lt;/style&gt;
 
-&lt;table id=&quot;T_clopidogrel&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_risperidone-2-mg&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_clopidogrel_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-2-mg_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PLAVIX&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/28&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;73,525&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;2,626&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;23,276&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;31,66%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;RISDONE2&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;21,160&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,058&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;16,847&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;79,62%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;PLAGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;31,325&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,044&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;24,939&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;79,61%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;RESPIROX&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;21,810&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,091&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;16,847&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;77,24%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;COPIGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;31,330&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,044&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;24,939&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;79,60%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;RISPERIDONE-TERIAK&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;22,385&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,119&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;16,847&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;75,26%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;CLOVEN&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;32,155&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;1,072&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;24,939&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;77,56%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;RESPIROX&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;27,999&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;1,400&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;16,847&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;60,17%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;CLOPIX&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;36,520&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;1,217&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;24,939&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;68,29%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;35,490&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;1,183&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;25,270&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;71,20%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;CLOPIDOGREL PFIZER&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;37,535&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;1,251&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;24,939&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;66,44%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;RISPER ORO&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;35,815&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;1,194&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;27,616&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;77,11%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;PIDOGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;49,700&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;1,657&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;24,939&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;50,18%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;RISPERIDONE-TERIAK&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;67,870&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;1,131&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;50,541&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;74,47%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;COPIGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/60&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;115,315&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;1,922&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;49,878&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;43,25%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;68,880&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;1,148&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;50,541&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;73,38%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;PIDOGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/60&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;129,245&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;2,154&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;49,878&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;38,59%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;RISPERDAL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;150,510&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;2,509&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;50,541&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;33,58%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;CLOPIX&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;B/60&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;149,555&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;2,493&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;49,878&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;33,35%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;RISPER ORO&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;64,980&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;1,083&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;55,233&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;PLAGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;88,060&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;0,978&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;74,817&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;84,96%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row10_col8&quot; class=&quot;data row10 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;89,240&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;0,992&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;75,811&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;84,95%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-2-mg_row10_col8&quot; class=&quot;data row10 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;risperidone-4-mg-comprimés&quot;&gt;Risperidone 4 mg Comprimés&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_risperidone-4-mg_row0_col4, #T_risperidone-4-mg_row1_col4, #T_risperidone-4-mg_row2_col4, #T_risperidone-4-mg_row3_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_risperidone-4-mg&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-4-mg_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;RISDONE 4&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;4 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;40,160&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;2,008&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;32,181&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;80,13%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col0&quot; class=&quot;data row11 col0&quot;&gt;CLOVEN&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col1&quot; class=&quot;data row11 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col2&quot; class=&quot;data row11 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col3&quot; class=&quot;data row11 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col4&quot; class=&quot;data row11 col4&quot;&gt;90,080&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col5&quot; class=&quot;data row11 col5&quot;&gt;1,001&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col6&quot; class=&quot;data row11 col6&quot;&gt;74,817&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col7&quot; class=&quot;data row11 col7&quot;&gt;83,06%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row11_col8&quot; class=&quot;data row11 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;4 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;56,790&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,893&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;48,272&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col0&quot; class=&quot;data row12 col0&quot;&gt;COPIGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col1&quot; class=&quot;data row12 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col2&quot; class=&quot;data row12 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col3&quot; class=&quot;data row12 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col4&quot; class=&quot;data row12 col4&quot;&gt;91,090&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col5&quot; class=&quot;data row12 col5&quot;&gt;1,012&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col6&quot; class=&quot;data row12 col6&quot;&gt;74,817&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col7&quot; class=&quot;data row12 col7&quot;&gt;82,14%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row12_col8&quot; class=&quot;data row12 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;RISPERIDONE TERIAK&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;4 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;59,795&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,993&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;48,272&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;80,73%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col0&quot; class=&quot;data row13 col0&quot;&gt;CLOPIX&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col1&quot; class=&quot;data row13 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col2&quot; class=&quot;data row13 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col3&quot; class=&quot;data row13 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col4&quot; class=&quot;data row13 col4&quot;&gt;103,120&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col5&quot; class=&quot;data row13 col5&quot;&gt;1,146&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col6&quot; class=&quot;data row13 col6&quot;&gt;74,817&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col7&quot; class=&quot;data row13 col7&quot;&gt;72,55%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row13_col8&quot; class=&quot;data row13 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;RESPIROX&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;4 mg&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;59,800&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;1,993&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;48,272&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;80,72%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-4-mg_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;RISPERIDONE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;risperidone-sirop&quot;&gt;Risperidone Sirop&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_risperidone-sirop_row0_col4, #T_risperidone-sirop_row1_col4, #T_risperidone-sirop_row2_col4, #T_risperidone-sirop_row4_col4 {
+  background-color: lightgreen;
+}
+#T_risperidone-sirop_row3_col4, #T_risperidone-sirop_row5_col4 {
+  background-color: lightcoral;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_risperidone-sirop&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_risperidone-sirop_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/30 ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;26,065&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;17,493&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;67,11%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col0&quot; class=&quot;data row14 col0&quot;&gt;CLOPIDOGREL PFIZER&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col1&quot; class=&quot;data row14 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col2&quot; class=&quot;data row14 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col3&quot; class=&quot;data row14 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col4&quot; class=&quot;data row14 col4&quot;&gt;103,205&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col5&quot; class=&quot;data row14 col5&quot;&gt;1,147&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col6&quot; class=&quot;data row14 col6&quot;&gt;74,817&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col7&quot; class=&quot;data row14 col7&quot;&gt;72,49%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row14_col8&quot; class=&quot;data row14 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/60 ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;46,290&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;34,986&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;75,58%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col0&quot; class=&quot;data row15 col0&quot;&gt;PIDOGREL&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col1&quot; class=&quot;data row15 col1&quot;&gt;75 mg&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col2&quot; class=&quot;data row15 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col3&quot; class=&quot;data row15 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col4&quot; class=&quot;data row15 col4&quot;&gt;111,280&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col5&quot; class=&quot;data row15 col5&quot;&gt;1,236&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col6&quot; class=&quot;data row15 col6&quot;&gt;74,817&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col7&quot; class=&quot;data row15 col7&quot;&gt;67,23%&lt;/td&gt;
-      &lt;td id=&quot;T_clopidogrel_row15_col8&quot; class=&quot;data row15 col8&quot;&gt;CLOPIDOGREL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;RISPERIDONE TERIAK&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/60 ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;53,660&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;34,986&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;65,20%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;RISPERIDONE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;RISPERDAL&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/60 ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;127,310&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;34,986&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;27,48%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;RISPERIDONE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;RAXIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/90 ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;61,815&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;52,479&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;84,90%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;RISPERIDONE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;RISDONE&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;FL/100 ml&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;122,660&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;58,310&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;47,54%&lt;/td&gt;
+      &lt;td id=&quot;T_risperidone-sirop_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;RISPERIDONE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Sat, 20 Jul 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/clopidogrel.html</link>
-            <guid isPermaLink="true">http://localhost:4000/clopidogrel.html</guid>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/risperidone.html</link>
+            <guid isPermaLink="true">http://localhost:4000/risperidone.html</guid>
             
-            <category>antiagregant</category>
+            <category>neuroleptiques</category>
             
             
         </item>
         
         <item>
-            <title>Acenocoumarol</title>
-            <description>&lt;h2 id=&quot;acenocoumarol-comprimés&quot;&gt;Acenocoumarol Comprimés&lt;/h2&gt;
-
-&lt;div class=&quot;summary&quot;&gt;Anticoagulant: Traitement et Prévention des maladies thrombo-emboliques&lt;/div&gt;
+            <title>Orap (Pimozide)</title>
+            <description>&lt;h2 id=&quot;orap-pimozide-4-mg-comprimés&quot;&gt;Orap (Pimozide) 4 mg Comprimés:&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_acenocoumarol_row0_col4, #T_acenocoumarol_row1_col4 {
+#T_pimozide_row0_col4 {
   background-color: lightgreen;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_acenocoumarol&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_pimozide&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_acenocoumarol_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_pimozide_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SINTROM&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/20&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;1,760&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,088&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;1,394&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;79,20%&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ACENOCOUMAROL&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ACENOCOUMAROL WZF&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/60&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;4,928&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;0,082&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;4,182&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;84,86%&lt;/td&gt;
-      &lt;td id=&quot;T_acenocoumarol_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;ACENOCOUMAROL&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ORAP&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;4 mg&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;13,183&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;11,194&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,92%&lt;/td&gt;
+      &lt;td id=&quot;T_pimozide_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;PIMOZIDE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Fri, 19 Jul 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/acenocoumarol.html</link>
-            <guid isPermaLink="true">http://localhost:4000/acenocoumarol.html</guid>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/pimozide.html</link>
+            <guid isPermaLink="true">http://localhost:4000/pimozide.html</guid>
             
-            <category>anticoagulant</category>
+            <category>neuroleptiques</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Olanzapine</title>
+            <description>&lt;div&gt;
+
+    &lt;div class=&quot;summary&quot;&gt;Antipsychotique&lt;/div&gt;
+   
+
+    
+    
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
+  var target = $(this.getAttribute(&apos;href&apos;))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+
+
+    
+&lt;/div&gt;
+
+&lt;h2 id=&quot;olanzapine-5-mg-comprimés&quot;&gt;Olanzapine 5 mg Comprimés&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_f231b_row0_col4, #T_f231b_row1_col4, #T_f231b_row5_col4, #T_f231b_row9_col4 {
+  background-color: lightcoral;
+}
+#T_f231b_row2_col4, #T_f231b_row6_col4, #T_f231b_row7_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_f231b&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_f231b_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_f231b_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;OROZA&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/10&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;13,180&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,318&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;6,630&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;50,30%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;VAINCOR&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/28&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;46,440&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,659&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;18,564&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;39,97%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;POLAR&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;25,240&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;0,841&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;19,890&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;78,80%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;OROZA 5&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;33,240&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;1,108&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;19,890&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;59,84%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;PRANZA&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;39,060&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;1,302&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;19,890&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;50,92%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;OLANZA 5&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;45,240&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;1,508&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;19,890&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;43,97%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;POLAR&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;70,240&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;0,780&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;59,670&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;84,95%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;OROZA 5&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;90,240&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;1,003&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;59,670&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;66,12%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;OLANZA 5&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;117,190&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;1,302&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;59,670&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;50,92%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_f231b_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;VAINCOR&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;B/91&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;135,940&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;1,494&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;60,333&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;44,38%&lt;/td&gt;
+      &lt;td id=&quot;T_f231b_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;olanzapine-10-mg-comprimés&quot;&gt;Olanzapine 10 mg Comprimés&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_75aa6_row0_col4, #T_75aa6_row4_col4, #T_75aa6_row5_col4, #T_75aa6_row6_col4, #T_75aa6_row9_col4, #T_75aa6_row10_col4 {
+  background-color: lightcoral;
+}
+#T_75aa6_row1_col4, #T_75aa6_row2_col4, #T_75aa6_row7_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_75aa6&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_75aa6_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_75aa6_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;VAINCOR&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/28&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;110,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;3,937&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;45,410&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;41,19%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;OLANZIA ORO&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;57,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,908&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;48,654&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;POLAR&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;65,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;2,175&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;48,654&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;74,58%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;OROZA10&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;85,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;2,841&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;48,654&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;57,08%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;OLANZA 10&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;103,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;3,441&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;48,654&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;47,13%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;PRANZA&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;105,080&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;3,503&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;48,654&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;46,30%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;OLANZA 10&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;199,160&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;6,639&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;48,654&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;24,43%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;POLAR&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;180,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;2,003&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;145,962&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;80,98%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;OROZA10&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;240,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;2,669&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;145,962&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;60,76%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;OLANZA 10&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;B/90&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;310,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;3,447&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;145,962&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;47,05%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_75aa6_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;VAINCOR&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;B/91&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;334,240&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;3,673&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;147,584&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;44,16%&lt;/td&gt;
+      &lt;td id=&quot;T_75aa6_row10_col8&quot; class=&quot;data row10 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;olanzapine-20-mg-comprimés&quot;&gt;Olanzapine 20 mg Comprimés&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_df040_row0_col4 {
+  background-color: lightcoral;
+}
+#T_df040_row1_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_df040&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_df040_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_df040_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_df040_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;OROZA 20&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;20 mg&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/10&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;99,240&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;9,924&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;34,068&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;34,33%&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_df040_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;OLANZIA ORO&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;20 mg&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés orodispersibles&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;120,240&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;4,008&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;102,204&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_df040_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/olanzapine.html</link>
+            <guid isPermaLink="true">http://localhost:4000/olanzapine.html</guid>
+            
+            <category>neuroleptiques</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Leponex (Clozapine)</title>
+            <description>&lt;h2 id=&quot;leponex-clozapine-25-et-100-mg-comprimés&quot;&gt;Leponex (Clozapine) 25 et 100 mg Comprimés:&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_clozapine_row0_col4, #T_clozapine_row1_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_clozapine&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_clozapine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_clozapine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_clozapine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;LEPONEX&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;25 mg&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/50&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;44,964&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;38,208&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,97%&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;CLOZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_clozapine_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;LEPONEX&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/50&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;182,090&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;154,743&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,98%&lt;/td&gt;
+      &lt;td id=&quot;T_clozapine_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;CLOZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/clozapine.html</link>
+            <guid isPermaLink="true">http://localhost:4000/clozapine.html</guid>
+            
+            <category>neuroleptiques</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Aripiprazole</title>
+            <description>&lt;h2 id=&quot;aripiprazole-10-et-15-mg-comprimés&quot;&gt;Aripiprazole 10 et 15 mg Comprimés&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_aripiprazole_row0_col4, #T_aripiprazole_row1_col4, #T_aripiprazole_row2_col4, #T_aripiprazole_row3_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_aripiprazole&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_aripiprazole_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ABILIFY&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/28&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;127,235&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,544&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;86,989&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;68,37%&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ARIPIPRAZOLE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ABILICARE&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;10 mg&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B /30&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;109,675&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;3,656&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;93,203&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;84,98%&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;ARIPIPRAZOLE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;ABILIFY&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;15 mg&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/28&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;127,675&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;4,560&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;97,913&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;76,69%&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;ARIPIPRAZOLE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;ABILICARE&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;15 mg&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B /30&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;123,445&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;4,115&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;104,907&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;84,98%&lt;/td&gt;
+      &lt;td id=&quot;T_aripiprazole_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;ARIPIPRAZOLE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/aripiprazole.html</link>
+            <guid isPermaLink="true">http://localhost:4000/aripiprazole.html</guid>
+            
+            <category>neuroleptiques</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Tiapridal (Tiapride)</title>
+            <description>&lt;h2 id=&quot;tiapridal-tiapride-comprimés-et-solution-injectable&quot;&gt;Tiapridal (Tiapride) Comprimés et Solution Injectable:&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_triapride_row0_col4, #T_triapride_row1_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_triapride&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_triapride_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_triapride_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_triapride_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;TIAPRIDAL&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/12/2ML&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;5,018&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,264&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,97%&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;TIAPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_triapride_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;TIAPRIDAL&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;5,438&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;4,607&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,72%&lt;/td&gt;
+      &lt;td id=&quot;T_triapride_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;TIAPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/tiapride.html</link>
+            <guid isPermaLink="true">http://localhost:4000/tiapride.html</guid>
+            
+            <category>neuroleptiques</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Sulpiride</title>
+            <description>&lt;h2 id=&quot;sulpiride-comprimés-sirop-et-solution-injectable&quot;&gt;Sulpiride Comprimés, Sirop et Solution Injectable&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_e5b72_row0_col4, #T_e5b72_row1_col4, #T_e5b72_row4_col4, #T_e5b72_row5_col4, #T_e5b72_row7_col4, #T_e5b72_row8_col4, #T_e5b72_row9_col4, #T_e5b72_row12_col4, #T_e5b72_row13_col4 {
+  background-color: lightgreen;
+}
+#T_e5b72_row2_col4, #T_e5b72_row3_col4 {
+  background-color: lightcoral;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_e5b72&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_e5b72_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_e5b72_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SEDATYL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;100 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/4/2 ML&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;2,025&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,720&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,96%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;DOPRID 100&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;100 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/4/2 ML&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;2,250&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,720&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;76,46%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;DOGMATIL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;100 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/4/2 ML&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;3,645&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,720&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;47,20%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;SINAPRID&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;0.5%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;Fl/150 ml&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;4,025&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;1,785&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;44,35%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;DOPRID PER OS&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;5 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/200 ML&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;2,980&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;2,380&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;79,87%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;SULPIRIL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;0.5%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;FL/200 ML&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;3,560&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;2,380&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;66,85%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;DOGMATIL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;0.5%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;FL/200 ML&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;4,165&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;2,380&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;57,14%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;DOPRID 50&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;50 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;4,300&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;3,647&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;84,80%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;SULPIRIL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;50 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;4,320&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;3,647&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;84,41%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;DOGMACARE&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;50 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;5,510&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;3,647&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;66,18%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;DOGMATIL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;50 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;5,795&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;3,647&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;62,92%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row11_col0&quot; class=&quot;data row11 col0&quot;&gt;SINAPRID&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col1&quot; class=&quot;data row11 col1&quot;&gt;50 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col2&quot; class=&quot;data row11 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col3&quot; class=&quot;data row11 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col4&quot; class=&quot;data row11 col4&quot;&gt;7,060&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col5&quot; class=&quot;data row11 col5&quot;&gt;3,647&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col6&quot; class=&quot;data row11 col6&quot;&gt;51,65%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row11_col7&quot; class=&quot;data row11 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row12_col0&quot; class=&quot;data row12 col0&quot;&gt;SINAPRID&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col1&quot; class=&quot;data row12 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col2&quot; class=&quot;data row12 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col3&quot; class=&quot;data row12 col3&quot;&gt;B/10&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col4&quot; class=&quot;data row12 col4&quot;&gt;7,435&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col5&quot; class=&quot;data row12 col5&quot;&gt;6,316&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col6&quot; class=&quot;data row12 col6&quot;&gt;84,94%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row12_col7&quot; class=&quot;data row12 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e5b72_row13_col0&quot; class=&quot;data row13 col0&quot;&gt;DOGMATIL&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col1&quot; class=&quot;data row13 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col2&quot; class=&quot;data row13 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col3&quot; class=&quot;data row13 col3&quot;&gt;B/12&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col4&quot; class=&quot;data row13 col4&quot;&gt;9,750&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col5&quot; class=&quot;data row13 col5&quot;&gt;7,579&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col6&quot; class=&quot;data row13 col6&quot;&gt;77,73%&lt;/td&gt;
+      &lt;td id=&quot;T_e5b72_row13_col7&quot; class=&quot;data row13 col7&quot;&gt;SULPIRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/sulpiride.html</link>
+            <guid isPermaLink="true">http://localhost:4000/sulpiride.html</guid>
+            
+            <category>neuroleptiques</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Amisulpride</title>
+            <description>&lt;h2 id=&quot;amisulpride-100-200-et-400-mg-comprimés&quot;&gt;Amisulpride 100, 200 et 400 mg Comprimés:&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_amisulpride_row0_col4, #T_amisulpride_row1_col4, #T_amisulpride_row2_col4, #T_amisulpride_row5_col4, #T_amisulpride_row6_col4, #T_amisulpride_row7_col4, #T_amisulpride_row8_col4, #T_amisulpride_row9_col4, #T_amisulpride_row10_col4, #T_amisulpride_row11_col4, #T_amisulpride_row12_col4 {
+  background-color: lightgreen;
+}
+#T_amisulpride_row3_col4, #T_amisulpride_row14_col4 {
+  background-color: lightcoral;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_amisulpride&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_amisulpride_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SOLARID 100&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;26,150&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,872&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;22,210&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;84,93%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ZOFRID&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;30,290&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,010&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;22,210&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;73,33%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;ZOLEN&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;32,035&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,068&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;22,210&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;69,33%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;SOLIAN&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;100 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;59,885&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;1,996&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;22,210&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;37,09%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;ZOLEN&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;30,705&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;1,535&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;18,632&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;60,68%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;AMIPRIDE 200&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;34,765&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;1,159&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;27,948&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;80,39%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;ZOFRID&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;34,765&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;1,159&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;27,948&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;80,39%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;SOLARID&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;36,580&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;1,219&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;27,948&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;76,40%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;SOLARID&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;65,775&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;1,096&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;55,896&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;84,98%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;ZOLEN&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;200 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;85,035&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;1,417&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;55,896&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;65,73%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;ZOFRID&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;400 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;64,515&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;2,151&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;54,825&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;84,98%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row10_col8&quot; class=&quot;data row10 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col0&quot; class=&quot;data row11 col0&quot;&gt;SOLARID 400&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col1&quot; class=&quot;data row11 col1&quot;&gt;400 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col2&quot; class=&quot;data row11 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col3&quot; class=&quot;data row11 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col4&quot; class=&quot;data row11 col4&quot;&gt;73,925&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col5&quot; class=&quot;data row11 col5&quot;&gt;2,464&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col6&quot; class=&quot;data row11 col6&quot;&gt;54,825&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col7&quot; class=&quot;data row11 col7&quot;&gt;74,16%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row11_col8&quot; class=&quot;data row11 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col0&quot; class=&quot;data row12 col0&quot;&gt;AMIPRIDE400&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col1&quot; class=&quot;data row12 col1&quot;&gt;400 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col2&quot; class=&quot;data row12 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col3&quot; class=&quot;data row12 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col4&quot; class=&quot;data row12 col4&quot;&gt;81,750&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col5&quot; class=&quot;data row12 col5&quot;&gt;2,725&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col6&quot; class=&quot;data row12 col6&quot;&gt;54,825&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col7&quot; class=&quot;data row12 col7&quot;&gt;67,06%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row12_col8&quot; class=&quot;data row12 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col0&quot; class=&quot;data row13 col0&quot;&gt;ZOLEN&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col1&quot; class=&quot;data row13 col1&quot;&gt;400 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col2&quot; class=&quot;data row13 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col3&quot; class=&quot;data row13 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col4&quot; class=&quot;data row13 col4&quot;&gt;90,420&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col5&quot; class=&quot;data row13 col5&quot;&gt;3,014&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col6&quot; class=&quot;data row13 col6&quot;&gt;54,825&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col7&quot; class=&quot;data row13 col7&quot;&gt;60,63%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row13_col8&quot; class=&quot;data row13 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col0&quot; class=&quot;data row14 col0&quot;&gt;SOLIAN&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col1&quot; class=&quot;data row14 col1&quot;&gt;400 mg&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col2&quot; class=&quot;data row14 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col3&quot; class=&quot;data row14 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col4&quot; class=&quot;data row14 col4&quot;&gt;173,055&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col5&quot; class=&quot;data row14 col5&quot;&gt;5,769&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col6&quot; class=&quot;data row14 col6&quot;&gt;54,825&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col7&quot; class=&quot;data row14 col7&quot;&gt;31,68%&lt;/td&gt;
+      &lt;td id=&quot;T_amisulpride_row14_col8&quot; class=&quot;data row14 col8&quot;&gt;AMISULPRIDE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Wed, 28 Aug 2024 00:00:00 +0100</pubDate>
+            <link>http://localhost:4000/amisulpride.html</link>
+            <guid isPermaLink="true">http://localhost:4000/amisulpride.html</guid>
+            
+            <category>neuroleptiques</category>
             
             
         </item>

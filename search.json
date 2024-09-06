@@ -2,6 +2,15 @@
 [
 
 {
+"title": "Tous les Tags",
+"tags": "",
+"keywords": "",
+"url": "all_tags.html",
+"summary": ""
+}
+,
+
+{
 "title": "Changements",
 "tags": "",
 "keywords": "changements",
@@ -64,6 +73,566 @@
 "keywords": "kayexalate , polystyrene sulfonate de sodium",
 "url": "kayexalate.html",
 "summary": "Il est utilisé par voie orale ou en lavement comme échangeur d'ions (potassium contre sodium) en cas d'hyperkaliémie."
+}
+,
+
+
+{
+"title": "Zeldox (Ziprasidone)",
+"tags": "neuroleptiques",
+"keywords": "zeldox, ziprasidone",
+"url": "ziprasidone.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Risperidone",
+"tags": "neuroleptiques",
+"keywords": "risdone 2, respirox, risperidone-teriak, raxidone, risper oro, risperdal, risdone 4, risperidone teriak, risdone, risperidone",
+"url": "risperidone.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Orap (Pimozide)",
+"tags": "neuroleptiques",
+"keywords": "orap, pimozide",
+"url": "pimozide.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Olanzapine",
+"tags": "neuroleptiques",
+"keywords": "oroza, vaincor, polar, oroza 5, pranza, olanza 5, olanzia oro, oroza10, olanza 10, oroza 20, olanzapine",
+"url": "olanzapine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Leponex (Clozapine)",
+"tags": "neuroleptiques",
+"keywords": "leponex, clozapine",
+"url": "clozapine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Aripiprazole",
+"tags": "neuroleptiques",
+"keywords": "abilify, abilicare, aripiprazole",
+"url": "aripiprazole.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Tiapridal (Tiapride)",
+"tags": "neuroleptiques",
+"keywords": "tiapridal, tiapride",
+"url": "tiapride.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Sulpiride",
+"tags": "neuroleptiques",
+"keywords": "sedatyl, doprid 100, dogmatil, sinaprid, doprid per os, sulpiril, doprid 50, dogmacare, sulpiride",
+"url": "sulpiride.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Amisulpride",
+"tags": "neuroleptiques",
+"keywords": "solarid 100, zofrid, zolen, solian, amipride 200, solarid, solarid 400, amipride400, amisulpride",
+"url": "amisulpride.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Dipiperon (Pipamperone)",
+"tags": "neuroleptiques",
+"keywords": "dipiperon, pipamperone",
+"url": "pipamperone.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Halopéridol",
+"tags": "neuroleptiques",
+"keywords": "haldol, halidol, neurodol, haldol decanoas, haloperidol",
+"url": "haloperidol.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Neuleptil (Propericiazine)",
+"tags": "neuroleptiques",
+"keywords": "neuleptil, propericiazine",
+"url": "propericiazine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Piportil (Pipotiazine)",
+"tags": "neuroleptiques",
+"keywords": "piportil, pipotiazine",
+"url": "pipotiazine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Levomepromazine",
+"tags": "neuroleptiques",
+"keywords": "levomepromazine 25, levomepromazine 100, nozinan, levomepromazine",
+"url": "levomepromazine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Chlorpromazine",
+"tags": "neuroleptiques",
+"keywords": "chlorpromazine, largactil",
+"url": "chlorpromazine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Meprobamate",
+"tags": "sedatif",
+"keywords": "meprobamate",
+"url": "meprobamate.html",
+"summary": "Anxiolytique et Hypnotique"
+}
+,
+
+
+{
+"title": "Atarax (Hydroxyzine)",
+"tags": "sedatif",
+"keywords": "atarax, hydroxyzine",
+"url": "hydroxyzine.html",
+"summary": "Anxiolytique (antagoniste aux récepteurs H1 de l'histamine)"
+}
+,
+
+
+{
+"title": "Lysanxia (Prazepam)",
+"tags": "sedatifbzd",
+"keywords": "lysanxia, prazepam",
+"url": "prazepam.html",
+"summary": "Anxiolytique"
+}
+,
+
+
+{
+"title": "Diazepam",
+"tags": "sedatifbzd",
+"keywords": "diazepam",
+"url": "diazepam.html",
+"summary": "Anxiolytique et Hypnotique"
+}
+,
+
+
+{
+"title": "Tranxene (Clorazepate Dipotassique)",
+"tags": "sedatifbzd",
+"keywords": "tranxene, clorazepate dipotassique",
+"url": "clorazepate.html",
+"summary": "Anxiolytique"
+}
+,
+
+
+{
+"title": "Seresta (Oxazepam)",
+"tags": "sedatifbzd",
+"keywords": "seresta, oxazepam",
+"url": "oxazepam.html",
+"summary": "Anxiolytique et hypnotique"
+}
+,
+
+
+{
+"title": "Temesta (Lorazepam)",
+"tags": "sedatifbzd",
+"keywords": "temesta, lorazepam",
+"url": "lorazepam.html",
+"summary": "Anxiolytique"
+}
+,
+
+
+{
+"title": "Urbanyl (Clobazam)",
+"tags": "sedatifbzd",
+"keywords": "urbanyl, clobazam",
+"url": "clobazam.html",
+"summary": "Anxiolytique, Hypnotique, Sedatif"
+}
+,
+
+
+{
+"title": "Bromazepam",
+"tags": "sedatifbzd",
+"keywords": "diroxyl, anxiomyl, lexomil, bromazepam",
+"url": "bromazepam.html",
+"summary": "Anxiolytique et Hypnotique"
+}
+,
+
+
+{
+"title": "Xanax retard (Alprazolam)",
+"tags": "sedatifbzd",
+"keywords": "xanax retard, alprazolam",
+"url": "alprazolam.html",
+"summary": "Anxiolytique D'action rapide"
+}
+,
+
+
+{
+"title": "Stablon (Tianeptine)",
+"tags": "antidepresseurstricycliques",
+"keywords": "stablon, tianeptine",
+"url": "tianeptine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Teralithe (Lithium Carbonate)",
+"tags": "antidepresseurs",
+"keywords": "teralithe, lithium carbonate",
+"url": "lithium.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Sertraline",
+"tags": "antidepresseursisrs",
+"keywords": "serval, sertraline sanofi, zolit, solotik, zoloft, netral 50, netral, sertraline",
+"url": "sertraline.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Paroxetine",
+"tags": "antidepresseursisrs",
+"keywords": "paroxine, parexat, deproxyl, deroxat, humoxat, divarius, paroxetine",
+"url": "paroxetine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Floxyfral (Fluvoxamine)",
+"tags": "antidepresseursisrs",
+"keywords": "floxyfral, fluvoxamine",
+"url": "fluvoxamine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Fluoxetine",
+"tags": "antidepresseursisrs",
+"keywords": "dinalexin, prozac, serotyl, anxetin, rosal, fluoxetine",
+"url": "fluoxetine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Escitalopram",
+"tags": "antidepresseursisrs",
+"keywords": "seroplex, mediprex, esoprex, cibramine 10, retabliss, scitoplex 10, purlex, cibramine 20, serotonyl, escitalopram",
+"url": "escitalopram.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Celopram (Citalopram)",
+"tags": "antidepresseursisrs",
+"keywords": "celopram, citalopram",
+"url": "citalopram.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Venlafaxine",
+"tags": "antidepresseurs",
+"keywords": "tedema, zenexor lp, tedema lp, effexor lp, venlafaxine",
+"url": "venlafaxine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Surmontil (Trimipramine)",
+"tags": "antidepresseurstricycliques",
+"keywords": "surmontil, trimipramine",
+"url": "trimipramine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Mirazine (Mirtazapine)",
+"tags": "antidepresseurstricycliques",
+"keywords": "mirazine, mirtazapine",
+"url": "mirtazapine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Clomipramine",
+"tags": "antidepresseurstricycliques",
+"keywords": "anafranil, clomipramine merck, anafranil 75 mg, clomipramine",
+"url": "clomipramine.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Amitriptyline",
+"tags": "antidepresseurstricycliques",
+"keywords": "amytril 10, amytril 25, laroxyl, amitriptyline",
+"url": "amitriptyline.html",
+"summary": "Antidépresseurs"
+}
+,
+
+
+{
+"title": "Parkizol (Trihexyphenidyle) et Akineton (Biperidene)",
+"tags": "antiparkinsonien",
+"keywords": "parkizol, trihexyphenidyle, akineton lp, biperidene",
+"url": "anticholinergiques.html",
+"summary": "Traitement de Maladie de Parkinson: Les anticholinergiques à action centrale sont le plus souvent associés à la lévodopa pour lutter contre le tremblement et la rigidité."
+}
+,
+
+
+{
+"title": "Amantadine",
+"tags": "antiparkinsonien",
+"keywords": "amantex, amantadine",
+"url": "amantadine.html",
+"summary": "Traitement de Maladie de Parkinson"
+}
+,
+
+
+{
+"title": "Bromocriptine, Ropinirole, Pramipexole et Piribedil",
+"tags": "antiparkinsonien",
+"keywords": "ronalin, bromocriptine, requip, ropinirole, pexol, sifrol, pramipexole, trivastal 50 mg lp, piribedil",
+"url": "agoniste-dopa.html",
+"summary": "Traitement de Maladie de Parkinson: La Bromocriptine , le Ropinirole et le Pramipexole sont des agonistes dopaminergiques le plus souvent utilisés en association à la lévodopa permettant d'en diminuer les doses."
+}
+,
+
+
+{
+"title": "Madopar (Levodopa + Benserazide)",
+"tags": "antiparkinsonien",
+"keywords": "madopar, benserazide + levodopa",
+"url": "benserazide-levodopa.html",
+"summary": "Traitement de Maladie de Parkinson: La lévodopa, un précurseur de la dopamine, est pratiquement toujours associée à un inhibiteur de la dopadécarboxylase périphérique afin de diminuer les effets indésirables de la dopamine"
+}
+,
+
+
+{
+"title": "Levetiracetam",
+"tags": "antiepileptique",
+"keywords": "antiomal 250, epixx, vetira, epitam, antiomal 500, epilepta, levet, levetiracetam",
+"url": "levetiracetam.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Sabril (Vigabatrin)",
+"tags": "antiepileptique",
+"keywords": "sabril, vigabatrin",
+"url": "vigabatrin.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Pregabaline 75 mg",
+"tags": "antiepileptique",
+"keywords": "nergesic, adontag, neuryl, gabamim, lydol, nervica, pregab, prerica, lyrica, aciryl, neuromed, dolicasaiph, edgar, pregabaline",
+"url": "pregabaline-75-mg.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Pregabaline 150 mg",
+"tags": "antiepileptique",
+"keywords": "lydol, adontag, neuryl, nergesic, aciryl, neuromed, edgar, pregab, prerica,  nervica, lyrica, dolicasaiph, gabamim, pregabaline",
+"url": "pregabaline-150-mg.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Lamotrigine",
+"tags": "antiepileptique",
+"keywords": "lamictal, lamilep, lamotrigine",
+"url": "lamotrigine.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Gabapentine",
+"tags": "antiepileptique",
+"keywords": "gabentin, gaborex, gabinor, gaba 300, neuralgin, gabapentine",
+"url": "gabapentine.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Clonazepam",
+"tags": "antiepileptiquebzd",
+"keywords": "aklonil, pms clonazepam, clonazepam",
+"url": "clonazepam.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Diphantoine (Phenytoine)",
+"tags": "antiepileptique",
+"keywords": "diphantoine, phenytoine",
+"url": "phenytoine.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Phenobarbital",
+"tags": "antiepileptique",
+"keywords": "phenobarbital 50, gardenal, bialminal, phenobarbital",
+"url": "phenobarbital.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Carbamazepine",
+"tags": "antiepileptique",
+"keywords": "carbatol, taver, tegretol lp, tegretol, carbamazepine",
+"url": "carbamazepine.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Depamide (Valpromide)",
+"tags": "antiepileptique",
+"keywords": "depamide, valpromide",
+"url": "valpromide.html",
+"summary": "Traitement de l'epilepsie (en association avec un autre antiepileptique) et des troubles bipolaires"
+}
+,
+
+
+{
+"title": "Acide Valproique",
+"tags": "antiepileptique",
+"keywords": "depakine, depakine chrono, valoxine, acide valproique, tripakine lp saiph, valproate de sodium viatris, valproate de sodium",
+"url": "acide-valproique.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Lidocaine",
+"tags": "anesthesique",
+"keywords": "lidoca, unicaine, lidocaine",
+"url": "lidocaine.html",
+"summary": "Anesthésiques"
+}
+,
+
+
+{
+"title": "Lidocaine + Prilocaine Crème Dermique",
+"tags": "anesthesique",
+"keywords": "prilia, lidoca plus, lidocaine, prilocaine",
+"url": "lidocaine-prilocaine.html",
+"summary": "Anesthésiques"
 }
 ,
 
@@ -2144,6 +2713,16 @@
 "keywords": "nexus, stelar, esocalm, esomeprazole zentiva, enomeral 20, esocare, mesopral, ippsium 20, inexium, rugdal, actipp, esoral, nexium 20 mg",
 "url": "esomeprazole.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
+}
+,
+
+
+{
+"title": "Durogesic (Fentanyl)",
+"tags": "analgesiqueopiace",
+"keywords": "durogesic, fentanyl",
+"url": "fentanyl.html",
+"summary": "Douleurs chroniques, permanentes sévères résistantes aux autres analgésiques, en particulier les douleurs d'origine cancéreuse."
 }
 ,
 
