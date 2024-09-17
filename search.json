@@ -68,11 +68,91 @@
 
 
 {
-"title": "Kayexalate (Polystyrene Sulfonate de Sodium)",
+"title": "Tamoxifene",
+"tags": "antineoplasiqueshormoneshormones-sexuelles",
+"keywords": "tamifen, tamoxifene mylan, ebefen, tamoxifene",
+"url": "tamoxifene.html",
+"summary": "Traitement du carcinome mammaire"
+}
+,
+
+
+{
+"title": "Arava (Leflunomide)",
+"tags": "antineoplasiquesimmunosuppresseurs",
+"keywords": "arava, leflunomide",
+"url": "leflunomide.html",
+"summary": "Traitement antitumoral"
+}
+,
+
+
+{
+"title": "Azathioprine",
+"tags": "antineoplasiquesimmunosuppresseurs",
+"keywords": "azathioprine aqvida, azathioprine mylan, imurek, imurel, azathioprine",
+"url": "azathioprine.html",
+"summary": "Traitement antitumoral"
+}
+,
+
+
+{
+"title": "Methotrexate",
+"tags": "antineoplasiques",
+"keywords": "ebetrexat, methotrexate ebewe, methotrexate, methotrexate",
+"url": "methotrexate.html",
+"summary": "Traitement antitumoral"
+}
+,
+
+
+{
+"title": "Méthylergométrine",
 "tags": "",
-"keywords": "kayexalate , polystyrene sulfonate de sodium",
-"url": "kayexalate.html",
-"summary": "Il est utilisé par voie orale ou en lavement comme échangeur d'ions (potassium contre sodium) en cas d'hyperkaliémie."
+"keywords": "methergin, metrol, methylergometrine",
+"url": "methylergometrine.html",
+"summary": "Prévention et traitement de l'hypotonie utérine et des hémorragies du post-partum"
+}
+,
+
+
+{
+"title": "Abufene (Beta-alanine)",
+"tags": "",
+"keywords": "abufene, beta-alanine",
+"url": "beta-alanine.html",
+"summary": "Contre les bouffées de chaleur de la ménopause"
+}
+,
+
+
+{
+"title": "Médicaments de l&#39;Impuissance",
+"tags": "impuissance",
+"keywords": "yohimbine, yohimbine chlorhydrate",
+"url": "impuissance.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Médicaments de l&#39;Hypertrophie Bénigne de la Prostate",
+"tags": "hypertrophie-prostate",
+"keywords": "xatral, xaprost lp, xatral lp, alfuzosine, cardox, doxazosine, prostam l.p., mecir lp, omnic ocas, prostam l.p, tamsulosine, urorec, silodosine, chibro-proscar, avodart, finasteride, dutasteride, permixon, serenoa repens",
+"url": "hypertrophie-prostate.html",
+"summary": "Traitement de l'Hypertrophie Bénigne de la Prostate"
+}
+,
+
+
+{
+"title": "Médicaments de l&#39;instabilité vésicale: Oxybutynine, Tolterodine et Solifenacine Succinate",
+"tags": "instabilite-vessie",
+"keywords": "solficine, uricare, solicare, vesicare, solifenacine succinate, oxybtan, oxybutynine, detrusitol retard, tolterodine",
+"url": "instabilite-vessie.html",
+"summary": "Traitement de l'incontinence urinaire, de l'impériosité et de la pollakiurie pouvant résulter d'une hyperactivité vésicale idiopathique ou d'atteintes vésicales neurogènes"
 }
 ,
 
@@ -478,9 +558,9 @@
 
 
 {
-"title": "Bromocriptine, Ropinirole, Pramipexole et Piribedil",
+"title": "Bromocriptine, Cabergoline, Ropinirole, Pramipexole et Piribedil",
 "tags": "antiparkinsonien",
-"keywords": "ronalin, bromocriptine, requip, ropinirole, pexol, sifrol, pramipexole, trivastal 50 mg lp, piribedil",
+"keywords": "ronalin, bromocriptine, requip, ropinirole, pexol, sifrol, pramipexole, trivastal 50 mg lp, piribedil, hypolactine, cabergol, prolact, caberlex 0.5, dostinex, cabergoline",
 "url": "agoniste-dopa.html",
 "summary": "Traitement de Maladie de Parkinson: La Bromocriptine , le Ropinirole et le Pramipexole sont des agonistes dopaminergiques le plus souvent utilisés en association à la lévodopa permettant d'en diminuer les doses."
 }
@@ -693,6 +773,356 @@
 "keywords": "imigran, sumatriptane",
 "url": "sumatriptane.html",
 "summary": "Traitement des crises de migraine"
+}
+,
+
+
+{
+"title": "Ozothine",
+"tags": "antitussifs",
+"keywords": "ozothine a la diprophylline enfants, ozothine diprophylline adultes, essence de terebenthine",
+"url": "ozothine.html",
+"summary": "Traitement de la toux"
+}
+,
+
+
+{
+"title": "Mizollen (Mizolastatine)",
+"tags": "antihistaminiques-h1",
+"keywords": "mizollen, mizolastatine",
+"url": "mizolastatine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire."
+}
+,
+
+
+{
+"title": "Loratadine",
+"tags": "antihistaminiques-h1",
+"keywords": "loradine, histadine, restamine, oramine, loratadine",
+"url": "loratadine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Levocetirizine",
+"tags": "antihistaminiques-h1",
+"keywords": "alezine, levorgica, xyzall, levofast, levostamine, allergy-stop, xylix, levocetirizine",
+"url": "levocetirizine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Fexofenadine",
+"tags": "antihistaminiques-h1",
+"keywords": "allergyfast, telfast, fexofenadine",
+"url": "fexofenadine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Desloratadine",
+"tags": "antihistaminiques-h1",
+"keywords": "allergus, deslor, desloryne 5, clarius, lorinex, histam, aerius, desloratadine genepharm, desloryne5, desloratadine",
+"url": "desloratadine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Cetirizine",
+"tags": "antihistaminiques-h1",
+"keywords": "allertec, c-tolerge, allergica, virlix, zyrtec, cetrix, arhin, cetolerge, cetirizine",
+"url": "cetirizine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Promethazine",
+"tags": "antihistaminiques-h1",
+"keywords": "promethazine",
+"url": "promethazine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Mequitazine",
+"tags": "antihistaminiques-h1",
+"keywords": "primalan, primalan fort., mequitazine",
+"url": "mequitazine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Ketotifene",
+"tags": "antihistaminiques-h1",
+"keywords": "tefanyl, ketin, ketotifene simed, ketotifene",
+"url": "ketotifene.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Nautamine (Diphenhydramine)",
+"tags": "antihistaminiques-h1",
+"keywords": "nautamine, diphenhydramine",
+"url": "diphenhydramine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire. Prévention du mal de transport"
+}
+,
+
+
+{
+"title": "Dexchlorpheniramine",
+"tags": "antihistaminiques-h1",
+"keywords": "denir, allergamine, dexchlorpheniramine",
+"url": "dexchlorpheniramine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Cyproheptadine",
+"tags": "antihistaminiques-h1",
+"keywords": "ciptadine, cipractine, cyproheptadine",
+"url": "cyproheptadine.html",
+"summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
+}
+,
+
+
+{
+"title": "Nasacort: Triamcinolone Suspension Nasale",
+"tags": "rhinitescorticoides-a-inhaler",
+"keywords": "nasacort, triamcinolone",
+"url": "triamcinolone-nasal.html",
+"summary": "Traitement de la rhinite allergique"
+}
+,
+
+
+{
+"title": "Mometasone Suspension Nasale",
+"tags": "rhinitescorticoides-a-inhaler",
+"keywords": "nasomet, mesone, risomax, nasonex, mometasone",
+"url": "mometasone.html",
+"summary": "Traitement de la rhinite allergique"
+}
+,
+
+
+{
+"title": "Fluticasone Suspension Nasale",
+"tags": "rhinitescorticoides-a-inhaler",
+"keywords": "avamys, flutica, perinase, flutisone, rinosal, flixonase, fluticasone",
+"url": "fluticasone-nasal.html",
+"summary": "Traitement de la rhinite allergique"
+}
+,
+
+
+{
+"title": "Budesonide Suspension Nasale",
+"tags": "rhinitescorticoides-a-inhaler",
+"keywords": "desonid, cortinase, budena, rhinocort, budesonide",
+"url": "budesonide-nasal.html",
+"summary": "Traitement de la rhinite allergique"
+}
+,
+
+
+{
+"title": "Beclometasone Suspension Nasale",
+"tags": "rhinitescorticoides-a-inhaler",
+"keywords": "beconase, rinoclenil, beclometasone",
+"url": "beclometasone-nasal.html",
+"summary": "Traitement de la rhinite allergique"
+}
+,
+
+
+{
+"title": "Montelukast",
+"tags": "antiasthmatiques",
+"keywords": "onceair, singulair, moncas, montelukast mylan, asmulair, astair, montelukast",
+"url": "montelukast.html",
+"summary": "Traitement de l'asthme"
+}
+,
+
+
+{
+"title": "Association de bronchodilatateurs",
+"tags": "anticholinergiquessympathicomimetiquesbronchodilatateurs",
+"keywords": "spiolto respimat, tiotropium + olodaterol, bronchodual, fenoterol + ipratropium, ultibro breezhaler, glycopyrronium bromide + indacaterol",
+"url": "association-bronchodilatateurs.html",
+"summary": "Traitement de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Association Salmeterol + Fluticasone",
+"tags": "sympathicomimetique-corticosteroidebronchodilatateursanti-inflammatoire",
+"keywords": "cyvax, seretide, seretide diskus, rolenium, fluticasone propionate + salmeterol",
+"url": "salmeterol-fluticasone.html",
+"summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Association Budesonide + Formoterol",
+"tags": "sympathicomimetique-corticosteroidebronchodilatateursanti-inflammatoire",
+"keywords": "notos combi, combifor, symbicort turbuhaler, budesonide, formoterol",
+"url": "budesonide-formoterol.html",
+"summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Foster: Association Beclometasone + Formoterol",
+"tags": "sympathicomimetique-corticosteroidebronchodilatateursanti-inflammatoire",
+"keywords": "foster, beclomethasone, formoterol, beclometasone",
+"url": "beclometasone-formoterol.html",
+"summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Fluticasone",
+"tags": "corticoides-a-inhaleranti-inflammatoire",
+"keywords": "erva, flixotide 50, flixotide diskus 250, fluticapen, fluticasone",
+"url": "fluticasone.html",
+"summary": "Traitement d'entretien de l'asthme"
+}
+,
+
+
+{
+"title": "Budesonide",
+"tags": "corticoides-a-inhaleranti-inflammatoire",
+"keywords": "bercum, pulmicort, aeronide, eolide easy flow, miflonide breezhaleer, miflonide breezhaler, budesonide",
+"url": "budesonide.html",
+"summary": "Traitement d'entretien de l'asthme"
+}
+,
+
+
+{
+"title": "Beclometasone",
+"tags": "corticoides-a-inhaleranti-inflammatoire",
+"keywords": "cortis, beclo-asma, cortis 250 µg, clenil 250 µg, beclojet 250, miflasone, beclometasone, beclomethasone",
+"url": "beclometasone.html",
+"summary": "Traitement d'entretien de l'asthme"
+}
+,
+
+
+{
+"title": "Théophylline",
+"tags": "theophyllinebronchodilatateurs",
+"keywords": "bronchofyline lp, dilatrane, theophylline, theophylline",
+"url": "theophylline.html",
+"summary": "Traitement d'entretien de l'asthme"
+}
+,
+
+
+{
+"title": "Tiotropium",
+"tags": "anticholinergiquesbronchodilatateurs",
+"keywords": "xtiova easy flow, spiriva, tiotropium",
+"url": "tiotropium.html",
+"summary": "Traitement de la bronchopneumopathie chronique obstructive et de l'asthme"
+}
+,
+
+
+{
+"title": "Bromure d&#39;Ipratropium",
+"tags": "anticholinergiquesbronchodilatateurs",
+"keywords": "iprovent enfant, ipratropium aguettant, iprovent adulte, bromure d'ipratropium",
+"url": "ipratropium.html",
+"summary": "Traitement de l'asthme aigu grave et des poussées de bronchopneumopathie chronique obstructive, en association avec un beta-2-mimétique d'action rapide"
+}
+,
+
+
+{
+"title": "Seebri Breezhaler (Bromure de Glycopyrronium)",
+"tags": "anticholinergiquesbronchodilatateurs",
+"keywords": "seebri breezhaler, glycopyrronium bromide, bromure de glycopyrronium",
+"url": "glycopyrronium-bromide.html",
+"summary": "Traitement de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Sybrol (Salmeterol)",
+"tags": "sympathicomimetiquesbronchodilatateurs",
+"keywords": "sybrol, salmeterol",
+"url": "salmeterol.html",
+"summary": "Traitement d'entretien de l'asthme. Traitement de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Onbrez Breezhaler (Indacaterol)",
+"tags": "sympathicomimetiquesbronchodilatateurs",
+"keywords": "onbrez breezhaler, indacaterol",
+"url": "indacaterol.html",
+"summary": "Traitement de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Formoterol",
+"tags": "sympathicomimetiquesbronchodilatateurs",
+"keywords": "raforex, atimos, notos easy flow, aerofor, foradil, formopen, formoterol",
+"url": "formoterol.html",
+"summary": "Traitement d'entretien de l'asthme. Traitement de la bronchopneumopathie chronique obstructive"
+}
+,
+
+
+{
+"title": "Terbutaline",
+"tags": "sympathicomimetiquesbronchodilatateurs",
+"keywords": "talin, bricanyl lp, betanyl, bricanyl turbuhaler, terbutaline simed, terbutaline",
+"url": "terbutaline.html",
+"summary": "Traitement de la crise d'asthme"
+}
+,
+
+
+{
+"title": "Salbutamol",
+"tags": "sympathicomimetiquesbronchodilatateurs",
+"keywords": "albutol, ventaxx, aerol, salbumol, salbutamol simed, salbutamol",
+"url": "salbutamol.html",
+"summary": "Traitement de la crise d'asthme"
 }
 ,
 
@@ -1538,6 +1968,16 @@
 
 
 {
+"title": "Amlodipine 5 mg",
+"tags": "anti-hypertenseurantagoniste-calcium",
+"keywords": "amlor, amlotens, amlodipine medis, lodipex 5, tensynel, amlodep, lowrac, amlodipine zentiva, amlodis, lodepine, mibral, cardepine, amlodipine",
+"url": "amlodipine-5.html",
+"summary": "Traitement de l'hypertension artérielle et de l'angor"
+}
+,
+
+
+{
 "title": "Amlodipine 10 mg",
 "tags": "anti-hypertenseurantagoniste-calcium",
 "keywords": "amlotens, amlodipine medis, lodipex 10, tensynel, mibral, lowrac, lodepine, amlodis, amlodipine zentiva, amlor, cardepine, mibral 10, amlodipine",
@@ -1548,11 +1988,11 @@
 
 
 {
-"title": "Amlodipine 5 mg",
-"tags": "anti-hypertenseurantagoniste-calcium",
-"keywords": "amlor, amlotens, amlodipine medis, lodipex 5, tensynel, amlodep, lowrac, amlodipine zentiva, amlodis, lodepine, mibral, cardepine, amlodipine",
-"url": "amlodipine-5.html",
-"summary": "Traitement de l'hypertension artérielle et de l'angor"
+"title": "Kayexalate (Polystyrene Sulfonate de Sodium)",
+"tags": "",
+"keywords": "kayexalate , polystyrene sulfonate de sodium",
+"url": "kayexalate.html",
+"summary": "Il est utilisé par voie orale ou en lavement comme échangeur d'ions (potassium contre sodium) en cas d'hyperkaliémie."
 }
 ,
 
@@ -1678,21 +2118,241 @@
 
 
 {
-"title": "Sulfasalazine et Mesalazine",
-"tags": "anti-inflammatoire-intes",
-"keywords": "salazopyrine, cinkasa, pentasa, mesatec",
-"url": "sulfasalazine-mesalazine.html",
-"summary": "Traitement des affections inflammatoires des Intestins: Maladie de Crohn et Recto-Colites."
+"title": "Gonadotrophines",
+"tags": "hormones-sexuelles",
+"keywords": "",
+"url": "fsh-lh.html",
+"summary": ""
 }
 ,
 
 
 {
-"title": "Dapagliflozine",
-"tags": "autres-diabetediabete",
-"keywords": "inovia5, divinus, inovia 5, forxiga, inovia10, inovia 10, dapagliflozine",
-"url": "dapagliflozine.html",
-"summary": "Traitement du diabète de type 2"
+"title": "Danatrol (Danazol)",
+"tags": "hormones-sexuelles",
+"keywords": "danatrol, danazol",
+"url": "danazol.html",
+"summary": "Traitement de l'endométriose"
+}
+,
+
+
+{
+"title": "Testosterone",
+"tags": "hormones-sexuelles",
+"keywords": "androtardyl, pantestone, testosterone",
+"url": "testosterone.html",
+"summary": "Traitement de l'hypogonadisme masculin"
+}
+,
+
+
+{
+"title": "Androcur (Cyproterone)",
+"tags": "hormones-sexuelles",
+"keywords": "androcur, cyproterone",
+"url": "cyproterone.html",
+"summary": "Antiandrogène: Traitement de certains cas d'hypersexualité et de cancer de la prostate chez l'homme, de l'hyperandrogénisme chez la femme et de la puberté précoce idiopathique des deux sexes"
+}
+,
+
+
+{
+"title": "Association Ethinylestradiol + Cyproterone",
+"tags": "hormones-sexuelles",
+"keywords": "elleacnelle, diane 35, cyproterone + ethinylestradiol",
+"url": "cyproterone-ethinylestradiol.html",
+"summary": "Traitement de l'acnée rebelle, de l'hirsutisme et de l'alopècie dues à un hyperandrogénisme chez la femme"
+}
+,
+
+
+{
+"title": "Microgynon (Ethinylestradiol + Levonorgestrel)",
+"tags": "hormones-sexuelles",
+"keywords": "microgynon 30, ethinylestradiol + levonorgestrel, estroprogestatif, oestroprogestatif",
+"url": "ethinylestradiol-levonorgestrel.html",
+"summary": "Association estroprogestative: Contraception orale"
+}
+,
+
+
+{
+"title": "Belara (Ethinylestradiol + Chlormadinone)",
+"tags": "hormones-sexuelles",
+"keywords": "belara, ethinylestradiol + chlormadinone, estroprogestatif, oestroprogestatif",
+"url": "ethinylestradiol-chlormadinone.html",
+"summary": "Association estroprogestative: Contraception orale"
+}
+,
+
+
+{
+"title": "Climaston (Estradiol + Dydrogestrone)",
+"tags": "hormones-sexuelles",
+"keywords": "climaston, estradiol + dydrogestrone, estroprogestatif, oestroprogestatif, dydrogesterone",
+"url": "estradiol-dydrogesterone.html",
+"summary": "Association estroprogestative. Traitement hormonal substitutif lors de la ménopause: traitement des symptômes qui accompagnent la baisse des taux d'estrogènes et prévention de l'ostéoporose postménopausique"
+}
+,
+
+
+{
+"title": "Levonorgestrel",
+"tags": "hormones-sexuelles",
+"keywords": "microval, microluton, levonorgestrel",
+"url": "levonorgestrel.html",
+"summary": "Progestatif: Contraception orale"
+}
+,
+
+
+{
+"title": "Moonia (Desogestrel)",
+"tags": "hormones-sexuelles",
+"keywords": "moonia, desogestrel",
+"url": "desogestrel.html",
+"summary": "Progestatif: Contraception orale"
+}
+,
+
+
+{
+"title": "Progesterone",
+"tags": "hormones-sexuelles",
+"keywords": "progesterone mylan, estima, utrogestan, progest 200, progest 400, progestogel, progesterone depot, progesterone",
+"url": "progesterone.html",
+"summary": "Traiter syndrome prémenstruel, dysménorrhée, endométriose, insuffisance lutéale, mastopathie fibrokystique, mastodynies, mastalgies. Réguler le cycle menstruel"
+}
+,
+
+
+{
+"title": "Primolut-Nor (Norethisterone)",
+"tags": "hormones-sexuelles",
+"keywords": "primolut-nor, norethisterone",
+"url": "norethisterone.html",
+"summary": "Progestatif. Indications:<br/>- Réguler le cycle menstruel. <br/>- syndrome prémenstruel<br/>- dysménorrhée<br/>- endométriose<br/>- insuffisance lutéale<br/>- mastopathie fibrokystique"
+}
+,
+
+
+{
+"title": "Nomegestrol",
+"tags": "hormones-sexuelles",
+"keywords": "nomegestrol stragen, nomegestrol",
+"url": "nomegestrol.html",
+"summary": "Progestatif: Réguler le cycle menstruel. Traiter dysménorrhée, endométriose, insuffisance lutéale, mastopathie fibrokystique"
+}
+,
+
+
+{
+"title": "Colprone (Medrogestone)",
+"tags": "hormones-sexuelles",
+"keywords": "colprone 5, medrogestone",
+"url": "medrogestone.html",
+"summary": "Progestatif: Réguler le cycle menstruel. Traiter syndrome prémenstruel, dysménorrhée, endométriose, insuffisance lutéale, mastopathie fibrokystique"
+}
+,
+
+
+{
+"title": "Duphaston (Dydrogesterone)",
+"tags": "hormones-sexuelles",
+"keywords": "duphaston, dydrogesterone",
+"url": "dydrogesterone.html",
+"summary": "Progestatif: Réguler le cycle menstruel. Traiter dysménorrhée, endométriose, insuffisance lutéale, mastopathie fibrokystique"
+}
+,
+
+
+{
+"title": "Clomifene",
+"tags": "hormones-sexuelles",
+"keywords": "citom, serpafar, clomifene",
+"url": "clomifene.html",
+"summary": "Traitement de la stérilité par anovulation ou dysovulation d'origine hypothalamique"
+}
+,
+
+
+{
+"title": "Estradiol",
+"tags": "hormones-sexuelles",
+"keywords": "oromone, estrado, oestrogel, estradiol, oestradiol",
+"url": "estradiol.html",
+"summary": "Traitement hormonal substitutif chez les femmes ménopausées ou après hystérectomie"
+}
+,
+
+
+{
+"title": "Cetrotide (Cetrorelix)",
+"tags": "hormoneshormones-sexuelles",
+"keywords": "cetrotide, cetrorelix",
+"url": "cetrorelix.html",
+"summary": "Prévention de l'ovulation prématurée dans le cadre de la reproduction assistée"
+}
+,
+
+
+{
+"title": "Minirin (Desmopressine)",
+"tags": "hormones",
+"keywords": "minirin, desmopressine",
+"url": "desmopressine.html",
+"summary": "Traitement du diabète insipide d'origine centrale. Traitement symptomatique de l'énurésie nocturne"
+}
+,
+
+
+{
+"title": "Glucagon",
+"tags": "hormones",
+"keywords": "glucagen hypokit, glucagon",
+"url": "glucagon.html",
+"summary": "Traitement des hypoglycémies sévères"
+}
+,
+
+
+{
+"title": "Thiamazole",
+"tags": "antithyroidiens",
+"keywords": "thyrozol, thiamazole uni-pharma, thiamazole",
+"url": "thiamazole.html",
+"summary": "Traitement de l'hyperthyroïdie"
+}
+,
+
+
+{
+"title": "Basdene (Benzylthiouracile)",
+"tags": "antithyroidiens",
+"keywords": "basdene, benzylthiouracile",
+"url": "benzylthiouracile.html",
+"summary": "Traitement de l'Hyperthyroïdie"
+}
+,
+
+
+{
+"title": "Levothyroxine",
+"tags": "hormones-thyroidiennes",
+"keywords": "levothyrox, thyrofix, berlthyrox, thyro-4, levothyroxine",
+"url": "levothyroxine.html",
+"summary": "Traitement de l'hypothyroïdie et de certaines formes de goitres et de thyroïdites"
+}
+,
+
+
+{
+"title": "Changements du 7 Mai 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-05-07.html",
+"summary": "Changements du 7 Mai 2024"
 }
 ,
 
@@ -1708,6 +2368,16 @@
 
 
 {
+"title": "Dapagliflozine",
+"tags": "autres-diabetediabete",
+"keywords": "inovia5, divinus, inovia 5, forxiga, inovia10, inovia 10, dapagliflozine",
+"url": "dapagliflozine.html",
+"summary": "Traitement du diabète de type 2"
+}
+,
+
+
+{
 "title": "Acarbose",
 "tags": "acarbosediabete",
 "keywords": "acarbose adwya, carboless 50, glycarbose, alpha-glucoff, glufix, acarlyse, glucor, carboless 100",
@@ -1718,20 +2388,20 @@
 
 
 {
-"title": "Metformine 1000 mg",
+"title": "Metformine 850 mg",
 "tags": "metforminediabete",
-"keywords": "diabitos, metformine sanofi, diabiphage, mefor, glucophage",
-"url": "metformine-1g.html",
+"keywords": "diabitos, metformine sanofi, dialon, glucophage, diaformine 850, metforal, diabiphage, mefor, formidiab, diabitos 850, stagid",
+"url": "metformine-850.html",
 "summary": "Traitement du diabète de type 2"
 }
 ,
 
 
 {
-"title": "Metformine 850 mg",
+"title": "Metformine 1000 mg",
 "tags": "metforminediabete",
-"keywords": "diabitos, metformine sanofi, dialon, glucophage, diaformine 850, metforal, diabiphage, mefor, formidiab, diabitos 850, stagid",
-"url": "metformine-850.html",
+"keywords": "diabitos, metformine sanofi, diabiphage, mefor, glucophage",
+"url": "metformine-1g.html",
 "summary": "Traitement du diabète de type 2"
 }
 ,
@@ -1763,16 +2433,6 @@
 "keywords": "glibenclamide 2.5, mi-diabenil, hemi-daonil, diabenyl, daonil, glibenclamide",
 "url": "glibenclamide.html",
 "summary": "Traitement du diabète de type 2. Les sulfamides hypoglycémiants stimulent la secrétion d'insuline"
-}
-,
-
-
-{
-"title": "Changements du 7 Mai 2024",
-"tags": "changements",
-"keywords": "",
-"url": "changements-2024-05-07.html",
-"summary": "Changements du 7 Mai 2024"
 }
 ,
 
@@ -1848,6 +2508,26 @@
 
 
 {
+"title": "Vitamines",
+"tags": "vitamines",
+"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacalcidol, vitamin e 100, vitamin e 200, vitamine a, vitamine A Faure",
+"url": "vitamines.html",
+"summary": "Vitamine D et dérivés, Vitamine E et Vitamine A."
+}
+,
+
+
+{
+"title": "Calcium",
+"tags": "mineraux",
+"keywords": "deflatine, calcemil, fixical, calcium sandoz, unimed, chlorure de calcium, calplus, calcitop, calcifast, calperos, tonucal, calciboise, densical",
+"url": "calcium.html",
+"summary": "Prévention et traitement de l'ostéoporose et des carences en calcium."
+}
+,
+
+
+{
 "title": "Diphosphonates (Alendronate, Risedronate et Ranelate de Strontium)",
 "tags": "sq",
 "keywords": "fosalen, fosalen d3, alendronate, colecalciferol, risonel, aktonate, ostenel, actonel, risedronate, protelos, ranelate de strontium",
@@ -1868,21 +2548,21 @@
 
 
 {
-"title": "Myorelaxants",
-"tags": "anti-inflammatoiresq",
-"keywords": "miorel, myolax, coltramyl, relaxil, thiomed, thiocolchicoside, liorefen, pms-baclofen, decontractyl, baclofene, mephenesine",
-"url": "myorelaxants.html",
-"summary": "Traitement des contractures musculaires douloureuses"
+"title": "Baclofene",
+"tags": "anti-spastiques",
+"keywords": "liorefen, pms-baclofen, baclofene",
+"url": "baclofene.html",
+"summary": "Traitement des contractures spastiques graves dans les maladies dégénératives de la moëlle épinière ou liées à des troubles vasculaires cérébraux"
 }
 ,
 
 
 {
-"title": "Acide Ursodesoxycholique",
-"tags": "lithiase",
-"keywords": "ursolvan, ursobilane",
-"url": "acide-ursodesoxycholique.html",
-"summary": "Dissolution des calculs biliaires de cholestérol et Traitement de la cirrhose biliaire primitive."
+"title": "Myorelaxants",
+"tags": "anti-inflammatoiresq",
+"keywords": "miorel, myolax, coltramyl, relaxil, thiomed, thiocolchicoside, decontractyl, mephenesine",
+"url": "myorelaxants.html",
+"summary": "Traitement des contractures musculaires douloureuses"
 }
 ,
 
@@ -1898,31 +2578,31 @@
 
 
 {
+"title": "Acide Ursodesoxycholique",
+"tags": "lithiase",
+"keywords": "ursolvan, ursobilane",
+"url": "acide-ursodesoxycholique.html",
+"summary": "Dissolution des calculs biliaires de cholestérol et Traitement de la cirrhose biliaire primitive."
+}
+,
+
+
+{
+"title": "Sulfasalazine et Mesalazine",
+"tags": "anti-inflammatoire-intes",
+"keywords": "salazopyrine, cinkasa, pentasa, mesatec",
+"url": "sulfasalazine-mesalazine.html",
+"summary": "Traitement des affections inflammatoires des Intestins: Maladie de Crohn et Recto-Colites."
+}
+,
+
+
+{
 "title": "Polyéthylène Glycol",
 "tags": "laxatif",
 "keywords": "fortrans",
 "url": "laxatif.html",
 "summary": "Lavage colique assurant la préparation des patients aux explorations endoscopiques, radiologiques et à la chirurgie colique."
-}
-,
-
-
-{
-"title": "Vitamines",
-"tags": "vitamines",
-"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacalcidol, vitamin e 100, vitamin e 200, vitamine a, vitamine A Faure",
-"url": "vitamines.html",
-"summary": "Vitamine D et dérivés, Vitamine E et Vitamine A."
-}
-,
-
-
-{
-"title": "Calcium",
-"tags": "mineraux",
-"keywords": "deflatine, calcemil, fixical, calcium sandoz, unimed, chlorure de calcium, calplus, calcitop, calcifast, calperos, tonucal, calciboise, densical",
-"url": "calcium.html",
-"summary": "Prévention et traitement de l'ostéoporose et des carences en calcium."
 }
 ,
 
@@ -2013,6 +2693,36 @@
 "keywords": "carbactive, carbophos, carbosylane, carbosylane enfant, charbon, siméthicone",
 "url": "charbon.html",
 "summary": "Traitement symptomatique de la diarrhée et des manifestations fonctionnelles intestinales, notamment avec météorisme. Traitement de certaines intoxications médicamenteuses"
+}
+,
+
+
+{
+"title": "Pharmatex (Benzalkonium Chlorure)",
+"tags": "",
+"keywords": "pharmatex, benzalkonium chlorure",
+"url": "benzalkonium.html",
+"summary": "Spermicide utilisé avec les préservatifs mécaniques et les dispositifs intra-utérins pour la contraception locale"
+}
+,
+
+
+{
+"title": "Antiseptiques gynécologiques",
+"tags": "antiseptiques-gynecologiques",
+"keywords": "betaseptine, betadine, amugyn, polyvidone iodee, hypochlorite de sodium",
+"url": "antiseptiques-gynecologiques.html",
+"summary": "Antisepsie gynécologique: vulvo-vaginites, toilette vulvaire et périnéale, préparation a l'accouchement"
+}
+,
+
+
+{
+"title": "Traitement local des vulvo-vaginites",
+"tags": "anti-mycosique",
+"keywords": "fongicil, ecozyl, ecorex, gyno pevaryl, gyno-perozyl, ecorex lp, econazole, mycoheal, miconazole, metrogyl, protogyl, vagilen, tamizol, flagyl, flamet, metronidazole, metronidazole opalia, meclon, metronidazole + clotrimazole, polygynax, tergynan, neomycine + nystatine + polymyxine b, metronidazole + neomycine + nystatine, nystatine",
+"url": "vulvo-vaginites.html",
+"summary": "Traitement local des mycoses vulvo-vaginales"
 }
 ,
 
@@ -2468,21 +3178,21 @@
 
 
 {
-"title": "Changements du 4 Mars 2024",
-"tags": "changements",
-"keywords": "",
-"url": "changements-2024-03-04.html",
-"summary": "Changements du 4 Mars 2024"
-}
-,
-
-
-{
 "title": "Association Amoxicilline + Acide Clavulanique 500 mg - 62,5 mg",
 "tags": "penicillineantibiotique",
 "keywords": "novaclav enfants, clavumox, amoclan, clavor, augmentin enfant, amoxi-clav sanofi adulte, clavor 500 (1:8), augmentin 8/1 adulte, biclavor, amoxicilline + acide clavulanique, mediclav, novaclav adulte, ciblor,pénicilline",
 "url": "amoxi-clav-500-625.html",
 "summary": "Traitement de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
+}
+,
+
+
+{
+"title": "Changements du 4 Mars 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-03-04.html",
+"summary": "Changements du 4 Mars 2024"
 }
 ,
 
@@ -2578,21 +3288,101 @@
 
 
 {
-"title": "Alginates",
-"tags": "acidite",
-"keywords": "",
-"url": "alginates.html",
-"summary": "Médicaments Liés à des Problèmes d'acidité"
+"title": "Kenacort Retard (Triamcinolone)",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "kenacort retard 40, triamcinolone",
+"url": "triamcinolone.html",
+"summary": "Affections inflammatoires et/ou auto-immunes"
 }
 ,
 
 
 {
-"title": "Autres Médicaments Liés à des Problèmes d’acidité",
-"tags": "acidite",
-"keywords": "di-antacid, di-antacid sans sucre, contracide, pepsane, rocgel 1.2g, antacid, gastramyl, moxal, calmacide, rennie sans sucre, ulcefix, ulcar",
-"url": "acidite-autres.html",
-"summary": "Médicaments Liés à des Problèmes d'acidité"
+"title": "Prednisone",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "prednisone, cortivans, dipred, prednisone",
+"url": "prednisone.html",
+"summary": "Affections inflammatoires et/ou auto-immunes"
+}
+,
+
+
+{
+"title": "Prednisolone",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "vitapred 5, prednicort, primapred, copred odt, vitapred 20, copred eff, solupred, prednisolone",
+"url": "prednisolone.html",
+"summary": "Affections inflammatoires et/ou auto-immunes"
+}
+,
+
+
+{
+"title": "Methylprednisolone",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "medrol, mp 20, solu-medrol, mp 40, depo-medrol, methylprednisolone",
+"url": "methylprednisolone.html",
+"summary": "Affections inflammatoires et/ou auto-immunes"
+}
+,
+
+
+{
+"title": "Dexamethasone",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "oradexon, unidex, dexamedis, dexone 4, medaxon, oradexan, medaxon fort, dexone 8, unidex fort, dexamedis fort, dexamethasone",
+"url": "dexamethasone.html",
+"summary": "Affections inflammatoires et/ou auto-immunes"
+}
+,
+
+
+{
+"title": "Betamethasone",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "celestene, alergosone, celestene chronodose, celasone4, diprostene, betacort, suprastene, betastene, betamethasone",
+"url": "betamethasone.html",
+"summary": "Affections inflammatoires et/ou auto-immunes"
+}
+,
+
+
+{
+"title": "Hydrocortisone",
+"tags": "corticoidesanti-inflammatoire",
+"keywords": "hydrocortisone medis, suranil, cortef 10, hydrocortisone",
+"url": "hydrocortisone.html",
+"summary": "Insuffisance surrénale, Affections inflammatoires et/ou auto-immunes"
+}
+,
+
+
+{
+"title": "Alginates",
+"tags": "aciditeacidite-autres",
+"keywords": "",
+"url": "alginates.html",
+"summary": "Traitement symptomatique du reflux gastro-oesophagien"
+}
+,
+
+
+{
+"title": "Antacides",
+"tags": "aciditeacidite-autres",
+"keywords": "di-antacid, di-antacid sans sucre, contracide, pepsane, rocgel 1.2g, antacid, gastramyl, moxal, calmacide, rennie sans sucre, dimeticone, aluminium hydroxyde, magnesium hydroxyde, gaiazylene, aluminium oxyde, calcium carbonate + magnesium carbonate, calcium carbonate + magnesium carbonate + simethicone",
+"url": "antacides.html",
+"summary": "Traitement des douleurs oeso-gastro-duodénales liés à des problèmes d’acidité"
+}
+,
+
+
+{
+"title": "Sucralfate",
+"tags": "aciditeacidite-autres",
+"keywords": "",
+"url": "sucralfate.html",
+"summary": "Traitement des ulcères gastriques et duodénaux (protège la muqueuse gastro-duodénale de l'action de l'acide chlorhydrique)"
 }
 ,
 
