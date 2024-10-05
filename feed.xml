@@ -3,434 +3,17 @@
     <channel>
         <title></title>
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
-        <link>http://localhost:4000/</link>
-        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 17 Sep 2024 14:09:11 +0100</pubDate>
-        <lastBuildDate>Tue, 17 Sep 2024 14:09:11 +0100</lastBuildDate>
+        <link>/</link>
+        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 05 Oct 2024 16:52:24 +0100</pubDate>
+        <lastBuildDate>Sat, 05 Oct 2024 16:52:24 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
         <item>
-            <title>Tamoxifene</title>
-            <description>&lt;h2 id=&quot;tamoxifene-10-et-20-mg-comprimés&quot;&gt;Tamoxifene 10 et 20 mg Comprimés:&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_295c7_row0_col4, #T_295c7_row1_col4, #T_295c7_row2_col4, #T_295c7_row3_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_295c7&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_295c7_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_295c7_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_295c7_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;TAMIFEN&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;13,585&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,453&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;13,560&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;99,82%&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;TAMOXIFENE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_295c7_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;TAMOXIFENE MYLAN&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;20 mg&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;19,981&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;0,666&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;19,980&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;99,99%&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;TAMOXIFENE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_295c7_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;TAMIFEN&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;20 mg&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;20,845&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;0,695&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;19,980&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;95,85%&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;TAMOXIFENE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_295c7_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;EBEFEN&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;20 mg&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/30&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;24,878&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;0,829&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;19,980&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;80,31%&lt;/td&gt;
-      &lt;td id=&quot;T_295c7_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;TAMOXIFENE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Tue, 10 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/tamoxifene.html</link>
-            <guid isPermaLink="true">http://localhost:4000/tamoxifene.html</guid>
-            
-            <category>antineoplasiques</category>
-            
-            <category>hormones</category>
-            
-            <category>hormones-sexuelles</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Arava (Leflunomide)</title>
-            <description>&lt;h2 id=&quot;leflunomide-10-20-et-100-mg-comprimés&quot;&gt;Leflunomide 10, 20 et 100 mg Comprimés:&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_leflunomide_row0_col4, #T_leflunomide_row1_col4, #T_leflunomide_row2_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_leflunomide&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_leflunomide_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ARAVA&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/30&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;103,442&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;87,924&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;LEFLUNOMIDE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ARAVA&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;20 mg&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/30&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;146,533&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;124,542&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,99%&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;LEFLUNOMIDE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;ARAVA&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;100 mg&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/3&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;92,222&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;78,387&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_leflunomide_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;LEFLUNOMIDE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Mon, 09 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/leflunomide.html</link>
-            <guid isPermaLink="true">http://localhost:4000/leflunomide.html</guid>
-            
-            <category>antineoplasiques</category>
-            
-            <category>immunosuppresseurs</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Azathioprine</title>
-            <description>&lt;h2 id=&quot;azathioprine-50-mg-comprimés&quot;&gt;Azathioprine 50 mg Comprimés:&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_fab7f_row0_col4, #T_fab7f_row1_col4, #T_fab7f_row2_col4, #T_fab7f_row3_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_fab7f&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_fab7f_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_fab7f_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_fab7f_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;AZATHIOPRINE AQVIDA&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;50 mg&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/100&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;35,094&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,351&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;35,000&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;99,73%&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;AZATHIOPRINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_fab7f_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;AZATHIOPRINE MYLAN&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;50 mg&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/100&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;35,310&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;0,353&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;35,300&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;99,97%&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;AZATHIOPRINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_fab7f_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;IMUREK&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;50 mg&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/100&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;46,591&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;0,466&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;46,500&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;99,80%&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;AZATHIOPRINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_fab7f_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;IMUREL&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;50 mg&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/100&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;49,360&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;0,494&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;49,300&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;99,88%&lt;/td&gt;
-      &lt;td id=&quot;T_fab7f_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;AZATHIOPRINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Sun, 08 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/azathioprine.html</link>
-            <guid isPermaLink="true">http://localhost:4000/azathioprine.html</guid>
-            
-            <category>antineoplasiques</category>
-            
-            <category>immunosuppresseurs</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Methotrexate</title>
-            <description>&lt;h2 id=&quot;methotrexate-25-mg-comprimés&quot;&gt;Methotrexate 2,5 mg Comprimés:&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_methotrexate_row0_col4 {
-  background-color: lightgreen;
-}
-#T_methotrexate_row1_col4, #T_methotrexate_row2_col4 {
-  background-color: lightcoral;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_methotrexate&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_methotrexate_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;EBETREXAT&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/50&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;9,659&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,193&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;9,650&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;99,91%&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;METHOTREXATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;METHOTREXATE EBEWE&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/50&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;27,885&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;0,558&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;9,650&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;34,61%&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;METHOTREXATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;METHOTREXATE&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;2,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/100&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;49,760&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;0,498&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;19,300&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;38,79%&lt;/td&gt;
-      &lt;td id=&quot;T_methotrexate_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;METHOTREXATE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Sat, 07 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/methotrexate.html</link>
-            <guid isPermaLink="true">http://localhost:4000/methotrexate.html</guid>
-            
-            <category>antineoplasiques</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Méthylergométrine</title>
-            <description>&lt;div class=&quot;summary&quot;&gt;Prévention et traitement de l&apos;hypotonie utérine et des hémorragies du post-partum&lt;/div&gt;
-
-&lt;h2 id=&quot;méthylergométrine-solution-injectable-et-gouttes-buvables&quot;&gt;Méthylergométrine Solution Injectable et Gouttes Buvables&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_1ac45_row0_col4, #T_1ac45_row1_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_1ac45&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_1ac45_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_1ac45_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_1ac45_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;METHERGIN&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,2 mg/ml&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution injectable&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/5/1 ml&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;5,832&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,955&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,97%&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;METHYLERGOMETRINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_1ac45_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;METROL&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,25 mg/ml&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gouttes buvables&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/20 ML&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;7,355&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;6,239&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,83%&lt;/td&gt;
-      &lt;td id=&quot;T_1ac45_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;METHYLERGOMETRINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Fri, 06 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/methylergometrine.html</link>
-            <guid isPermaLink="true">http://localhost:4000/methylergometrine.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Abufene (Beta-alanine)</title>
-            <description>&lt;div class=&quot;summary&quot;&gt;Contre les bouffées de chaleur de la ménopause&lt;/div&gt;
-
-&lt;h2 id=&quot;abufene-beta-alanine-400-mg-comprimés&quot;&gt;Abufene: Beta-alanine 400 mg Comprimés&lt;/h2&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_beta-alanine_row0_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_beta-alanine&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_beta-alanine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ABUFENE&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;400 mg&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;5,705&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,845&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,93%&lt;/td&gt;
-      &lt;td id=&quot;T_beta-alanine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BETA-ALANINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Fri, 06 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/beta-alanine.html</link>
-            <guid isPermaLink="true">http://localhost:4000/beta-alanine.html</guid>
-            
-            
-        </item>
-        
-        <item>
-            <title>Médicaments de l&apos;Impuissance</title>
+            <title>Changements du 3 Octobre 2024</title>
             <description>&lt;div&gt;
 
-    &lt;div class=&quot;summary&quot;&gt;&lt;/div&gt;
+    &lt;div class=&quot;summary&quot;&gt;Changements du 3 Octobre 2024&lt;/div&gt;
    
 
     
@@ -461,56 +44,510 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     
 &lt;/div&gt;
 
-&lt;h2 id=&quot;yohimbine-2-mg-comprimés&quot;&gt;Yohimbine 2 mg Comprimés&lt;/h2&gt;
+&lt;h3 id=&quot;nouveaux-médicaments&quot;&gt;Nouveaux Médicaments&lt;/h3&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_yohimbine_row0_col4 {
-  background-color: lightgreen;
-}
 &lt;/style&gt;
 
-&lt;table id=&quot;T_yohimbine&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_e40f4&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_yohimbine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;TARIF REFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;CATEGORIE&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_e40f4_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AP&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;YOHIMBINE&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2 mg&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/50&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;2,520&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,000&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;39,68%&lt;/td&gt;
-      &lt;td id=&quot;T_yohimbine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;YOHIMBINE CHLORHYDRATE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;106764&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;ACETAZOLAMIDE 250mg Comp Bt 30&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;10,790&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;3,120&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACETAZOLAMIDE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303717&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;GALAMOX 1gr Comp Disp Bt 21&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;12,140&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;9,975&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;AMOXICILLINE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;303700&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;CLAVUMOX 500mg/62.5mg Comp Pell Bt 48&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;29,300&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;29,300&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;AMOXICILLINE+ACIDE CLAVULANIQUE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;303705&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;ORELOX 100mg Comp Pell Bt 10&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;22,495&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;19,060&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;303706&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;ORELOX 100mg Comp Pell Bt 20&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;38,135&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;38,135&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;303704&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;ORELOX ENFANTS ET NOURRISSONS 40mg/5ml Glés P Susp Buv Fl 50ml&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;12,660&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;10,050&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;303707&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;ORELOX ENFANTS ET NOURRISSONS 40mg/5ml Glés P Susp Buv Fl 100ml&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;22,260&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;20,100&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;303701&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;PSORIS 0.05% Shamp bt 1 Fl/125ml&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;31,910&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;31,910&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;CLOBETASOL&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;302522&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;FENOLIP 200mg Gél Bt 90&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;25,160&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;25,160&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;FENOFIBRATE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;303703&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;ALOPIA 5mg Comp Pell Bt 28&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;36,990&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;36,990&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;Intermédiaire&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;FINASTERIDE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;303702&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;STEZA 10mg Comp Séc Bt 30&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;7,620&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;1,650&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;HYDROCORTISONE&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row11_col0&quot; class=&quot;data row11 col0&quot;&gt;303718&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row11_col1&quot; class=&quot;data row11 col1&quot;&gt;PARALVIT 1000mg Comp Pell Bt 8&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row11_col2&quot; class=&quot;data row11 col2&quot;&gt;2,790&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row11_col3&quot; class=&quot;data row11 col3&quot;&gt;2,336&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row11_col4&quot; class=&quot;data row11 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row11_col5&quot; class=&quot;data row11 col5&quot;&gt;PARACETAMOL&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row11_col6&quot; class=&quot;data row11 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row12_col0&quot; class=&quot;data row12 col0&quot;&gt;303709&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row12_col1&quot; class=&quot;data row12 col1&quot;&gt;E CAPS 100mg Caps Molle Bt 60&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row12_col2&quot; class=&quot;data row12 col2&quot;&gt;8,995&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row12_col3&quot; class=&quot;data row12 col3&quot;&gt;6,840&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row12_col4&quot; class=&quot;data row12 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row12_col5&quot; class=&quot;data row12 col5&quot;&gt;VITAMINE E&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row12_col6&quot; class=&quot;data row12 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_e40f4_row13_col0&quot; class=&quot;data row13 col0&quot;&gt;303708&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row13_col1&quot; class=&quot;data row13 col1&quot;&gt;E CAPS 200mg Caps Molle Bt 60&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row13_col2&quot; class=&quot;data row13 col2&quot;&gt;11,250&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row13_col3&quot; class=&quot;data row13 col3&quot;&gt;8,520&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row13_col4&quot; class=&quot;data row13 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row13_col5&quot; class=&quot;data row13 col5&quot;&gt;VITAMINE E&lt;/td&gt;
+      &lt;td id=&quot;T_e40f4_row13_col6&quot; class=&quot;data row13 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;médicaments-supprimés&quot;&gt;Médicaments Supprimés&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_940e5&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_940e5_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
+      &lt;th id=&quot;T_940e5_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
+      &lt;th id=&quot;T_940e5_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
+      &lt;th id=&quot;T_940e5_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;TARIF REFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_940e5_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;CATEGORIE&lt;/th&gt;
+      &lt;th id=&quot;T_940e5_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_940e5_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AP&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_940e5_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;101860&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;GONAL F Pdre/Prep 75 UI Bt 1+1&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;34,386&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;33,735&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;FSH&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;O&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_940e5_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;101410&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;PROGESTERONE DEPOT Amp 500 mg B/3 2ml&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;8,650&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;8,649&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;Essentiel&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;PROGESTERONE&lt;/td&gt;
+      &lt;td id=&quot;T_940e5_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;modification-du-prix&quot;&gt;Modification du Prix&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+	#T_2e155 :is(.row1, .row2).col4 { background-color: lightgreen;}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_2e155&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_2e155_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
+      &lt;th id=&quot;T_2e155_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
+      &lt;th id=&quot;T_2e155_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
+      &lt;th id=&quot;T_2e155_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;ANCIEN PRIX PUBLIC&lt;/th&gt;
+      &lt;th id=&quot;T_2e155_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DIFFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_2e155_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;TARIF REFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_2e155_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2e155_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303498&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;KETOLIN 2% Crème Derm Tb 15gr&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;4,680&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;4,560&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;0,120&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,560&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;KETOCONAZOLE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2e155_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;300872&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;VAINCOR Comp Pell Séca 10mg Bt 28&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;88,240&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;110,240&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;-22,000&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;53,424&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;OLANZAPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2e155_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;302923&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;VAINCOR 10 MG Comp Pell Sec  Bt 91&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;240,240&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;334,240&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;-94,000&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;173,628&lt;/td&gt;
+      &lt;td id=&quot;T_2e155_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;OLANZAPINE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Thu, 05 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/impuissance.html</link>
-            <guid isPermaLink="true">http://localhost:4000/impuissance.html</guid>
+            <pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate>
+            <link>/changements-2024-10-03.html</link>
+            <guid isPermaLink="true">/changements-2024-10-03.html</guid>
             
-            <category>impuissance</category>
+            <category>changements</category>
             
             
         </item>
         
         <item>
-            <title>Médicaments de l&apos;Hypertrophie Bénigne de la Prostate</title>
+            <title>Collyre bleu laiter</title>
+            <description>&lt;h2 id=&quot;collyre-bleu-laiter&quot;&gt;Collyre bleu laiter&lt;/h2&gt;
+
+&lt;div class=&quot;summary&quot;&gt;Il est préconisé pour soulager les irritations oculaires&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_methylthioninium-naphazoline-nitrate_row0_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_methylthioninium-naphazoline-nitrate&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_methylthioninium-naphazoline-nitrate_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;COLLYRE BLEU LAITER&lt;/td&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/10 ml&lt;/td&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;4,055&lt;/td&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,620&lt;/td&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;39,95%&lt;/td&gt;
+      &lt;td id=&quot;T_methylthioninium-naphazoline-nitrate_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;METHYLTHIONINIUM+NAPHAZOLINE NITRATE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
+            <link>/methylthioninium-naphazoline-nitrate.html</link>
+            <guid isPermaLink="true">/methylthioninium-naphazoline-nitrate.html</guid>
+            
+            <category>divers-ophtalmo</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Larmes artificielles</title>
+            <description>&lt;h2 id=&quot;larmes-artificielles&quot;&gt;Larmes artificielles&lt;/h2&gt;
+
+&lt;div class=&quot;summary&quot;&gt;Traitement de la sécheresse oculaire&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_carbomere_row0_col4, #T_carbomere_row1_col4, #T_carbomere_row2_col4, #T_carbomere_row3_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_carbomere&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_carbomere_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_carbomere_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carbomere_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;LIPOSIC&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,20 %&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel ophtalmique&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/10 GR&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;4,884&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,148&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,93%&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;CARBOMERE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carbomere_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;SICCAFLUID&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,25 %&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel ophtalmique&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;fl/10 gr&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;5,542&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;4,709&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,97%&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;CARBOMERE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carbomere_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;GEL-LARMES&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;0,30 %&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Gel ophtalmique&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;T/10GR&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;5,888&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;4,998&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;84,88%&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;CARBOMERE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carbomere_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;LACRYVISC&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Gel ophtalmique&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;T/15 GR&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;9,900&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;7,497&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;75,73%&lt;/td&gt;
+      &lt;td id=&quot;T_carbomere_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;CARBOMERE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_larmes-artificielles_row0_col4, #T_larmes-artificielles_row1_col4, #T_larmes-artificielles_row2_col4, #T_larmes-artificielles_row3_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_larmes-artificielles&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_larmes-artificielles_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;LARMES ARTIFICIELLES UNIMED&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1,4%&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;1,820&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,547&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;CHLORURE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;LACRYMED&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;6 mg/0,4 ml&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/20 Unidoses&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;6,900&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;5,865&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;POVIDONE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;CELLUVISC&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;4 mg/0,4 ml&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30 Flacons unidoses&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;5,491&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;4,667&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;84,98%&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;CARMELLOSE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;ARTELAC&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;3,20 mg&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/10 ML&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;5,403&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;4,590&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;84,95%&lt;/td&gt;
+      &lt;td id=&quot;T_larmes-artificielles_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;HYPROMELLOSE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
+            <link>/larmes-artificielles.html</link>
+            <guid isPermaLink="true">/larmes-artificielles.html</guid>
+            
+            <category>larmes-artificielles</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Dacurose (Acide Borique + Borate de Soude)</title>
+            <description>&lt;h2 id=&quot;dacurose-acide-borique--borate-de-soude-collyre-ophtalmique&quot;&gt;Dacurose: Acide Borique + Borate de Soude Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;div class=&quot;summary&quot;&gt;Lavage oculaire&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_acide-borique-borate-de-soude_row0_col4 {
+  background-color: lightcoral;
+}
+#T_acide-borique-borate-de-soude_row1_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_acide-borique-borate-de-soude&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-borique-borate-de-soude_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;DACUROSE&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;18 mg/ml + 12 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/10/10 ML&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;4,200&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,420&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;0,996&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;23,71%&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ACIDE BORIQUE+BORATE DE SOUDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;DACUROSE&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;18 mg/ml + 12 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/20/10 ML&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;4,985&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;0,249&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;1,992&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;39,96%&lt;/td&gt;
+      &lt;td id=&quot;T_acide-borique-borate-de-soude_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;ACIDE BORIQUE+BORATE DE SOUDE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
+            <link>/dacurose.html</link>
+            <guid isPermaLink="true">/dacurose.html</guid>
+            
+            <category>divers-ophtalmo</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Associations pour le Traitement du glaucome</title>
             <description>&lt;div&gt;
 
-    &lt;div class=&quot;summary&quot;&gt;Traitement de l&apos;Hypertrophie Bénigne de la Prostate&lt;/div&gt;
+    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
    
 
     
@@ -541,347 +578,332 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     
 &lt;/div&gt;
 
-&lt;h2 id=&quot;alpha1-bloquants&quot;&gt;Alpha1-bloquants&lt;/h2&gt;
+&lt;h2 id=&quot;analogues-des-prostaglandines--bêta-bloquants-collyre-ophtalmique&quot;&gt;Analogues des prostaglandines + Bêta-bloquants Collyre Ophtalmique&lt;/h2&gt;
 
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Traitement symptomatique par effet relaxant sur les cellules musculaires lisses
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;alfuzosine-25-et-10-mg-comprimés&quot;&gt;Alfuzosine 2,5 et 10 mg Comprimés&lt;/h3&gt;
+&lt;h3 id=&quot;latanoprost--timolol-50-µg5-mg&quot;&gt;Latanoprost + Timolol 50 µg/5 mg&lt;/h3&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_26ae0_row0_col4, #T_26ae0_row1_col4 {
+#T_latanoprost-timolol_row0_col4, #T_latanoprost-timolol_row1_col4, #T_latanoprost-timolol_row2_col4, #T_latanoprost-timolol_row3_col4 {
   background-color: lightgreen;
 }
-#T_26ae0_row2_col4 {
+&lt;/style&gt;
+
+&lt;table id=&quot;T_latanoprost-timolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost-timolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;TIMOPROST 3M&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;50 µg/5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;26,415&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;22,453&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;LATANOPROST+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;BILATA&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;50 µg/5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/2,5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;26,415&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;22,453&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;LATANOPROST+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;XALANOL&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;50 µg/5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/2,5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;29,240&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;22,453&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;76,79%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;LATANOPROST+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;LATAZ-CO&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;50 µg/5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;34,465&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;22,453&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;65,15%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;LATANOPROST+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;XALACOM&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;50 µg/5 mg&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/1FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;37,634&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;22,453&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;59,66%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost-timolol_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;LATANOPROST+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;duotrav-travoprost--timolol-40-µg5-mg&quot;&gt;Duotrav: Travoprost + Timolol 40 µg/5 mg&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_travoprost-timolol_row0_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_travoprost-timolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost-timolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;DUOTRAV&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;40 µg/ml + 5 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/2.5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;37,635&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;31,990&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost-timolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;TRAVOPROST+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ganfort-bimatoprost--timolol-03-mg5-mg&quot;&gt;Ganfort: Bimatoprost + Timolol 0,3 mg/5 mg&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_bimatoprost-timolol_row0_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_bimatoprost-timolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost-timolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;GANFORT&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,3mg/5mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/3 ml&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;44,110&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;37,493&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost-timolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BIMATOPROST + TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;combigan-brimonidine--timolol-collyre-ophtalmique&quot;&gt;Combigan: Brimonidine + Timolol Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_brimonidine-timolol_row0_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_brimonidine-timolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine-timolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;COMBIGAN&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;29,759&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;25,292&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,99%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine-timolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BRIMONIDINE +TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;pilolol-pilocarpine--timolol-collyre-ophtalmique&quot;&gt;Pilolol: Pilocarpine + Timolol Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_pilocarpine-timolol_row0_col3 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_pilocarpine-timolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_pilocarpine-timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PILOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;FL/5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;9,390&lt;/td&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;7,981&lt;/td&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_pilocarpine-timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;PILOCARPINE+TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;dorzolamide--timolol-collyre-ophtalmique&quot;&gt;Dorzolamide + Timolol Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_dorzo-timolol_row0_col4, #T_dorzo-timolol_row1_col4, #T_dorzo-timolol_row2_col4, #T_dorzo-timolol_row3_col4, #T_dorzo-timolol_row4_col4 {
+  background-color: lightgreen;
+}
+#T_dorzo-timolol_row6_col4 {
   background-color: lightcoral;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_26ae0&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_dorzo-timolol&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_26ae0_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_26ae0_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo-timolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_26ae0_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;XATRAL&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;13,701&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,457&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;5,472&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;39,94%&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ALFUZOSINE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ZOLOL 3M&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;100 mg/25 mg&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;20,610&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;17,518&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_26ae0_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;XAPROST LP&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;33,780&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,126&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;13,512&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;40,00%&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;ALFUZOSINE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ZOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;100 mg/25 mg&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;20,610&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;17,518&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_26ae0_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;XATRAL LP&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;60,460&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;2,015&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;13,512&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;22,35%&lt;/td&gt;
-      &lt;td id=&quot;T_26ae0_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;ALFUZOSINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;cardox-doxazosine-1-et-4-mg-comprimés&quot;&gt;Cardox: Doxazosine 1 et 4 mg Comprimés&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_doxazosine_row0_col4, #T_doxazosine_row1_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_doxazosine&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_doxazosine_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;CARDOX&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1 mg&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;11,570&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,386&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;4,620&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;39,93%&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;DOXAZOSINE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;OPTODROP-CO&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;100 mg/25 mg&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;21,262&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;17,518&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;82,39%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;CARDOX&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;33,090&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,103&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;13,236&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;40,00%&lt;/td&gt;
-      &lt;td id=&quot;T_doxazosine_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;DOXAZOSINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;tamsulosine-04-mg-gélules-ou-comprimés&quot;&gt;Tamsulosine 0,4 mg Gélules ou Comprimés&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_tamsulosine_row0_col4, #T_tamsulosine_row1_col4, #T_tamsulosine_row3_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_tamsulosine&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_tamsulosine_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PROSTAM L.P.&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gélules à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;29,775&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,993&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;11,256&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;37,80%&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;TAMSULOSINE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;ZOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;20 mg/ml + 5 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30 ophtadoses 0,2ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;22,000&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;17,518&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;79,63%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;MECIR LP&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;37,040&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,235&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;11,256&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;30,39%&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;TAMSULOSINE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;BIDORZO SP&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;20 mg/ml + 5 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;25,910&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;17,518&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;67,61%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;OMNIC OCAS&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;0,4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;38,125&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,271&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;11,256&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;29,52%&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;TAMSULOSINE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;COSOPT&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;20 mg/ml + 5 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;32,475&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;17,518&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;53,94%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;PROSTAM L.P&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;0,4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Gélules à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/90&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;84,440&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;0,938&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;33,768&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_tamsulosine_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;TAMSULOSINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;urorec-silodosine-4-et-8-mg-gélules&quot;&gt;Urorec: Silodosine 4 et 8 mg Gélules&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_silodosine_row0_col4, #T_silodosine_row1_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_silodosine&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_silodosine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_silodosine_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_silodosine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;UROREC&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gélules&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;34,175&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,139&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;13,668&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;SILODOSINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_silodosine_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;UROREC&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;8 mg&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gélules&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;34,175&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,139&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;13,668&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_silodosine_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;SILODOSINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;inhibiteurs-de-la-5-alfa-reductase&quot;&gt;Inhibiteurs de la 5-alfa-reductase&lt;/h2&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Réduction du volume prostatique
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;chibro-proscar-finasteride-5-mg-comprimés&quot;&gt;Chibro-proscar Finasteride 5 mg Comprimés&lt;/h3&gt;
-
-&lt;h3 id=&quot;avodart-dutasteride-05-mg-capsules-molles&quot;&gt;Avodart: Dutasteride 0,5 mg Capsules molles&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_finasteride-dutasteride_row0_col4, #T_finasteride-dutasteride_row1_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_finasteride-dutasteride&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_finasteride-dutasteride_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;CHIBRO-PROSCAR&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/28&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;45,320&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,619&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;18,122&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;FINASTERIDE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;AVODART&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Capsules molles&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;56,231&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,874&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;22,488&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_finasteride-dutasteride_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;DUTASTERIDE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;permixon-serenoa-repens-160-mg-capsules-molles&quot;&gt;Permixon: Serenoa Repens 160 mg Capsules molles&lt;/h2&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Traitement des troubles mictionnels modérés
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_serenoa-repens_row0_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_serenoa-repens&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_serenoa-repens_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PERMIXON&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;160 mg&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Capsules molles&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/60&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;35,495&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;14,184&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;39,96%&lt;/td&gt;
-      &lt;td id=&quot;T_serenoa-repens_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;SERENOA REPENS&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;DUALKOPT&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;20 mg/ml + 5 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;FL/10 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;85,815&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;35,037&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;40,83%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo-timolol_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;DORZOLAMIDE+TIMOLOL&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Wed, 04 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/hypertrophie-prostate.html</link>
-            <guid isPermaLink="true">http://localhost:4000/hypertrophie-prostate.html</guid>
+            <pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate>
+            <link>/asso-glaucome.html</link>
+            <guid isPermaLink="true">/asso-glaucome.html</guid>
             
-            <category>hypertrophie-prostate</category>
+            <category>glaucome</category>
             
             
         </item>
         
         <item>
-            <title>Médicaments de l&apos;instabilité vésicale: Oxybutynine, Tolterodine et Solifenacine Succinate</title>
+            <title>Inhibiteurs de l&apos;anhydrase carbonique</title>
             <description>&lt;div&gt;
 
-    &lt;div class=&quot;summary&quot;&gt;Traitement de l&apos;incontinence urinaire, de l&apos;impériosité et de la pollakiurie pouvant résulter d&apos;une hyperactivité vésicale idiopathique ou d&apos;atteintes vésicales neurogènes&lt;/div&gt;
+    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
    
 
     
@@ -912,266 +934,778 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     
 &lt;/div&gt;
 
-&lt;h2 id=&quot;oxybtan-oxybutynine-5-mg-comprimés&quot;&gt;Oxybtan: Oxybutynine 5 mg Comprimés&lt;/h2&gt;
+&lt;h2 id=&quot;diamox-acetazolamide-250-mg-comprimés&quot;&gt;Diamox: Acetazolamide 250 mg Comprimés&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_oxybutynine_row0_col4 {
+#T_acetazolamide_row0_col4 {
   background-color: lightgreen;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_oxybutynine&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_acetazolamide&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_oxybutynine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_acetazolamide_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;OXYBTAN&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés sécables&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/60&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;11,745&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;4,680&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;39,85%&lt;/td&gt;
-      &lt;td id=&quot;T_oxybutynine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;OXYBUTYNINE&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;DIAMOX 250 MG&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;250 mg&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/24&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;2,512&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;0,105&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;2,122&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;84,46%&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ACETAZOLAMIDE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;detrusitol-retard-tolterodine-2-et-4-mg-gélules&quot;&gt;Detrusitol Retard: Tolterodine 2 et 4 mg Gélules&lt;/h2&gt;
+&lt;h2 id=&quot;azopt-brinzolamide-collyre-ophtalmique-1&quot;&gt;Azopt: Brinzolamide Collyre Ophtalmique 1%&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_tolterodine_row0_col4, #T_tolterodine_row1_col4 {
+#T_brinzolamide_row0_col4 {
   background-color: lightgreen;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_tolterodine&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_brinzolamide&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_tolterodine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_brinzolamide_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;DETRUSITOL RETARD&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2 mg&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gélules à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/14&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;20,947&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;8,378&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;TOLTERODINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;DETRUSITOL RETARD&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;4 mg&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gélules à libération prolongée&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/14&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;23,945&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;9,576&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;39,99%&lt;/td&gt;
-      &lt;td id=&quot;T_tolterodine_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;TOLTERODINE&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;AZOPT&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1,00%&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;20,265&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;17,225&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_brinzolamide_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BRINZOLAMIDE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&quot;solifenacine-succinate-5-et-10-mg-comprimés&quot;&gt;Solifenacine Succinate 5 et 10 mg Comprimés&lt;/h2&gt;
+&lt;h2 id=&quot;dorzolamide-collyre-ophtalmique-2&quot;&gt;Dorzolamide Collyre Ophtalmique 2%&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_a2009_row0_col4, #T_a2009_row1_col4, #T_a2009_row4_col4, #T_a2009_row5_col4 {
+#T_dorzo_row0_col4, #T_dorzo_row1_col4, #T_dorzo_row2_col4 {
   background-color: lightgreen;
-}
-#T_a2009_row3_col4, #T_a2009_row7_col4 {
-  background-color: lightcoral;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_a2009&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_dorzo&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_a2009_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;unité&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_a2009_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_dorzo_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SOLFICINE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés &lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;35,140&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,171&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;84,98%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ALZOR&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;19,390&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;16,482&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;DORZOLAMIDE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;URICARE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;35,140&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,171&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;84,98%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ALZOR 3M&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;19,390&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;16,482&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;DORZOLAMIDE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;SOLICARE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;51,040&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,701&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;58,50%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;VESICARE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;5 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;65,155&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;2,172&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;45,83%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;SOLFICINE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Comprimés pelliculés &lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;35,140&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;1,171&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;84,98%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;URICARE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;35,140&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;1,171&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;84,98%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;SOLICARE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;51,040&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;1,701&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;58,50%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a2009_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;VESICARE&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;10 mg&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;65,155&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;2,172&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;29,860&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;45,83%&lt;/td&gt;
-      &lt;td id=&quot;T_a2009_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;SOLIFENACINE SUCCINATE&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;DORZO SP&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;2,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;25,240&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;16,482&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;65,30%&lt;/td&gt;
+      &lt;td id=&quot;T_dorzo_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;DORZOLAMIDE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Tue, 03 Sep 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/instabilite-vessie.html</link>
-            <guid isPermaLink="true">http://localhost:4000/instabilite-vessie.html</guid>
+            <pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate>
+            <link>/inhibiteurs-anhydrase.html</link>
+            <guid isPermaLink="true">/inhibiteurs-anhydrase.html</guid>
             
-            <category>instabilite-vessie</category>
+            <category>glaucome</category>
             
             
         </item>
         
         <item>
-            <title>Zeldox (Ziprasidone)</title>
-            <description>&lt;h2 id=&quot;zeldox-ziprasidone-gélules-et-injectable&quot;&gt;Zeldox (Ziprasidone) Gélules et Injectable:&lt;/h2&gt;
+            <title>Analogues des prostaglandines</title>
+            <description>&lt;div&gt;
+
+    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
+   
+
+    
+    
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
+  var target = $(this.getAttribute(&apos;href&apos;))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+
+
+    
+&lt;/div&gt;
+
+&lt;h2 id=&quot;latanoprost-collyre-ophtalmique-50-µgml&quot;&gt;Latanoprost Collyre Ophtalmique 50 µg/ml&lt;/h2&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
-#T_ziprasidone_row0_col4, #T_ziprasidone_row1_col4 {
+#T_latanoprost_row0_col4, #T_latanoprost_row1_col4, #T_latanoprost_row2_col4, #T_latanoprost_row3_col4, #T_latanoprost_row4_col4, #T_latanoprost_row5_col4, #T_latanoprost_row6_col4 {
   background-color: lightgreen;
 }
 &lt;/style&gt;
 
-&lt;table id=&quot;T_ziprasidone&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_latanoprost&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_ziprasidone_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_latanoprost_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ZELDOX&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;20 mg/ml&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Pdre p.prep.injectable&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/1 FL&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;43,371&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;36,865&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;ZIPRASIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;LATA SP&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;24,260&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;LATANOPROST&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ZELDOX&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;40 mg&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gélules&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;88,270&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;75,021&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;84,99%&lt;/td&gt;
-      &lt;td id=&quot;T_ziprasidone_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;ZIPRASIDONE&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;LATANOCOL&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/2,5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;24,905&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;82,80%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;LATANOCOL 3M&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/2,5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;25,240&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;81,70%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;LATAZ 0.005%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;26,607&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;77,50%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;LATAPOL&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;26,930&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;76,57%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;LATANOCOL&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/30 ophtadoses/0,3 ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;29,900&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;68,97%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;LATANOPROST&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;30,410&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;67,81%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;XALATAN&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;FL/2,5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;34,250&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;60,21%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;MONOPROST&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;50 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;B/30 récipients unidoses&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;37,485&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;20,621&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;55,01%&lt;/td&gt;
+      &lt;td id=&quot;T_latanoprost_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;LATANOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;lumigan-bimatoprost-collyre-ophtalmique-01-mgml&quot;&gt;Lumigan: Bimatoprost Collyre Ophtalmique 0,1 mg/ml&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_bimatoprost_row0_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_bimatoprost&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_bimatoprost_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;LUMIGAN&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,1 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/3 ml&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;38,675&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;32,872&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_bimatoprost_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BIMATOPROST&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;travatan-travoprost-collyre-ophtalmique-40-µgml&quot;&gt;Travatan: Travoprost Collyre Ophtalmique 40 µg/ml&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_travoprost_row0_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_travoprost&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_travoprost_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_travoprost_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_travoprost_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;TRAVATAN&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;40 µg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/2.5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;31,268&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;26,578&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_travoprost_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;TRAVOPROST&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Thu, 29 Aug 2024 00:00:00 +0100</pubDate>
-            <link>http://localhost:4000/ziprasidone.html</link>
-            <guid isPermaLink="true">http://localhost:4000/ziprasidone.html</guid>
+            <pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate>
+            <link>/analogues-prostaglandines.html</link>
+            <guid isPermaLink="true">/analogues-prostaglandines.html</guid>
             
-            <category>neuroleptiques</category>
+            <category>glaucome</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Brimonidine Collyre Ophtalmique</title>
+            <description>&lt;h2 id=&quot;brimonidine-collyre-ophtalmique-02&quot;&gt;Brimonidine Collyre Ophtalmique 0,2%&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_brimonidine_row0_col4, #T_brimonidine_row1_col4, #T_brimonidine_row2_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_brimonidine&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_brimonidine_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ALPHACOL&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,20%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;15,785&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;13,417&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BRIMONIDINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ALPHACOL FREE&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,20%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;17,755&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;13,417&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;75,57%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;BRIMONIDINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;ALPHAGAN&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;0,20%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;21,060&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;13,417&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;63,71%&lt;/td&gt;
+      &lt;td id=&quot;T_brimonidine_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;BRIMONIDINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate>
+            <link>/brimonidine.html</link>
+            <guid isPermaLink="true">/brimonidine.html</guid>
+            
+            <category>glaucome</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Bêta-bloquants à Usage Ophtalmique</title>
+            <description>&lt;div&gt;
+
+    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
+   
+
+    
+    
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
+  var target = $(this.getAttribute(&apos;href&apos;))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+
+
+    
+&lt;/div&gt;
+
+&lt;h2 id=&quot;timolol-collyre-ophtalmique&quot;&gt;Timolol Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_timolol_row0_col4, #T_timolol_row1_col4, #T_timolol_row2_col4, #T_timolol_row3_col4, #T_timolol_row4_col4, #T_timolol_row5_col4, #T_timolol_row6_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_timolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_timolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_timolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;TUNOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,25 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;3,120&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;2,652&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;NORMOPTIC&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,25 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;3,260&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;2,652&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;81,35%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;TUNOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;0,25 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/15 ophtadoses/0,45 ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;5,225&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;4,437&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;84,92%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;TUNOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;3,170&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;2,695&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;INTRAMOL&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;3,305&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;2,695&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;81,53%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;NORMOPTIC&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;3,460&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;2,695&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;77,88%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_timolol_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;TUNOLOL&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;B/15 ophtadoses/0,45 ml&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;6,940&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;5,891&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;84,88%&lt;/td&gt;
+      &lt;td id=&quot;T_timolol_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;TIMOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;carteolol-collyre-ophtalmique&quot;&gt;Carteolol Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_carteolol_row0_col4, #T_carteolol_row1_col4, #T_carteolol_row3_col4 {
+  background-color: lightgreen;
+}
+#T_carteolol_row2_col4 {
+  background-color: lightcoral;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_carteolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_carteolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_carteolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carteolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;BETACOL LP&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/3ML&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;10,440&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;8,874&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;CARTEOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carteolol_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;CARTEOL LP&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/3ML&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;13,037&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;8,874&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;68,07%&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;CARTEOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carteolol_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;CARTEOL LP&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;2,00 % (2 g/100 ml)&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/30/0.2ml&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;19,253&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;8,874&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;46,09%&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;CARTEOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_carteolol_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;CARTEOL LP&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;1,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/3ML&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;13,037&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;11,080&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;84,99%&lt;/td&gt;
+      &lt;td id=&quot;T_carteolol_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;CARTEOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h2 id=&quot;betoptic-betaxolol-collyre-ophtalmique&quot;&gt;Betoptic: Betaxolol Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_betaxolol_row0_col4, #T_betaxolol_row1_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_betaxolol&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_betaxolol_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;BETOPTIC&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,25 %&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/3ML&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;6,811&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;5,788&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;84,99%&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;BETAXOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;BETOPTIC&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/3ML&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;6,996&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;5,947&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_betaxolol_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;BETAXOLOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate>
+            <link>/betabloq-ophtalmo.html</link>
+            <guid isPermaLink="true">/betabloq-ophtalmo.html</guid>
+            
+            <category>glaucome</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Mydriatiques</title>
+            <description>&lt;h2 id=&quot;mydriatiques-collyre-ophtalmique&quot;&gt;Mydriatiques Collyre Ophtalmique&lt;/h2&gt;
+
+&lt;div class=&quot;summary&quot;&gt;Utilisés pour dilater la pupille dans les cas de kératite et d&apos;uvéite, ou pour l&apos;examen du fond de l&apos;oeil&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+#T_mydriatiques_row0_col4, #T_mydriatiques_row1_col4, #T_mydriatiques_row2_col4, #T_mydriatiques_row3_col4, #T_mydriatiques_row4_col4 {
+  background-color: lightgreen;
+}
+&lt;/style&gt;
+
+&lt;table id=&quot;T_mydriatiques&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
+      &lt;th id=&quot;T_mydriatiques_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ATROPINE UNIMED&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;2,125&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,806&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;ATROPINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;CYCLOCOL&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/0.5 ML&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;1,710&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,454&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;CYCLOPENTOLATE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;NEOPHRINE&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;10,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/5 ml&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;2,000&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,538&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;76,92%&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;PHENYLEPHRINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;NEOPHRINE&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;10,00 %&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/10 ml&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;3,625&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;3,077&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;84,88%&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;PHENYLEPHRINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;MYDRICOL&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;0,50 %&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Collyre&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/5ML&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;3,240&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;2,754&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;85,00%&lt;/td&gt;
+      &lt;td id=&quot;T_mydriatiques_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;TROPICAMIDE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Wed, 25 Sep 2024 00:00:00 +0100</pubDate>
+            <link>/mydriatiques.html</link>
+            <guid isPermaLink="true">/mydriatiques.html</guid>
+            
+            <category>mydriatiques</category>
             
             
         </item>

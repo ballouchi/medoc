@@ -64,7 +64,7 @@ a.navbar-brand:hover {
 
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #248ec2 !important;
-    background-color: #253a5b; /* added */
+/*    background-color: #253a5b;  added */
 }
 
 .btn-primary {
@@ -132,13 +132,13 @@ footer {
 footer a { color: lightblue; }
 footer a:hover { color: #FF9F00; }
 
-body {
+.flex-container {
     display: flex;
     min-height: 100vh;
     flex-direction: column;
 }
 
-.container {
+.main {
     flex: 1;    /* same as flex-grow: 1; */
 }
 
@@ -204,4 +204,8 @@ ul.ft-social-list {
 /* one before the last child */
 .ft-legal-list li:nth-last-child(2) {
     flex: 1;       /* same as flex-grow: 1; */
+}
+
+.navbar-collapse.in {
+  overflow-y: visible;
 }
