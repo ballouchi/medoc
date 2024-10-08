@@ -3,10 +3,10 @@
     <channel>
         <title></title>
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
-        <link>/</link>
-        <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 05 Oct 2024 16:52:24 +0100</pubDate>
-        <lastBuildDate>Sat, 05 Oct 2024 16:52:24 +0100</lastBuildDate>
+        <link>https://ballouchi.github.io/medoc/</link>
+        <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 08 Oct 2024 18:43:01 +0100</pubDate>
+        <lastBuildDate>Tue, 08 Oct 2024 18:43:01 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
         <item>
@@ -281,8 +281,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Thu, 03 Oct 2024 00:00:00 +0100</pubDate>
-            <link>/changements-2024-10-03.html</link>
-            <guid isPermaLink="true">/changements-2024-10-03.html</guid>
+            <link>https://ballouchi.github.io/medoc/changements-2024-10-03.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/changements-2024-10-03.html</guid>
             
             <category>changements</category>
             
@@ -328,8 +328,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
-            <link>/methylthioninium-naphazoline-nitrate.html</link>
-            <guid isPermaLink="true">/methylthioninium-naphazoline-nitrate.html</guid>
+            <link>https://ballouchi.github.io/medoc/methylthioninium-naphazoline-nitrate.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/methylthioninium-naphazoline-nitrate.html</guid>
             
             <category>divers-ophtalmo</category>
             
@@ -470,8 +470,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
-            <link>/larmes-artificielles.html</link>
-            <guid isPermaLink="true">/larmes-artificielles.html</guid>
+            <link>https://ballouchi.github.io/medoc/larmes-artificielles.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/larmes-artificielles.html</guid>
             
             <category>larmes-artificielles</category>
             
@@ -535,8 +535,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Tue, 01 Oct 2024 00:00:00 +0100</pubDate>
-            <link>/dacurose.html</link>
-            <guid isPermaLink="true">/dacurose.html</guid>
+            <link>https://ballouchi.github.io/medoc/dacurose.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/dacurose.html</guid>
             
             <category>divers-ophtalmo</category>
             
@@ -891,8 +891,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Mon, 30 Sep 2024 00:00:00 +0100</pubDate>
-            <link>/asso-glaucome.html</link>
-            <guid isPermaLink="true">/asso-glaucome.html</guid>
+            <link>https://ballouchi.github.io/medoc/asso-glaucome.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/asso-glaucome.html</guid>
             
             <category>glaucome</category>
             
@@ -1063,8 +1063,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Sun, 29 Sep 2024 00:00:00 +0100</pubDate>
-            <link>/inhibiteurs-anhydrase.html</link>
-            <guid isPermaLink="true">/inhibiteurs-anhydrase.html</guid>
+            <link>https://ballouchi.github.io/medoc/inhibiteurs-anhydrase.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/inhibiteurs-anhydrase.html</guid>
             
             <category>glaucome</category>
             
@@ -1293,8 +1293,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Sat, 28 Sep 2024 00:00:00 +0100</pubDate>
-            <link>/analogues-prostaglandines.html</link>
-            <guid isPermaLink="true">/analogues-prostaglandines.html</guid>
+            <link>https://ballouchi.github.io/medoc/analogues-prostaglandines.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/analogues-prostaglandines.html</guid>
             
             <category>glaucome</category>
             
@@ -1360,8 +1360,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Fri, 27 Sep 2024 00:00:00 +0100</pubDate>
-            <link>/brimonidine.html</link>
-            <guid isPermaLink="true">/brimonidine.html</guid>
+            <link>https://ballouchi.github.io/medoc/brimonidine.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/brimonidine.html</guid>
             
             <category>glaucome</category>
             
@@ -1613,8 +1613,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Thu, 26 Sep 2024 00:00:00 +0100</pubDate>
-            <link>/betabloq-ophtalmo.html</link>
-            <guid isPermaLink="true">/betabloq-ophtalmo.html</guid>
+            <link>https://ballouchi.github.io/medoc/betabloq-ophtalmo.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/betabloq-ophtalmo.html</guid>
             
             <category>glaucome</category>
             
@@ -1702,8 +1702,8 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 </description>
             <pubDate>Wed, 25 Sep 2024 00:00:00 +0100</pubDate>
-            <link>/mydriatiques.html</link>
-            <guid isPermaLink="true">/mydriatiques.html</guid>
+            <link>https://ballouchi.github.io/medoc/mydriatiques.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/mydriatiques.html</guid>
             
             <category>mydriatiques</category>
             
