@@ -2,6 +2,10 @@
 #T_25f34 .row0 { text-decoration-line: line-through; }
  */
 
+#T_paracetamol-1000-mg :is(.row9, .row12) { border-bottom: 2px solid black; }
+#T_paracetamol-1000-mg :is(.row10, .row11, .row12).col2 { background-color: lightblue; }
+#T_paracetamol-1000-mg .row13.col2  { background-color: thistle; }
+
 /* amoxicilline 500mg-12 */
 #T_6bc4e_row4_col0,
 #T_6bc4e_row4_col1,
@@ -33,12 +37,11 @@
 #T_d2694_row5_col2,
 #T_d2694_row6_col2 { background-color: lightblue; }
 
-/* amoxicilline 1g */
-#T_27771 .row4 { border-bottom: 3px solid black; }
-#T_27771 .row2, 
-#T_27771 .row7 { border-bottom: 1px solid black; }
-
-#T_27771 :is(.row0, .row1, .row2, .row5, .row6, .row7, .row8).col2 { background-color: lightblue; }
+#T_amoxicilline-1g .row4 { border-bottom: 3px solid black; }
+#T_amoxicilline-1g .row2, 
+#T_amoxicilline-1g .row7,
+#T_amoxicilline-1g .row8 { border-bottom: 1px solid black; }
+#T_amoxicilline-1g :is(.row0, .row1, .row2, .row5, .row6, .row7, .row8, .row9).col2 { background-color: lightblue; }
 
 /* amoxicilline sirop */
 #T_a4612 .row1,
@@ -60,8 +63,8 @@
 #T_9eb5a .row0.col2,
 #T_2ef88 :is(.row0, .row1, .row2, .row3).col2 { background-color: lightblue; }
 #T_2ef88 .row3 { border-bottom: 1px solid black; }
-#T_9eb5a .row0.col3,
-#T_7256f .row0.col3 { background-color: thistle; }
+#T_9eb5a .row0.col3 { background-color: khaki; }
+#T_amoxicilline-acide-clavulanique-500-625-48 :is(.row0, .row1).col3 { background-color: thistle; }
 
 /* amoxi-clav sirop */
 #T_bd22e .row5 { border-bottom: 1px solid black; }
@@ -214,10 +217,6 @@
 
 #T_silodosine .row0 { border-bottom: 2px solid black; }
 #T_silodosine .row1.col1 { background-color: thistle; }
-
-#T_finasteride-dutasteride .row0 { border-bottom: 6px double black; }
-#T_finasteride-dutasteride .row0.col8 { background-color: thistle; }
-#T_finasteride-dutasteride .row1.col8 { background-color: khaki; }
 
 #T_terebenthine .row0 { border-bottom: 2px solid black; }
 #T_terebenthine .row1.col1 { background-color: thistle; }
@@ -495,14 +494,14 @@
 #T_clozapine .row0 { border-bottom: 2px solid black; }
 #T_clozapine .row1.col1 { background-color: thistle; }
 
-/* clozapine */
+/* olanzapine */
 #T_f231b .row0,
 #T_f231b .row1,
 #T_f231b .row5,
 #T_f231b .row8,
-#T_75aa6 .row0,
-#T_75aa6 .row6,
-#T_75aa6 .row9,
+#T_olanzapine-10-mg .row0,
+#T_olanzapine-10-mg .row6,
+#T_olanzapine-10-mg .row9,
 #T_df040 .row0 { border-bottom: 1px solid black; }
 
 #T_risperidone-2-mg .row3,
@@ -551,7 +550,7 @@
 #T_morphine-cp .row1,
 #T_morphine-cp .row3,
 #T_morphine-cp .row5,
-#T_morphine-cp .row6 { background-color: thistle; }
+#T_morphine-cp .row6 { border-bottom: 2px solid black; }
 
 #T_fentanyl .row0,
 #T_fentanyl .row1 { border-bottom: 2px solid black; }
@@ -707,11 +706,10 @@
 #T_ab31f .row2.col3 { background-color: thistle; }
 #T_ab31f .row3.col2 { background-color: lightsalmon; }
 
-/* fenofibrate*/
-#T_ab80b .row2,
-#T_ab80b .row5 { border-bottom: 3px solid black; }
-#T_ab80b .row1 { border-bottom: 1px solid black; }
-#T_ab80b .row2.col3 { background-color: thistle; }
+#T_fenofibrate :is(.row2, .row6) { border-bottom: 3px solid black; }
+#T_fenofibrate :is(.row1, .row5) { border-bottom: 1px solid black; }
+#T_fenofibrate .row2.col3 { background-color: khaki; }
+#T_fenofibrate .row6.col3 { background-color: thistle; }
 
 /* atorvastatine */
 #T_bb9c8 :is(.row1, .row10, .row11, .row12, .row21) { border-bottom: 3px dashed black; }
@@ -822,10 +820,9 @@
 #T_0b3f4 .row0.col3,
 #T_cb3f9 .row0.col3 { background-color: khaki; }
 
-#T_hydrocortisone .row0 { border-bottom: 3px solid black; }
-#T_hydrocortisone .row0.col2 { background-color: lightsalmon; }
-#T_hydrocortisone .row1 { border-bottom: 1px solid black; }
-#T_hydrocortisone .row2.col3 { background-color: thistle; }
+#T_hydrocortisone .row2 { border-bottom: 3px solid black; }
+#T_hydrocortisone .row3.col2 { background-color: lightsalmon; }
+#T_hydrocortisone :is(.row0, .row1) { border-bottom: 1px solid black; }
 /* betamethasone */
 #T_64018 :is(.row0, .row1) { border-bottom: 3px solid black; }
 #T_64018 .row0.col3 { background-color: thistle; }
@@ -915,10 +912,11 @@
 #T_cyclines .row0.col7 { background-color: thistle; }
 /* econazole */
 #T_741e1 :is(.row4, .row10, .row13) { border-bottom: 3px solid black; }
-/* ketoconazole */
-#T_df266 :is(.row2, .row4, .row6) { border-bottom: 3px solid black; }
-#T_df266 :is(.row5, .row6).col2 { background-color: khaki; }
-#T_df266 .row7.col3 { background-color: thistle; }
+
+#T_ketoconazole :is(.row2, .row4, .row6) { border-bottom: 3px solid black; }
+#T_ketoconazole .row5 { border-bottom: 1px solid black; }
+#T_ketoconazole :is(.row5, .row6).col2 { background-color: khaki; }
+#T_ketoconazole .row7.col3 { background-color: thistle; }
 
 #T_isoconazole .row0 { border-bottom: 1px solid black; }
 #T_isoconazole .row1.col3 { background-color: thistle; }
@@ -934,10 +932,10 @@
 
 #T_tolnaftate .row0 { border-bottom: 1px solid black; }
 #T_tolnaftate .row1.col3 { background-color: thistle; }
-/* clobetasol */
-#T_33805 :is(.row1, .row2, .row3) { border-bottom: 3px solid black; }
-#T_33805 .row3.col2 { background-color: #fff44f; }
-#T_33805 .row4.col2 { background-color: khaki; }
+
+#T_clobetasol :is(.row1, .row2, .row3) { border-bottom: 3px solid black; }
+#T_clobetasol .row3.col2 { background-color: #fff44f; }
+#T_clobetasol :is(.row4, .row5).col2 { background-color: khaki; }
 /*betamethasone*/
 #T_49e99 :is(.row4, .row8, .row12, .row13, .row14) { border-bottom: 3px solid black; }
 #T_49e99 .row1 { border-bottom: 1px solid black; }
@@ -1094,6 +1092,9 @@
 
 #T_latanoprost :is(.row5, .row8).col3 { background-color: thistle; }
 
+#T_acetazolamide .row0 { border-bottom: 1px solid black; }
+#T_acetazolamide .row1.col3 { background-color: thistle; }
+
 #T_dorzo-timolol .row3.col3 { background-color: khaki; }
 #T_dorzo-timolol .row6.col3 { background-color: thistle; }
 #T_dorzo-timolol .row5 { border-bottom: 1px solid black; }
@@ -1116,7 +1117,9 @@
 #T_fsh :is(.row1, .row2, .row3)  { border-bottom: 2px solid black; }
 #T_fsh :is(.row4, .row2, .row3).col3 { background-color: thistle; }
 
-
+#T_vitamine-e .row0 { border-bottom: 1px solid black; }
+#T_vitamine-e .row1 { border-bottom: 3px solid black; }
+#T_vitamine-e .row0.col3 { background-color: khaki; }
 
 /* removed */
 #T_fsh .row1,

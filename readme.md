@@ -1,9 +1,9 @@
 
-# Source files for [Prix des médicaments remboursés par la CNAM en Tunisie](https://ballouchi.github.io/medoc/)  
+# [Prix des médicaments remboursés par la CNAM en Tunisie](https://ballouchi.github.io/medoc/)  
 
 ## Recherche:  
 
-Les médicaments sont regroupés par principe actif ou **DCI** (Dénomination Commune Internationale) 
+Les médicaments sont regroupés par nom générique ou **DCI** (Dénomination Commune Internationale) 
 et présentés sous forme de tableaux dynamiques:
 Il est possible de trier les colonnes et de rechercher dans un tableau (filtrer).  
 
@@ -12,14 +12,16 @@ Le champ de recherche en haut et à droite du site permet de trouver un médicam
 
 ## Prix et Remboursement:  
 
-### Les médicaments sont classés en trois catégories:  
+### Les médicaments sont classés en quatres catégories:  
 
  - Médicament Vital **V**: remboursé à 100 % du Tarif de référence  
  
  - Médicament Essentiel **E**: remboursé à 85 % du Tarif de référence ( la grande majorité des médicaments)  
  
  - Médicament Intermédiaire **I**: remboursé à 40 % du Tarif de référence  
- 
+  
+ - Médicament de Confort **C**: non remboursé par la CNAM
+
  Le Tarif de référence d'un médicament ou de ses génériques est le prix de vente **minimal** en pharmacie fixé par les autorités.  
  
  Les laboratoires commercialisent leurs médicaments à un prix égal ou le plus souvent supérieur au Tarif à des proportions variables.  
@@ -46,7 +48,7 @@ Le champ de recherche en haut et à droite du site permet de trouver un médicam
    
 ## Colonnes du Tableau  
 
-  - **Nom**: Nom du médicament
+  - **Nom**: Nom commercial du médicament
   - **Dosage**: sa dose
   - **Forme** pharmaceutique: comprimés, gélules, sirop, suppositoires, pommade...
   - **Présentation**: nombre de comprimés dans une boite, volume d'un flacon de sirop...
@@ -54,11 +56,11 @@ Le champ de recherche en haut et à droite du site permet de trouver un médicam
   - **unité**= **Prix** divisé par **Présentation**
   - **Remboursés**: Montant remboursé par la CNAM. Selon la catégorie, il est égal au:  
     
-    1- **V**: **Tarif de référence** (non affiché dans les tableaux)
+    1- **V**: **Tarif de référence**  
     
     2- **E**: **Tarif de référence** multiplié par 0,85
     
     3- **I**: **Tarif de référence** multiplié par 0,40  
     
   - **Pourcentage** de remboursement = **Remboursés** divisé par **Prix** et multiplié par 100
-  - **DCI**: Dénomination Commune Internationale (principe actif)  
+  - **DCI**: Nom générique ou principe actif  

@@ -5,8 +5,8 @@
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
         <link>https://ballouchi.github.io/medoc/</link>
         <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Tue, 08 Oct 2024 18:43:01 +0100</pubDate>
-        <lastBuildDate>Tue, 08 Oct 2024 18:43:01 +0100</lastBuildDate>
+        <pubDate>Sat, 12 Oct 2024 18:34:53 +0100</pubDate>
+        <lastBuildDate>Sat, 12 Oct 2024 18:34:53 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
         <item>
@@ -88,42 +88,6 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
       &lt;td id=&quot;T_e40f4_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;Essentiel&lt;/td&gt;
       &lt;td id=&quot;T_e40f4_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;AMOXICILLINE+ACIDE CLAVULANIQUE&lt;/td&gt;
       &lt;td id=&quot;T_e40f4_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_e40f4_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;303705&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;ORELOX 100mg Comp Pell Bt 10&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;22,495&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;19,060&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;Essentiel&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_e40f4_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;303706&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;ORELOX 100mg Comp Pell Bt 20&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;38,135&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;38,135&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;Essentiel&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_e40f4_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;303704&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;ORELOX ENFANTS ET NOURRISSONS 40mg/5ml Glés P Susp Buv Fl 50ml&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;12,660&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;10,050&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;Essentiel&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_e40f4_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;303707&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;ORELOX ENFANTS ET NOURRISSONS 40mg/5ml Glés P Susp Buv Fl 100ml&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;22,260&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;20,100&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;Essentiel&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;CEFPODOXIME&lt;/td&gt;
-      &lt;td id=&quot;T_e40f4_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;N&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td id=&quot;T_e40f4_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;303701&lt;/td&gt;
@@ -940,6 +904,9 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 #T_acetazolamide_row0_col4 {
   background-color: lightgreen;
 }
+#T_acetazolamide_row1_col4 {
+  background-color: lightcoral;
+}
 &lt;/style&gt;
 
 &lt;table id=&quot;T_acetazolamide&quot; class=&quot;display&quot;&gt;
@@ -967,6 +934,17 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
       &lt;td id=&quot;T_acetazolamide_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;2,122&lt;/td&gt;
       &lt;td id=&quot;T_acetazolamide_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;84,46%&lt;/td&gt;
       &lt;td id=&quot;T_acetazolamide_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;ACETAZOLAMIDE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ACETAZOLAMIDE&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;250 mg&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Comprimés&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;10,790&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;0,360&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;2,652&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;24,58%&lt;/td&gt;
+      &lt;td id=&quot;T_acetazolamide_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;ACETAZOLAMIDE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;

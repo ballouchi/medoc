@@ -440,7 +440,7 @@
 {
 "title": "Clobetasol",
 "tags": "corticoides-dermatodermato",
-"keywords": "dermocort, psoriacort, clobex, clobetasol",
+"keywords": "dermocort, psoriacort, clobex, psoris, clobetasol",
 "url": "clobetasol.html",
 "summary": "Traitement du Psoriasis"
 }
@@ -520,7 +520,7 @@
 {
 "title": "Médicaments de l&#39;Hypertrophie Bénigne de la Prostate",
 "tags": "hypertrophie-prostate",
-"keywords": "xatral, xaprost lp, xatral lp, alfuzosine, cardox, doxazosine, prostam l.p., mecir lp, omnic ocas, prostam l.p, tamsulosine, urorec, silodosine, chibro-proscar, avodart, finasteride, dutasteride, permixon, serenoa repens",
+"keywords": "xatral, xaprost lp, xatral lp, alfuzosine, cardox, doxazosine, prostam l.p., mecir lp, omnic ocas, prostam l.p, tamsulosine, urorec, silodosine, alopia, chibro-proscar, avodart, finasteride, dutasteride, permixon, serenoa repens",
 "url": "hypertrophie-prostate.html",
 "summary": "Traitement de l'Hypertrophie Bénigne de la Prostate"
 }
@@ -2910,7 +2910,7 @@
 {
 "title": "Vitamines",
 "tags": "vitamines",
-"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacalcidol, vitamin e 100, vitamin e 200, vitamine a, vitamine A Faure",
+"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacalcidol, vitamin e 100, e caps, vitamin e 200, vitamine e, vitamine a, vitamine A Faure",
 "url": "vitamines.html",
 "summary": "Vitamine D et dérivés, Vitamine E et Vitamine A."
 }
@@ -3770,7 +3770,7 @@
 {
 "title": "Association Amoxicilline + Acide Clavulanique 500 mg - 62,5 mg",
 "tags": "penicillineantibiotique",
-"keywords": "novaclav enfants, clavumox, amoclan, clavor, augmentin enfant, amoxi-clav sanofi adulte, clavor 500 (1:8), augmentin 8/1 adulte, biclavor, amoxicilline + acide clavulanique, mediclav, novaclav adulte, ciblor,pénicilline",
+"keywords": "novaclav enfants, clavumox, amoclan, clavor, augmentin enfant, amoxi-clav sanofi adulte, novaclav, clavor 500 (1:8), augmentin 8/1 adulte, biclavor, amoxicilline + acide clavulanique, mediclav, novaclav adulte, ciblor, pénicilline",
 "url": "amoxi-clav-500-625.html",
 "summary": "Traitement de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
 }
@@ -3930,7 +3930,7 @@
 {
 "title": "Hydrocortisone",
 "tags": "corticoidesanti-inflammatoire",
-"keywords": "hydrocortisone medis, suranil, cortef 10, hydrocortisone",
+"keywords": "steza, suranil, cortef 10, hydrocortisone medis, hydrocortisone",
 "url": "hydrocortisone.html",
 "summary": "Insuffisance surrénale, Affections inflammatoires et/ou auto-immunes"
 }
@@ -3940,7 +3940,7 @@
 {
 "title": "Alginates",
 "tags": "aciditeacidite-autres",
-"keywords": "",
+"keywords": "apyrosis nourrissons, apyrosis, gaviscon",
 "url": "alginates.html",
 "summary": "Traitement symptomatique du reflux gastro-oesophagien"
 }
@@ -3960,7 +3960,7 @@
 {
 "title": "Sucralfate",
 "tags": "aciditeacidite-autres",
-"keywords": "",
+"keywords": "ulcefix, ulcar, sucralfate",
 "url": "sucralfate.html",
 "summary": "Traitement des ulcères gastriques et duodénaux (protège la muqueuse gastro-duodénale de l'action de l'acide chlorhydrique)"
 }
