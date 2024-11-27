@@ -10,17 +10,17 @@
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
 <link rel="stylesheet" href="css/modern-business.css">
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/customstyles.css">
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
 <link rel="stylesheet" type="text/css" href="css/tableaux.css">
 
-<script src="js/jquery-3.3.1.min.js"></script>
+<!--  <script src="js/jquery-3.3.1.min.js"></script>  -->
+<script type="text/javascript" charset="utf8" src="js/jquery-3.7.1.min.js"></script>
 
 <script src="js/jquery.cookie.min.js"></script>
 <script src="js/jquery.navgoco.min.js"></script>
@@ -46,7 +46,7 @@
 
 
 
-    <script>
+        <script>
         $(document).ready(function() {
             // Initialize navgoco with default options
             $("#mysidebar").navgoco({
@@ -94,11 +94,97 @@
             });
         });
     </script>
+
+        
+    <!-- Include DataTables css an js in head -->
+    <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
+    <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTables.bootstrap.min.js"></script>
+    <!-- Initialize Datatables in head -->
+    <script>
+      $(document).ready(function(){
+          //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          $('#example thead tr')
+		        .clone(true)
+		        .addClass('filters')
+		        .prependTo('#example thead');
+          var table = $('#example').DataTable( {
+	        ajax: "js/2024-11-07-2.json",
+	        orderCellsTop: false,
+	        //fixedHeader: true,
+	        language: {
+	            "url": "js/fr-FR.json",
+	        },
+	        paging: true,
+	        pageLength: 25,
+	        //lengthChange: false,
+	        searching: true,
+	        order: [],
+	        stateSave: false,
+	        //autoWidth: true,
+	        initComplete: function() {
+	            var api = this.api();
+	            // add input search fields for columns
+	            api.columns([0, 6]).eq(0).each(function(colIdx) {
+	                // Set the header cell to contain the input element
+	                var cell = $('.filters th').eq($(api.column(colIdx).header()).index());
+	                var title = $(cell).text();
+	                $(cell).html( '<input type="text" placeholder="Rechercher par '+ title +'" />' );
+	                // On every keypress in this input
+	                $('input', $('.filters th').eq($(api.column(colIdx).header()).index()) )
+	                    .off('keyup change')
+	                    .on('keyup change', function (e) {
+	                        e.stopPropagation();
+	                        // Get the search value
+	                        $(this).attr('title', $(this).val());
+	                        var regexr = '({search})'; //$(this).parents('th').find('select').val();
+	                        var cursorPosition = this.selectionStart;
+	                        // Search the column for that value
+	                        api
+	                            .column(colIdx)
+	                            .search((this.value != "") ? regexr.replace('{search}', '((('+this.value+')))') : "", this.value != "", this.value == "")
+	                            .draw();
+	                        $(this).focus()[0].setSelectionRange(cursorPosition, cursorPosition);
+	                    });
+	            });
+	
+	            //// add select elements for columns
+	            //api.columns([1, 2]).eq(0).each(function(colIdx) {
+	                //// Set the header cell to contain the select element
+	                //var cell = $('.filters th').eq($(api.column(colIdx).header()).index());
+	                //var title = $(cell).text();
+	                //$(cell).html( '<select><option value=""></option></select>' );
+	
+	                //// On every select action
+	                ////var column = this;
+	                //var column = api.column(colIdx);
+	                //var select = $('<select><option value=""></option></select>')
+	                  ////.appendTo($(column.header()).empty())
+	                  //.appendTo($(cell).empty())
+	                  //.on('change', function() {
+	                    //var val = $.fn.dataTable.util.escapeRegex(
+	                      //$(this).val()
+	                    //);
+	                    //column
+	                      //.search(val ? '^' + val + '$' : '', true, false)
+	                      //.draw();
+	                  //});
+	                //column.data().unique().sort().each(function(d, j) {
+	                  //select.append('<option value="' + d + '">' + d + '</option>');
+	                //});
+	            //});
+	
+	
+	        }
+	    } );
+       });
+    </script>
     
 
+	
 </head>
 <body>
-<!-- Navigation -->
+	<!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
@@ -167,16 +253,16 @@
 
 
 
-<!-- Page Content -->
+	<!-- Page Content -->
 <div class="container flex-container">
-  <div id="main">
-    <!-- Content Row -->
-    <div class="row">
-        
-        
+	<div id="main">
+	    <!-- Content Row -->
+	    <div class="row">
+	        
+	        
             <!-- Sidebar Column -->
-            <div class="col-md-3" id="tg-sb-sidebar">
-                
+	            <div class="col-md-3" id="tg-sb-sidebar">
+	                
 
 <ul id="mysidebar" class="nav">
   <li class="sidebarTitle">Categories </li>
@@ -1190,13 +1276,43 @@
 
 
 
-            </div>
-            
-        
+	            </div>
+	            
+	        
+	
+	        <!-- Content Column -->
+	        <div class="col-md-9" id="tg-sb-content">
+	            <div class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Tip:</b>  <strong>Prix des médicaments remboursés par la CNAM en Tunisie.</strong> <br /><br />Les médicaments sont regroupés par nom générique ou DCI (Dénomination Commune Internationale) et présentés sous forme de tableaux dynamiques: Il est possible de trier les colonnes et de rechercher dans un tableau (filtrer). <br /><br />Le champ de recherche en haut et à droite du site permet de trouver un médicament en entrant son nom ou le nom de son principe actif. </div>
 
-        <!-- Content Column -->
-        <div class="col-md-9" id="tg-sb-content">
-            <div class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Tip:</b>  <strong>Prix des médicaments remboursés par la CNAM en Tunisie.</strong> <br /><br />Les médicaments sont regroupés par nom générique ou DCI (Dénomination Commune Internationale) et présentés sous forme de tableaux dynamiques: Il est possible de trier les colonnes et de rechercher dans un tableau (filtrer). <br /><br />Le champ de recherche en haut et à droite du site permet de trouver un médicament en entrant son nom ou le nom de son principe actif. </div>
+<h2 id="recherche-rapide">Recherche Rapide</h2>
+
+<h3 id="médicaments-remboursés-par-la-cnam-07112024">Médicaments remboursés par la CNAM (07/11/2024)</h3>
+
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Nom</th>
+                <th>Dosage</th>
+                <th>Forme</th>
+                <th>Présentation</th>
+                <th>Prix</th>
+                <th>Remboursés</th>
+                <th>DCI</th>
+            </tr>
+        </thead>
+<!--
+        <tfoot>
+            <tr>
+                <th>Nom</th>
+                <th>Dosage</th>
+                <th>Forme</th>
+                <th>Présentation</th>
+                <th>Prix</th>
+                <th>DCI</th>
+            </tr>
+        </tfoot>
+-->
+    </table>
 
 <h2 id="prix-et-remboursement">Prix et Remboursement:</h2>
 
@@ -1270,29 +1386,23 @@
 </ul>
 
 
-        </div>
-    <!-- /.row -->
-</div>
-<!-- /.container -->
-</div>
+	        </div>
+	    <!-- /.row -->
+		</div>
+	<!-- /.container -->
+	</div>
 <!-- /#main -->
-    </div>
+</div>
 
-<footer>
+	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2024 All rights reserved. <br />
- Site last generated: Oct 12, 2024 <br />
+ Site last generated: Nov 27, 2024 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>
 </footer>
 
-
 </body>
-<!--
-
--->
 </html>
-
-

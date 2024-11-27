@@ -5,9 +5,165 @@
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
         <link>https://ballouchi.github.io/medoc/</link>
         <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 12 Oct 2024 18:34:53 +0100</pubDate>
-        <lastBuildDate>Sat, 12 Oct 2024 18:34:53 +0100</lastBuildDate>
+        <pubDate>Wed, 27 Nov 2024 14:21:25 +0100</pubDate>
+        <lastBuildDate>Wed, 27 Nov 2024 14:21:25 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
+        
+        <item>
+            <title>Changements du 7 Novembre 2024</title>
+            <description>&lt;div&gt;
+
+    &lt;div class=&quot;summary&quot;&gt;Changements du 7 Novembre 2024&lt;/div&gt;
+   
+
+    
+    
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
+  var target = $(this.getAttribute(&apos;href&apos;))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+
+
+    
+&lt;/div&gt;
+
+&lt;h3 id=&quot;nouveaux-médicaments&quot;&gt;Nouveaux Médicaments&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_ad1d2&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL &lt;/th&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC &lt;/th&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;TARIF REFERENCE &lt;/th&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;CATEGORIE &lt;/th&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI &lt;/th&gt;
+      &lt;th id=&quot;T_ad1d2_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AP &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303720&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;LEVOMAX 500mg Comp Pell Séc Bt 10&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;29,040&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;29,040&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;E&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;LEVOFLOXACINE&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303721&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;KARDEGIC 160mg Pdre P Sol Or Bt 30 Sach&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;4,335&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;2,790&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;E&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ACETYLSALICYLATE DE LYSINE&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;303722&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;ROVASTINE 5mg Comp Pell Bt 90&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;41,100&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;41,100&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;E&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;ROSUVASTATINE&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;303723&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;ROVASTINE 10mg Comp Pell Bt 90&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;48,660&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;48,660&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;E&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;ROSUVASTATINE&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;303724&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;ROVASTINE 20mg Comp Pell Bt 90&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;72,960&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;72,960&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;E&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;ROSUVASTATINE&lt;/td&gt;
+      &lt;td id=&quot;T_ad1d2_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;N&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;modification-du-prix&quot;&gt;Modification du Prix&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_76a27&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_76a27_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;ANCIEN PRIX PUBLIC&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DIFFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;TARIF REFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;ANCIEN TARIF REFERENCE&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DIFFERENCE.1&lt;/th&gt;
+      &lt;th id=&quot;T_76a27_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_76a27_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303400&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;DIVINUS 10mg Comp Pell Bt 30&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;52,240&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;53,790&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;-1,550&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;52,240&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;52,410&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;-0,170&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;DAPAGLIFLOZINE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_76a27_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303399&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;DIVINUS 5mg Comp Pell Bt 30&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;52,240&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;53,790&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;-1,550&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;52,240&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;52,410&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;-0,170&lt;/td&gt;
+      &lt;td id=&quot;T_76a27_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;DAPAGLIFLOZINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Thu, 07 Nov 2024 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/changements-2024-11-07.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/changements-2024-11-07.html</guid>
+            
+            <category>changements</category>
+            
+            
+        </item>
         
         <item>
             <title>Changements du 3 Octobre 2024</title>
@@ -1595,95 +1751,6 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
             <guid isPermaLink="true">https://ballouchi.github.io/medoc/betabloq-ophtalmo.html</guid>
             
             <category>glaucome</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Mydriatiques</title>
-            <description>&lt;h2 id=&quot;mydriatiques-collyre-ophtalmique&quot;&gt;Mydriatiques Collyre Ophtalmique&lt;/h2&gt;
-
-&lt;div class=&quot;summary&quot;&gt;Utilisés pour dilater la pupille dans les cas de kératite et d&apos;uvéite, ou pour l&apos;examen du fond de l&apos;oeil&lt;/div&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-#T_mydriatiques_row0_col4, #T_mydriatiques_row1_col4, #T_mydriatiques_row2_col4, #T_mydriatiques_row3_col4, #T_mydriatiques_row4_col4 {
-  background-color: lightgreen;
-}
-&lt;/style&gt;
-
-&lt;table id=&quot;T_mydriatiques&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Remboursés&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Pourcentage&lt;/th&gt;
-      &lt;th id=&quot;T_mydriatiques_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ATROPINE UNIMED&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1,00 %&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Collyre&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/5 ml&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;2,125&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;1,806&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;ATROPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;CYCLOCOL&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,50 %&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Collyre&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/0.5 ML&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;1,710&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;1,454&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;CYCLOPENTOLATE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;NEOPHRINE&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;10,00 %&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Collyre&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;FL/5 ml&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;2,000&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;1,538&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;76,92%&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;PHENYLEPHRINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;NEOPHRINE&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;10,00 %&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Collyre&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;FL/10 ml&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;3,625&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;3,077&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;84,88%&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;PHENYLEPHRINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;MYDRICOL&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;0,50 %&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Collyre&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;FL/5ML&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;3,240&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;2,754&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;85,00%&lt;/td&gt;
-      &lt;td id=&quot;T_mydriatiques_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;TROPICAMIDE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Wed, 25 Sep 2024 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/mydriatiques.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/mydriatiques.html</guid>
-            
-            <category>mydriatiques</category>
             
             
         </item>

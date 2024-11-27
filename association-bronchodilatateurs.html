@@ -10,17 +10,17 @@
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
 <link rel="stylesheet" href="css/modern-business.css">
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/customstyles.css">
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
 <link rel="stylesheet" type="text/css" href="css/tableaux.css">
 
-<script src="js/jquery-3.3.1.min.js"></script>
+<!--  <script src="js/jquery-3.3.1.min.js"></script>  -->
+<script type="text/javascript" charset="utf8" src="js/jquery-3.7.1.min.js"></script>
 
 <script src="js/jquery.cookie.min.js"></script>
 <script src="js/jquery.navgoco.min.js"></script>
@@ -46,18 +46,14 @@
 
 
 
-    
-    <!-- Include the standard DataTables bits -->
+        
+    <!-- Include DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/jquery.dataTables.css">
     <script type="text/javascript" charset="utf8" src="js/jquery.dataTables.js"></script>
-    <!-- First, this walks through the tables that occur between ...-begin
-         and ...-end and add the "datatable" class to them.
-         Then it invokes DataTable's standard initializer
-         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
-      -->
+    <!-- Initialize Datatables -->
     <script>
       $(document).ready(function(){
-          $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
           $('table.display').DataTable( {
               paging: false,
               stateSave: false,
@@ -73,7 +69,7 @@
 
 </head>
 <body>
-<!-- Navigation -->
+	<!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
@@ -142,16 +138,13 @@
 
 
 
-<!-- Page Content -->
+	<!-- Page Content -->
 <div class="container">
-  <div id="main">
-    <!-- Content Row -->
-    <div class="row">
-        
-
-        <!-- Content Column -->
-        <div class="col-md-12" id="tg-sb-content">
-            <h1 id="association-de-bronchodilatateurs">Association de bronchodilatateurs</h1>
+	<div id="main">
+	    <div class="row">
+	        
+	        <div class="col-md-12" id="tg-sb-content">
+	            <h1 id="association-de-bronchodilatateurs">Association de bronchodilatateurs</h1>
 
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
@@ -288,43 +281,34 @@ $('#toc').on('click', 'a', function() {
 </table>
 
 
-        </div>
-    <!-- /.row -->
+	        </div>
+	        			<div class="tags">
+			    
+			        <b>Tags: </b>
+			        
+			        <a href="tag_anticholinergiques.html" class="btn btn-default navbar-btn cursorNorm" role="button">anticholinergiques</a>
+			        
+			        <a href="tag_sympathicomimetiques.html" class="btn btn-default navbar-btn cursorNorm" role="button">sympathicomimetiques</a>
+			        
+			        <a href="tag_bronchodilatateurs.html" class="btn btn-default navbar-btn cursorNorm" role="button">bronchodilatateurs</a>
+			        
+			    
+			</div>
+	
+
+		</div>
+	</div>
 </div>
-<!-- /.container -->
-</div>
-<!-- /#main -->
 
-   <div class="tags">
-    
-        <b>Tags: </b>
-        
-        <a href="tag_anticholinergiques.html" class="btn btn-default navbar-btn cursorNorm" role="button">anticholinergiques</a>
-        
-        <a href="tag_sympathicomimetiques.html" class="btn btn-default navbar-btn cursorNorm" role="button">sympathicomimetiques</a>
-        
-        <a href="tag_bronchodilatateurs.html" class="btn btn-default navbar-btn cursorNorm" role="button">bronchodilatateurs</a>
-        
-    
-  </div>
-
-    </div>
-
-<footer>
+	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2024 All rights reserved. <br />
- Site last generated: Oct 12, 2024 <br />
+ Site last generated: Nov 27, 2024 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>
 </footer>
 
-
 </body>
-
 </html>
-
-<!--
-
--->

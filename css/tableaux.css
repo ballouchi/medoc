@@ -4,7 +4,7 @@
 
 #T_paracetamol-1000-mg :is(.row9, .row12) { border-bottom: 2px solid black; }
 #T_paracetamol-1000-mg :is(.row10, .row11, .row12).col2 { background-color: lightblue; }
-#T_paracetamol-1000-mg .row13.col2  { background-color: thistle; }
+#T_paracetamol-1000-mg .row13.col2 { background-color: thistle; }
 
 /* amoxicilline 500mg-12 */
 #T_6bc4e_row4_col0,
@@ -64,7 +64,7 @@
 #T_2ef88 :is(.row0, .row1, .row2, .row3).col2 { background-color: lightblue; }
 #T_2ef88 .row3 { border-bottom: 1px solid black; }
 #T_9eb5a .row0.col3 { background-color: khaki; }
-#T_amoxicilline-acide-clavulanique-500-625-48 :is(.row0, .row1).col3 { background-color: thistle; }
+#T_amoxicilline-acide-clavulanique-500-625-48 :is(.row1, .row2).col3 { background-color: thistle; }
 
 /* amoxi-clav sirop */
 #T_bd22e .row5 { border-bottom: 1px solid black; }
@@ -1120,6 +1120,11 @@
 #T_vitamine-e .row0 { border-bottom: 1px solid black; }
 #T_vitamine-e .row1 { border-bottom: 3px solid black; }
 #T_vitamine-e .row0.col3 { background-color: khaki; }
+
+#T_dapagliflozine :is(.row1, .row3, .row5) { border-bottom: 1px solid black; }
+#T_dapagliflozine .row2 { border-bottom: 3px solid black; }
+#T_dapagliflozine_row3_col3 { background-color: khaki;}
+#T_dapagliflozine :is(.row2, .row6).col3 { background-color: thistle;}
 
 /* removed */
 #T_fsh .row1,

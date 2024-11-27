@@ -10,17 +10,17 @@
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-<!--<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">-->
 <link rel="stylesheet" href="css/modern-business.css">
 <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 <link rel="stylesheet" href="css/customstyles.css">
 <link rel="stylesheet" href="css/boxshadowproperties.css">
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
 <link rel="stylesheet" type="text/css" href="css/tableaux.css">
 
-<script src="js/jquery-3.3.1.min.js"></script>
+<!--  <script src="js/jquery-3.3.1.min.js"></script>  -->
+<script type="text/javascript" charset="utf8" src="js/jquery-3.7.1.min.js"></script>
 
 <script src="js/jquery.cookie.min.js"></script>
 <script src="js/jquery.navgoco.min.js"></script>
@@ -46,7 +46,7 @@
 
 
 
-    <script>
+        <script>
         $(document).ready(function() {
             // Initialize navgoco with default options
             $("#mysidebar").navgoco({
@@ -94,34 +94,81 @@
             });
         });
     </script>
-    
-    <!-- Include the standard DataTables bits -->
-    <link rel="stylesheet" type="text/css" href="css/datatables.min.css">
-    <script type="text/javascript" charset="utf8" src="js/datatables.min.js"></script>
-    <!-- First, this walks through the tables that occur between ...-begin
-         and ...-end and add the "datatable" class to them.
-         Then it invokes DataTable's standard initializer
-         Credit here: http://www.beardedhacker.com/blog/2015/08/28/add-class-attribute-to-markdown-table/
-      -->
+
+        
+    <!-- Include  DataTables css and js in head -->
+    <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
+    <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTables.bootstrap.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTables.buttons.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.bootstrap.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.colVis.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.print.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/jszip.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/pdfmake.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/vfs_fonts.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.html5.js"></script>
+    <!-- Initialize Datatables and Buttons -->
     <script>
       $(document).ready(function(){
-          $('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          $('table.display').DataTable( {
-              paging: false,
-              stateSave: false,
-              searching: true,
-              order: [],
-              language: {
-                url: "js/fr-FR.json",
-            }
+          //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          $('table.display').each(function(i) {
+			    var thisTable = $(this);
+			    var thisName = thisTable.attr('id');
+			    thisTable.DataTable({
+		              paging: false,
+		              stateSave: false,
+		              searching: true,
+		              order: [],
+		              language: {
+		                url: "js/fr-FR.json",
+		                buttons: {
+							colvis: "Colonnes Visibles"
+						},
+		              },
+					  layout: {
+		                  topStart: {
+		                      buttons: [
+		                          {
+									  extend: 'colvis',
+									  postfixButtons: ['colvisRestore']
+								  },
+		                          {
+									  extend: 'excelHtml5',
+									  title: null,
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  filename: function () { 
+										  filename = thisName;
+										  return filename;
+									  }
+								  },
+		                          {
+									  extend: 'pdfHtml5',
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  //filename: function () { return $('h2').attr('id'); }
+									  title: function () { 
+										  filename = thisName;
+										  return filename;
+										  }
+								  },
+								  //'copyHtml5', 'csvHtml5', 'print'
+							  ]
+		                  }
+		              },
+	            });
           });
-       });
+      });
     </script>
     
 
 </head>
 <body>
-<!-- Navigation -->
+	<!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
@@ -190,16 +237,16 @@
 
 
 
-<!-- Page Content -->
+	<!-- Page Content -->
 <div class="container flex-container">
-  <div id="main">
-    <!-- Content Row -->
-    <div class="row">
-        
-        
+	<div id="main">
+	    <!-- Content Row -->
+	    <div class="row">
+	        
+	        
             <!-- Sidebar Column -->
-            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
-                
+	            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
+	                
 
 <ul id="mysidebar" class="nav">
   <li class="sidebarTitle">Categories </li>
@@ -1213,13 +1260,13 @@
 
 
 
-            </div>
-            
-        
-
-        <!-- Content Column -->
-        <div class="col-md-12" id="tg-sb-content">
-            <div>
+	            </div>
+	            
+	        
+	
+	        <!-- Content Column -->
+	        <div class="col-md-12" id="tg-sb-content">
+	            <div>
 
     <div class="summary">Traitement des hypercholestérolémies et hypertriglycéridémies</div>
    
@@ -1255,7 +1302,7 @@ $('#toc').on('click', 'a', function() {
 <h2 id="rosuvastatine-5-mg-comprimés">Rosuvastatine 5 mg Comprimés:</h2>
 
 <style type="text/css">
-#T_rosuvastatine-5-mg_row0_col4, #T_rosuvastatine-5-mg_row1_col4, #T_rosuvastatine-5-mg_row2_col4, #T_rosuvastatine-5-mg_row3_col4, #T_rosuvastatine-5-mg_row4_col4, #T_rosuvastatine-5-mg_row5_col4, #T_rosuvastatine-5-mg_row6_col4, #T_rosuvastatine-5-mg_row7_col4, #T_rosuvastatine-5-mg_row10_col4, #T_rosuvastatine-5-mg_row11_col4, #T_rosuvastatine-5-mg_row12_col4 {
+#T_rosuvastatine-5-mg_row0_col4, #T_rosuvastatine-5-mg_row1_col4, #T_rosuvastatine-5-mg_row2_col4, #T_rosuvastatine-5-mg_row3_col4, #T_rosuvastatine-5-mg_row4_col4, #T_rosuvastatine-5-mg_row5_col4, #T_rosuvastatine-5-mg_row6_col4, #T_rosuvastatine-5-mg_row7_col4, #T_rosuvastatine-5-mg_row10_col4, #T_rosuvastatine-5-mg_row11_col4, #T_rosuvastatine-5-mg_row12_col4, #T_rosuvastatine-5-mg_row13_col4 {
   background-color: lightgreen;
 }
 #T_rosuvastatine-5-mg_row9_col4 {
@@ -1334,7 +1381,7 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-5-mg_row4_col8" class="data row4 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-5-mg_row5_col0" class="data row5 col0">ROSUVAST5</td>
+      <td id="T_rosuvastatine-5-mg_row5_col0" class="data row5 col0">ROSUVAST 5</td>
       <td id="T_rosuvastatine-5-mg_row5_col1" class="data row5 col1">5 mg</td>
       <td id="T_rosuvastatine-5-mg_row5_col2" class="data row5 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-5-mg_row5_col3" class="data row5 col3">B/30</td>
@@ -1389,37 +1436,48 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-5-mg_row9_col8" class="data row9 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-5-mg_row10_col0" class="data row10 col0">ROSUVASCOR</td>
+      <td id="T_rosuvastatine-5-mg_row10_col0" class="data row10 col0">ROVASTINE</td>
       <td id="T_rosuvastatine-5-mg_row10_col1" class="data row10 col1">5 mg</td>
       <td id="T_rosuvastatine-5-mg_row10_col2" class="data row10 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-5-mg_row10_col3" class="data row10 col3">B/90</td>
-      <td id="T_rosuvastatine-5-mg_row10_col4" class="data row10 col4">42,440</td>
-      <td id="T_rosuvastatine-5-mg_row10_col5" class="data row10 col5">0,472</td>
-      <td id="T_rosuvastatine-5-mg_row10_col6" class="data row10 col6">36,032</td>
-      <td id="T_rosuvastatine-5-mg_row10_col7" class="data row10 col7">84,90%</td>
+      <td id="T_rosuvastatine-5-mg_row10_col4" class="data row10 col4">41,100</td>
+      <td id="T_rosuvastatine-5-mg_row10_col5" class="data row10 col5">0,457</td>
+      <td id="T_rosuvastatine-5-mg_row10_col6" class="data row10 col6">34,935</td>
+      <td id="T_rosuvastatine-5-mg_row10_col7" class="data row10 col7">85,00%</td>
       <td id="T_rosuvastatine-5-mg_row10_col8" class="data row10 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-5-mg_row11_col0" class="data row11 col0">NEACREST</td>
+      <td id="T_rosuvastatine-5-mg_row11_col0" class="data row11 col0">ROSUVASCOR</td>
       <td id="T_rosuvastatine-5-mg_row11_col1" class="data row11 col1">5 mg</td>
       <td id="T_rosuvastatine-5-mg_row11_col2" class="data row11 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-5-mg_row11_col3" class="data row11 col3">B/90</td>
-      <td id="T_rosuvastatine-5-mg_row11_col4" class="data row11 col4">51,240</td>
-      <td id="T_rosuvastatine-5-mg_row11_col5" class="data row11 col5">0,569</td>
+      <td id="T_rosuvastatine-5-mg_row11_col4" class="data row11 col4">42,440</td>
+      <td id="T_rosuvastatine-5-mg_row11_col5" class="data row11 col5">0,472</td>
       <td id="T_rosuvastatine-5-mg_row11_col6" class="data row11 col6">36,032</td>
-      <td id="T_rosuvastatine-5-mg_row11_col7" class="data row11 col7">70,32%</td>
+      <td id="T_rosuvastatine-5-mg_row11_col7" class="data row11 col7">84,90%</td>
       <td id="T_rosuvastatine-5-mg_row11_col8" class="data row11 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-5-mg_row12_col0" class="data row12 col0">VISSEN</td>
+      <td id="T_rosuvastatine-5-mg_row12_col0" class="data row12 col0">NEACREST</td>
       <td id="T_rosuvastatine-5-mg_row12_col1" class="data row12 col1">5 mg</td>
       <td id="T_rosuvastatine-5-mg_row12_col2" class="data row12 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-5-mg_row12_col3" class="data row12 col3">B/90</td>
-      <td id="T_rosuvastatine-5-mg_row12_col4" class="data row12 col4">51,720</td>
-      <td id="T_rosuvastatine-5-mg_row12_col5" class="data row12 col5">0,575</td>
+      <td id="T_rosuvastatine-5-mg_row12_col4" class="data row12 col4">51,240</td>
+      <td id="T_rosuvastatine-5-mg_row12_col5" class="data row12 col5">0,569</td>
       <td id="T_rosuvastatine-5-mg_row12_col6" class="data row12 col6">36,032</td>
-      <td id="T_rosuvastatine-5-mg_row12_col7" class="data row12 col7">69,67%</td>
+      <td id="T_rosuvastatine-5-mg_row12_col7" class="data row12 col7">70,32%</td>
       <td id="T_rosuvastatine-5-mg_row12_col8" class="data row12 col8">ROSUVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_rosuvastatine-5-mg_row13_col0" class="data row13 col0">VISSEN</td>
+      <td id="T_rosuvastatine-5-mg_row13_col1" class="data row13 col1">5 mg</td>
+      <td id="T_rosuvastatine-5-mg_row13_col2" class="data row13 col2">Comprimés pelliculés</td>
+      <td id="T_rosuvastatine-5-mg_row13_col3" class="data row13 col3">B/90</td>
+      <td id="T_rosuvastatine-5-mg_row13_col4" class="data row13 col4">51,720</td>
+      <td id="T_rosuvastatine-5-mg_row13_col5" class="data row13 col5">0,575</td>
+      <td id="T_rosuvastatine-5-mg_row13_col6" class="data row13 col6">36,032</td>
+      <td id="T_rosuvastatine-5-mg_row13_col7" class="data row13 col7">69,67%</td>
+      <td id="T_rosuvastatine-5-mg_row13_col8" class="data row13 col8">ROSUVASTATINE</td>
     </tr>
   </tbody>
 </table>
@@ -1427,7 +1485,7 @@ $('#toc').on('click', 'a', function() {
 <h2 id="rosuvastatine-10-mg-comprimés">Rosuvastatine 10 mg Comprimés:</h2>
 
 <style type="text/css">
-#T_rosuvastatine-10-mg_row0_col4, #T_rosuvastatine-10-mg_row1_col4, #T_rosuvastatine-10-mg_row2_col4, #T_rosuvastatine-10-mg_row3_col4, #T_rosuvastatine-10-mg_row4_col4, #T_rosuvastatine-10-mg_row5_col4, #T_rosuvastatine-10-mg_row6_col4, #T_rosuvastatine-10-mg_row7_col4, #T_rosuvastatine-10-mg_row8_col4, #T_rosuvastatine-10-mg_row9_col4, #T_rosuvastatine-10-mg_row13_col4, #T_rosuvastatine-10-mg_row14_col4, #T_rosuvastatine-10-mg_row15_col4 {
+#T_rosuvastatine-10-mg_row0_col4, #T_rosuvastatine-10-mg_row1_col4, #T_rosuvastatine-10-mg_row2_col4, #T_rosuvastatine-10-mg_row3_col4, #T_rosuvastatine-10-mg_row4_col4, #T_rosuvastatine-10-mg_row5_col4, #T_rosuvastatine-10-mg_row6_col4, #T_rosuvastatine-10-mg_row7_col4, #T_rosuvastatine-10-mg_row8_col4, #T_rosuvastatine-10-mg_row9_col4, #T_rosuvastatine-10-mg_row13_col4, #T_rosuvastatine-10-mg_row14_col4, #T_rosuvastatine-10-mg_row15_col4, #T_rosuvastatine-10-mg_row16_col4 {
   background-color: lightgreen;
 }
 #T_rosuvastatine-10-mg_row11_col4, #T_rosuvastatine-10-mg_row12_col4 {
@@ -1473,7 +1531,7 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-10-mg_row1_col8" class="data row1 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-10-mg_row2_col0" class="data row2 col0">ROCOR10</td>
+      <td id="T_rosuvastatine-10-mg_row2_col0" class="data row2 col0">ROCOR 10</td>
       <td id="T_rosuvastatine-10-mg_row2_col1" class="data row2 col1">10 mg</td>
       <td id="T_rosuvastatine-10-mg_row2_col2" class="data row2 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-10-mg_row2_col3" class="data row2 col3">B/30</td>
@@ -1594,18 +1652,18 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-10-mg_row12_col8" class="data row12 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-10-mg_row13_col0" class="data row13 col0">ROSUVASCOR</td>
+      <td id="T_rosuvastatine-10-mg_row13_col0" class="data row13 col0">ROVASTINE</td>
       <td id="T_rosuvastatine-10-mg_row13_col1" class="data row13 col1">10 mg</td>
       <td id="T_rosuvastatine-10-mg_row13_col2" class="data row13 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-10-mg_row13_col3" class="data row13 col3">B/90</td>
-      <td id="T_rosuvastatine-10-mg_row13_col4" class="data row13 col4">50,240</td>
-      <td id="T_rosuvastatine-10-mg_row13_col5" class="data row13 col5">0,558</td>
-      <td id="T_rosuvastatine-10-mg_row13_col6" class="data row13 col6">42,687</td>
-      <td id="T_rosuvastatine-10-mg_row13_col7" class="data row13 col7">84,97%</td>
+      <td id="T_rosuvastatine-10-mg_row13_col4" class="data row13 col4">48,660</td>
+      <td id="T_rosuvastatine-10-mg_row13_col5" class="data row13 col5">0,541</td>
+      <td id="T_rosuvastatine-10-mg_row13_col6" class="data row13 col6">41,361</td>
+      <td id="T_rosuvastatine-10-mg_row13_col7" class="data row13 col7">85,00%</td>
       <td id="T_rosuvastatine-10-mg_row13_col8" class="data row13 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-10-mg_row14_col0" class="data row14 col0">ROZUVIE 10</td>
+      <td id="T_rosuvastatine-10-mg_row14_col0" class="data row14 col0">ROSUVASCOR</td>
       <td id="T_rosuvastatine-10-mg_row14_col1" class="data row14 col1">10 mg</td>
       <td id="T_rosuvastatine-10-mg_row14_col2" class="data row14 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-10-mg_row14_col3" class="data row14 col3">B/90</td>
@@ -1616,29 +1674,29 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-10-mg_row14_col8" class="data row14 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-10-mg_row15_col0" class="data row15 col0">NEACREST</td>
+      <td id="T_rosuvastatine-10-mg_row15_col0" class="data row15 col0">ROZUVIE 10</td>
       <td id="T_rosuvastatine-10-mg_row15_col1" class="data row15 col1">10 mg</td>
       <td id="T_rosuvastatine-10-mg_row15_col2" class="data row15 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-10-mg_row15_col3" class="data row15 col3">B/90</td>
-      <td id="T_rosuvastatine-10-mg_row15_col4" class="data row15 col4">58,240</td>
-      <td id="T_rosuvastatine-10-mg_row15_col5" class="data row15 col5">0,647</td>
+      <td id="T_rosuvastatine-10-mg_row15_col4" class="data row15 col4">50,240</td>
+      <td id="T_rosuvastatine-10-mg_row15_col5" class="data row15 col5">0,558</td>
       <td id="T_rosuvastatine-10-mg_row15_col6" class="data row15 col6">42,687</td>
-      <td id="T_rosuvastatine-10-mg_row15_col7" class="data row15 col7">73,29%</td>
+      <td id="T_rosuvastatine-10-mg_row15_col7" class="data row15 col7">84,97%</td>
       <td id="T_rosuvastatine-10-mg_row15_col8" class="data row15 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-10-mg_row16_col0" class="data row16 col0">SUPERSTAT</td>
+      <td id="T_rosuvastatine-10-mg_row16_col0" class="data row16 col0">NEACREST</td>
       <td id="T_rosuvastatine-10-mg_row16_col1" class="data row16 col1">10 mg</td>
       <td id="T_rosuvastatine-10-mg_row16_col2" class="data row16 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-10-mg_row16_col3" class="data row16 col3">B/90</td>
-      <td id="T_rosuvastatine-10-mg_row16_col4" class="data row16 col4">72,190</td>
-      <td id="T_rosuvastatine-10-mg_row16_col5" class="data row16 col5">0,802</td>
+      <td id="T_rosuvastatine-10-mg_row16_col4" class="data row16 col4">58,240</td>
+      <td id="T_rosuvastatine-10-mg_row16_col5" class="data row16 col5">0,647</td>
       <td id="T_rosuvastatine-10-mg_row16_col6" class="data row16 col6">42,687</td>
-      <td id="T_rosuvastatine-10-mg_row16_col7" class="data row16 col7">59,13%</td>
+      <td id="T_rosuvastatine-10-mg_row16_col7" class="data row16 col7">73,29%</td>
       <td id="T_rosuvastatine-10-mg_row16_col8" class="data row16 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-10-mg_row17_col0" class="data row17 col0">VISSEN</td>
+      <td id="T_rosuvastatine-10-mg_row17_col0" class="data row17 col0">SUPERSTAT</td>
       <td id="T_rosuvastatine-10-mg_row17_col1" class="data row17 col1">10 mg</td>
       <td id="T_rosuvastatine-10-mg_row17_col2" class="data row17 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-10-mg_row17_col3" class="data row17 col3">B/90</td>
@@ -1648,13 +1706,24 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-10-mg_row17_col7" class="data row17 col7">59,13%</td>
       <td id="T_rosuvastatine-10-mg_row17_col8" class="data row17 col8">ROSUVASTATINE</td>
     </tr>
+    <tr>
+      <td id="T_rosuvastatine-10-mg_row18_col0" class="data row18 col0">VISSEN</td>
+      <td id="T_rosuvastatine-10-mg_row18_col1" class="data row18 col1">10 mg</td>
+      <td id="T_rosuvastatine-10-mg_row18_col2" class="data row18 col2">Comprimés pelliculés</td>
+      <td id="T_rosuvastatine-10-mg_row18_col3" class="data row18 col3">B/90</td>
+      <td id="T_rosuvastatine-10-mg_row18_col4" class="data row18 col4">72,190</td>
+      <td id="T_rosuvastatine-10-mg_row18_col5" class="data row18 col5">0,802</td>
+      <td id="T_rosuvastatine-10-mg_row18_col6" class="data row18 col6">42,687</td>
+      <td id="T_rosuvastatine-10-mg_row18_col7" class="data row18 col7">59,13%</td>
+      <td id="T_rosuvastatine-10-mg_row18_col8" class="data row18 col8">ROSUVASTATINE</td>
+    </tr>
   </tbody>
 </table>
 
 <h2 id="rosuvastatine-20-mg-comprimés">Rosuvastatine 20 mg Comprimés:</h2>
 
 <style type="text/css">
-#T_rosuvastatine-20-mg_row0_col4, #T_rosuvastatine-20-mg_row1_col4, #T_rosuvastatine-20-mg_row2_col4, #T_rosuvastatine-20-mg_row3_col4, #T_rosuvastatine-20-mg_row4_col4, #T_rosuvastatine-20-mg_row5_col4, #T_rosuvastatine-20-mg_row6_col4, #T_rosuvastatine-20-mg_row12_col4, #T_rosuvastatine-20-mg_row13_col4 {
+#T_rosuvastatine-20-mg_row0_col4, #T_rosuvastatine-20-mg_row1_col4, #T_rosuvastatine-20-mg_row2_col4, #T_rosuvastatine-20-mg_row3_col4, #T_rosuvastatine-20-mg_row4_col4, #T_rosuvastatine-20-mg_row5_col4, #T_rosuvastatine-20-mg_row6_col4, #T_rosuvastatine-20-mg_row12_col4, #T_rosuvastatine-20-mg_row13_col4, #T_rosuvastatine-20-mg_row14_col4 {
   background-color: lightgreen;
 }
 #T_rosuvastatine-20-mg_row10_col4, #T_rosuvastatine-20-mg_row11_col4 {
@@ -1678,7 +1747,7 @@ $('#toc').on('click', 'a', function() {
   </thead>
   <tbody>
     <tr>
-      <td id="T_rosuvastatine-20-mg_row0_col0" class="data row0 col0">ROCOR20</td>
+      <td id="T_rosuvastatine-20-mg_row0_col0" class="data row0 col0">ROCOR 20</td>
       <td id="T_rosuvastatine-20-mg_row0_col1" class="data row0 col1">20 mg</td>
       <td id="T_rosuvastatine-20-mg_row0_col2" class="data row0 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-20-mg_row0_col3" class="data row0 col3">B/30</td>
@@ -1810,18 +1879,18 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-20-mg_row11_col8" class="data row11 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-20-mg_row12_col0" class="data row12 col0">ROSUVASCOR</td>
+      <td id="T_rosuvastatine-20-mg_row12_col0" class="data row12 col0">ROVASTINE</td>
       <td id="T_rosuvastatine-20-mg_row12_col1" class="data row12 col1">20 mg</td>
       <td id="T_rosuvastatine-20-mg_row12_col2" class="data row12 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-20-mg_row12_col3" class="data row12 col3">B/90</td>
-      <td id="T_rosuvastatine-20-mg_row12_col4" class="data row12 col4">75,240</td>
-      <td id="T_rosuvastatine-20-mg_row12_col5" class="data row12 col5">0,836</td>
-      <td id="T_rosuvastatine-20-mg_row12_col6" class="data row12 col6">63,954</td>
+      <td id="T_rosuvastatine-20-mg_row12_col4" class="data row12 col4">72,960</td>
+      <td id="T_rosuvastatine-20-mg_row12_col5" class="data row12 col5">0,811</td>
+      <td id="T_rosuvastatine-20-mg_row12_col6" class="data row12 col6">62,016</td>
       <td id="T_rosuvastatine-20-mg_row12_col7" class="data row12 col7">85,00%</td>
       <td id="T_rosuvastatine-20-mg_row12_col8" class="data row12 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-20-mg_row13_col0" class="data row13 col0">ROZUVIE 20</td>
+      <td id="T_rosuvastatine-20-mg_row13_col0" class="data row13 col0">ROSUVASCOR</td>
       <td id="T_rosuvastatine-20-mg_row13_col1" class="data row13 col1">20 mg</td>
       <td id="T_rosuvastatine-20-mg_row13_col2" class="data row13 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-20-mg_row13_col3" class="data row13 col3">B/90</td>
@@ -1832,78 +1901,84 @@ $('#toc').on('click', 'a', function() {
       <td id="T_rosuvastatine-20-mg_row13_col8" class="data row13 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-20-mg_row14_col0" class="data row14 col0">NEACREST</td>
+      <td id="T_rosuvastatine-20-mg_row14_col0" class="data row14 col0">ROZUVIE 20</td>
       <td id="T_rosuvastatine-20-mg_row14_col1" class="data row14 col1">20 mg</td>
       <td id="T_rosuvastatine-20-mg_row14_col2" class="data row14 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-20-mg_row14_col3" class="data row14 col3">B/90</td>
-      <td id="T_rosuvastatine-20-mg_row14_col4" class="data row14 col4">102,240</td>
-      <td id="T_rosuvastatine-20-mg_row14_col5" class="data row14 col5">1,136</td>
+      <td id="T_rosuvastatine-20-mg_row14_col4" class="data row14 col4">75,240</td>
+      <td id="T_rosuvastatine-20-mg_row14_col5" class="data row14 col5">0,836</td>
       <td id="T_rosuvastatine-20-mg_row14_col6" class="data row14 col6">63,954</td>
-      <td id="T_rosuvastatine-20-mg_row14_col7" class="data row14 col7">62,55%</td>
+      <td id="T_rosuvastatine-20-mg_row14_col7" class="data row14 col7">85,00%</td>
       <td id="T_rosuvastatine-20-mg_row14_col8" class="data row14 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-20-mg_row15_col0" class="data row15 col0">SUPERSTAT</td>
+      <td id="T_rosuvastatine-20-mg_row15_col0" class="data row15 col0">NEACREST</td>
       <td id="T_rosuvastatine-20-mg_row15_col1" class="data row15 col1">20 mg</td>
       <td id="T_rosuvastatine-20-mg_row15_col2" class="data row15 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-20-mg_row15_col3" class="data row15 col3">B/90</td>
-      <td id="T_rosuvastatine-20-mg_row15_col4" class="data row15 col4">103,365</td>
-      <td id="T_rosuvastatine-20-mg_row15_col5" class="data row15 col5">1,149</td>
+      <td id="T_rosuvastatine-20-mg_row15_col4" class="data row15 col4">102,240</td>
+      <td id="T_rosuvastatine-20-mg_row15_col5" class="data row15 col5">1,136</td>
       <td id="T_rosuvastatine-20-mg_row15_col6" class="data row15 col6">63,954</td>
-      <td id="T_rosuvastatine-20-mg_row15_col7" class="data row15 col7">61,87%</td>
+      <td id="T_rosuvastatine-20-mg_row15_col7" class="data row15 col7">62,55%</td>
       <td id="T_rosuvastatine-20-mg_row15_col8" class="data row15 col8">ROSUVASTATINE</td>
     </tr>
     <tr>
-      <td id="T_rosuvastatine-20-mg_row16_col0" class="data row16 col0">VISSEN</td>
+      <td id="T_rosuvastatine-20-mg_row16_col0" class="data row16 col0">SUPERSTAT</td>
       <td id="T_rosuvastatine-20-mg_row16_col1" class="data row16 col1">20 mg</td>
       <td id="T_rosuvastatine-20-mg_row16_col2" class="data row16 col2">Comprimés pelliculés</td>
       <td id="T_rosuvastatine-20-mg_row16_col3" class="data row16 col3">B/90</td>
       <td id="T_rosuvastatine-20-mg_row16_col4" class="data row16 col4">103,365</td>
-      <td id="T_rosuvastatine-20-mg_row16_col5" class="data row16 col5">1,149</td>
+      <td id="T_rosuvastatine-20-mg_row16_col5" class="data row16 col5">1,148</td>
       <td id="T_rosuvastatine-20-mg_row16_col6" class="data row16 col6">63,954</td>
       <td id="T_rosuvastatine-20-mg_row16_col7" class="data row16 col7">61,87%</td>
       <td id="T_rosuvastatine-20-mg_row16_col8" class="data row16 col8">ROSUVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_rosuvastatine-20-mg_row17_col0" class="data row17 col0">VISSEN</td>
+      <td id="T_rosuvastatine-20-mg_row17_col1" class="data row17 col1">20 mg</td>
+      <td id="T_rosuvastatine-20-mg_row17_col2" class="data row17 col2">Comprimés pelliculés</td>
+      <td id="T_rosuvastatine-20-mg_row17_col3" class="data row17 col3">B/90</td>
+      <td id="T_rosuvastatine-20-mg_row17_col4" class="data row17 col4">103,365</td>
+      <td id="T_rosuvastatine-20-mg_row17_col5" class="data row17 col5">1,148</td>
+      <td id="T_rosuvastatine-20-mg_row17_col6" class="data row17 col6">63,954</td>
+      <td id="T_rosuvastatine-20-mg_row17_col7" class="data row17 col7">61,87%</td>
+      <td id="T_rosuvastatine-20-mg_row17_col8" class="data row17 col8">ROSUVASTATINE</td>
     </tr>
   </tbody>
 </table>
 
 
-             
-            <div class="tags">
-              
-                  <b>Tags: </b>
-                  
-                  <a href="tag_hypolipemiant.html" class="btn btn-default navbar-btn cursorNorm" role="button">hypolipemiant</a>
-                  
-                  <a href="tag_statine.html" class="btn btn-default navbar-btn cursorNorm" role="button">statine</a>
-                  
-              
-            </div>
+	             
+							<div class="tags">
+			    
+			        <b>Tags: </b>
+			        
+			        <a href="tag_hypolipemiant.html" class="btn btn-default navbar-btn cursorNorm" role="button">hypolipemiant</a>
+			        
+			        <a href="tag_statine.html" class="btn btn-default navbar-btn cursorNorm" role="button">statine</a>
+			        
+			    
+			</div>
+	
 
-        </div>
-    <!-- /.row -->
-</div>
-<!-- /.container -->
-</div>
+	        </div>
+	    <!-- /.row -->
+		</div>
+	<!-- /.container -->
+	</div>
 <!-- /#main -->
 
-    </div>
+</div>
 
-<footer>
+	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2024 All rights reserved. <br />
- Site last generated: Oct 12, 2024 <br />
+ Site last generated: Nov 27, 2024 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>
 </footer>
 
-
 </body>
-
-
-
 </html>
-
-<!--  -->
