@@ -2,9 +2,19 @@
 #T_25f34 .row0 { text-decoration-line: line-through; }
  */
 
-#T_paracetamol-1000-mg :is(.row9, .row12) { border-bottom: 2px solid black; }
+#T_paracetamol-500-mg-comprimes :is(.row0, .row1, .row2, .row3, .row15) { border-bottom: 1px solid black; }
+#T_paracetamol-500-mg-comprimes :is(.row4, .row5, .row12, .row18).col2 { background-color: thistle; }
+#T_paracetamol-500-mg-comprimes-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
+
+#T_paracetamol-1000-mg-comprimes-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
+/* #T_paracetamol-1000-mg :is(.row9, .row12) { border-bottom: 2px solid black; }
 #T_paracetamol-1000-mg :is(.row10, .row11, .row12).col2 { background-color: lightblue; }
-#T_paracetamol-1000-mg .row13.col2 { background-color: thistle; }
+#T_paracetamol-1000-mg .row13.col2 { background-color: thistle; } */
+
+#T_paracetamol-3-solution-buvable .row4,
+#T_paracetamol-3-suspension-buvable .row6 { border-bottom: 1px solid black; }
+#T_paracetamol-3-solution-buvable .row5.col3,
+#T_paracetamol-3-suspension-buvable .row7.col3 { background-color: thistle; }
 
 /* amoxicilline 500mg-12 */
 #T_6bc4e_row4_col0,
@@ -85,6 +95,10 @@
 #T_ece1a :is(.row0, .row6, .row9, .row14, .row5).col3 { background-color: khaki; }
 #T_ece1a :is(.row1, .row7, .row8, .row10, .row11, .row12, .row15, .row16, .row17).col3 { background-color: thistle; }
 
+#T_rifampicine .row0 { border-bottom: 3px solid black; }
+#T_rifampicine_row0_col2 { background-color: lightsalmon; }
+#T_rifampicine_row1_col2 { background-color: lightblue; }
+
 /* calcium cp*/
 #T_57549 .row0.col3,
 #T_57549 .row8.col3 { background-color: khaki; }
@@ -99,7 +113,11 @@
 #T_90e04_row0_col2,
 #T_90e04_row1_col2,
 #T_90e04_row2_col2 { background-color: lightsalmon; }
-
+#T_vitamines-d-2 :is(.row0, .row1)  { border-bottom: 6px double black; }
+#T_vitamines-d-2 .row2  { border-bottom: 1px solid black; }
+#T_vitamines-d-2 :is(.row0, .row1).col2  { background-color: lightblue; }
+#T_vitamines-d-2 .row0.col7  { background-color: khaki; }
+#T_vitamines-d-2 .row1.col7  { background-color: thistle; }
 
 #T_buscopan .row1.col2 { background-color: khaki; }
 #T_buscopan .row2.col2 { background-color: lightsalmon; }
@@ -250,11 +268,11 @@
 #T_fluticasone .row2 { border-bottom: 4px solid black; }
 #T_fluticasone :is(.row4, .row3).col2 { background-color: thistle; }
 
-#T_budesonide .row1 { border-bottom: 4px solid black; }
-#T_budesonide .row0,
-#T_budesonide .row4 { border-bottom: 2px solid black; }
-#T_budesonide .row1.col3 { background-color: thistle; }
-#T_budesonide :is(.row0, .row1).col2 { background-color: khaki; }
+#T_budesonide-inhalation .row1 { border-bottom: 4px solid black; }
+#T_budesonide-inhalation .row0,
+#T_budesonide-inhalation .row4 { border-bottom: 2px solid black; }
+#T_budesonide-inhalation .row1.col3 { background-color: thistle; }
+#T_budesonide-inhalation :is(.row0, .row1).col2 { background-color: khaki; }
 
 #T_beclometasone-inhlation .row0,
 #T_beclometasone-inhlation .row1 { border-bottom: 2px solid black; }
@@ -547,18 +565,18 @@
 #T_aed63 .row5 { border-bottom: 1px solid black; }
 #T_aed63 .row5.col3 { background-color: thistle; }
 
-#T_morphine-cp .row1,
-#T_morphine-cp .row3,
-#T_morphine-cp .row5,
-#T_morphine-cp .row6 { border-bottom: 2px solid black; }
+#T_morphine-comprimes .row1,
+#T_morphine-comprimes .row3,
+#T_morphine-comprimes .row5,
+#T_morphine-comprimes .row6 { border-bottom: 2px solid black; }
 
 #T_fentanyl .row0,
 #T_fentanyl .row1 { border-bottom: 2px solid black; }
 
-#T_fer-inj .row0,
-#T_fer-inj .row1 { border-bottom: 1px solid black; }
-#T_fer-inj .row2.col3 { background-color: thistle; }
-#T_fer-inj .row2.col1 { background-color: khaki; }
+#T_fer-injectable .row0,
+#T_fer-injectable .row1 { border-bottom: 1px solid black; }
+#T_fer-injectable .row2.col3 { background-color: thistle; }
+#T_fer-injectable .row2.col1 { background-color: khaki; }
 
 #T_feredate .row0,
 #T_fer-cp .row0 { border-bottom: 1px solid black; }
@@ -677,11 +695,10 @@
 #T_vasoprotecteurs .row4.col8 { background-color: lightblue; }
 
 /* molsidomine */
-#T_ddca0 .row6 { border-bottom: 3px solid black; }
-#T_ddca0 .row5,
-#T_ddca0 .row12 { border-bottom: 1px solid black; }
-#T_ddca0 .row6.col3,
-#T_ddca0 .row13.col3 { background-color: thistle; }
+#T_molsidomine .row7 { border-bottom: 3px solid black; }
+#T_molsidomine .row5,
+#T_molsidomine .row13 { border-bottom: 1px solid black; }
+#T_molsidomine :is(.row6, .row7, .row14).col3 { background-color: thistle; }
 
 #T_ivabradine .row0 { border-bottom: 2px solid black; }
 #T_ivabradine .row1.col1 { background-color: thistle; }
@@ -863,6 +880,7 @@
 /* phenaspirine */
 #T_c8c9f .row1 { border-bottom: 3px solid black; }
 #T_c8c9f .row0.col1 { background-color: thistle; }
+#T_c8c9f :is(.row0, .row1).col2 { background-color: khaki; }
 
 #T_ketotifene .row0 { border-bottom: 3px solid black; }
 #T_ketotifene :is(.row1, .row2).col2 { background-color: lightblue; }
@@ -1033,15 +1051,15 @@
 
 #T_acide-ioxitalamique :is(.row0, .row1) { border-bottom: 1px solid black; }
 #T_iobitridol :is(.row0, .row1) { border-bottom: 1px solid black; }
-#T_iobitridol .row3 { border-bottom: 3px solid black; }
-#T_iobitridol .row2.col1 { background-color: khaki; }
+#T_iobitridol .row2 { border-bottom: 3px solid black; }
+#T_iobitridol .row3.col1 { background-color: khaki; }
 #T_iopamidol :is(.row0, .row2) { border-bottom: 1px solid black; }
 #T_iopamidol .row1 { border-bottom: 3px solid black; }
 #T_iopamidol :is(.row3, .row2).col1,
 #T_iopamidol :is(.row1, .row3).col3 { background-color: thistle; }
 #T_baryum-sulfate .row0 { border-bottom: 1px solid black; }
-#T_baryum-sulfate .row1.col2 { background-color: thistle; }
-#T_allergenes :is(.row1, .row3, .row5, .row7, .row9) {border-bottom: 2px solid black; }
+#T_baryum-sulfate .row1.col3 { background-color: thistle; }
+#T_allergenes :is(.row1, .row3, .row6, .row8, .row11) {border-bottom: 2px solid black; }
 
 #T_antiviral-ophtalmo .row0 { border-bottom: 6px double black; }
 #T_antiviral-ophtalmo .row0.col7 { background-color: khaki; }

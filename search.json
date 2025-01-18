@@ -68,6 +68,26 @@
 
 
 {
+"title": "Changements du 26 Décembre 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-12-26.html",
+"summary": "Changements du 26 Décembre 2024"
+}
+,
+
+
+{
+"title": "Changements du 2 Décembre 2024",
+"tags": "changements",
+"keywords": "",
+"url": "changements-2024-12-02.html",
+"summary": "Changements du 2 Décembre 2024"
+}
+,
+
+
+{
 "title": "Changements du 7 Novembre 2024",
 "tags": "changements",
 "keywords": "",
@@ -1110,7 +1130,7 @@
 {
 "title": "Lidocaine + Prilocaine Crème Dermique",
 "tags": "anesthesique",
-"keywords": "prilia, lidoca plus, lidocaine, prilocaine",
+"keywords": "prilia, prilocam, lidoca plus, lidocaine, prilocaine",
 "url": "lidocaine-prilocaine.html",
 "summary": "Anesthésiques"
 }
@@ -2920,7 +2940,7 @@
 {
 "title": "Vitamines",
 "tags": "vitamines",
-"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacalcidol, vitamin e 100, e caps, vitamin e 200, vitamine e, vitamine a, vitamine A Faure",
+"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacaps, alfacalcidol, vitamin e 100, e caps, vitamin e 200, vitamine e, vitamine a, vitamine A Faure",
 "url": "vitamines.html",
 "summary": "Vitamine D et dérivés, Vitamine E et Vitamine A."
 }
@@ -4349,7 +4369,7 @@
 
 {
 "title": "Paracetamol perfusoin intraveineuse",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "parac info, paramed, paralgyl 500, stopalgic, paralgyl 1000, perfalgan",
 "url": "paracetamol-perfusion.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre par voie intraveineuse"
@@ -4359,7 +4379,7 @@
 
 {
 "title": "Paracetamol suppositoires",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "analgan nourrissons, efferalgan, analgan jeune enfant, paralvit, paracetamol ips, paralvit adultes",
 "url": "paracetamol-suppo.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
@@ -4369,7 +4389,7 @@
 
 {
 "title": "Paracetamol sirop",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes",
 "url": "paracetamol-sirop.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
@@ -4379,7 +4399,7 @@
 
 {
 "title": "Paracetamol sachets",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "novadol, doliprane",
 "url": "paracetamol-sachets.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
@@ -4389,7 +4409,7 @@
 
 {
 "title": "Paracetamol 1 g comprimés ou gélules",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "algidol, algesic 1000 mg, stopalgic, novadol, cetamol, adol, panadol, dafalgan, doliprane, paralvit, efferalgan",
 "url": "paracetamol-1000-cp.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
@@ -4399,7 +4419,7 @@
 
 {
 "title": "Paracetamol 500 mg comprimés ou gélules",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "panadol, adoline, novadol, adol, cetamol, dolopro, algidol, paracetamol ips, efferalgan 500, doliprane, analgan, stopalgic, algesic, paracetamol i500, paracetamol",
 "url": "paracetamol-500-cp.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"

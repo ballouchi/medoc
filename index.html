@@ -95,8 +95,8 @@
         });
     </script>
 
-        
-    <!-- Include DataTables css an js in head -->
+    
+	        <!-- Include DataTables css an js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
     <script type="text/javascript" charset="utf8" src="js/dataTables.bootstrap.min.js"></script>
@@ -109,7 +109,7 @@
 		        .addClass('filters')
 		        .prependTo('#example thead');
           var table = $('#example').DataTable( {
-	        ajax: "js/2024-11-07-2.json",
+	        ajax: "js/2024-12-26.json",
 	        orderCellsTop: false,
 	        //fixedHeader: true,
 	        language: {
@@ -125,7 +125,7 @@
 	        initComplete: function() {
 	            var api = this.api();
 	            // add input search fields for columns
-	            api.columns([0, 6]).eq(0).each(function(colIdx) {
+	            api.columns([0]).eq(0).each(function(colIdx) {
 	                // Set the header cell to contain the input element
 	                var cell = $('.filters th').eq($(api.column(colIdx).header()).index());
 	                var title = $(cell).text();
@@ -148,40 +148,39 @@
 	                    });
 	            });
 	
-	            //// add select elements for columns
-	            //api.columns([1, 2]).eq(0).each(function(colIdx) {
-	                //// Set the header cell to contain the select element
-	                //var cell = $('.filters th').eq($(api.column(colIdx).header()).index());
-	                //var title = $(cell).text();
-	                //$(cell).html( '<select><option value=""></option></select>' );
+	            // add select elements for columns
+	            api.columns([6]).eq(0).each(function(colIdx) {
+	                // Set the header cell to contain the select element
+	                var cell = $('.filters th').eq($(api.column(colIdx).header()).index());
+	                var title = $(cell).text();
+	                $(cell).html( '<select><option value=""></option></select>' );
 	
-	                //// On every select action
-	                ////var column = this;
-	                //var column = api.column(colIdx);
-	                //var select = $('<select><option value=""></option></select>')
-	                  ////.appendTo($(column.header()).empty())
-	                  //.appendTo($(cell).empty())
-	                  //.on('change', function() {
-	                    //var val = $.fn.dataTable.util.escapeRegex(
-	                      //$(this).val()
-	                    //);
-	                    //column
-	                      //.search(val ? '^' + val + '$' : '', true, false)
-	                      //.draw();
-	                  //});
-	                //column.data().unique().sort().each(function(d, j) {
-	                  //select.append('<option value="' + d + '">' + d + '</option>');
-	                //});
-	            //});
+	                // On every select action
+	                //var column = this;
+	                var column = api.column(colIdx);
+	                var select = $('<select style="width:100%;"><option value="">Choisir une DCI</option></select>')
+	                  //.appendTo($(column.header()).empty())
+	                  .appendTo($(cell).empty())
+	                  .on('change', function() {
+	                    var val = $.fn.dataTable.util.escapeRegex(
+	                      $(this).val()
+	                    );
+	                    column
+	                      .search(val ? '^' + val + '$' : '', true, false)
+	                      .draw();
+	                  });
+	                column.data().unique().sort().each(function(d, j) {
+	                  select.append('<option value="' + d + '">' + d + '</option>');
+	                });
+	            });
 	
 	
 	        }
 	    } );
        });
     </script>
-    
 
-	
+    
 </head>
 <body>
 	<!-- Navigation -->
@@ -1286,7 +1285,7 @@
 
 <h2 id="recherche-rapide">Recherche Rapide</h2>
 
-<h3 id="médicaments-remboursés-par-la-cnam-07112024">Médicaments remboursés par la CNAM (07/11/2024)</h3>
+<h3 id="médicaments-remboursés-par-la-cnam-26122024"><a href="https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20V%20E%20I%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE26-12-2024.xls">Médicaments remboursés par la CNAM 26/12/2024</a></h3>
 
 <table id="example" class="display" style="width:100%">
         <thead>
@@ -1397,8 +1396,8 @@
 	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
-               &copy;2024 All rights reserved. <br />
- Site last generated: Nov 27, 2024 <br />
+               &copy;2025 All rights reserved. <br />
+ Site last generated: Jan 1, 2025 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>
