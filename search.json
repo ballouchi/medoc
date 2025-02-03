@@ -21,7 +21,7 @@
 
 {
 "title": "Accueil",
-"tags": "getting_started",
+"tags": "",
 "keywords": "homepage",
 "url": "index.html",
 "summary": "Page d'accueil"
@@ -378,8 +378,8 @@
 
 
 {
-"title": "Daivonex (Calcipotriol)",
-"tags": "dermato",
+"title": "Calcipotriol",
+"tags": "dermatopsoriasis",
 "keywords": "daivonex, calcipotriol",
 "url": "calcipotriol.html",
 "summary": "Traitement du Psoriasis"
@@ -389,7 +389,7 @@
 
 {
 "title": "Novatretin (Acitretine)",
-"tags": "dermato",
+"tags": "dermatopsoriasis",
 "keywords": "novatretin, acitretine",
 "url": "acitretine.html",
 "summary": "Traitement du Psoriasis"
@@ -410,7 +410,7 @@
 {
 "title": "Préparations à base de corticostéroïdes associés à d&#39;autres substances",
 "tags": "corticoides-dermatodermato",
-"keywords": "betasalic, dermosalic, betamethasone + acide salicylique, valecort neomycine, dermosone neo, betamethasone + neomycine, dermocine plus, afusidic plus, uciderm plus, betamethasone + acide fusidique, daivoderm, daivobet, psoderm plus, psoriasone, calcipotriol + betamethasone, fluskin neo, cortema neomycine, fluocinonide + neomycine, neocilone, cinoderm, neostyne, neofungine, triamcinolone + neomycine + nystatine",
+"keywords": "betasalic, dermosalic, betamethasone + acide salicylique, valecort neomycine, dermosone neo, betamethasone + neomycine, dermocine plus, afusidic plus, uciderm plus, betamethasone + acide fusidique, fluskin neo, cortema neomycine, fluocinonide + neomycine, neocilone, cinoderm, neostyne, neofungine, triamcinolone + neomycine + nystatine",
 "url": "corticoides-asso.html",
 "summary": "Corticoïdes en application locale pour les maladies inflammatoires, prolifératives et auto-immunes de la peau"
 }
@@ -608,7 +608,7 @@
 
 
 {
-"title": "Leponex (Clozapine)",
+"title": "Leponex (Clozapine 25 et 100 mg Comprimés)",
 "tags": "neuroleptiques",
 "keywords": "leponex, clozapine",
 "url": "clozapine.html",
@@ -618,7 +618,7 @@
 
 
 {
-"title": "Aripiprazole",
+"title": "Aripiprazole 10 et 15 mg Comprimés",
 "tags": "neuroleptiques",
 "keywords": "abilify, abilicare, aripiprazole",
 "url": "aripiprazole.html",
@@ -1008,7 +1008,7 @@
 
 
 {
-"title": "Sabril (Vigabatrin)",
+"title": "Sabril (Vigabatrin 500 mg Comprimés)",
 "tags": "antiepileptique",
 "keywords": "sabril, vigabatrin",
 "url": "vigabatrin.html",
@@ -1048,7 +1048,7 @@
 
 
 {
-"title": "Gabapentine",
+"title": "Gabapentine 300 mg Gélules",
 "tags": "antiepileptique",
 "keywords": "gabentin, gaborex, gabinor, gaba 300, neuralgin, gabapentine",
 "url": "gabapentine.html",
@@ -2558,7 +2558,7 @@
 
 
 {
-"title": "Danatrol (Danazol)",
+"title": "Danatrol (Danazol 200 mg Gélules)",
 "tags": "hormones-sexuelles",
 "keywords": "danatrol, danazol",
 "url": "danazol.html",
@@ -2798,7 +2798,7 @@
 
 
 {
-"title": "Dapagliflozine",
+"title": "Dapagliflozine 5 et 10 mg Comprimés",
 "tags": "autres-diabetediabete",
 "keywords": "inovia5, divinus, inovia 5, forxiga, inovia10, inovia 10, dapagliflozine",
 "url": "dapagliflozine.html",
@@ -2938,11 +2938,31 @@
 
 
 {
-"title": "Vitamines",
+"title": "Vitamines D",
 "tags": "vitamines",
-"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacaps, alfacalcidol, vitamin e 100, e caps, vitamin e 200, vitamine e, vitamine a, vitamine A Faure",
-"url": "vitamines.html",
-"summary": "Vitamine D et dérivés, Vitamine E et Vitamine A."
+"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacaps, alfacalcidol",
+"url": "vitamines-d.html",
+"summary": "Vitamine D et dérivés"
+}
+,
+
+
+{
+"title": "Vitamine E",
+"tags": "vitamines",
+"keywords": "vitamin e 100, e caps, vitamin e 200, vitamine e",
+"url": "vitamine-e.html",
+"summary": "Traitement de la carence en Vitamine E"
+}
+,
+
+
+{
+"title": "Vitamine A",
+"tags": "vitamines",
+"keywords": "vitamine a, vitamine A Faure",
+"url": "vitamine-a.html",
+"summary": "Traitement du Xérosis conjonctival et cornéen et traitement d'appoint des troubles de la cicatrisation cornéenne"
 }
 ,
 
@@ -2958,8 +2978,8 @@
 
 
 {
-"title": "Diphosphonates (Alendronate, Risedronate, Ranelate de Strontium et Raloxifène)",
-"tags": "sq",
+"title": "Diphosphonates",
+"tags": "muscles et os",
 "keywords": "fosalen, fosalen d3, alendronate, colecalciferol, risonel, aktonate, ostenel, actonel, risedronate, protelos, ranelate de strontium, evista, raloxifene",
 "url": "diphosphonates.html",
 "summary": "Inhibiteurs de la résorption osseuse, utilisés dans certaines maladies des os et dans l'ostéoporose postménopausique"
@@ -2969,7 +2989,7 @@
 
 {
 "title": "Antigoutteux (Colchicine et Allopurinol)",
-"tags": "anti-inflammatoiresq",
+"tags": "anti-inflammatoiremuscles et os",
 "keywords": "colchicine opocalcium, colchicina lirca, purinol 100, alloric, purinol 300, colchicine, allopurinol",
 "url": "antigoutteux.html",
 "summary": "Traitement de la goutte"
@@ -2989,7 +3009,7 @@
 
 {
 "title": "Myorelaxants",
-"tags": "anti-inflammatoiresq",
+"tags": "anti-inflammatoiremuscles et os",
 "keywords": "miorel, myolax, coltramyl, relaxil, thiomed, thiocolchicoside, decontractyl, mephenesine",
 "url": "myorelaxants.html",
 "summary": "Traitement des contractures musculaires douloureuses"
@@ -2999,7 +3019,7 @@
 
 {
 "title": "Pancreatine",
-"tags": "enzyme",
+"tags": "enzymemetabolisme",
 "keywords": "creon",
 "url": "pancreatine.html",
 "summary": "Extrait de pancréas apportant les enzymes pancréatiques nécessaires à la digestion (lipases, protéases, amylases)"
@@ -3438,7 +3458,7 @@
 
 
 {
-"title": "Cotrimoxazole (Sulfametopyrazine + Trimethoprime)",
+"title": "Cotrimoxazole : Association Sulfametopyrazine + Trimethoprime",
 "tags": "atb-autresantibiotique",
 "keywords": "berlocid, cotrimox, sulfatrim, bactrim, bactrim forte, sulfametopyrazine + trimethoprime, bactekod, bactrim nourrissons et enfants, cotrimoxazole",
 "url": "cotrimoxazole.html",
@@ -3519,7 +3539,7 @@
 
 {
 "title": "Norfloxacine",
-"tags": "fqantibiotique",
+"tags": "fluoroquinolonesantibiotique",
 "keywords": "noracin, norfloxacine",
 "url": "norfloxacine.html",
 "summary": "Traiement des infections uro-génitales"
@@ -3529,7 +3549,7 @@
 
 {
 "title": "Levofloxacine",
-"tags": "fqantibiotique",
+"tags": "fluoroquinolonesantibiotique",
 "keywords": "levomax, avoxine 500, levorec, levofor, lovik, levodis, levox, tavaflox, levofloxacine winthrop, levoflox, levocine, tavanic, levofloxacine",
 "url": "levofloxacine.html",
 "summary": "Traiement d'infections respiratiores, uro-génitales et intestinales dues à des germes sensibles"
@@ -3539,7 +3559,7 @@
 
 {
 "title": "Ciprofloxacine",
-"tags": "fqantibiotique",
+"tags": "fluoroquinolonesantibiotique",
 "keywords": "ciprolon 500, cipromax 500, ciprocine, siprodis, ciproflex 500, ciprosaiph, quinolox, ciprodar, cipro 500, sifloks, cipromax 750, ciprolon 750, cipro 750, ciproflex 750, ciprofloxacine",
 "url": "ciprofloxacine.html",
 "summary": "Traiement des infections bactériennes principalement urinaires, génitales et intestinales"
@@ -3549,7 +3569,7 @@
 
 {
 "title": "Ofloxacine",
-"tags": "fqantibiotique",
+"tags": "fluoroquinolonesantibiotique",
 "keywords": "monoflocet, gamoflo, ofloxacine winthrop, oflodis, oflocet, ofloxacine",
 "url": "ofloxacine.html",
 "summary": "Traiement des infections bactériennes principalement urinaires et génitales"
@@ -3969,7 +3989,7 @@
 
 {
 "title": "Alginates",
-"tags": "aciditeacidite-autres",
+"tags": "aciditéacidité-autres",
 "keywords": "apyrosis nourrissons, apyrosis, gaviscon",
 "url": "alginates.html",
 "summary": "Traitement symptomatique du reflux gastro-oesophagien"
@@ -3979,7 +3999,7 @@
 
 {
 "title": "Antacides",
-"tags": "aciditeacidite-autres",
+"tags": "aciditéacidité-autres",
 "keywords": "di-antacid, di-antacid sans sucre, contracide, pepsane, rocgel 1.2g, antacid, gastramyl, moxal, calmacide, rennie sans sucre, dimeticone, aluminium hydroxyde, magnesium hydroxyde, gaiazylene, aluminium oxyde, calcium carbonate + magnesium carbonate, calcium carbonate + magnesium carbonate + simethicone",
 "url": "antacides.html",
 "summary": "Traitement des douleurs oeso-gastro-duodénales liés à des problèmes d’acidité"
@@ -3989,7 +4009,7 @@
 
 {
 "title": "Sucralfate",
-"tags": "aciditeacidite-autres",
+"tags": "aciditéacidité-autres",
 "keywords": "ulcefix, ulcar, sucralfate",
 "url": "sucralfate.html",
 "summary": "Traitement des ulcères gastriques et duodénaux (protège la muqueuse gastro-duodénale de l'action de l'acide chlorhydrique)"
@@ -3999,7 +4019,7 @@
 
 {
 "title": "Cimetidine",
-"tags": "aciditeanti-h2",
+"tags": "aciditéanti-h2",
 "keywords": "unitag, mexine, cimedine",
 "url": "cimetidine.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
@@ -4009,7 +4029,7 @@
 
 {
 "title": "Ranitidine",
-"tags": "aciditeanti-h2",
+"tags": "aciditéanti-h2",
 "keywords": "tanidina, zantac",
 "url": "ranitidine.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
@@ -4019,7 +4039,7 @@
 
 {
 "title": "Famotidine",
-"tags": "aciditeanti-h2",
+"tags": "aciditéanti-h2",
 "keywords": "famodar abr, uldine 10, ah-deux, uldine 20, famodine 20, famodar, gastrosidin, gastrozen, uldine 40, famodine 40, famodar 40",
 "url": "famotidine.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal."
@@ -4029,7 +4049,7 @@
 
 {
 "title": "Pantoprazole 40 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "pentop, pantopral, razon",
 "url": "pantoprazole-40.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4039,7 +4059,7 @@
 
 {
 "title": "Pantoprazole 20 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "pentop, pantopral, razon",
 "url": "pantoprazole-20.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4049,7 +4069,7 @@
 
 {
 "title": "Lansoprazole 30 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "ippzor, iniprazol, lansopral, lanzor, prazor",
 "url": "lansoprazole-30.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4059,7 +4079,7 @@
 
 {
 "title": "Lansoprazole 15 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "iniprazol, ippzor, lansopral, lanzor, prazor",
 "url": "lansoprazole-15.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4069,7 +4089,7 @@
 
 {
 "title": "Omeprazole Injectable",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "ipproton perfusion, risek",
 "url": "omeprazole-inj.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Prévention et Traitement des ulcères gastro-duodénaux par voie intraveineuse lorsque la voie orale est impossible."
@@ -4079,7 +4099,7 @@
 
 {
 "title": "Omeprazole 20 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "omezol, meprazol, oprazole, maalox controle, omeprazole winthrop, gastral, belifax, mopral, ipproton",
 "url": "omeprazole-20.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4089,7 +4109,7 @@
 
 {
 "title": "Omeprazole 10 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "omezol, opraalox, meprazol, oprazole, gastral, belifax, ipproton",
 "url": "omeprazole-10.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Prévention des ulcères gastro-duodénaux et de l'oesophagite de reflux."
@@ -4099,7 +4119,7 @@
 
 {
 "title": "Esomeprazole 40 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "esocalm, stelar, enomeral 40, esocare, mesopral, rugdal, esoral, rgeo, nexus, ippsium 40, inexium, actipp, nexium 40",
 "url": "esomeprazole-40.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4109,7 +4129,7 @@
 
 {
 "title": "Esomeprazole 20 mg et 10 mg",
-"tags": "aciditeipp",
+"tags": "aciditéipp",
 "keywords": "nexus, stelar, esocalm, esomeprazole zentiva, enomeral 20, esocare, mesopral, ippsium 20, inexium, rugdal, actipp, esoral, nexium 20 mg",
 "url": "esomeprazole.html",
 "summary": "Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux."
@@ -4138,7 +4158,7 @@
 
 
 {
-"title": "Lamaline (Paracetamol + Belladona + Opium)",
+"title": "Lamaline (Paracetamol + Belladona + Opium) Suppositoires",
 "tags": "antalgiqueanalgesiqueopiace",
 "keywords": "lamaline, paracetamol, belladona, opium",
 "url": "paracetamol-belladona-opium.html",
@@ -4152,7 +4172,7 @@
 "tags": "opiaceanalgesique",
 "keywords": "astradol, latifex 50, tramadis, tramal, astradol lp, tramal retard, souladol 100, tramadol",
 "url": "tramadol.html",
-"summary": "Traitement des douleurs."
+"summary": "Traitement des douleurs modérées à intenses de l'adulte."
 }
 ,
 
@@ -4198,6 +4218,16 @@
 
 
 {
+"title": "Verax (Benzydamine)",
+"tags": "anti-inflammatoire",
+"keywords": "verax enfant, verax adultes, benzydamine",
+"url": "benzydamine.html",
+"summary": "Anti-inflammatoire et antalgique d'action locale"
+}
+,
+
+
+{
 "title": "Celecoxib",
 "tags": "anti-inflammatoireantalgique",
 "keywords": "x-back, x-back200, coxibrex, adybrex, inflacox, inicox 2, algibrex, inibrex, artibrex, celoxx, celebrex, celecoxib",
@@ -4222,7 +4252,7 @@
 "tags": "anti-inflammatoireantalgique",
 "keywords": "fenamyl, mefalgic, mefenal, inflamyl, fendol, inflamyl fort, dysman, acide mefenamique",
 "url": "acide-mefenamique.html",
-"summary": "Traitement des maladies inflammatoires et des douleurs"
+"summary": "Traitement symptomatique des états inflammatoires et des douleurs"
 }
 ,
 
@@ -4279,10 +4309,10 @@
 
 {
 "title": "Ibuprofène",
-"tags": "anti-inflammatoireantalgique",
+"tags": "anti-inflammatoireantalgiqueantipyretique",
 "keywords": "gelufene, ibucare 200, novafen, ibuprane, dolven, buprofen, upfen, ibuphil 400, cycloff, brufen, ibucare 400, neobrufen, ibucare 600, ibuphil 600, painofen enfant-nourrissons, adofen, ibuphil enfant-nourrisson, moment 200, ibuprofen",
 "url": "ibuprofene.html",
-"summary": "Traitement des états inflammatoires et des douleurs"
+"summary": "Traitement symptomatique des douleurs d'intensité légère à moderée et des états fébriles"
 }
 ,
 
@@ -4332,13 +4362,13 @@
 "tags": "antalgiqueantipyretiquesalicyles",
 "keywords": "aspirine ph 8, actalgine, aspirine, acide acetylsalicylique",
 "url": "acide acetylsalicylique.html",
-"summary": "Traitement des douleurs et/ou des états fébriles."
+"summary": "Traitement symptomatique des douleurs d'intensité légère à modérée, des états fébriles et des rhumatismes inflammatoires."
 }
 ,
 
 
 {
-"title": "Acetylsalicylate de Lysine",
+"title": "Acétylsalicylate de Lysine",
 "tags": "antalgiqueantipyretiquesalicyles",
 "keywords": "aspegic adultes, aspegic, kardegic, acetylsalicylate de lysine labesfal, acetylsalicylate de lysine",
 "url": "acetylsalicylate de lysine.html",
@@ -4349,7 +4379,7 @@
 
 {
 "title": "Association Antalgique Paracetamol + Cafeine",
-"tags": "antalgiqueparacetamol",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "panadol extra, stopalgic extra, algidol extra, analgan extra, algesic extra, novadol extra, adol extra",
 "url": "paracetamol-cafeine.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles."
@@ -4358,8 +4388,8 @@
 
 
 {
-"title": "Association Antalgique Paracetamol + Vitamine C",
-"tags": "antalgiqueparacetamol",
+"title": "Association Paracetamol + Vitamine C",
+"tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "doliprane vitamine c, paralvit vitamine c, efferalgan vitamine c",
 "url": "paracetamol-vitc.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou des états fébriles."
@@ -4389,7 +4419,7 @@
 
 {
 "title": "Paracetamol sirop",
-"tags": "antalgiqueantipyretiqueparacetamol",
+"tags": "antalgiqueparacetamol",
 "keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes",
 "url": "paracetamol-sirop.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
@@ -4400,7 +4430,7 @@
 {
 "title": "Paracetamol sachets",
 "tags": "antalgiqueantipyretiqueparacetamol",
-"keywords": "novadol, doliprane",
+"keywords": "novadol, doliprane, paracetamol",
 "url": "paracetamol-sachets.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }
@@ -4410,7 +4440,7 @@
 {
 "title": "Paracetamol 1 g comprimés ou gélules",
 "tags": "antalgiqueantipyretiqueparacetamol",
-"keywords": "algidol, algesic 1000 mg, stopalgic, novadol, cetamol, adol, panadol, dafalgan, doliprane, paralvit, efferalgan",
+"keywords": "algidol, algesic 1000 mg, stopalgic, novadol, paralvit, cetamol, adol, panadol, dafalgan, doliprane, efferalgan, paracetamol",
 "url": "paracetamol-1000-cp.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }

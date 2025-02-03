@@ -172,40 +172,38 @@
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+<!--
+            <div>
+-->
             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Pharma Tunisie</span></a>
+<!--
+            </div>
+	        <div>
+	            <a id="tg-sb-link" class="navbar-brand" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a>
+	        </div>
+-->
         </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse in" aria-expanded="true">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a></li>
                 <!-- entries without drop-downs appear here -->
 
-
-
-
-                
-                
-                
-                <li><a href="news">Nouvelles Pages</a></li>
-                
-                
-                
-                <li><a href="news_archive.html">Toutes les Pages</a></li>
+				
+				
+			
                 
                 
                 
                 <li><a href="changements.html">Changements</a></li>
                 
                 
-                
-                <!-- entries with drop-downs appear here -->
-                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -223,7 +221,7 @@
                                 dataSource: 'search.json',
                                 searchResultTemplate: '<li><a href="{url}" title="Diclofenac">{title}</a></li>',
                     noResultsText: 'Aucun resultat.',
-                            limit: 10,
+                            limit: 20,
                             fuzzy: true,
                     })
                     </script>
@@ -249,7 +247,7 @@
 	                
 
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Categories </li>
+  <li class="sidebarTitle">Catégories </li>
   
   
   
@@ -347,7 +345,7 @@
           
           
           
-          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles et os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -421,7 +419,37 @@
           
           
           
-          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidite-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidité-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Métabolisme" href="#">Métabolisme</a>
+      <ul>
+          
+          
+          
+          <li><a title="Minéraux" href="tag_mineraux.html">Minéraux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Vitamines" href="tag_vitamines.html">Vitamines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Enzymes" href="tag_enzyme.html">Enzymes</a></li>
           
           
           
@@ -516,7 +544,7 @@
           
           
           
-          <li><a title="Quinolones" href="tag_fq.html">Quinolones</a></li>
+          <li><a title="Quinolones" href="tag_fluoroquinolones.html">Quinolones</a></li>
           
           
           
@@ -1266,15 +1294,7 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            <h1 id="diclofenac">Diclofenac</h1>
-
-<div>
-
-    <div class="summary">Traitement des états inflammatoires et des douleurs</div>
-   
-
-    
-    
+	            
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
 $( document ).ready(function() {
@@ -1296,12 +1316,27 @@ $('#toc').on('click', 'a', function() {
 
 <div id="toc"></div>
 
+<h2 id="diclofenac">Diclofenac</h2>
 
+<ul>
+  <li>
+    <p>Enfant: Rhumatismes inflammatoires infantiles.</p>
+  </li>
+  <li>
+    <p>Adulte et Enfant à partir de 15 ans:</p>
 
-    
-</div>
+    <ul>
+      <li>
+        <p>Traitement symptomatique au long cours des rhumatismes inflammatoires chroniques et de certaines arthroses douloureuses et invalidantes.</p>
+      </li>
+      <li>
+        <p>Traitement symptomatique de courte durée des poussées aiguës des rhumatismes articulaires et des arthroses.</p>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-<h2 id="diclofenac-25-50-75-et-100-mg-comprimés">Diclofenac 25, 50, 75 et 100 mg, Comprimés:</h2>
+<h3 id="diclofenac-25-50-75-et-100-mg-comprimés">Diclofenac 25, 50, 75 et 100 mg, Comprimés</h3>
 
 <style type="text/css">
 #T_30b3a_row0_col4, #T_30b3a_row1_col4, #T_30b3a_row3_col4, #T_30b3a_row4_col4, #T_30b3a_row6_col4, #T_30b3a_row7_col4 {
@@ -1458,7 +1493,7 @@ $('#toc').on('click', 'a', function() {
   </tbody>
 </table>
 
-<h2 id="diclofenac-suppositoires">Diclofenac Suppositoires:</h2>
+<h3 id="diclofenac-suppositoires">Diclofenac Suppositoires</h3>
 
 <style type="text/css">
 #T_diclofenac-suppo_row0_col4, #T_diclofenac-suppo_row1_col4, #T_diclofenac-suppo_row2_col4, #T_diclofenac-suppo_row4_col4 {
@@ -1575,7 +1610,24 @@ $('#toc').on('click', 'a', function() {
   </tbody>
 </table>
 
-<h2 id="diclofenac-injectable">Diclofenac Injectable:</h2>
+<h3 id="diclofenac-injectable">Diclofenac Injectable</h3>
+
+<p>chez l’adulte et l’enfant à partir de 15 ans, traitement symptomatique de courte durée des :</p>
+
+<ul>
+  <li>
+    <p>rhumatismes inflammatoires en poussée</p>
+  </li>
+  <li>
+    <p>lombalgies aiguës</p>
+  </li>
+  <li>
+    <p>radiculalgies</p>
+  </li>
+  <li>
+    <p>crises de coliques néphrétiques</p>
+  </li>
+</ul>
 
 <style type="text/css">
 #T_diclofenac-inj_row0_col4, #T_diclofenac-inj_row1_col4, #T_diclofenac-inj_row2_col4 {
@@ -1645,21 +1697,16 @@ $('#toc').on('click', 'a', function() {
   </tbody>
 </table>
 
-<h2 id="diclofenac--misoprostol-comprimés">Diclofenac + Misoprostol Comprimés:</h2>
+<h2 id="diclofenac--misoprostol-comprimés">Diclofenac + Misoprostol Comprimés</h2>
 
 <style type="text/css">
 #T_9fd3a_row0_col4, #T_9fd3a_row1_col4 {
   background-color: lightgreen;
 }
 
-#T_9fd3a_row0_col0,
-#T_9fd3a_row0_col1,
-#T_9fd3a_row0_col2,
-#T_9fd3a_row0_col3,
-#T_9fd3a_row0_col4,
-#T_9fd3a_row0_col6,
-#T_9fd3a_row0_col7,
-#T_9fd3a_row0_col8 { border-bottom: 2px solid black; }
+#T_9fd3a .row0 { border-bottom: 2px solid black; }
+
+#T_9fd3a :is(.row0, .row1) { text-decoration: line-through; }
 </style>
 
 <table id="T_9fd3a" class="display">
@@ -1719,14 +1766,13 @@ $('#toc').on('click', 'a', function() {
 	<!-- /.container -->
 	</div>
 <!-- /#main -->
-
 </div>
 
 	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2025 All rights reserved. <br />
- Site last generated: Jan 1, 2025 <br />
+ Site last generated: Feb 3, 2025 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>

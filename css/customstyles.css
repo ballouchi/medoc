@@ -3,11 +3,12 @@ body {
 }
 
 .bs-callout {
-    padding: 20px;
-    margin: 20px 0;
+    padding: 5px 20px; /*20px*/
+    margin: 1.5em 10px; /*margin: 20px 0;*/
     border: 1px solid #eee;
-    border-left-width: 5px;
+    border-left-width: 6px; /*5px*/
     border-radius: 3px;
+    font-size:17.5px; /* added */
 }
 .bs-callout h4 {
     margin-top: 0;
@@ -203,7 +204,7 @@ p.post-meta {font-size: 80%; color: #777;}
     position: absolute;
     top: 40px; /* if you change anything about the nav, you'll prob. need to reset the top and left values here.*/
     left: 20px;
-    z-index: -1;
+    z-index: auto; /*z-index: -1;*/
     width:223px;
     border-left: 1px solid #dedede;
 }
@@ -666,9 +667,16 @@ button.cursorNorm {
 }
 
 h2  {
-    font-size:24px;
+    font-size: 1.4em;/*24px;*/
     line-height:29px;
 }
+
+/* added */
+h1  {
+    font-size: 1.5em;
+    color: #ed1951; /*#ff5e6c*/
+}
+
 span.otherProgrammingLanguages {
     font-style: normal;
 }

@@ -172,40 +172,38 @@
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+<!--
+            <div>
+-->
             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Pharma Tunisie</span></a>
+<!--
+            </div>
+	        <div>
+	            <a id="tg-sb-link" class="navbar-brand" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a>
+	        </div>
+-->
         </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse in" aria-expanded="true">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a></li>
                 <!-- entries without drop-downs appear here -->
 
-
-
-
-                
-                
-                
-                <li><a href="news">Nouvelles Pages</a></li>
-                
-                
-                
-                <li><a href="news_archive.html">Toutes les Pages</a></li>
+				
+				
+			
                 
                 
                 
                 <li><a href="changements.html">Changements</a></li>
                 
                 
-                
-                <!-- entries with drop-downs appear here -->
-                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -223,7 +221,7 @@
                                 dataSource: 'search.json',
                                 searchResultTemplate: '<li><a href="{url}" title="Gonadotrophines">{title}</a></li>',
                     noResultsText: 'Aucun resultat.',
-                            limit: 10,
+                            limit: 20,
                             fuzzy: true,
                     })
                     </script>
@@ -249,7 +247,7 @@
 	                
 
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Categories </li>
+  <li class="sidebarTitle">Catégories </li>
   
   
   
@@ -347,7 +345,7 @@
           
           
           
-          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles et os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -421,7 +419,37 @@
           
           
           
-          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidite-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidité-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Métabolisme" href="#">Métabolisme</a>
+      <ul>
+          
+          
+          
+          <li><a title="Minéraux" href="tag_mineraux.html">Minéraux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Vitamines" href="tag_vitamines.html">Vitamines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Enzymes" href="tag_enzyme.html">Enzymes</a></li>
           
           
           
@@ -516,7 +544,7 @@
           
           
           
-          <li><a title="Quinolones" href="tag_fq.html">Quinolones</a></li>
+          <li><a title="Quinolones" href="tag_fluoroquinolones.html">Quinolones</a></li>
           
           
           
@@ -1267,12 +1295,16 @@
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
 	            <div>
-
-    <div class="summary">Hormones gonadotropes</div>
-   
-
+    
+		<h1>Gonadotrophines</h1>
+	
+    
+        <div class="bs-callout bs-callout-primary">
+			<p>Hormones gonadotropes</p>
+		</div>
     
     
+        
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
 $( document ).ready(function() {
@@ -1299,15 +1331,22 @@ $('#toc').on('click', 'a', function() {
     
 </div>
 
-<h3 id="gonadotrophine-humaine-postménopausique-injectable-fsh--lh">Gonadotrophine Humaine Postménopausique Injectable (FSH + LH):</h3>
+<div class="bs-callout bs-callout-warning"><i class="fa fa-info-circle"></i> Le remboursement nécessite l’obtention de l’<b>Accord Préalable</b> de la CNAM</div>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- chez la femme: pour traiter l'infertilité avec anovulation ou dysovulation (y compris le syndrome des ovaires polykystiques) 
-et pour déclencher l'ovulation dans le cadre des procréations médicalement assistées
- 
-- chez l'homme dans les cas d'oligo-azoospermie liés à une insuffisance hypothalamo-hypophysaire. 
- 
-- Chez l'adolescent, dans l'hypogonadisme d'origine hypothalamo-hypophysaire
-</code></pre></div></div>
+<h3 id="gonadotrophine-humaine-postménopausique-injectable-fsh--lh">Gonadotrophine Humaine Postménopausique Injectable (FSH + LH)</h3>
+
+<ul>
+  <li>
+    <p>chez la femme: pour traiter l’infertilité avec anovulation ou dysovulation (y compris le syndrome des ovaires polykystiques) 
+et pour déclencher l’ovulation dans le cadre des procréations médicalement assistées</p>
+  </li>
+  <li>
+    <p>chez l’homme dans les cas d’oligo-azoospermie liés à une insuffisance hypothalamo-hypophysaire.</p>
+  </li>
+  <li>
+    <p>Chez l’adolescent, dans l’hypogonadisme d’origine hypothalamo-hypophysaire</p>
+  </li>
+</ul>
 
 <style type="text/css">
 #T_fsh-lh_row0_col4, #T_fsh-lh_row2_col4 {
@@ -1370,12 +1409,16 @@ et pour déclencher l'ovulation dans le cadre des procréations médicalement as
   </tbody>
 </table>
 
-<h3 id="fsh">FSH:</h3>
+<h3 id="fsh">FSH</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Induction de l'ovulation chez les femmes qui n'ont pas répondu au traitement par le citrate de clomifène.
-
-- Stimulation de la croissance folliculaire multiple, chez les femmes entreprenant une Fécondation In Vitro
-</code></pre></div></div>
+<ul>
+  <li>
+    <p>Induction de l’ovulation chez les femmes qui n’ont pas répondu au traitement par le citrate de clomifène.</p>
+  </li>
+  <li>
+    <p>Stimulation de la croissance folliculaire multiple, chez les femmes entreprenant une Fécondation In Vitro</p>
+  </li>
+</ul>
 
 <style type="text/css">
 #T_fsh_row0_col4, #T_fsh_row1_col4, #T_fsh_row2_col4, #T_fsh_row3_col4, #T_fsh_row4_col4 {
@@ -1450,12 +1493,16 @@ et pour déclencher l'ovulation dans le cadre des procréations médicalement as
   </tbody>
 </table>
 
-<h3 id="gonadotrophine-chorionique-lh">Gonadotrophine Chorionique (LH):</h3>
+<h3 id="gonadotrophine-chorionique-lh">Gonadotrophine Chorionique (LH)</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- En association à la FSH pour induire l'ovulation
-
-- cryptorchidie
-</code></pre></div></div>
+<ul>
+  <li>
+    <p>En association à la FSH pour induire l’ovulation</p>
+  </li>
+  <li>
+    <p>cryptorchidie</p>
+  </li>
+</ul>
 
 <style type="text/css">
 #T_lh_row0_col4 {
@@ -1490,10 +1537,11 @@ et pour déclencher l'ovulation dans le cadre des procréations médicalement as
   </tbody>
 </table>
 
-<h3 id="luveris-lh">Luveris (LH):</h3>
+<h3 id="luveris-lh">Luveris (LH)</h3>
 
-<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>- Il est recommandé,en association à une préparation à base d'hormone folliculo-stimulante (FSH), pour stimuler le développement folliculaire chez les femmes adultes qui présentent un déficit sévère en LH et en FSH.
-</code></pre></div></div>
+<ul>
+  <li>Il est recommandé,en association à une préparation à base d’hormone folliculo-stimulante (FSH), pour stimuler le développement folliculaire chez les femmes adultes qui présentent un déficit sévère en LH et en FSH.</li>
+</ul>
 
 <style type="text/css">
 #T_lutropin_row0_col4 {
@@ -1546,14 +1594,13 @@ et pour déclencher l'ovulation dans le cadre des procréations médicalement as
 	<!-- /.container -->
 	</div>
 <!-- /#main -->
-
 </div>
 
 	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2025 All rights reserved. <br />
- Site last generated: Jan 1, 2025 <br />
+ Site last generated: Feb 3, 2025 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>

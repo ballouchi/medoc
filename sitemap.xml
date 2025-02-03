@@ -1725,7 +1725,19 @@
   
   
   <url>
-    <loc>https://ballouchi.github.io/medoc/vitamines.html</loc>
+    <loc>https://ballouchi.github.io/medoc/vitamines-d.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ballouchi.github.io/medoc/vitamine-e.html</loc>
+  </url>
+  
+  
+  
+  <url>
+    <loc>https://ballouchi.github.io/medoc/vitamine-a.html</loc>
   </url>
   
   
@@ -2481,6 +2493,12 @@
   
   
   <url>
+    <loc>https://ballouchi.github.io/medoc/benzydamine.html</loc>
+  </url>
+  
+  
+  
+  <url>
     <loc>https://ballouchi.github.io/medoc/celecoxib.html</loc>
   </url>
   
@@ -2827,9 +2845,13 @@
   
   
   
+  
+  
   <url>
     <loc>https://ballouchi.github.io/medoc/tag_ipp.html</loc>
   </url>
+  
+  
   
   
   

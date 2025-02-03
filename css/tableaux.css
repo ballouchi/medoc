@@ -2,7 +2,7 @@
 #T_25f34 .row0 { text-decoration-line: line-through; }
  */
 
-#T_paracetamol-500-mg-comprimes :is(.row0, .row1, .row2, .row3, .row15) { border-bottom: 1px solid black; }
+#T_paracetamol-500-mg-comprimes :is(.row0, .row1, .row2, .row3, .row14) { border-bottom: 1px solid black; }
 #T_paracetamol-500-mg-comprimes :is(.row4, .row5, .row12, .row18).col2 { background-color: thistle; }
 #T_paracetamol-500-mg-comprimes-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
 
@@ -138,11 +138,12 @@
 #T_doxycycline .row1 { border-bottom: 1px solid black; }
 #T_doxycycline .row2 { border-bottom: 3px solid black; }
 #T_doxycycline .row3 { border-bottom: 1px solid black; }
-#T_doxycycline .row3.col3 { background-color: thistle; }
+#T_doxycycline .row2.col3 { background-color: thistle; }
+#T_doxycycline .row3.col3 { background-color: khaki; }
 
 #T_cotrimoxazole-cp .row3 { border-bottom: 3px solid black; }
 #T_cotrimoxazole-cp .row4.col1,
-#T_cotrimoxazole-cp .row4.col3 { background-color: thistle;; }
+#T_cotrimoxazole-cp .row4.col3 { background-color: thistle; }
 
 #T_fluconazole-150-mg .row5,
 #T_fluconazole-150-mg .row11,

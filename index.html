@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Page d'accueil">
-<meta name="keywords" content="getting_started,  homepage">
+<meta name="keywords" content=",  homepage">
 <title>Accueil | Prix des médicaments en Tunisie</title>
 <link rel="stylesheet" href="css/syntax.css">
 
@@ -116,7 +116,7 @@
 	            "url": "js/fr-FR.json",
 	        },
 	        paging: true,
-	        pageLength: 25,
+	        pageLength: 10,
 	        //lengthChange: false,
 	        searching: true,
 	        order: [],
@@ -187,40 +187,38 @@
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+<!--
+            <div>
+-->
             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Pharma Tunisie</span></a>
+<!--
+            </div>
+	        <div>
+	            <a id="tg-sb-link" class="navbar-brand" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a>
+	        </div>
+-->
         </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse in" aria-expanded="true">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a></li>
                 <!-- entries without drop-downs appear here -->
 
-
-
-
-                
-                
-                
-                <li><a href="news">Nouvelles Pages</a></li>
-                
-                
-                
-                <li><a href="news_archive.html">Toutes les Pages</a></li>
+				
+				
+			
                 
                 
                 
                 <li><a href="changements.html">Changements</a></li>
                 
                 
-                
-                <!-- entries with drop-downs appear here -->
-                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -238,7 +236,7 @@
                                 dataSource: 'search.json',
                                 searchResultTemplate: '<li><a href="{url}" title="Accueil">{title}</a></li>',
                     noResultsText: 'Aucun resultat.',
-                            limit: 10,
+                            limit: 20,
                             fuzzy: true,
                     })
                     </script>
@@ -260,11 +258,11 @@
 	        
 	        
             <!-- Sidebar Column -->
-	            <div class="col-md-3" id="tg-sb-sidebar">
+	            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
 	                
 
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Categories </li>
+  <li class="sidebarTitle">Catégories </li>
   
   
   
@@ -362,7 +360,7 @@
           
           
           
-          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles et os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -436,7 +434,37 @@
           
           
           
-          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidite-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidité-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Métabolisme" href="#">Métabolisme</a>
+      <ul>
+          
+          
+          
+          <li><a title="Minéraux" href="tag_mineraux.html">Minéraux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Vitamines" href="tag_vitamines.html">Vitamines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Enzymes" href="tag_enzyme.html">Enzymes</a></li>
           
           
           
@@ -531,7 +559,7 @@
           
           
           
-          <li><a title="Quinolones" href="tag_fq.html">Quinolones</a></li>
+          <li><a title="Quinolones" href="tag_fluoroquinolones.html">Quinolones</a></li>
           
           
           
@@ -1280,12 +1308,19 @@
 	        
 	
 	        <!-- Content Column -->
-	        <div class="col-md-9" id="tg-sb-content">
-	            <div class="alert alert-success" role="alert"><i class="fa fa-check-square-o"></i> <b>Tip:</b>  <strong>Prix des médicaments remboursés par la CNAM en Tunisie.</strong> <br /><br />Les médicaments sont regroupés par nom générique ou DCI (Dénomination Commune Internationale) et présentés sous forme de tableaux dynamiques: Il est possible de trier les colonnes et de rechercher dans un tableau (filtrer). <br /><br />Le champ de recherche en haut et à droite du site permet de trouver un médicament en entrant son nom ou le nom de son principe actif. </div>
+	        <div class="col-md-12" id="tg-sb-content">
+	            <div class="bs-callout bs-callout-primary"> <strong>Prix des médicaments remboursés par la CNAM en Tunisie.</strong> <br />
+Trouvez les pages regroupant les médicaments par nom générique 
+(<a href="#" data-toggle="tooltip" data-original-title="Dénomination Commune Internationale">DCI</a>) sous forme de tableaux 
+en entrant le nom du médicament ou de son principe actif dans le champ de recherche du menu supérieur 
+ou en naviguant les catégories. </div>
 
 <h2 id="recherche-rapide">Recherche Rapide</h2>
 
 <h3 id="médicaments-remboursés-par-la-cnam-26122024"><a href="https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20V%20E%20I%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE26-12-2024.xls">Médicaments remboursés par la CNAM 26/12/2024</a></h3>
+
+<p>Trouver le prix en tapant le nom ou filtrer le tableau en selectionnant une <a href="#recherche-rapide" data-toggle="tooltip" data-original-title="Dénomination Commune Internationale">DCI</a></p>
+<div class="bs-callout bs-callout-warning"> Certains médicaments ne sont plus commercialisés </div>
 
 <table id="example" class="display" style="width:100%">
         <thead>
@@ -1334,31 +1369,19 @@
 
 <p>Le Tarif de référence d’un médicament ou de ses génériques est le prix de vente <strong>minimal</strong> en pharmacie fixé par les autorités.</p>
 
-<p>Les laboratoires commercialisent leurs médicaments à un prix égal ou le plus souvent supérieur au Tarif à des proportions variables.</p>
+<p>Les laboratoires commercialisent leurs médicaments à un prix égal ou le plus souvent supérieur au Tarif.</p>
 
 <h3 id="pour-identifier-facilement-les-médicaments-les-moins-chers">Pour identifier facilement les médicaments les moins chers:</h3>
 
 <ul>
   <li>
-    <p>Si le prix de vente est inférieur à 134 % du Tarif de référence, il est coloré en <strong>Vert</strong>. Selon la catégorie, le pourcentage de remboursement sera :</p>
-
-    <p>1- <strong>V</strong>: entre 74,62 % et 100 %</p>
-
-    <p>2- <strong>E</strong>: entre 63,43 % et 85 %</p>
-
-    <p>3- <strong>I</strong>: entre 29,85 % et 40 %</p>
+    <p>Si le prix de vente est inférieur à 134 % du Tarif de référence, il est coloré en <strong>Vert</strong>.</p>
   </li>
   <li>
-    <p>Si le prix est entre 134 % et 167 %, la couleur de fond reste blanche</p>
+    <p>Entre 134 % et 167 %, la couleur de fond reste blanche</p>
   </li>
   <li>
-    <p>S’il est supérieur à 167 % du Tarif de référence, il est coloré en <strong>Rouge</strong>. Selon la catégorie, le pourcentage de remboursement sera inférieur à:</p>
-
-    <p>1- <strong>V</strong>: 59,88 %</p>
-
-    <p>2- <strong>E</strong>: 50,89 %</p>
-
-    <p>3- <strong>I</strong>: 23,95 %</p>
+    <p>S’il est supérieur à 167 % du Tarif de référence, il est coloré en <strong>Rouge</strong>.</p>
   </li>
 </ul>
 
@@ -1381,9 +1404,18 @@
     <p>3- <strong>I</strong>: <strong>Tarif de référence</strong> multiplié par 0,40</p>
   </li>
   <li><strong>Pourcentage</strong> de remboursement = <strong>Remboursés</strong> divisé par <strong>Prix</strong> et multiplié par 100</li>
-  <li><strong>DCI</strong>: Nom générique ou principe actif</li>
+  <li><a href="#colonnes-du-tableau" data-toggle="tooltip" data-original-title="Dénomination Commune Internationale"><strong>DCI</strong></a>: Nom générique ou principe actif</li>
 </ul>
 
+
+	             
+							<div class="tags">
+			    
+			        <b>Tags: </b>
+			        
+			    
+			</div>
+	
 
 	        </div>
 	    <!-- /.row -->
@@ -1397,7 +1429,7 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2025 All rights reserved. <br />
- Site last generated: Jan 1, 2025 <br />
+ Site last generated: Feb 3, 2025 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>

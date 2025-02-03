@@ -4,9 +4,9 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Vitamine D et dérivés, Vitamine E et Vitamine A.">
-<meta name="keywords" content="vitamines,  d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacaps, alfacalcidol, vitamin e 100, e caps, vitamin e 200, vitamine e, vitamine a, vitamine A Faure">
-<title>Vitamines | Prix des médicaments en Tunisie</title>
+<meta name="description" content="">
+<meta name="keywords" content=" ">
+<title>Acidité | Prix des médicaments en Tunisie</title>
 <link rel="stylesheet" href="css/syntax.css">
 
 <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
@@ -95,117 +95,44 @@
         });
     </script>
 
-    
-            <!-- Include  DataTables css and js in head -->
-    <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
-    <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/dataTables.bootstrap.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/dataTables.buttons.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.bootstrap.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.colVis.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.print.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/jszip.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/pdfmake.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/vfs_fonts.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.html5.js"></script>
-    <!-- Initialize Datatables and Buttons -->
-    <script>
-      $(document).ready(function(){
-          //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          $('table.display').each(function(i) {
-			    var thisTable = $(this);
-			    var thisName = thisTable.attr('id');
-			    thisTable.DataTable({
-		              paging: false,
-		              stateSave: false,
-		              searching: true,
-		              order: [],
-		              language: {
-		                url: "js/fr-FR.json",
-		                buttons: {
-							colvis: "Colonnes Visibles"
-						},
-		              },
-					  layout: {
-		                  topStart: {
-		                      buttons: [
-		                          {
-									  extend: 'colvis',
-									  postfixButtons: ['colvisRestore']
-								  },
-		                          {
-									  extend: 'excelHtml5',
-									  title: null,
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  filename: function () { 
-										  filename = thisName;
-										  return filename;
-									  }
-								  },
-		                          {
-									  extend: 'pdfHtml5',
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  //filename: function () { return $('h2').attr('id'); }
-									  title: function () { 
-										  filename = thisName;
-										  return filename;
-										  }
-								  },
-								  //'copyHtml5', 'csvHtml5', 'print'
-							  ]
-		                  }
-		              },
-	            });
-          });
-      });
-    </script>
-
-	
 </head>
 <body>
 	<!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+<!--
+            <div>
+-->
             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Pharma Tunisie</span></a>
+<!--
+            </div>
+	        <div>
+	            <a id="tg-sb-link" class="navbar-brand" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a>
+	        </div>
+-->
         </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse in" aria-expanded="true">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a></li>
                 <!-- entries without drop-downs appear here -->
 
-
-
-
-                
-                
-                
-                <li><a href="news">Nouvelles Pages</a></li>
-                
-                
-                
-                <li><a href="news_archive.html">Toutes les Pages</a></li>
+				
+				
+			
                 
                 
                 
                 <li><a href="changements.html">Changements</a></li>
                 
                 
-                
-                <!-- entries with drop-downs appear here -->
-                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -221,9 +148,9 @@
                                 searchInput: document.getElementById('search-input'),
                                 resultsContainer: document.getElementById('results-container'),
                                 dataSource: 'search.json',
-                                searchResultTemplate: '<li><a href="{url}" title="Vitamines">{title}</a></li>',
+                                searchResultTemplate: '<li><a href="{url}" title="Acidité">{title}</a></li>',
                     noResultsText: 'Aucun resultat.',
-                            limit: 10,
+                            limit: 20,
                             fuzzy: true,
                     })
                     </script>
@@ -249,7 +176,7 @@
 	                
 
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Categories </li>
+  <li class="sidebarTitle">Catégories </li>
   
   
   
@@ -347,7 +274,7 @@
           
           
           
-          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles et os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -421,7 +348,37 @@
           
           
           
-          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidite-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidité-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Métabolisme" href="#">Métabolisme</a>
+      <ul>
+          
+          
+          
+          <li><a title="Minéraux" href="tag_mineraux.html">Minéraux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Vitamines" href="tag_vitamines.html">Vitamines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Enzymes" href="tag_enzyme.html">Enzymes</a></li>
           
           
           
@@ -516,7 +473,7 @@
           
           
           
-          <li><a title="Quinolones" href="tag_fq.html">Quinolones</a></li>
+          <li><a title="Quinolones" href="tag_fluoroquinolones.html">Quinolones</a></li>
           
           
           
@@ -1266,280 +1223,2733 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            
-<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
-<script>
-$( document ).ready(function() {
-  // Handler for .ready() called.
+	            <p>Catégorie: <button type="button" style="cursor: default" class="btn btn-default navbar-btn">Acidité</button></p>
+<table><thead><tr><th>Titre</th><th>Date</th><th>Description</th></tr></thead>
+    <tbody>
+    
+  
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
+    
+   
 
-$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
 
-/* this offset helps account for the space taken up by the floating toolbar. */
-$('#toc').on('click', 'a', function() {
-  var target = $(this.getAttribute('href'))
-    , scroll_target = target.offset().top
+        <tr><td><a href="esomeprazole.html">Esomeprazole 20 mg et 10 mg</a></td>
+            <td><span class="label label-primary">1 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
 
-  $(window).scrollTop(scroll_target - 10);
-  return false
-})
+        <tr><td><a href="esomeprazole-40.html">Esomeprazole 40 mg</a></td>
+            <td><span class="label label-primary">2 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
 
-});
-</script>
+        <tr><td><a href="omeprazole-10.html">Omeprazole 10 mg</a></td>
+            <td><span class="label label-primary">3 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Prévention des ulcères gastro-duodénaux et de l'oesophagite de reflux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
 
-<div id="toc"></div>
+        <tr><td><a href="omeprazole-20.html">Omeprazole 20 mg</a></td>
+            <td><span class="label label-primary">3 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
 
-<h2 id="vitamines-d">Vitamines D</h2>
+        <tr><td><a href="omeprazole-inj.html">Omeprazole Injectable</a></td>
+            <td><span class="label label-primary">3 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Prévention et Traitement des ulcères gastro-duodénaux par voie intraveineuse lorsque la voie orale est impossible. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
 
-<style type="text/css">
-#T_90e04_row0_col4, #T_90e04_row1_col4 {
-  background-color: lightgreen;
-}
-</style>
+        <tr><td><a href="lansoprazole-15.html">Lansoprazole 15 mg</a></td>
+            <td><span class="label label-primary">4 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
 
-<table id="T_90e04" class="display">
-  <thead>
-    <tr>
-      <th id="T_90e04_level0_col0" class="col_heading level0 col0">Nom</th>
-      <th id="T_90e04_level0_col1" class="col_heading level0 col1">Dosage</th>
-      <th id="T_90e04_level0_col2" class="col_heading level0 col2">Forme</th>
-      <th id="T_90e04_level0_col3" class="col_heading level0 col3">Présentation</th>
-      <th id="T_90e04_level0_col4" class="col_heading level0 col4">Prix</th>
-      <th id="T_90e04_level0_col5" class="col_heading level0 col5">Remboursés</th>
-      <th id="T_90e04_level0_col6" class="col_heading level0 col6">Pourcentage</th>
-      <th id="T_90e04_level0_col7" class="col_heading level0 col7">DCI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td id="T_90e04_row0_col0" class="data row0 col0">D-MAX</td>
-      <td id="T_90e04_row0_col1" class="data row0 col1">200 000 UI/ml</td>
-      <td id="T_90e04_row0_col2" class="data row0 col2">Solution injectable I.M et buvable</td>
-      <td id="T_90e04_row0_col3" class="data row0 col3">B/ 1AMP</td>
-      <td id="T_90e04_row0_col4" class="data row0 col4">3,740</td>
-      <td id="T_90e04_row0_col5" class="data row0 col5">3,179</td>
-      <td id="T_90e04_row0_col6" class="data row0 col6">85,00%</td>
-      <td id="T_90e04_row0_col7" class="data row0 col7">VITAMINE D</td>
-    </tr>
-    <tr>
-      <td id="T_90e04_row1_col0" class="data row1 col0">VITAMINE D3 B.O.N</td>
-      <td id="T_90e04_row1_col1" class="data row1 col1">200 000 UI/ml</td>
-      <td id="T_90e04_row1_col2" class="data row1 col2">Solution injectable</td>
-      <td id="T_90e04_row1_col3" class="data row1 col3">B/1 ampoule/1 ml</td>
-      <td id="T_90e04_row1_col4" class="data row1 col4">4,471</td>
-      <td id="T_90e04_row1_col5" class="data row1 col5">3,179</td>
-      <td id="T_90e04_row1_col6" class="data row1 col6">71,10%</td>
-      <td id="T_90e04_row1_col7" class="data row1 col7">VITAMINE D</td>
-    </tr>
-    <tr>
-      <td id="T_90e04_row2_col0" class="data row2 col0">VIT D3</td>
-      <td id="T_90e04_row2_col1" class="data row2 col1">200 000 UI/ml</td>
-      <td id="T_90e04_row2_col2" class="data row2 col2">Solution injectable</td>
-      <td id="T_90e04_row2_col3" class="data row2 col3">B/1 ampoule/1 ml</td>
-      <td id="T_90e04_row2_col4" class="data row2 col4">5,170</td>
-      <td id="T_90e04_row2_col5" class="data row2 col5">3,179</td>
-      <td id="T_90e04_row2_col6" class="data row2 col6">61,49%</td>
-      <td id="T_90e04_row2_col7" class="data row2 col7">VITAMINE D</td>
-    </tr>
-  </tbody>
+        <tr><td><a href="lansoprazole-30.html">Lansoprazole 30 mg</a></td>
+            <td><span class="label label-primary">4 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="pantoprazole-20.html">Pantoprazole 20 mg</a></td>
+            <td><span class="label label-primary">5 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="pantoprazole-40.html">Pantoprazole 40 mg</a></td>
+            <td><span class="label label-primary">5 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l'oesophagite de reflux et des ulcères gastro-duodénaux. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="famotidine.html">Famotidine</a></td>
+            <td><span class="label label-primary">6 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="ranitidine.html">Ranitidine</a></td>
+            <td><span class="label label-primary">6 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="cimetidine.html">Cimetidine</a></td>
+            <td><span class="label label-primary">7 February 2024</span></td>
+            <td> Inhibiteurs de la sécrétion acide gastrique: Traitement de l' ulcère duodénal. </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="sucralfate.html">Sucralfate</a></td>
+            <td><span class="label label-primary">8 February 2024</span></td>
+            <td> Traitement des ulcères gastriques et duodénaux (protège la muqueuse gastro-duodénale de l'action de l'acide chlorhydrique) </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="antacides.html">Antacides</a></td>
+            <td><span class="label label-primary">9 February 2024</span></td>
+            <td> Traitement des douleurs oeso-gastro-duodénales liés à des problèmes d’acidité </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+
+        <tr><td><a href="alginates.html">Alginates</a></td>
+            <td><span class="label label-primary">10 February 2024</span></td>
+            <td> Traitement symptomatique du reflux gastro-oesophagien </td>
+        </tr>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+
+   </tbody>
 </table>
 
-<style type="text/css">
-#T_vitamines-d-2_row0_col4, #T_vitamines-d-2_row1_col4, #T_vitamines-d-2_row2_col4, #T_vitamines-d-2_row3_col4, #T_vitamines-d-2_row4_col4 {
-  background-color: lightgreen;
-}
-</style>
-
-<table id="T_vitamines-d-2" class="display">
-  <thead>
-    <tr>
-      <th id="T_vitamines-d-2_level0_col0" class="col_heading level0 col0">Nom</th>
-      <th id="T_vitamines-d-2_level0_col1" class="col_heading level0 col1">Dosage</th>
-      <th id="T_vitamines-d-2_level0_col2" class="col_heading level0 col2">Forme</th>
-      <th id="T_vitamines-d-2_level0_col3" class="col_heading level0 col3">Présentation</th>
-      <th id="T_vitamines-d-2_level0_col4" class="col_heading level0 col4">Prix</th>
-      <th id="T_vitamines-d-2_level0_col5" class="col_heading level0 col5">Remboursés</th>
-      <th id="T_vitamines-d-2_level0_col6" class="col_heading level0 col6">Pourcentage</th>
-      <th id="T_vitamines-d-2_level0_col7" class="col_heading level0 col7">DCI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td id="T_vitamines-d-2_row0_col0" class="data row0 col0">STEROGYL</td>
-      <td id="T_vitamines-d-2_row0_col1" class="data row0 col1">0,05%</td>
-      <td id="T_vitamines-d-2_row0_col2" class="data row0 col2">Gouttes buvables</td>
-      <td id="T_vitamines-d-2_row0_col3" class="data row0 col3">FL/20 ml</td>
-      <td id="T_vitamines-d-2_row0_col4" class="data row0 col4">3,025</td>
-      <td id="T_vitamines-d-2_row0_col5" class="data row0 col5">2,567</td>
-      <td id="T_vitamines-d-2_row0_col6" class="data row0 col6">84,86 %</td>
-      <td id="T_vitamines-d-2_row0_col7" class="data row0 col7">ERGOCALCIFEROL</td>
-    </tr>
-    <tr>
-      <td id="T_vitamines-d-2_row1_col0" class="data row1 col0">DEDROGYL</td>
-      <td id="T_vitamines-d-2_row1_col1" class="data row1 col1">15 mg/100 ml</td>
-      <td id="T_vitamines-d-2_row1_col2" class="data row1 col2">Gouttes buvables</td>
-      <td id="T_vitamines-d-2_row1_col3" class="data row1 col3">FL/10 ml</td>
-      <td id="T_vitamines-d-2_row1_col4" class="data row1 col4">13,242</td>
-      <td id="T_vitamines-d-2_row1_col5" class="data row1 col5">11,254</td>
-      <td id="T_vitamines-d-2_row1_col6" class="data row1 col6">84,99 %</td>
-      <td id="T_vitamines-d-2_row1_col7" class="data row1 col7">CALCIFEDIOL</td>
-    </tr>
-    <tr>
-      <td id="T_vitamines-d-2_row2_col0" class="data row2 col0">UN-ALFA</td>
-      <td id="T_vitamines-d-2_row2_col1" class="data row2 col1">0,25 µg</td>
-      <td id="T_vitamines-d-2_row2_col2" class="data row2 col2">Capsules orales</td>
-      <td id="T_vitamines-d-2_row2_col3" class="data row2 col3">B/30</td>
-      <td id="T_vitamines-d-2_row2_col4" class="data row2 col4">5,696</td>
-      <td id="T_vitamines-d-2_row2_col5" class="data row2 col5">4,820</td>
-      <td id="T_vitamines-d-2_row2_col6" class="data row2 col6">84,61 %</td>
-      <td id="T_vitamines-d-2_row2_col7" class="data row2 col7">ALFACALCIDOL</td>
-    </tr>
-    <tr>
-      <td id="T_vitamines-d-2_row3_col0" class="data row3 col0">ALFACAPS</td>
-      <td id="T_vitamines-d-2_row3_col1" class="data row3 col1">1 µg</td>
-      <td id="T_vitamines-d-2_row3_col2" class="data row3 col2">Capsules molles</td>
-      <td id="T_vitamines-d-2_row3_col3" class="data row3 col3">B/30</td>
-      <td id="T_vitamines-d-2_row3_col4" class="data row3 col4">38,740</td>
-      <td id="T_vitamines-d-2_row3_col5" class="data row3 col5">32,929</td>
-      <td id="T_vitamines-d-2_row3_col6" class="data row3 col6">85,00 %</td>
-      <td id="T_vitamines-d-2_row3_col7" class="data row3 col7">ALFACALCIDOL</td>
-    </tr>
-    <tr>
-      <td id="T_vitamines-d-2_row4_col0" class="data row4 col0">UN-ALFA</td>
-      <td id="T_vitamines-d-2_row4_col1" class="data row4 col1">1 µg</td>
-      <td id="T_vitamines-d-2_row4_col2" class="data row4 col2">Capsules orales</td>
-      <td id="T_vitamines-d-2_row4_col3" class="data row4 col3">B/30</td>
-      <td id="T_vitamines-d-2_row4_col4" class="data row4 col4">53,455</td>
-      <td id="T_vitamines-d-2_row4_col5" class="data row4 col5">45,416</td>
-      <td id="T_vitamines-d-2_row4_col6" class="data row4 col6">84,96 %</td>
-      <td id="T_vitamines-d-2_row4_col7" class="data row4 col7">ALFACALCIDOL</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="vitamine-e">Vitamine E</h2>
-
-<style type="text/css">
-#T_vitamine-e_row0_col4, #T_vitamine-e_row1_col4, #T_vitamine-e_row2_col4, #T_vitamine-e_row3_col4 {
-  background-color: lightgreen;
-}
-</style>
-
-<table id="T_vitamine-e" class="display">
-  <thead>
-    <tr>
-      <th id="T_vitamine-e_level0_col0" class="col_heading level0 col0">Nom</th>
-      <th id="T_vitamine-e_level0_col1" class="col_heading level0 col1">Dosage</th>
-      <th id="T_vitamine-e_level0_col2" class="col_heading level0 col2">Forme</th>
-      <th id="T_vitamine-e_level0_col3" class="col_heading level0 col3">Présentation</th>
-      <th id="T_vitamine-e_level0_col4" class="col_heading level0 col4">Prix</th>
-      <th id="T_vitamine-e_level0_col5" class="col_heading level0 col5">unité</th>
-      <th id="T_vitamine-e_level0_col6" class="col_heading level0 col6">Remboursés</th>
-      <th id="T_vitamine-e_level0_col7" class="col_heading level0 col7">Pourcentage</th>
-      <th id="T_vitamine-e_level0_col8" class="col_heading level0 col8">DCI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td id="T_vitamine-e_row0_col0" class="data row0 col0">VITAMIN E 100</td>
-      <td id="T_vitamine-e_row0_col1" class="data row0 col1">100 mg</td>
-      <td id="T_vitamine-e_row0_col2" class="data row0 col2">Capsules molles</td>
-      <td id="T_vitamine-e_row0_col3" class="data row0 col3">B/50</td>
-      <td id="T_vitamine-e_row0_col4" class="data row0 col4">5,707</td>
-      <td id="T_vitamine-e_row0_col5" class="data row0 col5">0,114</td>
-      <td id="T_vitamine-e_row0_col6" class="data row0 col6">4,845</td>
-      <td id="T_vitamine-e_row0_col7" class="data row0 col7">84,90%</td>
-      <td id="T_vitamine-e_row0_col8" class="data row0 col8">VITAMINE E</td>
-    </tr>
-    <tr>
-      <td id="T_vitamine-e_row1_col0" class="data row1 col0">E CAPS</td>
-      <td id="T_vitamine-e_row1_col1" class="data row1 col1">100 mg</td>
-      <td id="T_vitamine-e_row1_col2" class="data row1 col2">Capsules molles</td>
-      <td id="T_vitamine-e_row1_col3" class="data row1 col3">B/60</td>
-      <td id="T_vitamine-e_row1_col4" class="data row1 col4">8,995</td>
-      <td id="T_vitamine-e_row1_col5" class="data row1 col5">0,150</td>
-      <td id="T_vitamine-e_row1_col6" class="data row1 col6">5,814</td>
-      <td id="T_vitamine-e_row1_col7" class="data row1 col7">64,64%</td>
-      <td id="T_vitamine-e_row1_col8" class="data row1 col8">VITAMINE E</td>
-    </tr>
-    <tr>
-      <td id="T_vitamine-e_row2_col0" class="data row2 col0">VITAMIN E 200</td>
-      <td id="T_vitamine-e_row2_col1" class="data row2 col1">200 mg</td>
-      <td id="T_vitamine-e_row2_col2" class="data row2 col2">Capsules molles</td>
-      <td id="T_vitamine-e_row2_col3" class="data row2 col3">B/60</td>
-      <td id="T_vitamine-e_row2_col4" class="data row2 col4">8,562</td>
-      <td id="T_vitamine-e_row2_col5" class="data row2 col5">0,143</td>
-      <td id="T_vitamine-e_row2_col6" class="data row2 col6">7,242</td>
-      <td id="T_vitamine-e_row2_col7" class="data row2 col7">84,58%</td>
-      <td id="T_vitamine-e_row2_col8" class="data row2 col8">VITAMINE E</td>
-    </tr>
-    <tr>
-      <td id="T_vitamine-e_row3_col0" class="data row3 col0">E CAPS</td>
-      <td id="T_vitamine-e_row3_col1" class="data row3 col1">200 mg</td>
-      <td id="T_vitamine-e_row3_col2" class="data row3 col2">Capsules molles</td>
-      <td id="T_vitamine-e_row3_col3" class="data row3 col3">B/60</td>
-      <td id="T_vitamine-e_row3_col4" class="data row3 col4">11,250</td>
-      <td id="T_vitamine-e_row3_col5" class="data row3 col5">0,188</td>
-      <td id="T_vitamine-e_row3_col6" class="data row3 col6">7,242</td>
-      <td id="T_vitamine-e_row3_col7" class="data row3 col7">64,37%</td>
-      <td id="T_vitamine-e_row3_col8" class="data row3 col8">VITAMINE E</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="vitamine-a">Vitamine A</h2>
-
-<style type="text/css">
-#T_75c3d_row0_col4 {
-  background-color: lightgreen;
-}
-
-#T_75c3d_row0_col2 {
-  background-color: khaki;
-}
-</style>
-
-<table id="T_75c3d" class="display">
-  <thead>
-    <tr>
-      <th id="T_75c3d_level0_col0" class="col_heading level0 col0">Nom</th>
-<!--
-      <th id="T_75c3d_level0_col1" class="col_heading level0 col1" >Dosage</th>
--->
-      <th id="T_75c3d_level0_col2" class="col_heading level0 col2">Forme</th>
-      <th id="T_75c3d_level0_col3" class="col_heading level0 col3">Présentation</th>
-      <th id="T_75c3d_level0_col4" class="col_heading level0 col4">Prix</th>
-      <th id="T_75c3d_level0_col5" class="col_heading level0 col5">Remboursés</th>
-      <th id="T_75c3d_level0_col6" class="col_heading level0 col6">Pourcentage</th>
-      <th id="T_75c3d_level0_col7" class="col_heading level0 col7">DCI</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td id="T_75c3d_row0_col0" class="data row0 col0">VITAMINE A FAURE</td>
-<!--
-      <td id="T_75c3d_row0_col1" class="data row0 col1" ></td>
--->
-      <td id="T_75c3d_row0_col2" class="data row0 col2">Collyre ophtalmique</td>
-      <td id="T_75c3d_row0_col3" class="data row0 col3">FL/10 ML</td>
-      <td id="T_75c3d_row0_col4" class="data row0 col4">5,195</td>
-      <td id="T_75c3d_row0_col5" class="data row0 col5">2,076</td>
-      <td id="T_75c3d_row0_col6" class="data row0 col6">39,96 %</td>
-      <td id="T_75c3d_row0_col7" class="data row0 col7">VITAMINE A</td>
-    </tr>
-  </tbody>
-</table>
-
-
-	             
-							<div class="tags">
-			    
-			        <b>Tags: </b>
-			        
-			        <a href="tag_vitamines.html" class="btn btn-default navbar-btn cursorNorm" role="button">vitamines</a>
-			        
-			    
-			</div>
-	
 
 	        </div>
 	    <!-- /.row -->
@@ -1547,14 +3957,13 @@ $('#toc').on('click', 'a', function() {
 	<!-- /.container -->
 	</div>
 <!-- /#main -->
-
 </div>
 
 	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2025 All rights reserved. <br />
- Site last generated: Jan 1, 2025 <br />
+ Site last generated: Feb 3, 2025 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>

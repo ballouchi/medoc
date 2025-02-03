@@ -5,19 +5,23 @@
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
         <link>https://ballouchi.github.io/medoc/</link>
         <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 01 Jan 2025 17:10:58 +0100</pubDate>
-        <lastBuildDate>Wed, 01 Jan 2025 17:10:58 +0100</lastBuildDate>
+        <pubDate>Mon, 03 Feb 2025 14:50:59 +0100</pubDate>
+        <lastBuildDate>Mon, 03 Feb 2025 14:50:59 +0100</lastBuildDate>
         <generator>Jekyll v4.3.3</generator>
         
         <item>
             <title>Changements du 26 Décembre 2024</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Changements du 26 Décembre 2024&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Changements du 26 Décembre 2024&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Changements du 26 Décembre 2024&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -707,12 +711,16 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         <item>
             <title>Changements du 2 Décembre 2024</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Changements du 2 Décembre 2024&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Changements du 2 Décembre 2024&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Changements du 2 Décembre 2024&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -812,12 +820,16 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         <item>
             <title>Changements du 7 Novembre 2024</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Changements du 7 Novembre 2024&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Changements du 7 Novembre 2024&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Changements du 7 Novembre 2024&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -968,12 +980,16 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         <item>
             <title>Changements du 3 Octobre 2024</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Changements du 3 Octobre 2024&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Changements du 3 Octobre 2024&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Changements du 3 Octobre 2024&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -1466,12 +1482,16 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         <item>
             <title>Associations pour le Traitement du glaucome</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Associations pour le Traitement du glaucome&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement du glaucome&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -1822,12 +1842,16 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         <item>
             <title>Inhibiteurs de l&apos;anhydrase carbonique</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Inhibiteurs de l&apos;anhydrase carbonique&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement du glaucome&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -2008,12 +2032,16 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         <item>
             <title>Analogues des prostaglandines</title>
             <description>&lt;div&gt;
-
-    &lt;div class=&quot;summary&quot;&gt;Traitement du glaucome&lt;/div&gt;
-   
-
+    
+		&lt;h1&gt;Analogues des prostaglandines&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement du glaucome&lt;/p&gt;
+		&lt;/div&gt;
     
     
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {

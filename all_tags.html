@@ -46,7 +46,7 @@
 
 
 
-    <script>
+        <script>
         $(document).ready(function() {
             // Initialize navgoco with default options
             $("#mysidebar").navgoco({
@@ -94,48 +94,45 @@
             });
         });
     </script>
-    
 
 </head>
 <body>
-<!-- Navigation -->
+	<!-- Navigation -->
 <nav class="navbar navbar-inverse navbar-static-top">
     <div class="container topnavlinks">
         <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
                 <span class="sr-only">Toggle navigation</span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
+<!--
+            <div>
+-->
             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Pharma Tunisie</span></a>
+<!--
+            </div>
+	        <div>
+	            <a id="tg-sb-link" class="navbar-brand" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a>
+	        </div>
+-->
         </div>
-        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse in" aria-expanded="true">
             <ul class="nav navbar-nav navbar-right">
                 <!-- toggle sidebar button -->
-                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-on"></i> Nav</a></li>
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a></li>
                 <!-- entries without drop-downs appear here -->
 
-
-
-
-                
-                
-                
-                <li><a href="news">Nouvelles Pages</a></li>
-                
-                
-                
-                <li><a href="news_archive.html">Toutes les Pages</a></li>
+				
+				
+			
                 
                 
                 
                 <li><a href="changements.html">Changements</a></li>
                 
                 
-                
-                <!-- entries with drop-downs appear here -->
-                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
                 
                 
                 <!--comment out this block if you want to hide search-->
@@ -153,7 +150,7 @@
                                 dataSource: 'search.json',
                                 searchResultTemplate: '<li><a href="{url}" title="Tous les Tags">{title}</a></li>',
                     noResultsText: 'Aucun resultat.',
-                            limit: 10,
+                            limit: 20,
                             fuzzy: true,
                     })
                     </script>
@@ -167,19 +164,19 @@
 
 
 
-<!-- Page Content -->
+	<!-- Page Content -->
 <div class="container flex-container">
-  <div id="main">
-    <!-- Content Row -->
-    <div class="row">
-        
-        
+	<div id="main">
+	    <!-- Content Row -->
+	    <div class="row">
+	        
+	        
             <!-- Sidebar Column -->
-            <div class="col-md-3" id="tg-sb-sidebar">
-                
+	            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
+	                
 
 <ul id="mysidebar" class="nav">
-  <li class="sidebarTitle">Categories </li>
+  <li class="sidebarTitle">Catégories </li>
   
   
   
@@ -277,7 +274,7 @@
           
           
           
-          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_sq.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles et os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -351,7 +348,37 @@
           
           
           
-          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidite-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidité-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Métabolisme" href="#">Métabolisme</a>
+      <ul>
+          
+          
+          
+          <li><a title="Minéraux" href="tag_mineraux.html">Minéraux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Vitamines" href="tag_vitamines.html">Vitamines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Enzymes" href="tag_enzyme.html">Enzymes</a></li>
           
           
           
@@ -446,7 +473,7 @@
           
           
           
-          <li><a title="Quinolones" href="tag_fq.html">Quinolones</a></li>
+          <li><a title="Quinolones" href="tag_fluoroquinolones.html">Quinolones</a></li>
           
           
           
@@ -1190,17 +1217,19 @@
 
 
 
-            </div>
-            
+	            </div>
+	            
+	        
+	
+	        <!-- Content Column -->
+	        <div class="col-md-12" id="tg-sb-content">
+	            <div>
+    
+		<h1>Tous les Tags</h1>
+	
+    
+    
         
-
-        <!-- Content Column -->
-        <div class="col-md-9" id="tg-sb-content">
-            <div>
-
-
-    
-    
 <!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
 <script>
 $( document ).ready(function() {
@@ -1230,7 +1259,7 @@ $('#toc').on('click', 'a', function() {
 <h2>antalgique</h2>
 <ul>
     
-      <li><a href="/paracetamol-belladona-opium.html">Lamaline (Paracetamol + Belladona + Opium)</a></li>
+      <li><a href="/paracetamol-belladona-opium.html">Lamaline (Paracetamol + Belladona + Opium) Suppositoires</a></li>
     
       <li><a href="/nefopam.html">Nefopam</a></li>
     
@@ -1262,11 +1291,11 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/acide acetylsalicylique.html">Acide Acétylsalicylique</a></li>
     
-      <li><a href="/acetylsalicylate de lysine.html">Acetylsalicylate de Lysine</a></li>
+      <li><a href="/acetylsalicylate de lysine.html">Acétylsalicylate de Lysine</a></li>
     
       <li><a href="/paracetamol-cafeine.html">Association Antalgique Paracetamol + Cafeine</a></li>
     
-      <li><a href="/paracetamol-vitc.html">Association Antalgique Paracetamol + Vitamine C</a></li>
+      <li><a href="/paracetamol-vitc.html">Association Paracetamol + Vitamine C</a></li>
     
       <li><a href="/paracetamol-perfusion.html">Paracetamol perfusoin intraveineuse</a></li>
     
@@ -1285,17 +1314,21 @@ $('#toc').on('click', 'a', function() {
 <h2>antipyretique</h2>
 <ul>
     
+      <li><a href="/ibuprofene.html">Ibuprofène</a></li>
+    
       <li><a href="/acide acetylsalicylique-asso.html">Acide Acétylsalicylique en Association</a></li>
     
       <li><a href="/acide acetylsalicylique.html">Acide Acétylsalicylique</a></li>
     
-      <li><a href="/acetylsalicylate de lysine.html">Acetylsalicylate de Lysine</a></li>
+      <li><a href="/acetylsalicylate de lysine.html">Acétylsalicylate de Lysine</a></li>
+    
+      <li><a href="/paracetamol-cafeine.html">Association Antalgique Paracetamol + Cafeine</a></li>
+    
+      <li><a href="/paracetamol-vitc.html">Association Paracetamol + Vitamine C</a></li>
     
       <li><a href="/paracetamol-perfusion.html">Paracetamol perfusoin intraveineuse</a></li>
     
       <li><a href="/paracetamol-suppo.html">Paracetamol suppositoires</a></li>
-    
-      <li><a href="/paracetamol-sirop.html">Paracetamol sirop</a></li>
     
       <li><a href="/paracetamol-sachets.html">Paracetamol sachets</a></li>
     
@@ -1310,7 +1343,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/paracetamol-cafeine.html">Association Antalgique Paracetamol + Cafeine</a></li>
     
-      <li><a href="/paracetamol-vitc.html">Association Antalgique Paracetamol + Vitamine C</a></li>
+      <li><a href="/paracetamol-vitc.html">Association Paracetamol + Vitamine C</a></li>
     
       <li><a href="/paracetamol-perfusion.html">Paracetamol perfusoin intraveineuse</a></li>
     
@@ -1333,7 +1366,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/acide acetylsalicylique.html">Acide Acétylsalicylique</a></li>
     
-      <li><a href="/acetylsalicylate de lysine.html">Acetylsalicylate de Lysine</a></li>
+      <li><a href="/acetylsalicylate de lysine.html">Acétylsalicylate de Lysine</a></li>
     
   </ul>
 
@@ -1372,6 +1405,8 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/penicillamine.html">Cupripen (Pénicillamine)</a></li>
     
+      <li><a href="/benzydamine.html">Verax (Benzydamine)</a></li>
+    
       <li><a href="/celecoxib.html">Celecoxib</a></li>
     
       <li><a href="/acide-niflumique.html">Acide Niflumique</a></li>
@@ -1405,7 +1440,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/morphine.html">Morphine</a></li>
     
-      <li><a href="/paracetamol-belladona-opium.html">Lamaline (Paracetamol + Belladona + Opium)</a></li>
+      <li><a href="/paracetamol-belladona-opium.html">Lamaline (Paracetamol + Belladona + Opium) Suppositoires</a></li>
     
       <li><a href="/tramadol.html">Tramadol</a></li>
     
@@ -1424,7 +1459,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/morphine.html">Morphine</a></li>
     
-      <li><a href="/paracetamol-belladona-opium.html">Lamaline (Paracetamol + Belladona + Opium)</a></li>
+      <li><a href="/paracetamol-belladona-opium.html">Lamaline (Paracetamol + Belladona + Opium) Suppositoires</a></li>
     
       <li><a href="/tramadol.html">Tramadol</a></li>
     
@@ -1434,7 +1469,7 @@ $('#toc').on('click', 'a', function() {
     
   </ul>
 
-<h2>acidite</h2>
+<h2>acidité</h2>
 <ul>
     
       <li><a href="/alginates.html">Alginates</a></li>
@@ -1503,7 +1538,7 @@ $('#toc').on('click', 'a', function() {
     
   </ul>
 
-<h2>acidite-autres</h2>
+<h2>acidité-autres</h2>
 <ul>
     
       <li><a href="/alginates.html">Alginates</a></li>
@@ -1588,7 +1623,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/metronidazole.html">Metronidazole</a></li>
     
-      <li><a href="/cotrimoxazole.html">Cotrimoxazole (Sulfametopyrazine + Trimethoprime)</a></li>
+      <li><a href="/cotrimoxazole.html">Cotrimoxazole : Association Sulfametopyrazine + Trimethoprime</a></li>
     
       <li><a href="/nitrofurantoine.html">Nitrofurantoine</a></li>
     
@@ -1745,7 +1780,7 @@ $('#toc').on('click', 'a', function() {
     
   </ul>
 
-<h2>fq</h2>
+<h2>fluoroquinolones</h2>
 <ul>
     
       <li><a href="/norfloxacine.html">Norfloxacine</a></li>
@@ -1770,7 +1805,7 @@ $('#toc').on('click', 'a', function() {
 <h2>atb-autres</h2>
 <ul>
     
-      <li><a href="/cotrimoxazole.html">Cotrimoxazole (Sulfametopyrazine + Trimethoprime)</a></li>
+      <li><a href="/cotrimoxazole.html">Cotrimoxazole : Association Sulfametopyrazine + Trimethoprime</a></li>
     
       <li><a href="/nitrofurantoine.html">Nitrofurantoine</a></li>
     
@@ -1878,7 +1913,7 @@ $('#toc').on('click', 'a', function() {
 <h2>dermato</h2>
 <ul>
     
-      <li><a href="/calcipotriol.html">Daivonex (Calcipotriol)</a></li>
+      <li><a href="/calcipotriol.html">Calcipotriol</a></li>
     
       <li><a href="/acitretine.html">Novatretin (Acitretine)</a></li>
     
@@ -1962,10 +1997,17 @@ $('#toc').on('click', 'a', function() {
     
   </ul>
 
-<h2>sq</h2>
+<h2>metabolisme</h2>
 <ul>
     
-      <li><a href="/diphosphonates.html">Diphosphonates (Alendronate, Risedronate, Ranelate de Strontium et Raloxifène)</a></li>
+      <li><a href="/pancreatine.html">Pancreatine</a></li>
+    
+  </ul>
+
+<h2>muscles et os</h2>
+<ul>
+    
+      <li><a href="/diphosphonates.html">Diphosphonates</a></li>
     
       <li><a href="/antigoutteux.html">Antigoutteux (Colchicine et Allopurinol)</a></li>
     
@@ -1990,7 +2032,11 @@ $('#toc').on('click', 'a', function() {
 <h2>vitamines</h2>
 <ul>
     
-      <li><a href="/vitamines.html">Vitamines</a></li>
+      <li><a href="/vitamines-d.html">Vitamines D</a></li>
+    
+      <li><a href="/vitamine-e.html">Vitamine E</a></li>
+    
+      <li><a href="/vitamine-a.html">Vitamine A</a></li>
     
   </ul>
 
@@ -2027,7 +2073,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/repaglinide.html">Repaglinide</a></li>
     
-      <li><a href="/dapagliflozine.html">Dapagliflozine</a></li>
+      <li><a href="/dapagliflozine.html">Dapagliflozine 5 et 10 mg Comprimés</a></li>
     
       <li><a href="/acarbose.html">Acarbose</a></li>
     
@@ -2074,7 +2120,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/repaglinide.html">Repaglinide</a></li>
     
-      <li><a href="/dapagliflozine.html">Dapagliflozine</a></li>
+      <li><a href="/dapagliflozine.html">Dapagliflozine 5 et 10 mg Comprimés</a></li>
     
   </ul>
 
@@ -2114,7 +2160,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/fsh-lh.html">Gonadotrophines</a></li>
     
-      <li><a href="/danazol.html">Danatrol (Danazol)</a></li>
+      <li><a href="/danazol.html">Danatrol (Danazol 200 mg Gélules)</a></li>
     
       <li><a href="/testosterone.html">Testosterone</a></li>
     
@@ -2902,7 +2948,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/levetiracetam.html">Levetiracetam</a></li>
     
-      <li><a href="/vigabatrin.html">Sabril (Vigabatrin)</a></li>
+      <li><a href="/vigabatrin.html">Sabril (Vigabatrin 500 mg Comprimés)</a></li>
     
       <li><a href="/pregabaline-75-mg.html">Pregabaline 75 mg</a></li>
     
@@ -2910,7 +2956,7 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/lamotrigine.html">Lamotrigine</a></li>
     
-      <li><a href="/gabapentine.html">Gabapentine</a></li>
+      <li><a href="/gabapentine.html">Gabapentine 300 mg Gélules</a></li>
     
       <li><a href="/clonazepam.html">Clonazepam</a></li>
     
@@ -3061,9 +3107,9 @@ $('#toc').on('click', 'a', function() {
     
       <li><a href="/olanzapine.html">Olanzapine</a></li>
     
-      <li><a href="/clozapine.html">Leponex (Clozapine)</a></li>
+      <li><a href="/clozapine.html">Leponex (Clozapine 25 et 100 mg Comprimés)</a></li>
     
-      <li><a href="/aripiprazole.html">Aripiprazole</a></li>
+      <li><a href="/aripiprazole.html">Aripiprazole 10 et 15 mg Comprimés</a></li>
     
       <li><a href="/tiapride.html">Tiapridal (Tiapride)</a></li>
     
@@ -3151,6 +3197,15 @@ $('#toc').on('click', 'a', function() {
 <ul>
     
       <li><a href="/antiacneiques.html">Médicaments antiacnéiques</a></li>
+    
+  </ul>
+
+<h2>psoriasis</h2>
+<ul>
+    
+      <li><a href="/calcipotriol.html">Calcipotriol</a></li>
+    
+      <li><a href="/acitretine.html">Novatretin (Acitretine)</a></li>
     
   </ul>
 
@@ -3277,29 +3332,23 @@ $('#toc').on('click', 'a', function() {
   </ul>
 
 
-        </div>
-    <!-- /.row -->
-</div>
-<!-- /.container -->
-</div>
+	        </div>
+	    <!-- /.row -->
+		</div>
+	<!-- /.container -->
+	</div>
 <!-- /#main -->
-    </div>
+</div>
 
-<footer>
+	<footer>
             <div class="row">
                 <div class="col-lg-12 footer">
                &copy;2025 All rights reserved. <br />
- Site last generated: Jan 1, 2025 <br />
+ Site last generated: Feb 3, 2025 <br />
 <!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>
 </footer>
 
-
 </body>
-<!--
-
--->
 </html>
-
-
