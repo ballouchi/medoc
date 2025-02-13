@@ -823,9 +823,9 @@
 #T_amlo-valsartan-5-160 .row0.col3,
 #T_amlo-valsartan-10-160 .row0.col3 { background-color: khaki; }
 
-#T_amlo-olmesartan :is(.row0, .row1) { border-bottom: 3px solid black; }
-#T_amlo-olmesartan .row1.col1 { background-color: khaki; }
-#T_amlo-olmesartan .row2.col1 { background-color: lightsalmon; }
+#T_amlodipine-olmesartan :is(.row1, .row3) { border-bottom: 3px solid black; }
+#T_amlodipine-olmesartan :is(.row2, .row3).col1 { background-color: khaki; }
+#T_amlodipine-olmesartan :is(.row4, .row5).col1 { background-color: lightsalmon; }
 
 #T_valsartan-hct :is(.row5, .row7) { border-bottom: 3px solid black; }
 #T_valsartan-hct :is(.row3, .row6, .row11) { border-bottom: 1px solid black; }
@@ -1140,10 +1140,18 @@
 #T_vitamine-e .row1 { border-bottom: 3px solid black; }
 #T_vitamine-e .row0.col3 { background-color: khaki; }
 
-#T_dapagliflozine :is(.row1, .row3, .row5) { border-bottom: 1px solid black; }
-#T_dapagliflozine .row2 { border-bottom: 3px solid black; }
-#T_dapagliflozine_row3_col3 { background-color: khaki;}
-#T_dapagliflozine :is(.row2, .row6).col3 { background-color: thistle;}
+#T_dapagliflozine :is(.row1, .row4, .row6) { border-bottom: 1px solid black; }
+#T_dapagliflozine .row3 { border-bottom: 3px solid black; }
+#T_dapagliflozine_row4_col3 { background-color: khaki;}
+#T_dapagliflozine :is(.row2, .row3, .row7, .row8).col3 { background-color: thistle;}
+
+#T_empagliflozine .row1 { border-bottom: 2px solid black; }
+
+#T_vildagliptine :is(.row0, .row5) { border-bottom: 1px solid black; }
+#T_vildagliptine .row0.col3 { background-color: khaki;}
+#T_vildagliptine :is(.row6, .row7, .row8).col3 { background-color: thistle;}
+
+#T_vildagliptine---metformine .row1 { border-bottom: 1px solid black; }
 
 /* removed */
 #T_fsh .row1,
