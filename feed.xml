@@ -5,9 +5,9 @@
         <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
         <link>https://ballouchi.github.io/medoc/</link>
         <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 13 Feb 2025 18:32:10 +0100</pubDate>
-        <lastBuildDate>Thu, 13 Feb 2025 18:32:10 +0100</lastBuildDate>
-        <generator>Jekyll v4.3.3</generator>
+        <pubDate>Thu, 19 Jun 2025 08:44:23 +0100</pubDate>
+        <lastBuildDate>Thu, 19 Jun 2025 08:44:23 +0100</lastBuildDate>
+        <generator>Jekyll v4.4.1</generator>
         
         <item>
             <title>Vildagliptine 50 mg Comprimés</title>
@@ -158,8 +158,6 @@
             
             <category>diabete</category>
             
-            <category>changements</category>
-            
             
         </item>
         
@@ -253,8 +251,6 @@
             <category>autres-diabete</category>
             
             <category>diabete</category>
-            
-            <category>changements</category>
             
             
         </item>
@@ -355,8 +351,6 @@
             
             <category>diabete</category>
             
-            <category>changements</category>
-            
             
         </item>
         
@@ -413,8 +407,6 @@
             <guid isPermaLink="true">https://ballouchi.github.io/medoc/hydroquinone.html</guid>
             
             <category>dermato</category>
-            
-            <category>changements</category>
             
             
         </item>

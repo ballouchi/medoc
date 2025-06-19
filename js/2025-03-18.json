@@ -1,5 +1,4 @@
-{
-  "data": [
+[
     [
         "ACARBOSE ADWYA",
         "50 mg",
@@ -17749,6 +17748,15 @@
         "LEVETIRACETAM"
     ],
     [
+        "EPITAM",
+        "100 mg\/ml",
+        "Solution buvable",
+        "FL\/240 ml",
+        "120,865",
+        "56,916",
+        "LEVETIRACETAM"
+    ],
+    [
         "LEVET",
         "100 mg\/ml",
         "Solution buvable",
@@ -18376,6 +18384,15 @@
         "T\/30 gr",
         "23,585",
         "18,130",
+        "LIDOCAINE+PRILOCAINE"
+    ],
+    [
+        "LIDOCA PLUS",
+        "5,00%",
+        "Cr\u00e8me dermique",
+        "T\/5 gr",
+        "6,190",
+        "3,022",
         "LIDOCAINE+PRILOCAINE"
     ],
     [
@@ -22843,6 +22860,15 @@
         "PERINDOPRIL"
     ],
     [
+        "CARDOSYL",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "FL\/30",
+        "19,050",
+        "16,167",
+        "PERINDOPRIL"
+    ],
+    [
         "THERAPRIL",
         "5 mg",
         "Comprim\u00e9s s\u00e9cables",
@@ -22858,6 +22884,15 @@
         "FL\/30",
         "38,795",
         "16,167",
+        "PERINDOPRIL"
+    ],
+    [
+        "CARDOSYL",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "FL\/30",
+        "33,152",
+        "28,179",
         "PERINDOPRIL"
     ],
     [
@@ -23199,6 +23234,15 @@
         "Comprim\u00e9s orodispersibles",
         "B\/10",
         "3,495",
+        "0,984",
+        "PHLOROGLUCINOL"
+    ],
+    [
+        "ACTAFON SL",
+        "80 mg",
+        "Comprim\u00e9s orodispersibles",
+        "B\/10",
+        "3,650",
         "0,984",
         "PHLOROGLUCINOL"
     ],
@@ -29413,4 +29457,3 @@
         "ZOFENOPRIL + HYDROCHLORTHIAZIDE"
     ]
 ]
-}
