@@ -1294,7 +1294,28 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            <h2 id="changements-de-juin-2025">Changements de Juin 2025</h2>
+	            <h1 id="changements-de-juin-2025">Changements de Juin 2025</h1>
+
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+</script>
+
+<div id="toc"></div>
 
 <h3 id="circulaires-de-la-pharmacie-centrale">Circulaires de la Pharmacie Centrale</h3>
 
@@ -1305,7 +1326,7 @@
   <thead>
     <tr>
       <th id="T_2025-juin-min.csv_level0_col0" class="col_heading level0 col0">Code PCT</th>
-      <th id="T_2025-juin-min.csv_level0_col1" class="col_heading level0 col1">Libellé</th>
+      <th id="T_2025-juin-min.csv_level0_col1" class="col_heading level0 col1">Nom Commercial</th>
       <th id="T_2025-juin-min.csv_level0_col2" class="col_heading level0 col2">Commentaire</th>
       <th id="T_2025-juin-min.csv_level0_col3" class="col_heading level0 col3">Prix Public</th>
       <th id="T_2025-juin-min.csv_level0_col4" class="col_heading level0 col4">DCI</th>
@@ -1382,6 +1403,233 @@
       <td id="T_2025-juin-min.csv_row4_col8" class="data row4 col8">A</td>
       <td id="T_2025-juin-min.csv_row4_col9" class="data row4 col9">2025/26</td>
       <td id="T_2025-juin-min.csv_row4_col10" class="data row4 col10">13/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row5_col0" class="data row5 col0">303775</td>
+      <td id="T_2025-juin-min.csv_row5_col1" class="data row5 col1">EPITAM LP 500mg Comp. à Libération prolongée Bt 60</td>
+      <td id="T_2025-juin-min.csv_row5_col2" class="data row5 col2">Nouveau produit</td>
+      <td id="T_2025-juin-min.csv_row5_col3" class="data row5 col3">48,240</td>
+      <td id="T_2025-juin-min.csv_row5_col4" class="data row5 col4">LEVETIRACETAM</td>
+      <td id="T_2025-juin-min.csv_row5_col5" class="data row5 col5">IBN AL BAYTAR</td>
+      <td id="T_2025-juin-min.csv_row5_col6" class="data row5 col6">9073801</td>
+      <td id="T_2025-juin-min.csv_row5_col7" class="data row5 col7">24 mois</td>
+      <td id="T_2025-juin-min.csv_row5_col8" class="data row5 col8">A</td>
+      <td id="T_2025-juin-min.csv_row5_col9" class="data row5 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row5_col10" class="data row5 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row6_col0" class="data row6 col0">303776</td>
+      <td id="T_2025-juin-min.csv_row6_col1" class="data row6 col1">EPITAM LP 750mg Comp. à Libération prolongée Bt 60</td>
+      <td id="T_2025-juin-min.csv_row6_col2" class="data row6 col2">Nouveau produit</td>
+      <td id="T_2025-juin-min.csv_row6_col3" class="data row6 col3">78,240</td>
+      <td id="T_2025-juin-min.csv_row6_col4" class="data row6 col4">LEVETIRACETAM</td>
+      <td id="T_2025-juin-min.csv_row6_col5" class="data row6 col5">IBN AL BAYTAR</td>
+      <td id="T_2025-juin-min.csv_row6_col6" class="data row6 col6">9073802</td>
+      <td id="T_2025-juin-min.csv_row6_col7" class="data row6 col7">24 mois</td>
+      <td id="T_2025-juin-min.csv_row6_col8" class="data row6 col8">A</td>
+      <td id="T_2025-juin-min.csv_row6_col9" class="data row6 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row6_col10" class="data row6 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row7_col0" class="data row7 col0">303773</td>
+      <td id="T_2025-juin-min.csv_row7_col1" class="data row7 col1">APIXADIS 2.5mg Comp.Pell. Bt 180</td>
+      <td id="T_2025-juin-min.csv_row7_col2" class="data row7 col2">Nouveau produit</td>
+      <td id="T_2025-juin-min.csv_row7_col3" class="data row7 col3">95,240</td>
+      <td id="T_2025-juin-min.csv_row7_col4" class="data row7 col4">APIXABAN</td>
+      <td id="T_2025-juin-min.csv_row7_col5" class="data row7 col5">MEDIS</td>
+      <td id="T_2025-juin-min.csv_row7_col6" class="data row7 col6">9234115</td>
+      <td id="T_2025-juin-min.csv_row7_col7" class="data row7 col7">24 mois</td>
+      <td id="T_2025-juin-min.csv_row7_col8" class="data row7 col8">A</td>
+      <td id="T_2025-juin-min.csv_row7_col9" class="data row7 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row7_col10" class="data row7 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row8_col0" class="data row8 col0">303774</td>
+      <td id="T_2025-juin-min.csv_row8_col1" class="data row8 col1">APIXADIS 5mg Comp.Pell. Bt 180</td>
+      <td id="T_2025-juin-min.csv_row8_col2" class="data row8 col2">Nouveau produit</td>
+      <td id="T_2025-juin-min.csv_row8_col3" class="data row8 col3">95,240</td>
+      <td id="T_2025-juin-min.csv_row8_col4" class="data row8 col4">APIXABAN</td>
+      <td id="T_2025-juin-min.csv_row8_col5" class="data row8 col5">MEDIS</td>
+      <td id="T_2025-juin-min.csv_row8_col6" class="data row8 col6">9234116</td>
+      <td id="T_2025-juin-min.csv_row8_col7" class="data row8 col7">24 mois</td>
+      <td id="T_2025-juin-min.csv_row8_col8" class="data row8 col8">A</td>
+      <td id="T_2025-juin-min.csv_row8_col9" class="data row8 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row8_col10" class="data row8 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row9_col0" class="data row9 col0">303771</td>
+      <td id="T_2025-juin-min.csv_row9_col1" class="data row9 col1">SITAGLIMET 50mg/1000mg Comp. Pell. Bt 60</td>
+      <td id="T_2025-juin-min.csv_row9_col2" class="data row9 col2">Nouveau produit</td>
+      <td id="T_2025-juin-min.csv_row9_col3" class="data row9 col3">39,510</td>
+      <td id="T_2025-juin-min.csv_row9_col4" class="data row9 col4">SITAGLIPTINE+METFORMINE</td>
+      <td id="T_2025-juin-min.csv_row9_col5" class="data row9 col5">SOCIETE THERA SA</td>
+      <td id="T_2025-juin-min.csv_row9_col6" class="data row9 col6">9403191</td>
+      <td id="T_2025-juin-min.csv_row9_col7" class="data row9 col7">24 mois</td>
+      <td id="T_2025-juin-min.csv_row9_col8" class="data row9 col8">A</td>
+      <td id="T_2025-juin-min.csv_row9_col9" class="data row9 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row9_col10" class="data row9 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row10_col0" class="data row10 col0">303664</td>
+      <td id="T_2025-juin-min.csv_row10_col1" class="data row10 col1">BECLONIL 250µg Sol. P. Inhal. Bt 1Fl/200Doses</td>
+      <td id="T_2025-juin-min.csv_row10_col2" class="data row10 col2">Nouveau produit</td>
+      <td id="T_2025-juin-min.csv_row10_col3" class="data row10 col3">17,470</td>
+      <td id="T_2025-juin-min.csv_row10_col4" class="data row10 col4">BECLOMETASONE</td>
+      <td id="T_2025-juin-min.csv_row10_col5" class="data row10 col5">VAGA LABORATORIES</td>
+      <td id="T_2025-juin-min.csv_row10_col6" class="data row10 col6">9473021</td>
+      <td id="T_2025-juin-min.csv_row10_col7" class="data row10 col7">12 mois</td>
+      <td id="T_2025-juin-min.csv_row10_col8" class="data row10 col8">A</td>
+      <td id="T_2025-juin-min.csv_row10_col9" class="data row10 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row10_col10" class="data row10 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row11_col0" class="data row11 col0">303544</td>
+      <td id="T_2025-juin-min.csv_row11_col1" class="data row11 col1">APIXADIS 2.5mg Comp.Pell. Bt 14</td>
+      <td id="T_2025-juin-min.csv_row11_col2" class="data row11 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row11_col3" class="data row11 col3">8,990</td>
+      <td id="T_2025-juin-min.csv_row11_col4" class="data row11 col4"></td>
+      <td id="T_2025-juin-min.csv_row11_col5" class="data row11 col5">MEDIS</td>
+      <td id="T_2025-juin-min.csv_row11_col6" class="data row11 col6"></td>
+      <td id="T_2025-juin-min.csv_row11_col7" class="data row11 col7"></td>
+      <td id="T_2025-juin-min.csv_row11_col8" class="data row11 col8">A</td>
+      <td id="T_2025-juin-min.csv_row11_col9" class="data row11 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row11_col10" class="data row11 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row12_col0" class="data row12 col0">303545</td>
+      <td id="T_2025-juin-min.csv_row12_col1" class="data row12 col1">APIXADIS 2.5mg Comp.Pell. Bt 60</td>
+      <td id="T_2025-juin-min.csv_row12_col2" class="data row12 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row12_col3" class="data row12 col3">37,740</td>
+      <td id="T_2025-juin-min.csv_row12_col4" class="data row12 col4"></td>
+      <td id="T_2025-juin-min.csv_row12_col5" class="data row12 col5">MEDIS</td>
+      <td id="T_2025-juin-min.csv_row12_col6" class="data row12 col6"></td>
+      <td id="T_2025-juin-min.csv_row12_col7" class="data row12 col7"></td>
+      <td id="T_2025-juin-min.csv_row12_col8" class="data row12 col8">A</td>
+      <td id="T_2025-juin-min.csv_row12_col9" class="data row12 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row12_col10" class="data row12 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row13_col0" class="data row13 col0">303546</td>
+      <td id="T_2025-juin-min.csv_row13_col1" class="data row13 col1">APIXADIS 5mg Comp.Pell. Bt 14</td>
+      <td id="T_2025-juin-min.csv_row13_col2" class="data row13 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row13_col3" class="data row13 col3">8,990</td>
+      <td id="T_2025-juin-min.csv_row13_col4" class="data row13 col4"></td>
+      <td id="T_2025-juin-min.csv_row13_col5" class="data row13 col5">MEDIS</td>
+      <td id="T_2025-juin-min.csv_row13_col6" class="data row13 col6"></td>
+      <td id="T_2025-juin-min.csv_row13_col7" class="data row13 col7"></td>
+      <td id="T_2025-juin-min.csv_row13_col8" class="data row13 col8">A</td>
+      <td id="T_2025-juin-min.csv_row13_col9" class="data row13 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row13_col10" class="data row13 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row14_col0" class="data row14 col0">303547</td>
+      <td id="T_2025-juin-min.csv_row14_col1" class="data row14 col1">APIXADIS 5mg Comp.Pell. Bt 60</td>
+      <td id="T_2025-juin-min.csv_row14_col2" class="data row14 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row14_col3" class="data row14 col3">37,740</td>
+      <td id="T_2025-juin-min.csv_row14_col4" class="data row14 col4"></td>
+      <td id="T_2025-juin-min.csv_row14_col5" class="data row14 col5">MEDIS</td>
+      <td id="T_2025-juin-min.csv_row14_col6" class="data row14 col6"></td>
+      <td id="T_2025-juin-min.csv_row14_col7" class="data row14 col7"></td>
+      <td id="T_2025-juin-min.csv_row14_col8" class="data row14 col8">A</td>
+      <td id="T_2025-juin-min.csv_row14_col9" class="data row14 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row14_col10" class="data row14 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row15_col0" class="data row15 col0">251153</td>
+      <td id="T_2025-juin-min.csv_row15_col1" class="data row15 col1">CYDOX 500 Pdre.Or. Sachet 100gr</td>
+      <td id="T_2025-juin-min.csv_row15_col2" class="data row15 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row15_col3" class="data row15 col3">28,310</td>
+      <td id="T_2025-juin-min.csv_row15_col4" class="data row15 col4"></td>
+      <td id="T_2025-juin-min.csv_row15_col5" class="data row15 col5">MEDIVET</td>
+      <td id="T_2025-juin-min.csv_row15_col6" class="data row15 col6"></td>
+      <td id="T_2025-juin-min.csv_row15_col7" class="data row15 col7"></td>
+      <td id="T_2025-juin-min.csv_row15_col8" class="data row15 col8">A</td>
+      <td id="T_2025-juin-min.csv_row15_col9" class="data row15 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row15_col10" class="data row15 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row16_col0" class="data row16 col0">251212</td>
+      <td id="T_2025-juin-min.csv_row16_col1" class="data row16 col1">IVERMECTYL 1% Sol.Inj. Fl 100ml</td>
+      <td id="T_2025-juin-min.csv_row16_col2" class="data row16 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row16_col3" class="data row16 col3">50,240</td>
+      <td id="T_2025-juin-min.csv_row16_col4" class="data row16 col4"></td>
+      <td id="T_2025-juin-min.csv_row16_col5" class="data row16 col5">MEDIVET</td>
+      <td id="T_2025-juin-min.csv_row16_col6" class="data row16 col6"></td>
+      <td id="T_2025-juin-min.csv_row16_col7" class="data row16 col7"></td>
+      <td id="T_2025-juin-min.csv_row16_col8" class="data row16 col8">C</td>
+      <td id="T_2025-juin-min.csv_row16_col9" class="data row16 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row16_col10" class="data row16 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row17_col0" class="data row17 col0">251213</td>
+      <td id="T_2025-juin-min.csv_row17_col1" class="data row17 col1">IVERMECTYL 1% Sol.Inj. Fl 50ml</td>
+      <td id="T_2025-juin-min.csv_row17_col2" class="data row17 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row17_col3" class="data row17 col3">28,240</td>
+      <td id="T_2025-juin-min.csv_row17_col4" class="data row17 col4"></td>
+      <td id="T_2025-juin-min.csv_row17_col5" class="data row17 col5">MEDIVET</td>
+      <td id="T_2025-juin-min.csv_row17_col6" class="data row17 col6"></td>
+      <td id="T_2025-juin-min.csv_row17_col7" class="data row17 col7"></td>
+      <td id="T_2025-juin-min.csv_row17_col8" class="data row17 col8">C</td>
+      <td id="T_2025-juin-min.csv_row17_col9" class="data row17 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row17_col10" class="data row17 col10">27/06/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-juin-min.csv_row18_col0" class="data row18 col0">251244</td>
+      <td id="T_2025-juin-min.csv_row18_col1" class="data row18 col1">IVERMECTYL F Sol.Inj. Fl 50ml</td>
+      <td id="T_2025-juin-min.csv_row18_col2" class="data row18 col2">Ajustement des prix</td>
+      <td id="T_2025-juin-min.csv_row18_col3" class="data row18 col3">35,240</td>
+      <td id="T_2025-juin-min.csv_row18_col4" class="data row18 col4"></td>
+      <td id="T_2025-juin-min.csv_row18_col5" class="data row18 col5">MEDIVET</td>
+      <td id="T_2025-juin-min.csv_row18_col6" class="data row18 col6"></td>
+      <td id="T_2025-juin-min.csv_row18_col7" class="data row18 col7"></td>
+      <td id="T_2025-juin-min.csv_row18_col8" class="data row18 col8">C</td>
+      <td id="T_2025-juin-min.csv_row18_col9" class="data row18 col9">2025/28</td>
+      <td id="T_2025-juin-min.csv_row18_col10" class="data row18 col10">27/06/2025</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="retrait-du-marché">Retrait du marché</h3>
+
+<ul>
+  <li>
+    <p>Par Décision du Ministère de la Santé du 23/06/2025 (circulaire 2025/27), Les lots des spécialités pharmaceutiques suivantes sont retirés du marché</p>
+  </li>
+  <li>
+    <p>Motif: Suite avis de la commission spécialisée des médicaments anti-infectieux et vaccins et sérums, recommandant le retrait des AMM des spécialités pharmaceutiques à base d’oxacilline sous formes orales et intramusculaires (réévaluation efficacité produit)</p>
+  </li>
+</ul>
+
+<style type="text/css">
+</style>
+
+<table id="T_circ2725.csv" class="display">
+  <thead>
+    <tr>
+      <th id="T_circ2725.csv_level0_col0" class="col_heading level0 col0">Code Produit</th>
+      <th id="T_circ2725.csv_level0_col1" class="col_heading level0 col1">Libellé Produit</th>
+      <th id="T_circ2725.csv_level0_col2" class="col_heading level0 col2">Laboratoires</th>
+      <th id="T_circ2725.csv_level0_col3" class="col_heading level0 col3">Lot à retirer</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_circ2725.csv_row0_col0" class="data row0 col0">300180</td>
+      <td id="T_circ2725.csv_row0_col1" class="data row0 col1">OXAGRAM 500mg Gél. Bt 24</td>
+      <td id="T_circ2725.csv_row0_col2" class="data row0 col2">MEDICEF</td>
+      <td id="T_circ2725.csv_row0_col3" class="data row0 col3">Tous les lots</td>
+    </tr>
+    <tr>
+      <td id="T_circ2725.csv_row1_col0" class="data row1 col0">309809</td>
+      <td id="T_circ2725.csv_row1_col1" class="data row1 col1">OXAPEN 500mg Gél. Bt 12</td>
+      <td id="T_circ2725.csv_row1_col2" class="data row1 col2">SAIPH</td>
+      <td id="T_circ2725.csv_row1_col3" class="data row1 col3">Tous les lots</td>
+    </tr>
+    <tr>
+      <td id="T_circ2725.csv_row2_col0" class="data row2 col0">309935</td>
+      <td id="T_circ2725.csv_row2_col1" class="data row2 col1">OXAPEN 500mg Gél. Bt 24</td>
+      <td id="T_circ2725.csv_row2_col2" class="data row2 col2">SAIPH</td>
+      <td id="T_circ2725.csv_row2_col3" class="data row2 col3">Tous les lots</td>
     </tr>
   </tbody>
 </table>
