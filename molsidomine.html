@@ -96,7 +96,8 @@
     </script>
 
     
-            <!-- Include  DataTables css and js in head -->
+            
+    <!-- Include  DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
@@ -113,57 +114,94 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          $('table.display').each(function(i) {
-			    var thisTable = $(this);
-			    var thisName = thisTable.attr('id');
-			    thisTable.DataTable({
-		              paging: false,
-		              stateSave: false,
-		              searching: true,
-		              order: [],
-		              language: {
-		                url: "js/fr-FR.json",
-		                buttons: {
-							colvis: "Colonnes Visibles"
+          var table = $('table.display').DataTable({
+            paging: false,
+            info: true,
+            searching: true,
+            order: [],
+            stateSave: false,
+            language: {
+                url: "js/fr-FR.json",
+                buttons: {
+					colvis: "Colonnes Visibles"
+				},
+			},
+            layout: {
+				topStart: {
+		            buttons: [
+			            {
+							extend: 'colvis',
+							postfixButtons: ['colvisRestore']
 						},
-		              },
-					  layout: {
-		                  topStart: {
-		                      buttons: [
-		                          {
-									  extend: 'colvis',
-									  postfixButtons: ['colvisRestore']
-								  },
-		                          {
-									  extend: 'excelHtml5',
-									  title: null,
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  filename: function () { 
-										  filename = thisName;
-										  return filename;
-									  }
-								  },
-		                          {
-									  extend: 'pdfHtml5',
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  //filename: function () { return $('h2').attr('id'); }
-									  title: function () { 
-										  filename = thisName;
-										  return filename;
-										  }
-								  },
-								  //'copyHtml5', 'csvHtml5', 'print'
-							  ]
-		                  }
-		              },
-	            });
-          });
+			            {
+							extend: 'pdfHtml5',
+							exportOptions: { 
+								columns: [0, ':visible']
+							},
+						},
+		                {
+		                    extend: 'excelHtml5',
+		                    title: null,
+		                    exportOptions: { columns: [0, ':visible'] },
+		                    customize: function ( xlsx ) {
+							        var sheet = xlsx.xl.worksheets['sheet1.xml'];
+							        
+							        // Map used to map column index to Excel index
+							        var excelMap = {
+							          0: 'A',
+							          1: 'B',
+							          2: 'C',
+							          3: 'D',
+							          4: 'E',
+							          5: 'F',
+							          6: 'G',
+							          7: 'H',
+							          8: 'I'
+							        };
+							        
+							        var count = 0;
+							        var skippedHeader = false;
+							        $('row', sheet).each( function () {
+							          var row = this;
+							          if (skippedHeader) {
+							//             var colour = $('tbody tr:eq('+parseInt(count)+') td:eq(2)').css('background-color');
+							            
+							            // Output first row
+							            //if (count === 0) {
+							              //console.log(this);
+							            //}
+							            
+							            for (td=0; td<9; td++) {
+							              
+							              // Output cell contents for first row
+							              //if (count === 0) {
+							                //console.log($('c[r^="' + excelMap[td] + '"]', row).text());
+							              //}
+							              var colour = $(table.cell(':eq('+count+')',td).node()).css('background-color');            
+							
+							              if (colour === 'rgb(240, 128, 128)') {
+							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '10' );
+							              }
+							              else if (colour === 'rgb(144, 238, 144)') {
+							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '15' );
+							              }
+							            }
+							            count++;
+							          }
+							          else {
+							            skippedHeader = true;
+		                            }
+		                        });
+		                    }
+		                },
+		                
+		            ]
+		         }
+		      }   
+            });
       });
     </script>
+    
 
 	
 </head>
@@ -1294,13 +1332,13 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            <h1 id="molsidomine-2-et-4-mg-comprimés-">Molsidomine 2 et 4 mg Comprimés :</h1>
+	            <h1 id="molsidomine-2-et-4-mg-comprimés">Molsidomine 2 et 4 mg Comprimés</h1>
 
 <style type="text/css">
-#T_molsidomine_row0_col4, #T_molsidomine_row1_col4, #T_molsidomine_row2_col4, #T_molsidomine_row3_col4, #T_molsidomine_row4_col4, #T_molsidomine_row6_col4, #T_molsidomine_row7_col4, #T_molsidomine_row8_col4, #T_molsidomine_row9_col4, #T_molsidomine_row10_col4, #T_molsidomine_row11_col4, #T_molsidomine_row14_col4 {
+#T_molsidomine_row0_col4, #T_molsidomine_row1_col4, #T_molsidomine_row2_col4, #T_molsidomine_row6_col4, #T_molsidomine_row7_col4, #T_molsidomine_row8_col4, #T_molsidomine_row9_col4, #T_molsidomine_row10_col4, #T_molsidomine_row11_col4, #T_molsidomine_row14_col4 {
   background-color: lightgreen;
 }
-#T_molsidomine_row13_col4 {
+#T_molsidomine_row5_col4, #T_molsidomine_row13_col4 {
   background-color: lightcoral;
 }
 </style>
@@ -1327,8 +1365,8 @@
       <td id="T_molsidomine_row0_col3" class="data row0 col3">B/30</td>
       <td id="T_molsidomine_row0_col4" class="data row0 col4">4,350</td>
       <td id="T_molsidomine_row0_col5" class="data row0 col5">0,145</td>
-      <td id="T_molsidomine_row0_col6" class="data row0 col6">3,697</td>
-      <td id="T_molsidomine_row0_col7" class="data row0 col7">85,00%</td>
+      <td id="T_molsidomine_row0_col6" class="data row0 col6">3,392</td>
+      <td id="T_molsidomine_row0_col7" class="data row0 col7">77,97%</td>
       <td id="T_molsidomine_row0_col8" class="data row0 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1338,8 +1376,8 @@
       <td id="T_molsidomine_row1_col3" class="data row1 col3">B/30</td>
       <td id="T_molsidomine_row1_col4" class="data row1 col4">4,475</td>
       <td id="T_molsidomine_row1_col5" class="data row1 col5">0,149</td>
-      <td id="T_molsidomine_row1_col6" class="data row1 col6">3,697</td>
-      <td id="T_molsidomine_row1_col7" class="data row1 col7">82,63%</td>
+      <td id="T_molsidomine_row1_col6" class="data row1 col6">3,392</td>
+      <td id="T_molsidomine_row1_col7" class="data row1 col7">75,79%</td>
       <td id="T_molsidomine_row1_col8" class="data row1 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1349,8 +1387,8 @@
       <td id="T_molsidomine_row2_col3" class="data row2 col3">B/30</td>
       <td id="T_molsidomine_row2_col4" class="data row2 col4">4,805</td>
       <td id="T_molsidomine_row2_col5" class="data row2 col5">0,160</td>
-      <td id="T_molsidomine_row2_col6" class="data row2 col6">3,697</td>
-      <td id="T_molsidomine_row2_col7" class="data row2 col7">76,95%</td>
+      <td id="T_molsidomine_row2_col6" class="data row2 col6">3,392</td>
+      <td id="T_molsidomine_row2_col7" class="data row2 col7">70,58%</td>
       <td id="T_molsidomine_row2_col8" class="data row2 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1360,8 +1398,8 @@
       <td id="T_molsidomine_row3_col3" class="data row3 col3">B/30</td>
       <td id="T_molsidomine_row3_col4" class="data row3 col4">5,510</td>
       <td id="T_molsidomine_row3_col5" class="data row3 col5">0,184</td>
-      <td id="T_molsidomine_row3_col6" class="data row3 col6">3,697</td>
-      <td id="T_molsidomine_row3_col7" class="data row3 col7">67,11%</td>
+      <td id="T_molsidomine_row3_col6" class="data row3 col6">3,392</td>
+      <td id="T_molsidomine_row3_col7" class="data row3 col7">61,55%</td>
       <td id="T_molsidomine_row3_col8" class="data row3 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1371,8 +1409,8 @@
       <td id="T_molsidomine_row4_col3" class="data row4 col3">B/30</td>
       <td id="T_molsidomine_row4_col4" class="data row4 col4">5,605</td>
       <td id="T_molsidomine_row4_col5" class="data row4 col5">0,187</td>
-      <td id="T_molsidomine_row4_col6" class="data row4 col6">3,697</td>
-      <td id="T_molsidomine_row4_col7" class="data row4 col7">65,97%</td>
+      <td id="T_molsidomine_row4_col6" class="data row4 col6">3,392</td>
+      <td id="T_molsidomine_row4_col7" class="data row4 col7">60,51%</td>
       <td id="T_molsidomine_row4_col8" class="data row4 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1382,8 +1420,8 @@
       <td id="T_molsidomine_row5_col3" class="data row5 col3">B/30</td>
       <td id="T_molsidomine_row5_col4" class="data row5 col4">6,985</td>
       <td id="T_molsidomine_row5_col5" class="data row5 col5">0,233</td>
-      <td id="T_molsidomine_row5_col6" class="data row5 col6">3,697</td>
-      <td id="T_molsidomine_row5_col7" class="data row5 col7">52,93%</td>
+      <td id="T_molsidomine_row5_col6" class="data row5 col6">3,392</td>
+      <td id="T_molsidomine_row5_col7" class="data row5 col7">48,55%</td>
       <td id="T_molsidomine_row5_col8" class="data row5 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1393,8 +1431,8 @@
       <td id="T_molsidomine_row6_col3" class="data row6 col3">B/90</td>
       <td id="T_molsidomine_row6_col4" class="data row6 col4">12,030</td>
       <td id="T_molsidomine_row6_col5" class="data row6 col5">0,134</td>
-      <td id="T_molsidomine_row6_col6" class="data row6 col6">10,225</td>
-      <td id="T_molsidomine_row6_col7" class="data row6 col7">85,00%</td>
+      <td id="T_molsidomine_row6_col6" class="data row6 col6">10,175</td>
+      <td id="T_molsidomine_row6_col7" class="data row6 col7">84,58%</td>
       <td id="T_molsidomine_row6_col8" class="data row6 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1404,8 +1442,8 @@
       <td id="T_molsidomine_row7_col3" class="data row7 col3">B/90</td>
       <td id="T_molsidomine_row7_col4" class="data row7 col4">13,585</td>
       <td id="T_molsidomine_row7_col5" class="data row7 col5">0,151</td>
-      <td id="T_molsidomine_row7_col6" class="data row7 col6">11,093</td>
-      <td id="T_molsidomine_row7_col7" class="data row7 col7">81,65%</td>
+      <td id="T_molsidomine_row7_col6" class="data row7 col6">10,175</td>
+      <td id="T_molsidomine_row7_col7" class="data row7 col7">74,90%</td>
       <td id="T_molsidomine_row7_col8" class="data row7 col8">MOLSIDOMINE</td>
     </tr>
     <tr>
@@ -1512,7 +1550,9 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                 &copy;2024-2025 <br />
-				 Mise à jour des Prix: 30/07/2025 <br />
+				
+					<span>Page mise à jour:</span> 30/07/2025<br/>
+				 Prix Publiés le 30/07/2025 <br />
 				<!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>

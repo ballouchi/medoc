@@ -50,8 +50,8 @@
 #T_amoxicilline-1g .row4 { border-bottom: 3px solid black; }
 #T_amoxicilline-1g .row2, 
 #T_amoxicilline-1g .row7,
-#T_amoxicilline-1g .row8 { border-bottom: 1px solid black; }
-#T_amoxicilline-1g :is(.row0, .row1, .row2, .row5, .row6, .row7, .row8, .row9).col2 { background-color: lightblue; }
+#T_amoxicilline-1g .row9 { border-bottom: 1px solid black; }
+#T_amoxicilline-1g :is(.row0, .row1, .row2, .row5, .row6, .row7, .row8, .row9, .row10).col2 { background-color: lightblue; }
 
 /* amoxicilline sirop */
 #T_a4612 .row1,
@@ -65,21 +65,55 @@
 #T_3c631 .row2.col1 { background-color: thistle; }
 
 /* amoxi-clav 500-62,5 */
-#T_a7fc1 .row4 { border-bottom: 1px solid black; }
-#T_a7fc1 .row6 { border-bottom: 3px solid black; }
-#T_a7fc1 :is(.row0, .row1, .row2, .row3, .row4).col2 { background-color: lightblue; }
-#T_a7fc1 .row7.col1 { background-color: thistle; }
+#T_amoxicilline-acide-clavulanique-500-625-12 .row4,
+#T_amoxicilline-acide-clavulanique-500-625-24 .row3 { border-bottom: 1px solid black; }
+#T_amoxicilline-acide-clavulanique-500-625-12 .row6 { border-bottom: 3px solid black; }
+#T_amoxicilline-acide-clavulanique-500-625-12 :is(.row0, .row1, .row2, .row3, .row4).col2,
+#T_amoxicilline-acide-clavulanique-500-625-21 .row0.col2,
+#T_amoxicilline-acide-clavulanique-500-625-24 :is(.row0, .row1, .row2, .row3).col2 { background-color: lightblue; }
+#T_amoxicilline-acide-clavulanique-500-625-12 .row7.col1,
+#T_amoxicilline-acide-clavulanique-500-625-48 :is(.row1, .row0).col3 { background-color: thistle; }
+#T_amoxicilline-acide-clavulanique-500-625-21 .row0.col3 { background-color: khaki; }
 
-#T_9eb5a .row0.col2,
-#T_2ef88 :is(.row0, .row1, .row2, .row3).col2 { background-color: lightblue; }
-#T_2ef88 .row3 { border-bottom: 1px solid black; }
-#T_9eb5a .row0.col3 { background-color: khaki; }
-#T_amoxicilline-acide-clavulanique-500-625-48 :is(.row1, .row2).col3 { background-color: thistle; }
 
 /* amoxi-clav sirop */
 #T_bd22e .row5 { border-bottom: 1px solid black; }
 #T_bd22e .row13 { border-bottom: 3px solid black; }
 #T_bd22e .row14.col1 { background-color: thistle; }
+
+#T_cefpodoxime .row1,
+#T_cefpodoxime .row4 { border-bottom: 1px solid black; }
+#T_cefpodoxime .row2 { border-bottom: 2px solid black; }
+#T_cefpodoxime .row3 { border-bottom: 4px solid black; }
+#T_cefpodoxime_row2_col3,
+#T_cefpodoxime_row3_col1 { background-color: Thistle; }
+#T_cefpodoxime_row4_col3 { background-color: khaki; }
+#T_cefpodoxime_row4_col2,
+#T_cefpodoxime_row5_col2,
+#T_cefpodoxime_row6_col2 { background-color: lightblue; }
+
+#T_cefuroxime :is(.row0, .row4, .row8) { border-bottom: 2px solid black; }
+#T_cefuroxime :is(.row3, .row5) { border-bottom: 1px solid black; }
+#T_cefuroxime :is(.row6, .row7) { border-bottom: 6px double black; }
+#T_cefuroxime_row7_col2 { background-color: lightblue; }
+#T_cefuroxime :is(.row8, .row9).col2 { background-color: lightsalmon; }
+#T_cefuroxime :is(.row5, .row6).col1,
+#T_cefuroxime .row4.col3 { background-color: thistle; }
+#T_cefuroxime .row0.col1,
+#T_cefuroxime .row5.col3 { background-color: khaki; }
+
+
+
+
+
+
+
+
+
+
+#T_azithromycine-sirop .row3,
+#T_azithromycine-sirop .row7 { border-bottom: 1px solid black; }
+
 
 /* genta */
 #T_ece1a .row1,
@@ -99,41 +133,6 @@
 #T_rifampicine_row0_col2 { background-color: lightsalmon; }
 #T_rifampicine_row1_col2 { background-color: lightblue; }
 
-/* calcium cp*/
-#T_57549 .row0.col3,
-#T_57549 .row8.col3 { background-color: khaki; }
-#T_57549 .row8.col2 { background-color: lightblue; }
-#T_57549 .row9.col1,
-#T_57549 .row9.col3 { background-color: thistle; }
-#T_57549 .row7 { border-bottom: 1px solid black; }
-#T_57549 .row0,
-#T_57549 .row8 { border-bottom: 3px solid black; }
-
-/* vitamines */
-#T_90e04_row0_col2,
-#T_90e04_row1_col2,
-#T_90e04_row2_col2 { background-color: lightsalmon; }
-#T_vitamines-d-2 :is(.row0, .row1)  { border-bottom: 6px double black; }
-#T_vitamines-d-2 .row2  { border-bottom: 1px solid black; }
-#T_vitamines-d-2 :is(.row0, .row1).col2  { background-color: lightblue; }
-#T_vitamines-d-2 .row0.col7  { background-color: khaki; }
-#T_vitamines-d-2 .row1.col7  { background-color: thistle; }
-
-#T_phloroglucinol-80-mg .row9,
-#T_phloroglucinol-80-mg .row10,
-#T_phloroglucinol-80-mg .row19,
-#T_phloroglucinol-160-mg .row1,
-#T_phloroglucinol-160-mg .row4 { border-bottom: 1px solid black; }
-
-
-
-#T_buscopan .row1.col2 { background-color: khaki; }
-#T_buscopan .row2.col2 { background-color: lightsalmon; }
-#T_buscopan .row0,
-#T_buscopan .row1 { border-bottom: 3px solid black; }
-
-#T_cimetidine .row0 { border-bottom: 3px solid black; text-decoration-line: line-through }
-#T_cimetidine :is(.row1, .row2).col2 { background-color: lightsalmon; }
 
 #T_oxacilline .row1 { border-bottom: 1px solid black; }
 #T_oxacilline .row4 { border-bottom: 3px solid black; }
@@ -163,6 +162,50 @@
 #T_mebendazole .row1 { border-bottom: 2px solid black; }
 #T_mebendazole .row2 { border-bottom: 4px solid black; }
 
+/* calcium cp*/
+#T_57549 .row0.col3,
+#T_57549 .row8.col3 { background-color: khaki; }
+#T_57549 .row8.col2 { background-color: lightblue; }
+#T_57549 .row9.col1,
+#T_57549 .row9.col3 { background-color: thistle; }
+#T_57549 .row7 { border-bottom: 1px solid black; }
+#T_57549 .row0,
+#T_57549 .row8 { border-bottom: 3px solid black; }
+
+/* vitamines */
+#T_vitamine-d-inj :is(.row0, .row1, .row2).col2 { background-color: lightsalmon; }
+#T_vitamines-d-oral :is(.row0, .row1) { border-bottom: 6px double black; }
+#T_vitamines-d-oral .row2  { border-bottom: 1px solid black; }
+#T_vitamines-d-oral :is(.row0, .row1).col2 { background-color: lightblue; }
+#T_vitamines-d-oral .row0.col7 { background-color: khaki; }
+#T_vitamines-d-oral .row1.col7 { background-color: thistle; }
+
+#T_phloroglucinol-80-mg .row9,
+#T_phloroglucinol-80-mg .row10,
+#T_phloroglucinol-80-mg .row19,
+#T_phloroglucinol-160-mg .row1,
+#T_phloroglucinol-160-mg .row4 { border-bottom: 1px solid black; }
+
+#T_otylonium-bromure .row0 { border-bottom: 1px solid black; }
+#T_otylonium-bromure .row0.col3 { background-color: khaki; }
+
+#T_racecadotril .row4 { border-bottom: 1px solid black; }
+#T_racecadotril .row9 { border-bottom: 3px solid black; }
+#T_racecadotril .row10.col2 { background-color: thistle; }
+
+#T_buscopan .row1.col2 { background-color: khaki; }
+#T_buscopan .row2.col2 { background-color: lightsalmon; }
+#T_buscopan .row0,
+#T_buscopan .row1 { border-bottom: 3px solid black; }
+
+#T_cimetidine .row0 { border-bottom: 3px solid black; text-decoration-line: line-through }
+#T_cimetidine :is(.row1, .row2).col2 { background-color: lightsalmon; }
+
+#T_ibuprofen-cp-200-mg .row4,
+#T_ibuprofen-cp-400-mg .row5 { border-bottom: 1px solid black; }
+#T_ibuprofen-cp-200-mg :is(.row5, .row6).col2 { background-color: lightblue; }
+#T_ibuprofen-cp-400-mg :is(.row6, .row7).col3 { background-color: thistle; }
+
 #T_flurbiprofene .row1 { border-bottom: 1px solid black; }
 
 #T_diclofenac-suppo .row0,
@@ -183,6 +226,9 @@
 #T_celecoxib .row0 { border-bottom: 3px solid black; }
 #T_celecoxib .row10,
 #T_celecoxib .row20 { border-bottom: 1px solid black; }
+
+#T_esomeprazole-20-mg-28 .row8,
+#T_esomeprazole-40-mg-28 .row10 { border-bottom: 1px solid black; }
 
 #T_omeprazole-20-7 .row3 { border-bottom: 1px solid black; }
 #T_omeprazole-20-7 :is(.row5, .row4).col3 { background-color: thistle; }
@@ -233,8 +279,8 @@
 #T_a2009 :is(.row4, .row5, .row6, .row7).col1 { background-color: thistle; }
 
 /* alfuzosine */
-#T_26ae0 .row0 { border-bottom: 2px solid black; }
-#T_26ae0_row0_col1 { background-color: thistle; }
+#T_alfuzosine .row0 { border-bottom: 2px solid black; }
+#T_alfuzosine_row0_col1 { background-color: thistle; }
 
 #T_doxazosine .row0 { border-bottom: 2px solid black; }
 #T_doxazosine .row1.col1 { background-color: thistle; }
@@ -242,8 +288,8 @@
 #T_tamsulosine .row2 { border-bottom: 1px solid black; }
 #T_tamsulosine .row3.col3 { background-color: thistle; }
 
-#T_silodosine .row0 { border-bottom: 2px solid black; }
-#T_silodosine .row1.col1 { background-color: thistle; }
+#T_silodosine .row1 { border-bottom: 2px solid black; }
+#T_silodosine :is(.row2, .row3).col1 { background-color: thistle; }
 
 #T_terebenthine .row0 { border-bottom: 2px solid black; }
 #T_terebenthine .row1.col1 { background-color: thistle; }
@@ -256,12 +302,8 @@
 #T_montelukast .row10 { border-bottom: 1px solid black; }
 #T_montelukast :is(.row0, .row1).col3 { background-color: lightblue; }
 
-#T_salmetrol-fluticasone .row1,
-#T_salmetrol-fluticasone .row2,
-#T_salmetrol-fluticasone .row4,
-#T_salmetrol-fluticasone .row6 { border-bottom: 2px solid black; }
-#T_salmetrol-fluticasone .row3 { border-bottom: 4px solid black; }
-#T_salmetrol-fluticasone :is(.row4, .row5, .row6, .row7, .row8).col2 { background-color: thistle; }
+#T_salmeterol-fluticasone-suspension :is(.row1, .row2),
+#T_salmeterol-fluticasone-poudre :is(.row0, .row2) { border-bottom: 2px solid black; }
 
 #T_budesonide-formoterol .row1,
 #T_budesonide-formoterol .row4,
@@ -273,9 +315,9 @@
 #T_beclometasone-formot .row1.col2 { background-color: thistle; }
 #T_beclometasone-formot .row0 { border-bottom: 2px solid black; }
 
-#T_fluticasone .row1 { border-bottom: 2px solid black; }
-#T_fluticasone .row2 { border-bottom: 4px solid black; }
-#T_fluticasone :is(.row4, .row3).col2 { background-color: thistle; }
+#T_fluticasone-inhalation .row1 { border-bottom: 2px solid black; }
+#T_fluticasone-inhalation .row2 { border-bottom: 4px solid black; }
+#T_fluticasone-inhalation :is(.row4, .row3).col2 { background-color: thistle; }
 
 #T_budesonide-inhalation .row1 { border-bottom: 4px solid black; }
 #T_budesonide-inhalation .row0,
@@ -283,9 +325,9 @@
 #T_budesonide-inhalation .row1.col3 { background-color: thistle; }
 #T_budesonide-inhalation :is(.row0, .row1).col2 { background-color: khaki; }
 
-#T_beclometasone-inhlation .row0,
-#T_beclometasone-inhlation .row1 { border-bottom: 2px solid black; }
-#T_beclometasone-inhlation .row1.col3 { background-color: khaki; }
+#T_beclometasone-aerosol .row0,
+#T_beclometasone-aerosol .row1 { border-bottom: 2px solid black; }
+#T_beclometasone-aerosol .row1.col3 { background-color: khaki; }
 #T_7ac3c .row0 { border-bottom: 2px solid black; }
 #T_7ac3c .row1.col1 { background-color: thistle; }
 
@@ -303,9 +345,9 @@
 #T_salmetrol .row0 { border-bottom: 1px solid black; }
 #T_salmetrol .row1.col3 { background-color: thistle; }
 
-#T_formoterol .row1 { border-bottom: 3px solid black; }
-#T_formoterol .row4 { border-bottom: 1px solid black; }
-#T_formoterol :is(.row0, .row1).col2 { background-color: khaki; }
+#T_formoterol .row6 { border-bottom: 3px solid black; }
+#T_formoterol .row2 { border-bottom: 1px solid black; }
+#T_formoterol :is(.row7, .row8).col2 { background-color: khaki; }
 
 #T_terbutaline-inhalation .row0 { border-bottom: 2px solid black; }
 #T_terbutaline-inhalation .row1.col2 { background-color: thistle; }
@@ -341,16 +383,16 @@
 #T_1ac45 .row1.col2 { background-color: lightblue; }
 
 /* acide valproique */
-#T_5745b .row2 { border-bottom: 4px solid black; }
-#T_5745b .row0 { border-bottom: 2px solid black; }
-#T_5745b .row1, 
-#T_5745b .row3,
-#T_5745b .row4 { border-bottom: 1px solid black; }
-#T_5745b .row1.col3 { background-color: thistle; }
-#T_5745b .row0.col1,
-#T_5745b .row3.col3 { background-color: khaki; }
-#T_5745b .row4.col3 { background-color: yellow; }
-#T_5745b :is(.row3, .row4, .row5, .row6).col2 { background-color: lightblue; }
+#T_acide-valproique .row2 { border-bottom: 6px double black; }
+#T_acide-valproique .row0 { border-bottom: 2px solid black; }
+#T_acide-valproique .row1, 
+#T_acide-valproique .row3,
+#T_acide-valproique .row4 { border-bottom: 1px solid black; }
+#T_acide-valproique .row1.col3 { background-color: thistle; }
+#T_acide-valproique .row0.col1,
+#T_acide-valproique .row3.col3 { background-color: khaki; }
+#T_acide-valproique .row4.col3 { background-color: yellow; }
+#T_acide-valproique :is(.row3, .row4, .row5, .row6).col2 { background-color: lightblue; }
 
 #T_carbamazepine .row3 { border-bottom: 4px solid black; }
 #T_carbamazepine .row2 { border-bottom: 2px solid black; }
@@ -379,10 +421,7 @@
 #T_gabapentine .row6 { border-bottom: 1px solid black; }
 
 /* lamotrigine */
-#T_56c43 .row0,
-#T_56c43 .row2,
-#T_56c43 .row4,
-#T_56c43 .row6 { border-bottom: 2px solid black; }
+#T_lamotrigine :is(.row0, .row2, .row4, .row6) { border-bottom: 2px solid black; }
 
 #T_pregabaline-75-mg-14 .row8,
 #T_pregabaline-75-mg-30 .row1,
@@ -398,11 +437,10 @@
 #T_pregabaline-150-mg-30 .row0.col3 { background-color: khaki; }
 
 /* levetiracetam */
-#T_levetiracetam-comprimes .row4 { border-bottom: 3px solid black; }
-#T_levetiracetam-comprimes .row0,
-#T_levetiracetam-comprimes .row1,
-#T_levetiracetam-comprimes .row5,
-#T_levetiracetam-comprimes .row6 { border-bottom: 1px solid black; }
+#T_levetiracetam-cp-250-mg .row0,
+#T_levetiracetam-cp-250-mg .row1,
+#T_levetiracetam-cp-500-mg .row0,
+#T_levetiracetam-cp-500-mg .row1 { border-bottom: 1px solid black; }
 
 #T_levetiracetam-sirop .row0 { border-bottom: 1px solid black; }
 #T_levetiracetam-sirop .row0.col3 { background-color: khaki; }
@@ -425,19 +463,19 @@
 #T_mirtazapine .row1.col1 { background-color: thistle; }
 
 /* venlafaxine */
-#T_ac12e .row0,
-#T_ac12e .row3,
-#T_ac12e .row4 { border-bottom: 2px solid black; }
+#T_venlafaxine .row0,
+#T_venlafaxine .row3,
+#T_venlafaxine .row4 { border-bottom: 2px solid black; }
 
 #T_citalopram .row0 { border-bottom: 4px solid black; }
 #T_citalopram .row0.col2 { background-color: lightblue; }
 
 /* escitalopram */
 #T_83a23 .row9 { border-bottom: 3px solid black; }
-#T_83a23 .row0, 
-#T_83a23 .row2,
-#T_83a23 .row4,
-#T_83a23 .row10 { border-bottom: 1px solid black; } 
+#T_escitalopram-cp-10-mg .row0, 
+#T_escitalopram-cp-10-mg .row2,
+#T_escitalopram-cp-10-mg .row4,
+#T_escitalopram-cp-20-mg .row0 { border-bottom: 1px solid black; } 
 
 #T_fluoxetine .row6 { border-bottom: 4px solid black; }
 #T_fluoxetine .row0,
@@ -468,7 +506,7 @@
 #T_prazepam .row0 { border-bottom: 4px solid black; }
 #T_prazepam .row0.col2 { background-color: lightblue; }
 
-#T_chlorpromazine .row3 { border-bottom: 4px solid black; }
+#T_chlorpromazine .row3 { border-bottom: 6px double black; }
 #T_chlorpromazine .row1 { border-bottom: 2px solid black; }
 #T_chlorpromazine .row0 { border-bottom: 1px solid black; }
 #T_chlorpromazine .row2.col1,
@@ -521,8 +559,11 @@
 #T_aripiprazole :is(.row3, .row2).col1 { background-color: thistle; }
 #T_aripiprazole :is(.row0, .row2).col3 { background-color: khaki; }
 
-#T_clozapine .row0 { border-bottom: 2px solid black; }
-#T_clozapine .row1.col1 { background-color: thistle; }
+#T_clozapine .row1 { border-bottom: 2px solid black; }
+#T_clozapine :is(.row2, .row3).col1 { background-color: thistle; }
+
+#T_quetiapine :is(.row1, .row4, .row7) { border-bottom: 3px solid black; }
+#T_quetiapine :is(.row0, .row2, .row5, .row8) { border-bottom: 1px solid black; }
 
 /* olanzapine */
 #T_f231b .row0,
@@ -534,16 +575,15 @@
 #T_olanzapine-10-mg .row9,
 #T_df040 .row0 { border-bottom: 1px solid black; }
 
-#T_risperidone-2-mg .row3,
-#T_risperidone-2-mg .row5,
-#T_risperidone-2-mg .row8,
-#T_risperidone-2-mg .row9,
-#T_risperidone-4-mg .row0,
+#T_risperidone-cp-2-mg .row2,
+#T_risperidone-cp-2-mg .row4,
+#T_risperidone-cp-2-mg .row8,
+#T_risperidone-cp-4-mg .row0,
 #T_risperidone-sirop .row0,
 #T_risperidone-sirop .row3,
 #T_risperidone-sirop .row4 { border-bottom: 1px solid black; }
-#T_risperidone-4-mg .row0.col3 { background-color: khaki; }
-#T_risperidone-2-mg .row9.col2 { background-color: lightblue; }
+#T_risperidone-cp-4-mg .row0.col3 { background-color: khaki; }
+#T_risperidone-cp-2-mg :is(.row4, .row8).col2 { background-color: lightblue; }
 
 #T_ziprasidone .row0 { border-bottom: 2px solid black; }
 #T_ziprasidone .row0.col2 { background-color: lightsalmon; }
@@ -574,19 +614,19 @@
 #T_biperidene .row1.col3 { background-color: thistle; }
 
 /* cabergoline */
-#T_aed63 .row4,
-#T_aed63 .row5 { border-bottom: 1px solid black; }
-#T_aed63 .row5.col3 { background-color: thistle; }
+#T_cabergoline .row4,
+#T_cabergoline .row6 { border-bottom: 1px solid black; }
+#T_cabergoline :is(.row5, .row6).col3 { background-color: thistle; }
 
-#T_morphine-comprimes .row1,
-#T_morphine-comprimes .row3,
-#T_morphine-comprimes .row5,
-#T_morphine-comprimes .row6 { border-bottom: 2px solid black; }
+#T_morphine-cp .row1,
+#T_morphine-cp .row3,
+#T_morphine-cp .row5,
+#T_morphine-cp .row7 { border-bottom: 2px solid black; }
+#T_morphine-cp .row7.col3 { background-color: thistle; }
 
 #T_fentanyl .row0,
 #T_fentanyl .row1 { border-bottom: 2px solid black; }
 
-#T_fer-injectable .row0,
 #T_fer-injectable .row1 { border-bottom: 1px solid black; }
 #T_fer-injectable .row2.col3 { background-color: thistle; }
 #T_fer-injectable .row2.col1 { background-color: khaki; }
@@ -628,13 +668,15 @@
 
 #T_dalteparine-sodique .row0 { border-bottom: 2px solid black; }
 
+/*
 #T_acenocoumarol .row0 { border-bottom: 1px solid black; }
 #T_acenocoumarol .row1.col3 { background-color: thistle; }
+*/
 
 #T_clopidogrel :is(.row0, .row6, .row9) { border-bottom: 1px solid black; }
 
-#T_methotrexate .row1 { border-bottom: 1px solid black; }
-#T_methotrexate .row2.col3 { background-color: thistle; }
+#T_methotrexate .row0 { border-bottom: 1px solid black; }
+#T_methotrexate .row1.col3 { background-color: thistle; }
 
 #T_leflunomide .row0,
 #T_leflunomide .row1  { border-bottom: 2px solid black; }
@@ -713,6 +755,8 @@
 #T_molsidomine .row13 { border-bottom: 1px solid black; }
 #T_molsidomine :is(.row6, .row7, .row14).col3 { background-color: thistle; }
 
+#T_moxonidine .row2 { border-bottom: 1px solid black; }
+
 #T_ivabradine .row0 { border-bottom: 2px solid black; }
 #T_ivabradine .row1.col1 { background-color: thistle; }
 
@@ -742,10 +786,10 @@
 #T_fenofibrate .row6.col3 { background-color: thistle; }
 
 /* atorvastatine */
-#T_bb9c8 :is(.row1, .row10, .row11, .row12, .row21) { border-bottom: 3px dashed black; }
-#T_c27bf :is(.row0, .row9, .row10, .row19) { border-bottom: 3px dashed black; }
-#T_d57b0 :is(.row1, .row10, .row11, .row18, .row19) { border-bottom: 3px dashed black; }
-#T_771cd :is(.row0, .row8) { border-bottom: 3px dashed black; }
+#T_atorvastatine-10-mg :is(.row1, .row10, .row11, .row12, .row21) { border-bottom: 2px solid black; }
+#T_atorvastatine-20-mg :is(.row0, .row9, .row10, .row19) { border-bottom: 2px solid black; }
+#T_atorvastatine-40-mg :is(.row1, .row10, .row11, .row19, .row20) { border-bottom: 2px solid black; }
+#T_atorvastatine-80-mg :is(.row0, .row8) { border-bottom: 2px solid black; }
 
 #T_rosuvastatine-5-mg .row9,
 #T_rosuvastatine-10-mg .row12,
@@ -764,16 +808,33 @@
 #T_amlodipine-atorvastatine .row1 { border-bottom: 3px solid black; }
 #T_amlodipine-atorvastatine :is(.row2, .row3).col1 { background-color: thistle; }
 
+#T_nebivolol .row4 { border-bottom: 1px solid black; }
+#T_nebivolol :is(.row5, .row6).col3 { background-color: thistle; }
+
+#T_spironolactone .row1 { border-bottom: 1px solid black; }
+#T_spironolactone .row2.col1 { background-color: thistle; }
+
 #T_perindopril .row0,
-#T_perindopril .row3 { border-bottom: 3px solid black; }
+#T_perindopril .row3 { border-bottom: 2px solid black; }
 #T_perindopril .row0.col3 { background-color: khaki; }
 
-#T_perindopril-indapamide .row1 { border-bottom: 3px solid black; }
+#T_olmesartan :is(.row1, .row3) { border-bottom: 2px solid black; }
+
+#T_telmisartan :is(.row0, .row3) { border-bottom: 1px solid black; }
+#T_telmisartan .row2 { border-bottom: 3px solid black; }
+#T_telmisartan :is(.row0, .row3).col3 { background-color: khaki; } 
+
+#T_valsartan-80-mg .row5,
+#T_valsartan-160-mg .row5 { border-bottom: 1px solid black; }
+
+#T_lercanidipine .row1 { border-bottom: 2px solid black; }
+
+#T_perindopril-indapamide .row1 { border-bottom: 2px solid black; }
 #T_perindopril-indapamide :is(.row2, .row3).col1 { background-color: thistle; }
 
 #T_perindopril-amlo .row1,
 #T_perindopril-amlo .row2,
-#T_perindopril-amlo .row4  { border-bottom: 3px solid black; }
+#T_perindopril-amlo .row4  { border-bottom: 2px solid black; }
 #T_perindopril-amlo .row2.col1 { background-color: khaki; }
 #T_perindopril-amlo :is(.row4, .row3).col1 { background-color: lightsalmon; }
 #T_perindopril-amlo :is(.row5, .row6).col1 { background-color: thistle; }
@@ -797,7 +858,7 @@
 
 #T_irbesartan-hct-150-12 .row8,
 #T_irbesartan-hct-300-12 .row9,
-#T_irbesartan-hct-300-25 .row7 { border-bottom: 1px solid black; }
+#T_irbesartan-hct-300-25 .row6 { border-bottom: 1px solid black; }
 
 #T_losartan-hct :is(.row7, .row9) { border-bottom: 3px solid black; }
 #T_losartan-hct :is(.row0, .row3, .row4, .row8, .row10, .row13) { border-bottom: 1px solid black; }
@@ -832,27 +893,39 @@
 #T_amlo-valsartan-hct :is(.row4, .row5).col1 { background-color: lightsalmon; }
 #T_amlo-valsartan-hct :is(.row6, .row7).col1 { background-color: thistle; }
 
-#T_amlo-valsartan-5-80 :is(.row0, .row5),
-#T_amlo-valsartan-5-160 :is(.row0, .row6),
-#T_amlo-valsartan-10-160 :is(.row0, .row6) { border-bottom: 1px solid black; }
-#T_amlo-valsartan-5-80 .row0.col3,
-#T_amlo-valsartan-5-160 .row0.col3,
-#T_amlo-valsartan-10-160 .row0.col3 { background-color: khaki; }
+#T_amlodipine-valsartan-5mg-80mg :is(.row0, .row5),
+#T_amlodipine-valsartan-5mg-160mg :is(.row0, .row6),
+#T_amlodipine-valsartan-10mg-160mg :is(.row0, .row6) { border-bottom: 1px solid black; }
+#T_amlodipine-valsartan-5mg-80mg .row0.col3,
+#T_amlodipine-valsartan-5mg-160mg .row0.col3,
+#T_amlodipine-valsartan-10mg-160mg .row0.col3 { background-color: khaki; }
 
 #T_amlodipine-olmesartan :is(.row1, .row3) { border-bottom: 3px solid black; }
 #T_amlodipine-olmesartan :is(.row2, .row3).col1 { background-color: khaki; }
 #T_amlodipine-olmesartan :is(.row4, .row5).col1 { background-color: lightsalmon; }
 
-#T_valsartan-hct :is(.row5, .row7) { border-bottom: 3px solid black; }
-#T_valsartan-hct :is(.row3, .row6, .row11) { border-bottom: 1px solid black; }
-#T_valsartan-hct .row6.col3 { background-color: khaki; }
+#T_valsartan-hct-80-mg-12-mg .row3,
+#T_valsartan-hct-160-mg-12-mg .row0,
+#T_valsartan-hct-160-mg-25-mg .row3 { border-bottom: 1px solid black; }
+#T_valsartan-hct-160-mg-12-mg .row0.col3 { background-color: khaki; }
+
+#T_candesartan-cilexetil-4-mg .row3,
+#T_candesartan-cilexetil-8-mg .row4,
+#T_candesartan-cilexetil-16-mg .row4 { border-bottom: 1px solid black; }
+#T_candesartan-cilexetil-4-mg .row4.col3,
+#T_candesartan-cilexetil-8-mg .row5.col3,
+#T_candesartan-cilexetil-16-mg .row5.col3 { background-color: thistle; }
 
 /* irbesartan */
-#T_76a70 .row0.col3,
-#T_18181 .row0.col3 { background-color: khaki; }
+#T_irbesartan-150-mg :is(.row0, .row8),
+#T_irbesartan-300-mg :is(.row0, .row8) { border-bottom: 1px solid black; }
+#T_irbesartan-150-mg .row0.col3,
+#T_irbesartan-300-mg .row0.col3 { background-color: khaki; }
 /* losartan */
 #T_0b3f4 .row0.col3,
 #T_cb3f9 .row0.col3 { background-color: khaki; }
+
+#T_carvedilol :is(.row0, .row3, .row6) { border-bottom: 1px solid black; }
 
 #T_hydrocortisone .row2 { border-bottom: 3px solid black; }
 #T_hydrocortisone .row3.col2 { background-color: lightsalmon; }
@@ -861,10 +934,10 @@
 #T_64018 :is(.row0, .row1) { border-bottom: 3px solid black; }
 #T_64018 .row0.col3 { background-color: thistle; }
 
-#T_dexamethasone .row8 { border-bottom: 3px solid black; }
+#T_dexamethasone .row9 { border-bottom: 3px solid black; }
 #T_dexamethasone :is(.row4, .row5) { border-bottom: 1px solid black; }  
 #T_dexamethasone .row5.col3 { background-color: khaki; }
-#T_dexamethasone :is(.row6, .row7, .row8).col3 { background-color: thistle; }
+#T_dexamethasone :is(.row6, .row7, .row8, .row9).col3 { background-color: thistle; }
 
 #T_methylprednisolone .row1 { border-bottom: 4px solid black; }
 #T_methylprednisolone :is(.row0, .row3, .row5) { border-bottom: 2px solid black; }
@@ -917,10 +990,10 @@
 #T_cetirizine-sirop :is(.row0, .row3).col1 { background-color: thistle; }
 #T_cetirizine-sirop :is(.row1, .row0) { border-bottom: 1px solid black; } 
 /* desloratadine */
-#T_d3efc .row15 { border-bottom: 3px solid black; }
-#T_d3efc .row16.col1 { background-color: khaki; }
-#T_d3efc :is(.row0, .row1, .row2, .row8) { border-bottom: 1px solid black; }
-#T_122a7 td.col2 { background-color: lightblue; }
+#T_desloratadine-comprimes .row0 { border-bottom: 3px solid black; }
+#T_desloratadine-comprimes .row0.col1 { background-color: khaki; }
+#T_desloratadine-comprimes :is(.row2, .row1, .row3, .row9) { border-bottom: 1px solid black; }
+#T_desloratadine-sirop td.col2 { background-color: lightblue; }
 
 #T_fexofenadine .row1 { border-bottom: 3px solid black; }
 #T_fexofenadine :is(.row2, .row3).col1 { background-color: thistle; }
@@ -948,10 +1021,10 @@
 /* econazole */
 #T_741e1 :is(.row4, .row10, .row13) { border-bottom: 3px solid black; }
 
-#T_ketoconazole :is(.row2, .row4, .row6) { border-bottom: 3px solid black; }
-#T_ketoconazole .row5 { border-bottom: 1px solid black; }
-#T_ketoconazole :is(.row5, .row6).col2 { background-color: khaki; }
-#T_ketoconazole .row7.col3 { background-color: thistle; }
+#T_ketoconazole :is(.row2, .row5) { border-bottom: 3px solid black; }
+#T_ketoconazole :is(.row4, .row6) { border-bottom: 1px solid black; }
+#T_ketoconazole .row5.col3 { background-color: thistle; }
+#T_ketoconazole :is(.row7, .row6).col2 { background-color: khaki; }
 
 #T_isoconazole .row0 { border-bottom: 1px solid black; }
 #T_isoconazole .row1.col3 { background-color: thistle; }
@@ -989,7 +1062,8 @@
 #T_65f22 .row0 { border-bottom: 1px solid black; }
 #T_65f22 .row0.col3 { background-color: khaki; }
 
-#T_calcipotriol-betamethasone :is(.row0, .row2, .row5, .row6, .row7, .row8) { border-bottom: 3px solid black; }
+#T_calcipotriol-betamethasone :is(.row2, .row6, .row8) { border-bottom: 1px solid black; }
+#T_calcipotriol-betamethasone :is(.row0, .row5, .row7) { border-bottom: 1px solid #afafaf; }
 #T_calcipotriol-betamethasone :is(.row3, .row4, .row5, .row6).col3 { background-color: khaki; }
 #T_calcipotriol-betamethasone :is(.row7, .row8).col3 { background-color: lightsalmon; }
 #T_calcipotriol-betamethasone .row9.col3 { background-color: thistle; }
@@ -1130,9 +1204,9 @@
 #T_acetazolamide .row0 { border-bottom: 1px solid black; }
 #T_acetazolamide .row1.col3 { background-color: thistle; }
 
-#T_dorzo-timolol .row3.col3 { background-color: khaki; }
-#T_dorzo-timolol .row6.col3 { background-color: thistle; }
-#T_dorzo-timolol .row5 { border-bottom: 1px solid black; }
+#T_dorzolamide-timolol .row3.col3 { background-color: khaki; }
+#T_dorzolamide-timolol .row6.col3 { background-color: thistle; }
+#T_dorzolamide-timolol .row5 { border-bottom: 1px solid black; }
 
 #T_acide-borique-borate-de-soude .row1.col3 { background-color: thistle; }
 #T_acide-borique-borate-de-soude .row0 { border-bottom: 1px solid black; }
@@ -1147,14 +1221,22 @@
 #T_larmes-artificielles .row2.col7 { background-color: lightsalmon; }
 #T_larmes-artificielles .row3.col7 { background-color: thistle; }
 
-#T_fsh-lh .row1 { border-bottom: 1px solid black; }
-#T_fsh-lh .row2.col3 { background-color: thistle; }
+#T_fsh-lh .row0 { border-bottom: 1px solid black; }
+#T_fsh-lh .row1.col3 { background-color: thistle; }
 #T_fsh :is(.row1, .row2, .row3)  { border-bottom: 2px solid black; }
 #T_fsh :is(.row4, .row2, .row3).col3 { background-color: thistle; }
 
 #T_vitamine-e .row0 { border-bottom: 1px solid black; }
 #T_vitamine-e .row1 { border-bottom: 3px solid black; }
 #T_vitamine-e .row0.col3 { background-color: khaki; }
+
+#T_metformine-850-mg :is(.row10, .row5) { border-bottom: 1px solid black; }
+#T_metformine-850-mg .row11 { border-bottom: 3px solid black; }
+#T_metformine-850-mg .row12.col1 { background-color: thistle;}
+#T_metformine-1000-mg .row1 { border-bottom: 1px solid black; }
+
+#T_repaglinide :is(.row0, .row3) { border-bottom: 3px solid black; }
+#T_repaglinide :is(.row1, .row5) { border-bottom: 1px solid black; }
 
 #T_dapagliflozine :is(.row1, .row4, .row6) { border-bottom: 1px solid black; }
 #T_dapagliflozine .row3 { border-bottom: 3px solid black; }
@@ -1167,9 +1249,67 @@
 #T_vildagliptine .row0.col3 { background-color: khaki;}
 #T_vildagliptine :is(.row6, .row7, .row8).col3 { background-color: thistle;}
 
-#T_vildagliptine---metformine .row1 { border-bottom: 1px solid black; }
+#T_vildagliptine-metformine .row1 { border-bottom: 1px solid black; }
+
+
+#T_aciclovir-comprimes .row3 { border-bottom: 1px solid black; }
+#T_aciclovir-comprimes_row0_col3 { background-color: thistle; }
+#T_aciclovir-sirop_row0_col2, 
+#T_aciclovir-sirop_row1_col2 { background-color: lightblue; }
+
+#T_acide-fusidique :is(.row3, .row4, .row7) { border-bottom: 1px solid black; }
+#T_acide-fusidique_row8_col2 { background-color: lightblue; }
+
+#T_alginates .row0 { border-bottom: 1px solid black; }
+#T_alginates .row1 { border-bottom: 2px solid black; }
+#T_alginates :is(.row0, .row1).col2 { background-color: #add8e6; }
+#T_alginates :is(.row2, .row3).col3 { background-color: thistle; }
+
+#T_baclofene .row0.col3 { background-color: khaki;}
+#T_baclofene .row0 { border-bottom: 1px solid black; }
+
+#T_diltiazem_row2_col3,
+#T_diltiazem_row1_col3,
+#T_diltiazem_row5_col3 { background-color: thistle; }
+#T_diltiazem .row0,
+#T_diltiazem .row1,
+#T_diltiazem .row4 { border-bottom: 3px solid black; }
+#T_diltiazem .row2,
+#T_diltiazem .row5 { border-bottom: 1px solid black; }
+
+#T_mesalazine-cp :is(.row0, .row1),
+#T_mesalazine-suppo .row0 { border-bottom: 1px solid black; }
+#T_mesalazine-cp .row2,
+#T_mesalazine-suppo .row1 { border-bottom: 3px solid black; }
+#T_mesalazine-cp .row3.col2 { background-color: lightblue; }
+#T_mesalazine-suppo :is(.row0, .row1).col2 { background-color: khaki; }
+#T_mesalazine-suppo .row2.col2 { background-color: thistle; }
+
+#T_piroxicam-cp .row11 { border-bottom: 3px solid black; }
+#T_piroxicam-cp :is(.row0, .row1, .row2, .row3, .row6, .row9)  { border-bottom: 1px solid black; }
+#T_piroxicam-cp .row12.col1  { background-color: khaki; }
+#T_piroxicam-cp :is(.row3, .row6, .row9, .row11).col2  { background-color: lightblue; }
+#T_piroxicam-cp .row1.col2  { background-color: cyan; }
+#T_piroxicam-suppo .row0,
+#T_piroxicam-injectable .row3 { border-bottom: 1px solid black; }
+#T_piroxicam-suppo .row0.col3 { background-color: khaki; }
+#T_piroxicam-injectable .row4.col3 { background-color: thistle; }
+
+#T_rifaximina .row0 { border-bottom: 3px solid black; }
+#T_rifaximina :is(.row3, .row4) { border-bottom: 1px solid black; }
+#T_rifaximina .row0.col2 { background-color: lightblue; }
+
 
 /* removed */
+#T_olanzapine-10-mg .row6,
+#T_oxacilline :is(.row1, .row3, .row4),
+#T_eab58 :is(.row1, .row2),
+#T_triamcinolone .row0,
+#T_26f95 :is(.row4, .row7),
+#T_levofloxacine-10 :is(.row2, .row7),
+#T_triclosan .row1,
+#T_diltiazem .row10,
+#T_alprazolam .row0,
 #T_fsh .row1,
 #T_progesterone .row7,
 #T_tamsulosine .row2,
@@ -1178,7 +1318,3 @@
 #T_5c26a :is(.row0, .row1).col5,
 #T_d8942 :is(.row0, .row1).col3,
 #T_d8942 :is(.row0, .row1).col4 { text-decoration-line: line-through; }
-
-
-
-

@@ -96,7 +96,8 @@
     </script>
 
     
-            <!-- Include  DataTables css and js in head -->
+            
+    <!-- Include  DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
@@ -113,57 +114,94 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          $('table.display').each(function(i) {
-			    var thisTable = $(this);
-			    var thisName = thisTable.attr('id');
-			    thisTable.DataTable({
-		              paging: false,
-		              stateSave: false,
-		              searching: true,
-		              order: [],
-		              language: {
-		                url: "js/fr-FR.json",
-		                buttons: {
-							colvis: "Colonnes Visibles"
+          var table = $('table.display').DataTable({
+            paging: false,
+            info: true,
+            searching: true,
+            order: [],
+            stateSave: false,
+            language: {
+                url: "js/fr-FR.json",
+                buttons: {
+					colvis: "Colonnes Visibles"
+				},
+			},
+            layout: {
+				topStart: {
+		            buttons: [
+			            {
+							extend: 'colvis',
+							postfixButtons: ['colvisRestore']
 						},
-		              },
-					  layout: {
-		                  topStart: {
-		                      buttons: [
-		                          {
-									  extend: 'colvis',
-									  postfixButtons: ['colvisRestore']
-								  },
-		                          {
-									  extend: 'excelHtml5',
-									  title: null,
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  filename: function () { 
-										  filename = thisName;
-										  return filename;
-									  }
-								  },
-		                          {
-									  extend: 'pdfHtml5',
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  //filename: function () { return $('h2').attr('id'); }
-									  title: function () { 
-										  filename = thisName;
-										  return filename;
-										  }
-								  },
-								  //'copyHtml5', 'csvHtml5', 'print'
-							  ]
-		                  }
-		              },
-	            });
-          });
+			            {
+							extend: 'pdfHtml5',
+							exportOptions: { 
+								columns: [0, ':visible']
+							},
+						},
+		                {
+		                    extend: 'excelHtml5',
+		                    title: null,
+		                    exportOptions: { columns: [0, ':visible'] },
+		                    customize: function ( xlsx ) {
+							        var sheet = xlsx.xl.worksheets['sheet1.xml'];
+							        
+							        // Map used to map column index to Excel index
+							        var excelMap = {
+							          0: 'A',
+							          1: 'B',
+							          2: 'C',
+							          3: 'D',
+							          4: 'E',
+							          5: 'F',
+							          6: 'G',
+							          7: 'H',
+							          8: 'I'
+							        };
+							        
+							        var count = 0;
+							        var skippedHeader = false;
+							        $('row', sheet).each( function () {
+							          var row = this;
+							          if (skippedHeader) {
+							//             var colour = $('tbody tr:eq('+parseInt(count)+') td:eq(2)').css('background-color');
+							            
+							            // Output first row
+							            //if (count === 0) {
+							              //console.log(this);
+							            //}
+							            
+							            for (td=0; td<9; td++) {
+							              
+							              // Output cell contents for first row
+							              //if (count === 0) {
+							                //console.log($('c[r^="' + excelMap[td] + '"]', row).text());
+							              //}
+							              var colour = $(table.cell(':eq('+count+')',td).node()).css('background-color');            
+							
+							              if (colour === 'rgb(240, 128, 128)') {
+							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '10' );
+							              }
+							              else if (colour === 'rgb(144, 238, 144)') {
+							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '15' );
+							              }
+							            }
+							            count++;
+							          }
+							          else {
+							            skippedHeader = true;
+		                            }
+		                        });
+		                    }
+		                },
+		                
+		            ]
+		         }
+		      }   
+            });
       });
     </script>
+    
 
 	
 </head>
@@ -1294,8 +1332,8 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            <h2 id="irgasan-solution-externe-et-crème-dermique">Irgasan Solution Externe et Crème Dermique:</h2>
-
+	            <h1 id="irgasan-solution-externe-et-crème-dermique">Irgasan Solution Externe et Crème Dermique:</h1>
+<div class="bs-callout bs-callout-primary">Antiseptie de la peau et des muqueuses</div>
 <style type="text/css">
 #T_triclosan_row0_col4, #T_triclosan_row1_col4, #T_triclosan_row2_col4 {
   background-color: lightgreen;
@@ -1342,8 +1380,8 @@
       <td id="T_triclosan_row2_col2" class="data row2 col2">Crème dermique</td>
       <td id="T_triclosan_row2_col3" class="data row2 col3">Tube/70 gr</td>
       <td id="T_triclosan_row2_col4" class="data row2 col4">10,635</td>
-      <td id="T_triclosan_row2_col5" class="data row2 col5">3,752</td>
-      <td id="T_triclosan_row2_col6" class="data row2 col6">35,28%</td>
+      <td id="T_triclosan_row2_col5" class="data row2 col5">4,228</td>
+      <td id="T_triclosan_row2_col6" class="data row2 col6">39,76%</td>
       <td id="T_triclosan_row2_col7" class="data row2 col7">IRGASAN (TRICLOSAN)</td>
     </tr>
   </tbody>
@@ -1373,7 +1411,9 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                 &copy;2024-2025 <br />
-				 Mise à jour des Prix: 30/07/2025 <br />
+				
+					<span>Page mise à jour:</span> 30/07/2025<br/>
+				 Prix Publiés le 30/07/2025 <br />
 				<!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>

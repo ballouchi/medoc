@@ -68,6 +68,16 @@
 
 
 {
+"title": "Quetiapine 50, 100, 200 et 300 mg Comprimés",
+"tags": "neuroleptiques",
+"keywords": "quetap, seroquel, quetiapine",
+"url": "quetiapine.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
 "title": "Changements d&#39;Août 2025",
 "tags": "changements",
 "keywords": "",
@@ -151,7 +161,7 @@
 "title": "Association Vildagliptine 50 mg et Metformine 1000 mg Comprimés",
 "tags": "autres-diabetediabete",
 "keywords": "bi-galvine, vildamet, galvumet, vildagliptine + metformine",
-"url": "vildagliptine---metformine.html",
+"url": "vildagliptine-metformine.html",
 "summary": "Traitement du diabète de type 2"
 }
 ,
@@ -380,7 +390,7 @@
 {
 "title": "Anti-inflammatoires Non Stéroïdiens à Usage Ophtalmique",
 "tags": "ains-ophtalmo",
-"keywords": "votril, dicloabak, diclofenac, indocollyre, indometacine, zalerg, ketotifene",
+"keywords": "votril, diclobak, diclofenac, indocollyre, indometacine, zalerg, ketotifene",
 "url": "ains-ophtalmo.html",
 "summary": "Anti-inflammatoires"
 }
@@ -530,7 +540,7 @@
 {
 "title": "Préparations à base de corticostéroïdes associés à d&#39;autres substances",
 "tags": "corticoides-dermatodermato",
-"keywords": "betasalic, dermosalic, betamethasone + acide salicylique, valecort neomycine, dermosone neo, betamethasone + neomycine, dermocine plus, afusidic plus, uciderm plus, betamethasone + acide fusidique, fluskin neo, cortema neomycine, fluocinonide + neomycine, neocilone, cinoderm, neostyne, neofungine, triamcinolone + neomycine + nystatine",
+"keywords": "betasalic, dermosalic, betamethasone + acide salicylique, valecort neomycine, dermosone neo, betamethasone + neomycine, tricidine plus, dermocine plus, afusidic plus, uciderm plus, betamethasone + acide fusidique, fluskin neo, cortema neomycine, fluocinonide + neomycine, neocilone, cinoderm, neostyne, neofungine, triamcinolone + neomycine + nystatine",
 "url": "corticoides-asso.html",
 "summary": "Corticoïdes en application locale pour les maladies inflammatoires, prolifératives et auto-immunes de la peau"
 }
@@ -670,7 +680,7 @@
 {
 "title": "Médicaments de l&#39;Hypertrophie Bénigne de la Prostate",
 "tags": "hypertrophie-prostate",
-"keywords": "xatral, xaprost lp, xatral lp, alfuzosine, cardox, doxazosine, prostam l.p., mecir lp, omnic ocas, prostam l.p, tamsulosine, urorec, silodosine, alopia, chibro-proscar, avodart, finasteride, dutasteride, permixon, serenoa repens",
+"keywords": "xatral, xaprost lp, xatral lp, alfuzosine, cardox, doxazosine, prostam l.p., mecir lp, omnic ocas, prostam l.p, tamsulosine, prostalpha, urorec, silodosine, alopia, chibro-proscar, avodart, finasteride, dutasteride, permixon, serenoa repens",
 "url": "hypertrophie-prostate.html",
 "summary": "Traitement de l'Hypertrophie Bénigne de la Prostate"
 }
@@ -730,7 +740,7 @@
 {
 "title": "Leponex (Clozapine 25 et 100 mg Comprimés)",
 "tags": "neuroleptiques",
-"keywords": "leponex, clozapine",
+"keywords": "clozarem, leponex, clozapine",
 "url": "clozapine.html",
 "summary": "Antipsychotique"
 }
@@ -1580,7 +1590,7 @@
 {
 "title": "Beclometasone",
 "tags": "corticoides-a-inhaleranti-inflammatoire",
-"keywords": "cortis, beclo-asma, cortis 250 µg, clenil 250 µg, beclojet 250, miflasone, beclometasone, beclomethasone",
+"keywords": "cortis, beclo-asma, beclonil, clenil 250 µg, beclojet 250, miflasone, beclometasone, beclomethasone",
 "url": "beclometasone.html",
 "summary": "Traitement d'entretien de l'asthme"
 }
@@ -1940,7 +1950,7 @@
 {
 "title": "Rosuvastatine",
 "tags": "hypolipemiantstatine",
-"keywords": "rosuvans, rovastine, rosulip, rosuvascor, rozuvie 5, rosuvast5, neacrest, superstat, vissen, crestor, rocor10, rosact, rozuvie 10, rosuvast 10, rosuvastatine sanofi, rocor20, rozuvie 20, rosuvast 20, rosuvastatine",
+"keywords": "rosuvans, rovastine, rosulip, rosuvascor, rozuvie 5, rosuvast5, neacrest, superstat, vissen, crestor, rocor 10, rosact, rozuvie 10, rosuvast 10, rosuvastatine sanofi, rocor 20, rozuvie 20, rosuvast 20, rosuvastatine",
 "url": "rosuvastatine.html",
 "summary": "Traitement des hypercholestérolémies et hypertriglycéridémies"
 }
@@ -3918,7 +3928,7 @@
 
 
 {
-"title": "Association Amoxicilline + Acide Clavulanique 1 g - 125 mg",
+"title": "Association Amoxicilline 1 g + Acide Clavulanique 125 mg",
 "tags": "penicillineantibiotique",
 "keywords": "mediclav, clavor (8/1), amoclan, amoxi-clav sanofi, novaclav adulte, ciblor, augmentin adulte, amoxicilline + acide clavulanique, pénicilline",
 "url": "amoxi-clav-1-125.html",
@@ -3938,7 +3948,7 @@
 
 
 {
-"title": "Association Amoxicilline + Acide Clavulanique 500 mg - 62,5 mg",
+"title": "Association Amoxicilline 500 mg + Acide Clavulanique 62,5 mg",
 "tags": "penicillineantibiotique",
 "keywords": "novaclav enfants, clavumox, amoclan, clavor, augmentin enfant, amoxi-clav sanofi adulte, novaclav, clavor 500 (1:8), augmentin 8/1 adulte, biclavor, amoxicilline + acide clavulanique, mediclav, novaclav adulte, ciblor, pénicilline",
 "url": "amoxi-clav-500-625.html",
@@ -4120,7 +4130,7 @@
 {
 "title": "Antacides",
 "tags": "aciditéacidité-autres",
-"keywords": "di-antacid, di-antacid sans sucre, contracide, pepsane, rocgel 1.2g, antacid, gastramyl, moxal, calmacide, rennie sans sucre, dimeticone, aluminium hydroxyde, magnesium hydroxyde, gaiazylene, aluminium oxyde, calcium carbonate + magnesium carbonate, calcium carbonate + magnesium carbonate + simethicone",
+"keywords": "di-antacid, di-antacid sans sucre, contracide, pepsane, rocgel 1.2g, antacid, gastramyl, moxal, calmacide, rennie sans sucre, dimeticone, aluminium hydroxyde, magnesium hydroxyde, gaiazylene, gaiazulene, aluminium oxyde, calcium carbonate + magnesium carbonate, calcium carbonate + magnesium carbonate + simethicone",
 "url": "antacides.html",
 "summary": "Traitement des douleurs oeso-gastro-duodénales liés à des problèmes d’acidité"
 }
@@ -4270,7 +4280,7 @@
 {
 "title": "Morphine",
 "tags": "analgesiqueopiace",
-"keywords": "moscontin 10, skenan lp, moscontin 30, moscontin 60, moscontin 100, moscontin 200, morphine",
+"keywords": "moscontin 10, skenan lp, moscontin 30, moscontin 60, moscontin 100, moscontin 200, morfia cr, morphine",
 "url": "morphine.html",
 "summary": "Douleurs persistantes intenses et/ou rebelles aux autres analgésiques, en particulier les douleurs d'origine cancéreuse."
 }
@@ -4540,7 +4550,7 @@
 {
 "title": "Paracetamol sirop",
 "tags": "antalgiqueparacetamol",
-"keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes",
+"keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes, algesic",
 "url": "paracetamol-sirop.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
 }

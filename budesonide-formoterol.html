@@ -96,7 +96,8 @@
     </script>
 
     
-            <!-- Include  DataTables css and js in head -->
+            
+    <!-- Include  DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
@@ -113,57 +114,94 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          $('table.display').each(function(i) {
-			    var thisTable = $(this);
-			    var thisName = thisTable.attr('id');
-			    thisTable.DataTable({
-		              paging: false,
-		              stateSave: false,
-		              searching: true,
-		              order: [],
-		              language: {
-		                url: "js/fr-FR.json",
-		                buttons: {
-							colvis: "Colonnes Visibles"
+          var table = $('table.display').DataTable({
+            paging: false,
+            info: true,
+            searching: true,
+            order: [],
+            stateSave: false,
+            language: {
+                url: "js/fr-FR.json",
+                buttons: {
+					colvis: "Colonnes Visibles"
+				},
+			},
+            layout: {
+				topStart: {
+		            buttons: [
+			            {
+							extend: 'colvis',
+							postfixButtons: ['colvisRestore']
 						},
-		              },
-					  layout: {
-		                  topStart: {
-		                      buttons: [
-		                          {
-									  extend: 'colvis',
-									  postfixButtons: ['colvisRestore']
-								  },
-		                          {
-									  extend: 'excelHtml5',
-									  title: null,
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  filename: function () { 
-										  filename = thisName;
-										  return filename;
-									  }
-								  },
-		                          {
-									  extend: 'pdfHtml5',
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  //filename: function () { return $('h2').attr('id'); }
-									  title: function () { 
-										  filename = thisName;
-										  return filename;
-										  }
-								  },
-								  //'copyHtml5', 'csvHtml5', 'print'
-							  ]
-		                  }
-		              },
-	            });
-          });
+			            {
+							extend: 'pdfHtml5',
+							exportOptions: { 
+								columns: [0, ':visible']
+							},
+						},
+		                {
+		                    extend: 'excelHtml5',
+		                    title: null,
+		                    exportOptions: { columns: [0, ':visible'] },
+		                    customize: function ( xlsx ) {
+							        var sheet = xlsx.xl.worksheets['sheet1.xml'];
+							        
+							        // Map used to map column index to Excel index
+							        var excelMap = {
+							          0: 'A',
+							          1: 'B',
+							          2: 'C',
+							          3: 'D',
+							          4: 'E',
+							          5: 'F',
+							          6: 'G',
+							          7: 'H',
+							          8: 'I'
+							        };
+							        
+							        var count = 0;
+							        var skippedHeader = false;
+							        $('row', sheet).each( function () {
+							          var row = this;
+							          if (skippedHeader) {
+							//             var colour = $('tbody tr:eq('+parseInt(count)+') td:eq(2)').css('background-color');
+							            
+							            // Output first row
+							            //if (count === 0) {
+							              //console.log(this);
+							            //}
+							            
+							            for (td=0; td<9; td++) {
+							              
+							              // Output cell contents for first row
+							              //if (count === 0) {
+							                //console.log($('c[r^="' + excelMap[td] + '"]', row).text());
+							              //}
+							              var colour = $(table.cell(':eq('+count+')',td).node()).css('background-color');            
+							
+							              if (colour === 'rgb(240, 128, 128)') {
+							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '10' );
+							              }
+							              else if (colour === 'rgb(144, 238, 144)') {
+							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '15' );
+							              }
+							            }
+							            count++;
+							          }
+							          else {
+							            skippedHeader = true;
+		                            }
+		                        });
+		                    }
+		                },
+		                
+		            ]
+		         }
+		      }   
+            });
       });
     </script>
+    
 
 	
 </head>
@@ -1294,7 +1332,9 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            <h2 id="association-budesonide--formoterol-à-inhaler">Association Budesonide + Formoterol à inhaler</h2>
+	            <h1 id="association-budesonide--formoterol-à-inhaler">Association Budesonide + Formoterol à inhaler</h1>
+
+<div class="bs-callout bs-callout-primary">Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive</div>
 
 <style type="text/css">
 #T_budesonide-formoterol_row0_col4, #T_budesonide-formoterol_row1_col4, #T_budesonide-formoterol_row2_col4, #T_budesonide-formoterol_row3_col4, #T_budesonide-formoterol_row5_col4, #T_budesonide-formoterol_row6_col4 {
@@ -1313,10 +1353,9 @@
       <th id="T_budesonide-formoterol_level0_col2" class="col_heading level0 col2">Forme</th>
       <th id="T_budesonide-formoterol_level0_col3" class="col_heading level0 col3">Présentation</th>
       <th id="T_budesonide-formoterol_level0_col4" class="col_heading level0 col4">Prix</th>
-      <th id="T_budesonide-formoterol_level0_col5" class="col_heading level0 col5">unité</th>
-      <th id="T_budesonide-formoterol_level0_col6" class="col_heading level0 col6">Remboursés</th>
-      <th id="T_budesonide-formoterol_level0_col7" class="col_heading level0 col7">Pourcentage</th>
-      <th id="T_budesonide-formoterol_level0_col8" class="col_heading level0 col8">DCI</th>
+      <th id="T_budesonide-formoterol_level0_col5" class="col_heading level0 col5">Remboursés</th>
+      <th id="T_budesonide-formoterol_level0_col6" class="col_heading level0 col6">Pourcentage</th>
+      <th id="T_budesonide-formoterol_level0_col7" class="col_heading level0 col7">DCI</th>
     </tr>
   </thead>
   <tbody>
@@ -1324,78 +1363,71 @@
       <td id="T_budesonide-formoterol_row0_col0" class="data row0 col0">NOTOS COMBI</td>
       <td id="T_budesonide-formoterol_row0_col1" class="data row0 col1">200 µg/12 µg</td>
       <td id="T_budesonide-formoterol_row0_col2" class="data row0 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row0_col3" class="data row0 col3">B/120 gélules+inhalateur</td>
+      <td id="T_budesonide-formoterol_row0_col3" class="data row0 col3">B/120 gélules + inhalateur</td>
       <td id="T_budesonide-formoterol_row0_col4" class="data row0 col4">38,790</td>
-      <td id="T_budesonide-formoterol_row0_col5" class="data row0 col5">0,646</td>
-      <td id="T_budesonide-formoterol_row0_col6" class="data row0 col6">32,946</td>
-      <td id="T_budesonide-formoterol_row0_col7" class="data row0 col7">84,93%</td>
-      <td id="T_budesonide-formoterol_row0_col8" class="data row0 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row0_col5" class="data row0 col5">32,946</td>
+      <td id="T_budesonide-formoterol_row0_col6" class="data row0 col6">84,93%</td>
+      <td id="T_budesonide-formoterol_row0_col7" class="data row0 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
     <tr>
       <td id="T_budesonide-formoterol_row1_col0" class="data row1 col0">COMBIFOR</td>
       <td id="T_budesonide-formoterol_row1_col1" class="data row1 col1">200 µg/12 µg</td>
       <td id="T_budesonide-formoterol_row1_col2" class="data row1 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row1_col3" class="data row1 col3">B/120 Gélules (60 gélules Aeronide+ 60 Gélules Aerofor)</td>
+      <td id="T_budesonide-formoterol_row1_col3" class="data row1 col3">B/120 Gélules (60 gélules Aeronide + 60 gélules Aerofor)</td>
       <td id="T_budesonide-formoterol_row1_col4" class="data row1 col4">40,370</td>
-      <td id="T_budesonide-formoterol_row1_col5" class="data row1 col5">0,673</td>
-      <td id="T_budesonide-formoterol_row1_col6" class="data row1 col6">32,946</td>
-      <td id="T_budesonide-formoterol_row1_col7" class="data row1 col7">81,61%</td>
-      <td id="T_budesonide-formoterol_row1_col8" class="data row1 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row1_col5" class="data row1 col5">32,946</td>
+      <td id="T_budesonide-formoterol_row1_col6" class="data row1 col6">81,61%</td>
+      <td id="T_budesonide-formoterol_row1_col7" class="data row1 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
     <tr>
       <td id="T_budesonide-formoterol_row2_col0" class="data row2 col0">NOTOS COMBI</td>
       <td id="T_budesonide-formoterol_row2_col1" class="data row2 col1">400 µg/12 µg</td>
       <td id="T_budesonide-formoterol_row2_col2" class="data row2 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row2_col3" class="data row2 col3">B/2FL(60+60 gélules)+inhalateur</td>
+      <td id="T_budesonide-formoterol_row2_col3" class="data row2 col3">B/2FL (60+60 gélules) + inhalateur</td>
       <td id="T_budesonide-formoterol_row2_col4" class="data row2 col4">46,890</td>
-      <td id="T_budesonide-formoterol_row2_col5" class="data row2 col5">0,781</td>
-      <td id="T_budesonide-formoterol_row2_col6" class="data row2 col6">39,831</td>
-      <td id="T_budesonide-formoterol_row2_col7" class="data row2 col7">84,95%</td>
-      <td id="T_budesonide-formoterol_row2_col8" class="data row2 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row2_col5" class="data row2 col5">39,831</td>
+      <td id="T_budesonide-formoterol_row2_col6" class="data row2 col6">84,95%</td>
+      <td id="T_budesonide-formoterol_row2_col7" class="data row2 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
     <tr>
       <td id="T_budesonide-formoterol_row3_col0" class="data row3 col0">COMBIFOR</td>
       <td id="T_budesonide-formoterol_row3_col1" class="data row3 col1">400 µg/12 µg</td>
       <td id="T_budesonide-formoterol_row3_col2" class="data row3 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row3_col3" class="data row3 col3">B/120 Gélules (60 gélules Aeronide+ 60 Gélules Aerofor)</td>
+      <td id="T_budesonide-formoterol_row3_col3" class="data row3 col3">B/120 Gélules (60 gélules Aeronide + 60 gélules Aerofor)</td>
       <td id="T_budesonide-formoterol_row3_col4" class="data row3 col4">48,985</td>
-      <td id="T_budesonide-formoterol_row3_col5" class="data row3 col5">0,816</td>
-      <td id="T_budesonide-formoterol_row3_col6" class="data row3 col6">39,831</td>
-      <td id="T_budesonide-formoterol_row3_col7" class="data row3 col7">81,31%</td>
-      <td id="T_budesonide-formoterol_row3_col8" class="data row3 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row3_col5" class="data row3 col5">39,831</td>
+      <td id="T_budesonide-formoterol_row3_col6" class="data row3 col6">81,31%</td>
+      <td id="T_budesonide-formoterol_row3_col7" class="data row3 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
     <tr>
       <td id="T_budesonide-formoterol_row4_col0" class="data row4 col0">SYMBICORT TURBUHALER</td>
       <td id="T_budesonide-formoterol_row4_col1" class="data row4 col1">400 µg/12 µg</td>
       <td id="T_budesonide-formoterol_row4_col2" class="data row4 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row4_col3" class="data row4 col3">FL/60 DOSES</td>
-      <td id="T_budesonide-formoterol_row4_col4" class="data row4 col4">91,865</td>
-      <td id="T_budesonide-formoterol_row4_col5" class="data row4 col5">1,531</td>
-      <td id="T_budesonide-formoterol_row4_col6" class="data row4 col6">39,831</td>
-      <td id="T_budesonide-formoterol_row4_col7" class="data row4 col7">43,36%</td>
-      <td id="T_budesonide-formoterol_row4_col8" class="data row4 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row4_col3" class="data row4 col3">FL/60 doses</td>
+      <td id="T_budesonide-formoterol_row4_col4" class="data row4 col4">110,190</td>
+      <td id="T_budesonide-formoterol_row4_col5" class="data row4 col5">39,831</td>
+      <td id="T_budesonide-formoterol_row4_col6" class="data row4 col6">36,15%</td>
+      <td id="T_budesonide-formoterol_row4_col7" class="data row4 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
     <tr>
       <td id="T_budesonide-formoterol_row5_col0" class="data row5 col0">SYMBICORT TURBUHALER</td>
       <td id="T_budesonide-formoterol_row5_col1" class="data row5 col1">100 µg/6 µg</td>
       <td id="T_budesonide-formoterol_row5_col2" class="data row5 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row5_col3" class="data row5 col3">FL/120 DOSES</td>
+      <td id="T_budesonide-formoterol_row5_col3" class="data row5 col3">FL/120 doses</td>
       <td id="T_budesonide-formoterol_row5_col4" class="data row5 col4">59,627</td>
-      <td id="T_budesonide-formoterol_row5_col5" class="data row5 col5">0,994</td>
-      <td id="T_budesonide-formoterol_row5_col6" class="data row5 col6">50,592</td>
-      <td id="T_budesonide-formoterol_row5_col7" class="data row5 col7">84,85%</td>
-      <td id="T_budesonide-formoterol_row5_col8" class="data row5 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row5_col5" class="data row5 col5">50,592</td>
+      <td id="T_budesonide-formoterol_row5_col6" class="data row5 col6">84,85%</td>
+      <td id="T_budesonide-formoterol_row5_col7" class="data row5 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
     <tr>
       <td id="T_budesonide-formoterol_row6_col0" class="data row6 col0">SYMBICORT TURBUHALER</td>
       <td id="T_budesonide-formoterol_row6_col1" class="data row6 col1">200 µg/6 µg</td>
       <td id="T_budesonide-formoterol_row6_col2" class="data row6 col2">Poudre pour inhalation buccale</td>
-      <td id="T_budesonide-formoterol_row6_col3" class="data row6 col3">FL/120 DOSES</td>
+      <td id="T_budesonide-formoterol_row6_col3" class="data row6 col3">FL/120 doses</td>
       <td id="T_budesonide-formoterol_row6_col4" class="data row6 col4">76,594</td>
-      <td id="T_budesonide-formoterol_row6_col5" class="data row6 col5">1,277</td>
-      <td id="T_budesonide-formoterol_row6_col6" class="data row6 col6">65,076</td>
-      <td id="T_budesonide-formoterol_row6_col7" class="data row6 col7">84,96%</td>
-      <td id="T_budesonide-formoterol_row6_col8" class="data row6 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_budesonide-formoterol_row6_col5" class="data row6 col5">65,076</td>
+      <td id="T_budesonide-formoterol_row6_col6" class="data row6 col6">84,96%</td>
+      <td id="T_budesonide-formoterol_row6_col7" class="data row6 col7">BUDESONIDE+FORMOTEROL</td>
     </tr>
   </tbody>
 </table>
@@ -1428,7 +1460,9 @@
             <div class="row">
                 <div class="col-lg-12 footer">
                 &copy;2024-2025 <br />
-				 Mise à jour des Prix: 30/07/2025 <br />
+				
+					<span>Page mise à jour:</span> 30/07/2025<br/>
+				 Prix Publiés le 30/07/2025 <br />
 				<!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
                 </div>
             </div>
