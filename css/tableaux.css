@@ -808,6 +808,14 @@
 #T_amlodipine-atorvastatine .row1 { border-bottom: 3px solid black; }
 #T_amlodipine-atorvastatine :is(.row2, .row3).col1 { background-color: thistle; }
 
+#T_bisoprolol-10-mg .row8 { border-bottom: 1px solid black; }
+#T_bisoprolol-10-mg .row9.col3 { background-color: thistle; }
+
+#T_bisoprolol--amlodipine :is(.row3, .row6, .row10) { border-bottom: 2px solid black; }
+#T_bisoprolol--amlodipine :is(.row4, .row6).col1 { background-color: khaki; }
+#T_bisoprolol--amlodipine :is(.row7, .row8, .row10).col1 { background-color: lightsalmon; }
+#T_bisoprolol--amlodipine :is(.row11, .row12, .row14).col1 { background-color: thistle; }
+
 #T_nebivolol .row4 { border-bottom: 1px solid black; }
 #T_nebivolol :is(.row5, .row6).col3 { background-color: thistle; }
 
@@ -853,12 +861,12 @@
 #T_irbesartan-amlo-300-10 .row3 { border-bottom: 1px solid black; }
 
 #T_telmisartan-amlo :is(.row1, .row3, .row5) { border-bottom: 3px solid black; }
-#T_telmisartan-amlo :is(.row0, .row2, .row4, .row6) { border-bottom: 3px dashed black; }
+#T_telmisartan-amlo :is(.row0, .row2, .row4, .row6) { border-bottom: 1px solid black; }
 #T_telmisartan-amlo :is(.row0, .row2, .row4, .row6).col3 { background-color: khaki; } 
 
 #T_irbesartan-hct-150-12 .row8,
 #T_irbesartan-hct-300-12 .row9,
-#T_irbesartan-hct-300-25 .row6 { border-bottom: 1px solid black; }
+#T_irbesartan-hct-300-25 .row7 { border-bottom: 1px solid black; }
 
 #T_losartan-hct :is(.row7, .row9) { border-bottom: 3px solid black; }
 #T_losartan-hct :is(.row0, .row3, .row4, .row8, .row10, .row13) { border-bottom: 1px solid black; }
@@ -1294,6 +1302,10 @@
 #T_piroxicam-injectable .row3 { border-bottom: 1px solid black; }
 #T_piroxicam-suppo .row0.col3 { background-color: khaki; }
 #T_piroxicam-injectable .row4.col3 { background-color: thistle; }
+
+#T_alendronate .row1 { border-bottom: 1px solid black; }
+#T_alendronate .row3 { border-bottom: 6px double black; }
+#T_alendronate .row3.col7 { background-color: thistle; }
 
 #T_rifaximina .row0 { border-bottom: 3px solid black; }
 #T_rifaximina :is(.row3, .row4) { border-bottom: 1px solid black; }
