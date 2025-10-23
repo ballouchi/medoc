@@ -68,6 +68,26 @@
 
 
 {
+"title": "Liste des Médicaments Remboursés",
+"tags": "changements",
+"keywords": "",
+"url": "liste-vei.html",
+"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d'Assurance Maladie Tunisienne"
+}
+,
+
+
+{
+"title": "Liste des Médicaments Non Remboursés",
+"tags": "changements",
+"keywords": "",
+"url": "liste-non-vei.html",
+"summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
+}
+,
+
+
+{
 "title": "Circulaires de la Pharmacie Centrale d&#39;Août et Septembre 2025",
 "tags": "changements",
 "keywords": "pct",
@@ -4603,16 +4623,6 @@
 "keywords": "panadol, adoline, novadol, adol, cetamol, dolopro, algidol, paracetamol ips, efferalgan 500, doliprane, analgan, stopalgic, algesic, paracetamol i500, paracetamol",
 "url": "paracetamol-500-cp.html",
 "summary": "Traitement des douleurs d'intensité légère à modérée et/ou de la fièvre"
-}
-,
-
-
-{
-"title": "Liste non VEI",
-"tags": "changements",
-"keywords": "",
-"url": "liste-non-vei.html",
-"summary": ""
 }
 
 

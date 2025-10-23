@@ -109,7 +109,7 @@
 		        .addClass('filters')
 		        .prependTo('#example thead');
           var table = $('#example').DataTable( {
-	        ajax: "js/2025-09-03.json",
+	        ajax: "js/latest.json",
 	        orderCellsTop: false,
 	        //fixedHeader: true,
 	        language: {
@@ -119,7 +119,8 @@
 	        pageLength: 10,
 	        //lengthChange: false,
 	        searching: true,
-	        order: [[6, 'asc'], [1, 'asc'], [5, 'asc'], [2, 'asc']],
+	        order: [],
+	        //order: [[6, 'asc'], [1, 'asc'], [5, 'asc'], [2, 'asc']],
 	        stateSave: false,
 	        //autoWidth: true,
 	        initComplete: function() {
@@ -1309,7 +1310,7 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content">
-	            <div class="bs-callout bs-callout-primary"> <strong>Prix des médicaments remboursés par la CNAM en Tunisie</strong> <a href="https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20V%20E%20I%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE03-09-2025.xls">03/09/2025</a> </div>
+	            <div class="bs-callout bs-callout-primary"> <strong>Prix des Médicaments en Tunisie</strong> <a href="https://ballouchi.github.io/medoc/liste-vei.html">Remboursés</a> et <a href="https://ballouchi.github.io/medoc/liste-non-vei.html">Non Remboursés</a> par la CNAM </div>
 
 <h2 id="recherche-rapide">Recherche Rapide</h2>
 
