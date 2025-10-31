@@ -68,11 +68,21 @@
 
 
 {
+"title": "Circulaires de la Pharmacie Centrale d&#39;Octobre 2025",
+"tags": "changements",
+"keywords": "pct",
+"url": "changements-2025-10.html",
+"summary": "Changements d'Octobre 2025"
+}
+,
+
+
+{
 "title": "Liste des Médicaments Remboursés",
 "tags": "changements",
 "keywords": "",
 "url": "liste-vei.html",
-"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d'Assurance Maladie Tunisienne"
+"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d' Assurance Maladie Tunisienne"
 }
 ,
 
@@ -83,6 +93,26 @@
 "keywords": "",
 "url": "liste-non-vei.html",
 "summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
+}
+,
+
+
+{
+"title": "CNAM: Mise à Jour du 14-10-2025",
+"tags": "changements",
+"keywords": "cnam",
+"url": "cnam-2025-10-14.html",
+"summary": "Changements du 14 octobre 2025 CNAM"
+}
+,
+
+
+{
+"title": "CNAM: Mise à Jour du 09-10-2025",
+"tags": "changements",
+"keywords": "cnam",
+"url": "cnam-2025-10-09.html",
+"summary": "Changements du 9 octobre 2025 CNAM"
 }
 ,
 
