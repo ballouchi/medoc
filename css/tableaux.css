@@ -2,9 +2,9 @@
 #T_25f34 .row0 { text-decoration-line: line-through; }
  */
 
-#T_paracetamol-500-mg-comprimes :is(.row0, .row1, .row2, .row3, .row14) { border-bottom: 1px solid black; }
-#T_paracetamol-500-mg-comprimes :is(.row4, .row5, .row12, .row18).col2 { background-color: thistle; }
-#T_paracetamol-500-mg-comprimes-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
+#T_paracetamol-500-mg-cp :is(.row0, .row1, .row2, .row3, .row14) { border-bottom: 1px solid black; }
+#T_paracetamol-500-mg-cp :is(.row4, .row5, .row12, .row17).col2 { background-color: thistle; }
+#T_paracetamol-500-mg-cp-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
 
 #T_paracetamol-1000-mg-comprimes-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
 /* #T_paracetamol-1000-mg :is(.row9, .row12) { border-bottom: 2px solid black; }
@@ -193,8 +193,8 @@
 #T_racecadotril .row9 { border-bottom: 3px solid black; }
 #T_racecadotril .row10.col2 { background-color: thistle; }
 
-#T_buscopan .row1.col2 { background-color: khaki; }
-#T_buscopan .row2.col2 { background-color: lightsalmon; }
+#T_buscopan .row2.col2 { background-color: khaki; }
+#T_buscopan .row1.col2 { background-color: lightsalmon; }
 #T_buscopan .row0,
 #T_buscopan .row1 { border-bottom: 3px solid black; }
 
@@ -228,6 +228,7 @@
 #T_celecoxib .row20 { border-bottom: 1px solid black; }
 
 #T_esomeprazole-20-mg-28 .row8,
+#T_esomeprazole-40-mg-7 .row5,
 #T_esomeprazole-40-mg-28 .row10 { border-bottom: 1px solid black; }
 
 #T_omeprazole-20-7 .row3 { border-bottom: 1px solid black; }
@@ -321,7 +322,7 @@
 
 #T_budesonide-inhalation .row1 { border-bottom: 4px solid black; }
 #T_budesonide-inhalation .row0,
-#T_budesonide-inhalation .row4 { border-bottom: 2px solid black; }
+#T_budesonide-inhalation .row5 { border-bottom: 2px solid black; }
 #T_budesonide-inhalation .row1.col3 { background-color: thistle; }
 #T_budesonide-inhalation :is(.row0, .row1).col2 { background-color: khaki; }
 
@@ -345,9 +346,9 @@
 #T_salmetrol .row0 { border-bottom: 1px solid black; }
 #T_salmetrol .row1.col3 { background-color: thistle; }
 
-#T_formoterol .row6 { border-bottom: 3px solid black; }
-#T_formoterol .row2 { border-bottom: 1px solid black; }
-#T_formoterol :is(.row7, .row8).col2 { background-color: khaki; }
+#T_formoterol .row8 { border-bottom: 3px solid black; }
+#T_formoterol .row3 { border-bottom: 1px solid black; }
+#T_formoterol :is(.row9, .row10).col2 { background-color: khaki; }
 
 #T_terbutaline-inhalation .row0 { border-bottom: 2px solid black; }
 #T_terbutaline-inhalation .row1.col2 { background-color: thistle; }
@@ -956,9 +957,9 @@
 #T_8a0eb :is(.row0, .row1),
 #T_86703 :is(.row4, .row5, .row10) { border-bottom: 1px solid black; }
 /* prednisone */
-#T_e1b1c .row2 { border-bottom: 3px solid black; }
-#T_e1b1c .row3.col1 { background-color: thistle; }
-#T_e1b1c .row3.col3 { background-color: khaki; }
+#T_prednisone .row2 { border-bottom: 3px solid black; }
+#T_prednisone .row3.col1 { background-color: thistle; }
+#T_prednisone .row3.col3 { background-color: khaki; }
 
 #T_acetylsalicylate-de-lysine-100-mg .row0,
 #T_acetylsalicylate-de-lysine-250-mg .row0,

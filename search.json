@@ -1080,7 +1080,7 @@
 {
 "title": "Escitalopram",
 "tags": "antidepresseursisrs",
-"keywords": "seroplex, mediprex, esoprex, cibramine 10, retabliss, scitoplex 10, purlex, cibramine 20, serotonyl, escitalopram",
+"keywords": "seroplex, mediprex, esoprex, cibramine 10, retabliss, scitoplex 10, purlex, cibramine 20, serotonyl, escitapur, escitalopram",
 "url": "escitalopram.html",
 "summary": "Antidépresseurs"
 }
@@ -1650,7 +1650,7 @@
 {
 "title": "Budesonide",
 "tags": "corticoides-a-inhaleranti-inflammatoire",
-"keywords": "bercum, pulmicort, aeronide, eolide easy flow, miflonide breezhaleer, miflonide breezhaler, budesonide",
+"keywords": "bercum, pulmicort, aeronide, eolide easy flow, miflonide, airycort, budesonide",
 "url": "budesonide.html",
 "summary": "Traitement d'entretien de l'asthme"
 }
@@ -1680,7 +1680,7 @@
 {
 "title": "Tiotropium",
 "tags": "anticholinergiquesbronchodilatateurs",
-"keywords": "xtiova easy flow, spiriva, tiotropium",
+"keywords": "xtiova easy flow, spiriva, respyva, tiotropium",
 "url": "tiotropium.html",
 "summary": "Traitement de la bronchopneumopathie chronique obstructive et de l'asthme"
 }
@@ -1730,7 +1730,7 @@
 {
 "title": "Formoterol",
 "tags": "sympathicomimetiquesbronchodilatateurs",
-"keywords": "raforex, atimos, notos easy flow, aerofor, foradil, formopen, formoterol",
+"keywords": "raforex, atimos, notos easy flow, aerofor, foradil, formopen, respyfor, formoterol",
 "url": "formoterol.html",
 "summary": "Traitement d'entretien de l'asthme. Traitement de la bronchopneumopathie chronique obstructive"
 }
@@ -3638,7 +3638,7 @@
 
 
 {
-"title": "Griséofulvine",
+"title": "Griséofulvine 250 mg Comprimés",
 "tags": "anti-mycosique",
 "keywords": "griseofulvine, antifongique, antimycosique",
 "url": "griseofulvine.html",
