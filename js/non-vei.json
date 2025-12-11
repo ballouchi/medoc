@@ -71,16 +71,6 @@
         "7473144H"
     ],
     [
-        "CEFAXONE IM IV SC",
-        "0,5 g",
-        "Pdre p.prep.injectable",
-        "B\/1 FL + S\/5 ml",
-        null,
-        "CEFTRIAXONE",
-        "UNIMED",
-        9093504
-    ],
-    [
         "TRIAXONE IV",
         "500 mg",
         "Pdre p.prep.injectable",
@@ -89,6 +79,16 @@
         "CEFTRIAXONE",
         "JULPHAR",
         "7473143H"
+    ],
+    [
+        "CEFAXONE IM IV SC",
+        "0,5 g",
+        "Pdre p.prep.injectable",
+        "B\/1 FL + S\/5 ml",
+        null,
+        "CEFTRIAXONE",
+        "UNIMED",
+        9093504
     ],
     [
         "TRIAXONE IM",
@@ -189,6 +189,16 @@
         "CEFTRIAXONE",
         "LABESFAL - Laboratorios Almiro S.A",
         "4333012H"
+    ],
+    [
+        "LEVOCINE",
+        "750 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/5",
+        "22,280",
+        "LEVOFLOXACINE",
+        "DAR ESSAYDALI",
+        "9213491.0"
     ],
     [
         "LEVOREC",
@@ -432,16 +442,6 @@
     ],
     [
         "PROTOPIC",
-        "0,03 %",
-        "Pommade dermique",
-        "T\/30 g",
-        "98,490",
-        "TACROLIMUS",
-        "LEO PHARMA",
-        5823102
-    ],
-    [
-        "PROTOPIC",
         "0,1\u00a0%",
         "Pommade dermique",
         "T\/30 g",
@@ -449,6 +449,16 @@
         "TACROLIMUS",
         "LEO PHARMA",
         5823101
+    ],
+    [
+        "PROTOPIC",
+        "0,03 %",
+        "Pommade dermique",
+        "T\/30 g",
+        "98,490",
+        "TACROLIMUS",
+        "LEO PHARMA",
+        5823102
     ],
     [
         "EUCARBON",
@@ -1746,7 +1756,7 @@
         "Solution pour prick-test cutan\u00e9",
         "B\/1 FL\/3 ml",
         null,
-        "Contr\u00f4le Négatif",
+        null,
         "STALLERGENES",
         3653051
     ],
@@ -3531,6 +3541,16 @@
         6683082
     ],
     [
+        "ANTIXA",
+        "2,5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/180",
+        "105,240",
+        "APIXABAN",
+        "S.A.I.PH",
+        null
+    ],
+    [
         "APIXADIS",
         "5 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -3629,6 +3649,16 @@
         "APIXABAN",
         "MEDIS",
         9234116
+    ],
+    [
+        "ANTIXA",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/180",
+        "105,240",
+        "APIXABAN",
+        "S.A.I.PH",
+        null
     ],
     [
         "APIXADIS",
@@ -4981,16 +5011,6 @@
         9163922
     ],
     [
-        "VIAMAXIM",
-        "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "SILDENAFIL",
-        "GALPHARMA",
-        9223443
-    ],
-    [
         "VIATEC",
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4999,6 +5019,16 @@
         "SILDENAFIL",
         "ADWYA",
         9044084
+    ],
+    [
+        "VIAMAXIM",
+        "50 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "SILDENAFIL",
+        "GALPHARMA",
+        9223443
     ],
     [
         "EXTEMENT",
@@ -5101,16 +5131,6 @@
         "ST9023984"
     ],
     [
-        "VIAMAXIM",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "SILDENAFIL",
-        "GALPHARMA",
-        9223444
-    ],
-    [
         "VIATEC",
         "100 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5119,6 +5139,16 @@
         "SILDENAFIL",
         "ADWYA",
         9044086
+    ],
+    [
+        "VIAMAXIM",
+        "100 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "SILDENAFIL",
+        "GALPHARMA",
+        9223444
     ],
     [
         "CIAPLUS",
@@ -5171,16 +5201,6 @@
         9353115
     ],
     [
-        "TADAPLUS",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        null,
-        "TADALAFIL",
-        "SAIPH",
-        9164121
-    ],
-    [
         "TEROS",
         "5 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5189,6 +5209,16 @@
         "TADALAFIL",
         "TERIAK",
         9253835
+    ],
+    [
+        "TADAPLUS",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/30",
+        null,
+        "TADALAFIL",
+        "SAIPH",
+        9164121
     ],
     [
         "TADALIS",
@@ -5231,16 +5261,6 @@
         9044231
     ],
     [
-        "TADAPLUS",
-        "10 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "TADALAFIL",
-        "SAIPH",
-        9164122
-    ],
-    [
         "TEROS",
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5249,6 +5269,16 @@
         "TADALAFIL",
         "TERIAK",
         9253831
+    ],
+    [
+        "TADAPLUS",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        null,
+        "TADALAFIL",
+        "SAIPH",
+        9164122
     ],
     [
         "TADAMAX",
@@ -5271,16 +5301,6 @@
         9044232
     ],
     [
-        "TADAPLUS",
-        "10 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "TADALAFIL",
-        "SAIPH",
-        9164123
-    ],
-    [
         "TEROS",
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5289,6 +5309,16 @@
         "TADALAFIL",
         "TERIAK",
         9253833
+    ],
+    [
+        "TADAPLUS",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "TADALAFIL",
+        "SAIPH",
+        9164123
     ],
     [
         "BIFOR10",
@@ -5351,16 +5381,6 @@
         9213371
     ],
     [
-        "TADAPLUS",
-        "20 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "TADALAFIL",
-        "SAIPH",
-        9164124
-    ],
-    [
         "TEROS",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5379,6 +5399,16 @@
         "TADALAFIL",
         "LES LABORATOIRES MEDIS",
         9233771
+    ],
+    [
+        "TADAPLUS",
+        "20 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        null,
+        "TADALAFIL",
+        "SAIPH",
+        9164124
     ],
     [
         "TADAMAX",
@@ -5421,16 +5451,6 @@
         9213372
     ],
     [
-        "TADAPLUS",
-        "20 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "TADALAFIL",
-        "SAIPH",
-        9164125
-    ],
-    [
         "TEROS",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5439,6 +5459,16 @@
         "TADALAFIL",
         "TERIAK",
         9253834
+    ],
+    [
+        "TADAPLUS",
+        "20 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "TADALAFIL",
+        "SAIPH",
+        9164125
     ],
     [
         "BIFOR20",
@@ -7718,16 +7748,6 @@
         null,
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "GALPHARMA",
-        null
-    ],
-    [
-        "GRIPEX ADULTES",
-        null,
-        "Poudre pour solution orale",
-        "B\/12 Sachets",
-        null,
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
         9223165
     ],
     [
@@ -7759,6 +7779,16 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "ADWYA",
         9044142
+    ],
+    [
+        "GRIPEX ADULTES",
+        null,
+        "Poudre pour solution orale",
+        "B\/12 Sachets",
+        null,
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "GALPHARMA",
+        null
     ],
     [
         "FERVEX ENFANT",
