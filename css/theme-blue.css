@@ -242,3 +242,6 @@ blockquote :first-child {
   display: inline;
 }
 blockquote :last-child { margin-bottom:0; }
+
+/* pagefind
+div #search { --pagefind-ui-scale: 0.5; --pagefind-ui-border-radius: 2px; --pagefind-ui-image-border-radius: 2px; } */

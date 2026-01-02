@@ -3295,6 +3295,24 @@
         "N"
     ],
     [
+        308139.0,
+        "SPIRA Comp Pell 1,5Mui Bt 16",
+        "7,140",
+        "7,136",
+        "E",
+        "SPIRAMYCINE",
+        "N"
+    ],
+    [
+        306089.0,
+        "ROVAMYCINE Comp pell 1,5 Mui Bt 16",
+        "8,725",
+        "7,136",
+        "E",
+        "SPIRAMYCINE",
+        "N"
+    ],
+    [
         300765.0,
         "SPIROX 3 MUI comp pell Bt\/10",
         "7,710",
@@ -3317,24 +3335,6 @@
         "ROVAMYCINE Comp 3Mui  Bt 10",
         "11,385",
         "7,710",
-        "E",
-        "SPIRAMYCINE",
-        "N"
-    ],
-    [
-        308139.0,
-        "SPIRA Comp Pell 1,5Mui Bt 16",
-        "7,140",
-        "7,136",
-        "E",
-        "SPIRAMYCINE",
-        "N"
-    ],
-    [
-        306089.0,
-        "ROVAMYCINE Comp pell 1,5 Mui Bt 16",
-        "8,725",
-        "7,136",
         "E",
         "SPIRAMYCINE",
         "N"
@@ -3646,18 +3646,18 @@
         "N"
     ],
     [
-        300258.0,
-        "ACICLOVIR Susp buv Fl 125ml",
-        "51,190",
+        302434.0,
+        "ANTIVIR Susp Buv 200 MG\/5ML FL 125 ML",
+        "17,605",
         "17,500",
         "E",
         "ACICLOVIR",
         "N"
     ],
     [
-        302434.0,
-        "ANTIVIR Susp Buv 200 MG\/5ML FL 125 ML",
-        "17,605",
+        300258.0,
+        "ACICLOVIR Susp buv Fl 125ml",
+        "51,190",
         "17,500",
         "E",
         "ACICLOVIR",
@@ -4321,19 +4321,19 @@
         "N"
     ],
     [
-        105234.0,
-        "PENTASA 1GR SUSP.RECT.BT 7FL\/100ML",
-        "119,590",
-        "108,598",
+        102074.0,
+        "PENTASA  Gl\u00e9 Sach 1gr  Bt 2*60",
+        "180,716",
+        "180,600",
         "E",
         "MESALAZINE",
         "N"
     ],
     [
-        102074.0,
-        "PENTASA  Gl\u00e9 Sach 1gr  Bt 2*60",
-        "180,716",
-        "180,600",
+        301471.0,
+        "CINKASA Supp 500 MG Bt  15",
+        "13,120",
+        "13,110",
         "E",
         "MESALAZINE",
         "N"
@@ -4348,10 +4348,10 @@
         "N"
     ],
     [
-        301471.0,
-        "CINKASA Supp 500 MG Bt  15",
-        "13,120",
-        "13,110",
+        105234.0,
+        "PENTASA 1GR SUSP.RECT.BT 7FL\/100ML",
+        "119,590",
+        "108,598",
         "E",
         "MESALAZINE",
         "N"
@@ -5014,6 +5014,33 @@
         "O"
     ],
     [
+        306054.0,
+        "GLIBENCLAMIDE Comp 2,5mg Bt 60",
+        "1,920",
+        "1,920",
+        "E",
+        "GLIBENCLAMIDE",
+        "N"
+    ],
+    [
+        300178.0,
+        "MI-DIABENYL Comp 2.5mg Bt 60",
+        "4,040",
+        "1,920",
+        "E",
+        "GLIBENCLAMIDE",
+        "N"
+    ],
+    [
+        307197.0,
+        "HEMI-DAONIL Comp 2,5mg Bt 60",
+        "6,705",
+        "1,920",
+        "E",
+        "GLIBENCLAMIDE",
+        "N"
+    ],
+    [
         300177.0,
         "DIABENYL Comp 5mg Bt 20",
         "2,470",
@@ -5054,33 +5081,6 @@
         "DAONIL Comp 5mg Bt 100",
         "19,740",
         "6,600",
-        "E",
-        "GLIBENCLAMIDE",
-        "N"
-    ],
-    [
-        306054.0,
-        "GLIBENCLAMIDE Comp 2,5mg Bt 60",
-        "1,920",
-        "1,920",
-        "E",
-        "GLIBENCLAMIDE",
-        "N"
-    ],
-    [
-        300178.0,
-        "MI-DIABENYL Comp 2.5mg Bt 60",
-        "4,040",
-        "1,920",
-        "E",
-        "GLIBENCLAMIDE",
-        "N"
-    ],
-    [
-        307197.0,
-        "HEMI-DAONIL Comp 2,5mg Bt 60",
-        "6,705",
-        "1,920",
         "E",
         "GLIBENCLAMIDE",
         "N"
@@ -5806,9 +5806,27 @@
         "N"
     ],
     [
-        104575.0,
-        "INSUMAN  COMB 30 \/70 Susp Inj 100 UI\/ML BT 1 FL\/10 ML",
-        "4,743",
+        104439.0,
+        "JUSLINE 30\/70 100 UI\/ML Susp Inj  FL 10 ML",
+        "4,319",
+        "4,310",
+        "V",
+        "INSULINE HUMAINE",
+        "N"
+    ],
+    [
+        104437.0,
+        "JUSLINE N 100 UI\/ML Susp Inj  FL 10 ML",
+        "4,319",
+        "4,310",
+        "V",
+        "INSULINE HUMAINE",
+        "N"
+    ],
+    [
+        104438.0,
+        "JUSLINE R 100 UI\/ML Sol Inj FL 10 ML",
+        "4,319",
         "4,310",
         "V",
         "INSULINE HUMAINE",
@@ -5817,6 +5835,15 @@
     [
         104574.0,
         "INSUMAN BASAL Susp INJ 100UI\/ML BT 1 FL\/10 ML",
+        "4,743",
+        "4,310",
+        "V",
+        "INSULINE HUMAINE",
+        "N"
+    ],
+    [
+        104575.0,
+        "INSUMAN  COMB 30 \/70 Susp Inj 100 UI\/ML BT 1 FL\/10 ML",
         "4,743",
         "4,310",
         "V",
@@ -5882,33 +5909,6 @@
         "INSULINE MIXTARD30 HM Penfill 100UI B\/5\/3ml",
         "43,506",
         "43,505",
-        "V",
-        "INSULINE HUMAINE",
-        "N"
-    ],
-    [
-        104439.0,
-        "JUSLINE 30\/70 100 UI\/ML Susp Inj  FL 10 ML",
-        "4,319",
-        "4,310",
-        "V",
-        "INSULINE HUMAINE",
-        "N"
-    ],
-    [
-        104437.0,
-        "JUSLINE N 100 UI\/ML Susp Inj  FL 10 ML",
-        "4,319",
-        "4,310",
-        "V",
-        "INSULINE HUMAINE",
-        "N"
-    ],
-    [
-        104438.0,
-        "JUSLINE R 100 UI\/ML Sol Inj FL 10 ML",
-        "4,319",
-        "4,310",
         "V",
         "INSULINE HUMAINE",
         "N"
@@ -6436,51 +6436,6 @@
         "N"
     ],
     [
-        103802.0,
-        "INEXIUM Comp Gatro Resis 20 mg Bt 7",
-        "17,800",
-        "4,284",
-        "E",
-        "ESOMEPRAZOLE",
-        "N"
-    ],
-    [
-        103260.0,
-        "INEXIUM Comp Gastro Resistant 20mg  Bt 14",
-        "26,015",
-        "8,568",
-        "E",
-        "ESOMEPRAZOLE",
-        "N"
-    ],
-    [
-        105910.0,
-        "NEXIUM 20mg 20mg Comp Gastro-r\u00e9sist Bt 28",
-        "21,145",
-        "17,136",
-        "E",
-        "ESOMEPRAZOLE",
-        "N"
-    ],
-    [
-        102952.0,
-        "INEXIUM 40 mg comp gastroresistant Bt\/14",
-        "38,910",
-        "10,220",
-        "E",
-        "ESOMEPRAZOLE",
-        "N"
-    ],
-    [
-        105917.0,
-        "NEXIUM 40 40mg Comp Gastro-r\u00e9sist Bt 28",
-        "21,145",
-        "20,440",
-        "E",
-        "ESOMEPRAZOLE",
-        "N"
-    ],
-    [
         302409.0,
         "NEXUS Gelule Gastro-resis 20 MG BT 7",
         "4,830",
@@ -6547,6 +6502,15 @@
         301404.0,
         "IPPSIUM Gelule Gastro Resis 20 mg Fl 7",
         "8,410",
+        "4,284",
+        "E",
+        "ESOMEPRAZOLE",
+        "N"
+    ],
+    [
+        103802.0,
+        "INEXIUM Comp Gatro Resis 20 mg Bt 7",
+        "17,800",
         "4,284",
         "E",
         "ESOMEPRAZOLE",
@@ -6652,6 +6616,15 @@
         "N"
     ],
     [
+        103260.0,
+        "INEXIUM Comp Gastro Resistant 20mg  Bt 14",
+        "26,015",
+        "8,568",
+        "E",
+        "ESOMEPRAZOLE",
+        "N"
+    ],
+    [
         302702.0,
         "RUGDAL 20 mg GEL. GASTRO-RESISTANTE FL\/16",
         "10,635",
@@ -6727,6 +6700,15 @@
         302290.0,
         "STELAR 20mg Gel .Gastro-resist BT 28",
         "20,410",
+        "17,136",
+        "E",
+        "ESOMEPRAZOLE",
+        "N"
+    ],
+    [
+        105910.0,
+        "NEXIUM 20mg 20mg Comp Gastro-r\u00e9sist Bt 28",
+        "21,145",
         "17,136",
         "E",
         "ESOMEPRAZOLE",
@@ -6940,6 +6922,15 @@
         "N"
     ],
     [
+        102952.0,
+        "INEXIUM 40 mg comp gastroresistant Bt\/14",
+        "38,910",
+        "10,220",
+        "E",
+        "ESOMEPRAZOLE",
+        "N"
+    ],
+    [
         303303.0,
         "ENOMERAL 40 40mg G\u00e9l Gastro-r\u00e9sistant Bt 16",
         "12,960",
@@ -6980,6 +6971,15 @@
         "ESORAL 40 mg Gelule Bt 16",
         "30,165",
         "11,680",
+        "E",
+        "ESOMEPRAZOLE",
+        "N"
+    ],
+    [
+        105917.0,
+        "NEXIUM 40 40mg Comp Gastro-r\u00e9sist Bt 28",
+        "21,145",
+        "20,440",
         "E",
         "ESOMEPRAZOLE",
         "N"
@@ -7426,42 +7426,6 @@
         "N"
     ],
     [
-        300790.0,
-        "OPRAZOLE 10 mg comp.fl\/14",
-        "10,690",
-        "8,820",
-        "E",
-        "OMEPRAZOLE",
-        "N"
-    ],
-    [
-        301104.0,
-        "OPRAZOLE Comp Pell 20mg Bt 7",
-        "10,710",
-        "6,293",
-        "E",
-        "OMEPRAZOLE",
-        "N"
-    ],
-    [
-        300791.0,
-        "OPRAZOLE 20 mg comp.fl\/14",
-        "16,675",
-        "12,586",
-        "E",
-        "OMEPRAZOLE",
-        "N"
-    ],
-    [
-        301105.0,
-        "OPRAZOLE Comp Pell 20mg Bt 28",
-        "28,780",
-        "25,172",
-        "E",
-        "OMEPRAZOLE",
-        "N"
-    ],
-    [
         301934.0,
         "OMEZOL Gelule 10 MG BT 7",
         "4,600",
@@ -7510,6 +7474,15 @@
         300689.0,
         "MEPRAZOL 10 mg g\u00e9lu.FL\/14",
         "9,920",
+        "8,820",
+        "E",
+        "OMEPRAZOLE",
+        "N"
+    ],
+    [
+        300790.0,
+        "OPRAZOLE 10 mg comp.fl\/14",
+        "10,690",
         "8,820",
         "E",
         "OMEPRAZOLE",
@@ -7588,6 +7561,15 @@
         "N"
     ],
     [
+        301104.0,
+        "OPRAZOLE Comp Pell 20mg Bt 7",
+        "10,710",
+        "6,293",
+        "E",
+        "OMEPRAZOLE",
+        "N"
+    ],
+    [
         300663.0,
         "GASTRAL 20 mg g\u00e9lule Fl 8",
         "11,145",
@@ -7618,6 +7600,15 @@
         300687.0,
         "MEPRAZOL 20 mg g\u00e9lu.FL\/14",
         "14,520",
+        "12,586",
+        "E",
+        "OMEPRAZOLE",
+        "N"
+    ],
+    [
+        300791.0,
+        "OPRAZOLE 20 mg comp.fl\/14",
+        "16,675",
         "12,586",
         "E",
         "OMEPRAZOLE",
@@ -7696,6 +7687,15 @@
         "N"
     ],
     [
+        301105.0,
+        "OPRAZOLE Comp Pell 20mg Bt 28",
+        "28,780",
+        "25,172",
+        "E",
+        "OMEPRAZOLE",
+        "N"
+    ],
+    [
         301766.0,
         "MAALOX CONTROLE ( EX OPRAALOX)  Gelule 20 MG FL 28",
         "30,810",
@@ -7759,6 +7759,15 @@
         "N"
     ],
     [
+        303436.0,
+        "PENTOP 20mg G\u00e9l Gastro-resistante Bt 8",
+        "4,760",
+        "4,616",
+        "E",
+        "PANTOPRAZOLE",
+        "N"
+    ],
+    [
         302474.0,
         "PANTOPRAL Comp Gastro resistant 20 MG FL 10",
         "7,590",
@@ -7772,6 +7781,15 @@
         "RAZON Comp Gastro-resis 20 mg Bt 10",
         "8,610",
         "5,770",
+        "E",
+        "PANTOPRAZOLE",
+        "N"
+    ],
+    [
+        302449.0,
+        "PENTOP Gel Gastro resist 20 MG BT 16",
+        "10,535",
+        "9,232",
         "E",
         "PANTOPRAZOLE",
         "N"
@@ -7831,6 +7849,15 @@
         "N"
     ],
     [
+        303437.0,
+        "PENTOP 40mg G\u00e9l Gastro-resistante Bt 8",
+        "8,170",
+        "8,000",
+        "E",
+        "PANTOPRAZOLE",
+        "N"
+    ],
+    [
         302506.0,
         "PANTOPRAL 40 MG COMP GASTRO-RESIST FL 14",
         "14,920",
@@ -7849,6 +7876,15 @@
         "N"
     ],
     [
+        302468.0,
+        "PENTOP Gel  40 MG BT 16",
+        "17,880",
+        "16,000",
+        "E",
+        "PANTOPRAZOLE",
+        "N"
+    ],
+    [
         302477.0,
         "PANTOPRAL Comp Gastro resistant 40 MG FL 28",
         "28,015",
@@ -7862,42 +7898,6 @@
         "RAZON 40MG Comp gastro Bt 28",
         "33,350",
         "28,000",
-        "E",
-        "PANTOPRAZOLE",
-        "N"
-    ],
-    [
-        303436.0,
-        "PENTOP 20mg G\u00e9l Gastro-resistante Bt 8",
-        "4,760",
-        "4,616",
-        "E",
-        "PANTOPRAZOLE",
-        "N"
-    ],
-    [
-        302449.0,
-        "PENTOP Gel Gastro resist 20 MG BT 16",
-        "10,535",
-        "9,232",
-        "E",
-        "PANTOPRAZOLE",
-        "N"
-    ],
-    [
-        303437.0,
-        "PENTOP 40mg G\u00e9l Gastro-resistante Bt 8",
-        "8,170",
-        "8,000",
-        "E",
-        "PANTOPRAZOLE",
-        "N"
-    ],
-    [
-        302468.0,
-        "PENTOP Gel  40 MG BT 16",
-        "17,880",
-        "16,000",
         "E",
         "PANTOPRAZOLE",
         "N"
@@ -8119,24 +8119,6 @@
         "N"
     ],
     [
-        300097.0,
-        "PRADIS FORT  0,4% Gttes Buv.Fl 30ml (EX MEPRAMIDE)",
-        "2,230",
-        "2,220",
-        "I",
-        "METOCLOPRAMIDE",
-        "N"
-    ],
-    [
-        305064.0,
-        "PRIMPERAN Amp inj 10mg\/2ml Bt 4",
-        "2,695",
-        "1,980",
-        "I",
-        "METOCLOPRAMIDE",
-        "N"
-    ],
-    [
         301304.0,
         "PRAMIDYL 10 Sol Inj 10mg\/ml Fl 2ml Bt 4",
         "1,980",
@@ -8155,9 +8137,27 @@
         "N"
     ],
     [
+        305064.0,
+        "PRIMPERAN Amp inj 10mg\/2ml Bt 4",
+        "2,695",
+        "1,980",
+        "I",
+        "METOCLOPRAMIDE",
+        "N"
+    ],
+    [
         301278.0,
         "PRAMIDYL Per Os Sol Buv 0.1 % fl 200ml",
         "2,435",
+        "2,400",
+        "I",
+        "METOCLOPRAMIDE",
+        "N"
+    ],
+    [
+        300080.0,
+        "PRADIS 5mg\/5ml Sol Buv Fl 200ml (EX MEPRAMIDE)",
+        "2,865",
         "2,400",
         "I",
         "METOCLOPRAMIDE",
@@ -8173,10 +8173,10 @@
         "N"
     ],
     [
-        300080.0,
-        "PRADIS 5mg\/5ml Sol Buv Fl 200ml (EX MEPRAMIDE)",
-        "2,865",
-        "2,400",
+        300097.0,
+        "PRADIS FORT  0,4% Gttes Buv.Fl 30ml (EX MEPRAMIDE)",
+        "2,230",
+        "2,220",
         "I",
         "METOCLOPRAMIDE",
         "N"
@@ -8569,6 +8569,15 @@
         "N"
     ],
     [
+        300803.0,
+        "TRIMEDINE 100 mg g\u00e9lu.b\/30",
+        "4,580",
+        "4,410",
+        "I",
+        "TRIMEBUTINE",
+        "N"
+    ],
+    [
         300674.0,
         "DEBRICOL 100 mg comp.b\/30",
         "5,160",
@@ -8618,15 +8627,6 @@
         "DEBRICOL Comp Sec 200 mg Bt 20",
         "7,345",
         "7,340",
-        "I",
-        "TRIMEBUTINE",
-        "N"
-    ],
-    [
-        300803.0,
-        "TRIMEDINE 100 mg g\u00e9lu.b\/30",
-        "4,580",
-        "4,410",
         "I",
         "TRIMEBUTINE",
         "N"
@@ -9037,19 +9037,19 @@
         "N"
     ],
     [
-        506413.0,
-        "MICROPAQUE Susp Buv. Bidon 2L  #",
-        "109,344",
-        "108,000",
+        502387.0,
+        "MICROPAQUE Susp Buv\/Rect 100%P\/V Fl 150ml",
+        "16,562",
+        "8,100",
         "E",
         "BARYUM SULFATE",
         "N"
     ],
     [
-        502387.0,
-        "MICROPAQUE Susp Buv\/Rect 100%P\/V Fl 150ml",
-        "16,562",
-        "8,100",
+        506413.0,
+        "MICROPAQUE Susp Buv. Bidon 2L  #",
+        "109,344",
+        "108,000",
         "E",
         "BARYUM SULFATE",
         "N"
@@ -9199,19 +9199,19 @@
         "N"
     ],
     [
-        101502.0,
-        "DIPROSTENE 7 mg\/ml Susp inj 1ml Bt 1",
-        "5,550",
-        "5,550",
+        105642.0,
+        "CELESTENE CHRONODOSE 5.7mg\/ml Susp Inj Bt 1\/1ml (ex101488)",
+        "2,239",
+        "2,239",
         "E",
         "BETAMETHASONE",
         "N"
     ],
     [
-        105642.0,
-        "CELESTENE CHRONODOSE 5.7mg\/ml Susp Inj Bt 1\/1ml (ex101488)",
-        "2,239",
-        "2,239",
+        101502.0,
+        "DIPROSTENE 7 mg\/ml Susp inj 1ml Bt 1",
+        "5,550",
+        "5,550",
         "E",
         "BETAMETHASONE",
         "N"
@@ -9307,15 +9307,6 @@
         "N"
     ],
     [
-        303659.0,
-        "MEDAXON FORT 8mg Sol. lnj. Bt 1\/2ml",
-        "1,565",
-        "1,250",
-        "E",
-        "DEXAMETHASONE",
-        "N"
-    ],
-    [
         301259.0,
         "DEXONE 8 Sol Inj 8 mg Bt 1\/2ml",
         "1,250",
@@ -9337,6 +9328,15 @@
         300179.0,
         "UNIDEX FORT Sol Inj 8mg\/2ml Bt 1",
         "1,450",
+        "1,250",
+        "E",
+        "DEXAMETHASONE",
+        "N"
+    ],
+    [
+        303659.0,
+        "MEDAXON FORT 8mg Sol. lnj. Bt 1\/2ml",
+        "1,565",
         "1,250",
         "E",
         "DEXAMETHASONE",
@@ -10756,19 +10756,19 @@
         "N"
     ],
     [
-        303968.0,
-        "ASEPSIL 10 Fl 1Litre",
-        "4,457",
-        "4,000",
+        303969.0,
+        "ASEPSIL 10 Sol Fl 250ml",
+        "1,935",
+        "1,000",
         "I",
         "DODECYL-1.4.7 TRIAZA-OCTANE 8 ACIDE ACETIQUE+DODECYL-3-CARBO",
         "N"
     ],
     [
-        303969.0,
-        "ASEPSIL 10 Sol Fl 250ml",
-        "1,935",
-        "1,000",
+        303968.0,
+        "ASEPSIL 10 Fl 1Litre",
+        "4,457",
+        "4,000",
         "I",
         "DODECYL-1.4.7 TRIAZA-OCTANE 8 ACIDE ACETIQUE+DODECYL-3-CARBO",
         "N"
@@ -11026,60 +11026,6 @@
         "N"
     ],
     [
-        102662.0,
-        "CURACNE GE 5 mg Cap.Molle Bt 30",
-        "20,540",
-        "11,850",
-        "I",
-        "ISOTRETINOINE",
-        "N"
-    ],
-    [
-        106043.0,
-        "XERACTAN 10mg Caps Molle Bt 30",
-        "25,180",
-        "18,060",
-        "I",
-        "ISOTRETINOINE",
-        "N"
-    ],
-    [
-        102459.0,
-        "CURACNE G\u00e9  10mg Caps Molle Bt 30",
-        "29,045",
-        "18,060",
-        "I",
-        "ISOTRETINOINE",
-        "N"
-    ],
-    [
-        106044.0,
-        "XARACTAN 20mg Caps Molle Bt 30",
-        "41,180",
-        "31,950",
-        "I",
-        "ISOTRETINOINE",
-        "N"
-    ],
-    [
-        102460.0,
-        "CURACNE G\u00e9 20mg Caps Molle Bt 30",
-        "48,875",
-        "31,950",
-        "I",
-        "ISOTRETINOINE",
-        "N"
-    ],
-    [
-        103526.0,
-        "CURACNE  40 mg Capsule molle Bt 30",
-        "89,720",
-        "52,830",
-        "I",
-        "ISOTRETINOINE",
-        "N"
-    ],
-    [
         302483.0,
         "ACNETA 5 Gelule 5MG BT 10",
         "4,720",
@@ -11092,6 +11038,15 @@
         302364.0,
         "ACNETA 5 G\u00e9lule 5 MG BT 30",
         "11,870",
+        "11,850",
+        "I",
+        "ISOTRETINOINE",
+        "N"
+    ],
+    [
+        102662.0,
+        "CURACNE GE 5 mg Cap.Molle Bt 30",
+        "20,540",
         "11,850",
         "I",
         "ISOTRETINOINE",
@@ -11116,6 +11071,24 @@
         "N"
     ],
     [
+        106043.0,
+        "XERACTAN 10mg Caps Molle Bt 30",
+        "25,180",
+        "18,060",
+        "I",
+        "ISOTRETINOINE",
+        "N"
+    ],
+    [
+        102459.0,
+        "CURACNE G\u00e9  10mg Caps Molle Bt 30",
+        "29,045",
+        "18,060",
+        "I",
+        "ISOTRETINOINE",
+        "N"
+    ],
+    [
         302486.0,
         "ACNETA  20 Gelule 20 MG BT 10",
         "10,650",
@@ -11134,6 +11107,24 @@
         "N"
     ],
     [
+        106044.0,
+        "XARACTAN 20mg Caps Molle Bt 30",
+        "41,180",
+        "31,950",
+        "I",
+        "ISOTRETINOINE",
+        "N"
+    ],
+    [
+        102460.0,
+        "CURACNE G\u00e9 20mg Caps Molle Bt 30",
+        "48,875",
+        "31,950",
+        "I",
+        "ISOTRETINOINE",
+        "N"
+    ],
+    [
         302874.0,
         "ACNETA 40 40 mg GEL. BT 10",
         "18,070",
@@ -11146,6 +11137,15 @@
         302367.0,
         "ACNETA 40 G\u00e9lule 40 MG BT 30",
         "52,850",
+        "52,830",
+        "I",
+        "ISOTRETINOINE",
+        "N"
+    ],
+    [
+        103526.0,
+        "CURACNE  40 mg Capsule molle Bt 30",
+        "89,720",
         "52,830",
         "I",
         "ISOTRETINOINE",
@@ -11323,15 +11323,6 @@
         "N"
     ],
     [
-        301113.0,
-        "AFUSIDIC PLUS 2% Cr\u00e8me Derm Tb 15gr",
-        "5,790",
-        "5,040",
-        "E",
-        "BETAMETHASONE + ACIDE FUSIDIQUE",
-        "N"
-    ],
-    [
         303781.0,
         "TRICIDINE PLUS 2%\/0.1% Cr\u00e8me Derm Tb 15g",
         "4,810",
@@ -11344,6 +11335,15 @@
         303680.0,
         "DERMOCINE PLUS 2% \/0.1% Cr\u00e8me Derm. Tb 15g",
         "5,050",
+        "5,040",
+        "E",
+        "BETAMETHASONE + ACIDE FUSIDIQUE",
+        "N"
+    ],
+    [
+        301113.0,
+        "AFUSIDIC PLUS 2% Cr\u00e8me Derm Tb 15gr",
+        "5,790",
         "5,040",
         "E",
         "BETAMETHASONE + ACIDE FUSIDIQUE",
@@ -11719,18 +11719,18 @@
         "N"
     ],
     [
-        301146.0,
-        "MEFENAL Sus Buv 1% Fl 150ml",
-        "6,255",
+        300814.0,
+        "DYSMAN 50mg\/5ml  Susp buv Fl 150ml + pipette",
+        "4,910",
         "4,800",
         "E",
         "ACIDE MEFENAMIQUE",
         "N"
     ],
     [
-        300814.0,
-        "DYSMAN 50mg\/5ml  Susp buv Fl 150ml + pipette",
-        "4,910",
+        301146.0,
+        "MEFENAL Sus Buv 1% Fl 150ml",
+        "6,255",
         "4,800",
         "E",
         "ACIDE MEFENAMIQUE",
@@ -12259,6 +12259,15 @@
         "N"
     ],
     [
+        301284.0,
+        "VOLTARENE Supp 12.5 mg Bt 10",
+        "3,325",
+        "3,320",
+        "E",
+        "DICLOFENAC",
+        "N"
+    ],
+    [
         301285.0,
         "VOLTARENE ENFANT Supp 25 mg Bt 10",
         "3,440",
@@ -12317,15 +12326,6 @@
         "DICLOFEN Suppo 100mg Bt 10",
         "6,300",
         "3,740",
-        "E",
-        "DICLOFENAC",
-        "N"
-    ],
-    [
-        301284.0,
-        "VOLTARENE Supp 12.5 mg Bt 10",
-        "3,325",
-        "3,320",
         "E",
         "DICLOFENAC",
         "N"
@@ -12718,33 +12718,6 @@
         "N"
     ],
     [
-        303370.0,
-        "PROFENID Comp Pell 100mg Bt15",
-        "8,170",
-        "6,225",
-        "E",
-        "KETOPROFENE",
-        "N"
-    ],
-    [
-        104340.0,
-        "BI-PROFENID LP  Comp Sec LP  100 mg BT 20",
-        "9,150",
-        "9,140",
-        "E",
-        "KETOPROFENE",
-        "N"
-    ],
-    [
-        303388.0,
-        "PROFENID Comp 100mg Bt 30",
-        "12,525",
-        "12,450",
-        "E",
-        "KETOPROFENE",
-        "N"
-    ],
-    [
         302380.0,
         "KETALGIC 50 Gel 50 MG FL 24",
         "3,540",
@@ -12772,9 +12745,36 @@
         "N"
     ],
     [
+        303370.0,
+        "PROFENID Comp Pell 100mg Bt15",
+        "8,170",
+        "6,225",
+        "E",
+        "KETOPROFENE",
+        "N"
+    ],
+    [
+        104340.0,
+        "BI-PROFENID LP  Comp Sec LP  100 mg BT 20",
+        "9,150",
+        "9,140",
+        "E",
+        "KETOPROFENE",
+        "N"
+    ],
+    [
         300585.0,
         "KETOFEN G\u00e9lule 100mg Bt 30",
         "12,470",
+        "12,450",
+        "E",
+        "KETOPROFENE",
+        "N"
+    ],
+    [
+        303388.0,
+        "PROFENID Comp 100mg Bt 30",
+        "12,525",
         "12,450",
         "E",
         "KETOPROFENE",
@@ -12794,15 +12794,6 @@
         "PROFENID LP Gelule 200mg Bt14",
         "13,880",
         "12,180",
-        "E",
-        "KETOPROFENE",
-        "N"
-    ],
-    [
-        300698.0,
-        "AXEN 100 MG p.p.i.b\/5+5 sol\/2,5 ml",
-        "8,256",
-        "8,255",
         "E",
         "KETOPROFENE",
         "N"
@@ -12853,6 +12844,15 @@
         "N"
     ],
     [
+        300698.0,
+        "AXEN 100 MG p.p.i.b\/5+5 sol\/2,5 ml",
+        "8,256",
+        "8,255",
+        "E",
+        "KETOPROFENE",
+        "N"
+    ],
+    [
         300855.0,
         "AXEN 100mg suppo Bt 10",
         "5,245",
@@ -12889,19 +12889,28 @@
         "N"
     ],
     [
-        301622.0,
-        "OXIMAL Comp Sec 15 MG FL 7",
-        "7,570",
-        "6,097",
+        301713.0,
+        "MOVEN Gelule 7.5 MG BT 10",
+        "5,820",
+        "5,240",
         "E",
         "MELOXICAM",
         "N"
     ],
     [
-        309067.0,
-        "OXIMAL Comp Sec 15mg  Fl 14",
-        "13,825",
-        "12,194",
+        301875.0,
+        "MOVEN Gelule 7.5 MG BT 30",
+        "15,725",
+        "15,720",
+        "E",
+        "MELOXICAM",
+        "N"
+    ],
+    [
+        301622.0,
+        "OXIMAL Comp Sec 15 MG FL 7",
+        "7,570",
+        "6,097",
         "E",
         "MELOXICAM",
         "N"
@@ -12916,19 +12925,10 @@
         "N"
     ],
     [
-        301713.0,
-        "MOVEN Gelule 7.5 MG BT 10",
-        "5,820",
-        "5,240",
-        "E",
-        "MELOXICAM",
-        "N"
-    ],
-    [
-        301875.0,
-        "MOVEN Gelule 7.5 MG BT 30",
-        "15,725",
-        "15,720",
+        309067.0,
+        "OXIMAL Comp Sec 15mg  Fl 14",
+        "13,825",
+        "12,194",
         "E",
         "MELOXICAM",
         "N"
@@ -13438,6 +13438,15 @@
         "N"
     ],
     [
+        301160.0,
+        "MIOREL Gelule 4 mg Bt 12",
+        "5,155",
+        "4,752",
+        "I",
+        "THIOCOLCHICOSIDE",
+        "N"
+    ],
+    [
         301019.0,
         "MYOLAX Comp 4mg  Bt 12",
         "6,380",
@@ -13456,24 +13465,6 @@
         "N"
     ],
     [
-        301957.0,
-        "MYOLAX Comp 4 MG BT 24",
-        "10,890",
-        "9,504",
-        "I",
-        "THIOCOLCHICOSIDE",
-        "N"
-    ],
-    [
-        301160.0,
-        "MIOREL Gelule 4 mg Bt 12",
-        "5,155",
-        "4,752",
-        "I",
-        "THIOCOLCHICOSIDE",
-        "N"
-    ],
-    [
         300917.0,
         "RELAXIL Gelule 4mg Bt 14",
         "5,550",
@@ -13486,6 +13477,15 @@
         301620.0,
         "MIOREL Gelule 4 MG BT 24",
         "10,845",
+        "9,504",
+        "I",
+        "THIOCOLCHICOSIDE",
+        "N"
+    ],
+    [
+        301957.0,
+        "MYOLAX Comp 4 MG BT 24",
+        "10,890",
         "9,504",
         "I",
         "THIOCOLCHICOSIDE",
@@ -14050,6 +14050,33 @@
         "N"
     ],
     [
+        301249.0,
+        "ZOLOL Collyre 100mg\/25mg Fl 5 ml",
+        "20,610",
+        "20,610",
+        "E",
+        "DORZOLAMIDE+TIMOLOL",
+        "N"
+    ],
+    [
+        301976.0,
+        "ZOLOL 3 M Collyre 100 MG\/25MG  FL 5 ML",
+        "20,610",
+        "20,610",
+        "E",
+        "DORZOLAMIDE+TIMOLOL",
+        "N"
+    ],
+    [
+        105270.0,
+        "OPTODROP-CO Collyre Bt 1Fl\/5ml",
+        "21,385",
+        "20,610",
+        "E",
+        "DORZOLAMIDE+TIMOLOL",
+        "N"
+    ],
+    [
         303653.0,
         "BIDORZO SP 2%\/0.5% 20MG\/ML +5MG\/ML Collyre Bt 1Fl\/5ml",
         "25,910",
@@ -14080,33 +14107,6 @@
         302481.0,
         "ZOLOLCollyre 20 MG\/5MG\/ML BT 30 r\u00e9cipients Ophta",
         "22,000",
-        "20,610",
-        "E",
-        "DORZOLAMIDE+TIMOLOL",
-        "N"
-    ],
-    [
-        301976.0,
-        "ZOLOL 3 M Collyre 100 MG\/25MG  FL 5 ML",
-        "20,610",
-        "20,610",
-        "E",
-        "DORZOLAMIDE+TIMOLOL",
-        "N"
-    ],
-    [
-        301249.0,
-        "ZOLOL Collyre 100mg\/25mg Fl 5 ml",
-        "20,610",
-        "20,610",
-        "E",
-        "DORZOLAMIDE+TIMOLOL",
-        "N"
-    ],
-    [
-        105270.0,
-        "OPTODROP-CO Collyre Bt 1Fl\/5ml",
-        "21,385",
         "20,610",
         "E",
         "DORZOLAMIDE+TIMOLOL",
@@ -14239,18 +14239,18 @@
         "N"
     ],
     [
-        105101.0,
-        "MONOPROST Collyre 50 \u00b5G\/ML BT 30 R\u00e9cipient Unidoses",
-        "44,375",
+        302222.0,
+        "LATANOCOL Collyre 0.005 % BT 30 ophtadoses",
+        "29,900",
         "24,260",
         "E",
         "LATANOPROST",
         "N"
     ],
     [
-        302222.0,
-        "LATANOCOL Collyre 0.005 % BT 30 ophtadoses",
-        "29,900",
+        105101.0,
+        "MONOPROST Collyre 50 \u00b5G\/ML BT 30 R\u00e9cipient Unidoses",
+        "44,375",
         "24,260",
         "E",
         "LATANOPROST",
@@ -14371,6 +14371,15 @@
         "7,800",
         "E",
         "OFLOXACINE",
+        "N"
+    ],
+    [
+        303466.0,
+        "OLOPAN 0.1% Collyre Fl 5ml",
+        "9,740",
+        "9,740",
+        "E",
+        "OLOPATADINE",
         "N"
     ],
     [
@@ -14545,8 +14554,8 @@
         "N"
     ],
     [
-        302338.0,
-        "TOBRACOL 3M Collyre 0.3% Fl 5ml",
+        304326.0,
+        "TOBRACOL Collyre 0.3% Fl 5 ml",
         "3,630",
         "3,630",
         "E",
@@ -14554,8 +14563,8 @@
         "N"
     ],
     [
-        304326.0,
-        "TOBRACOL Collyre 0.3% Fl 5 ml",
+        302338.0,
+        "TOBRACOL 3M Collyre 0.3% Fl 5ml",
         "3,630",
         "3,630",
         "E",
@@ -14887,15 +14896,6 @@
         "N"
     ],
     [
-        302186.0,
-        "ENOXAMED 10 000 UI ANTI XA\/1ML SOL INJ  BT 2 SERINGUES",
-        "33,340",
-        "33,340",
-        "E",
-        "ENOXAPARINE",
-        "N"
-    ],
-    [
         302174.0,
         "ENOXAMED 2000UI ANTI XA\/0.2 ML  SOL INJ BT 2 SERINGUES",
         "11,748",
@@ -15040,6 +15040,15 @@
         "N"
     ],
     [
+        302186.0,
+        "ENOXAMED 10 000 UI ANTI XA\/1ML SOL INJ  BT 2 SERINGUES",
+        "33,340",
+        "33,340",
+        "E",
+        "ENOXAPARINE",
+        "N"
+    ],
+    [
         104839.0,
         "FRAXIPARINE 2850 UI AXA Sol Inj Bt 2 Ser \/ 0.3ml",
         "11,890",
@@ -15175,6 +15184,15 @@
         "N"
     ],
     [
+        301405.0,
+        "FER PLUS Sol Inj 62.5 mg\/5ml   Bt 10",
+        "50,875",
+        "50,870",
+        "E",
+        "FER",
+        "O"
+    ],
+    [
         353554.0,
         "FEROVEN 100mg\/5ml Sol Inj P Perf Bt 5\/5ml",
         "20,921",
@@ -15188,15 +15206,6 @@
         "IV-FER Sol P Perf 100 mg\/5 ml Bt 5",
         "29,624",
         "29,624",
-        "E",
-        "FER",
-        "O"
-    ],
-    [
-        301405.0,
-        "FER PLUS Sol Inj 62.5 mg\/5ml   Bt 10",
-        "50,875",
-        "50,870",
         "E",
         "FER",
         "O"
@@ -15715,42 +15724,6 @@
         "N"
     ],
     [
-        104751.0,
-        "EXFORGE HCT Comp Pell 5 MG\/160 MG\/25 MG BT 28",
-        "38,195",
-        "34,748",
-        "E",
-        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        303284.0,
-        "DUOFOR PLUS 5mg\/160mg\/25mg Comp Pell Bt 30",
-        "37,240",
-        "37,230",
-        "E",
-        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        104753.0,
-        "EXFORGE HCT Comp Pell 10 MG\/160MG\/25MG BT 28",
-        "41,960",
-        "34,748",
-        "E",
-        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        303286.0,
-        "DUOFOR PLUS 10mg\/160mg\/25mg Comp Pell Bt 30",
-        "37,240",
-        "37,230",
-        "E",
-        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
         104750.0,
         "EXFORGE HCT  Comp Pell 5 MG\/160MG\/12.5MG BT 28",
         "38,725",
@@ -15762,6 +15735,24 @@
     [
         303283.0,
         "DUOFOR PLUS 5mg\/160mg\/12.5mg Comp Pell Bt 30",
+        "37,240",
+        "37,230",
+        "E",
+        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        104751.0,
+        "EXFORGE HCT Comp Pell 5 MG\/160 MG\/25 MG BT 28",
+        "38,195",
+        "34,748",
+        "E",
+        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        303284.0,
+        "DUOFOR PLUS 5mg\/160mg\/25mg Comp Pell Bt 30",
         "37,240",
         "37,230",
         "E",
@@ -15787,8 +15778,35 @@
         "N"
     ],
     [
+        104753.0,
+        "EXFORGE HCT Comp Pell 10 MG\/160MG\/25MG BT 28",
+        "41,960",
+        "34,748",
+        "E",
+        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        303286.0,
+        "DUOFOR PLUS 10mg\/160mg\/25mg Comp Pell Bt 30",
+        "37,240",
+        "37,230",
+        "E",
+        "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
         105458.0,
         "COSIMPREL 5mg\/5mg Comp. Pell. S\u00e9c. Bt 30",
+        "25,052",
+        "25,050",
+        "E",
+        "BISOPROLOL+PERINDOPRIL",
+        "N"
+    ],
+    [
+        105460.0,
+        "COSIMPREL 5mg\/10mg Comp. Pell. S\u00e9c. Bt 30",
         "25,052",
         "25,050",
         "E",
@@ -15800,15 +15818,6 @@
         "COSIMPREL 10mg\/5mg Comp. Pell. Sec. Bt 30",
         "33,625",
         "33,600",
-        "E",
-        "BISOPROLOL+PERINDOPRIL",
-        "N"
-    ],
-    [
-        105460.0,
-        "COSIMPREL 5mg\/10mg Comp. Pell. S\u00e9c. Bt 30",
-        "25,052",
-        "25,050",
         "E",
         "BISOPROLOL+PERINDOPRIL",
         "N"
@@ -16876,132 +16885,6 @@
         "N"
     ],
     [
-        301857.0,
-        "CO-ARADEUX Comp Pell 300 MG\/25 MG BT 30",
-        "33,155",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302261.0,
-        "CO-IRIVEL Comp Pell 300 MG\/25 MG BT 30",
-        "34,345",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302089.0,
-        "CO-IRBESAR Comp 300 MG\/25 MG BT 30",
-        "34,580",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        105160.0,
-        "IRBEGEN PLUS  300\/25 MG MG Comp Pell BT 30",
-        "35,610",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301739.0,
-        "CO-IRBY Comp Pell 300MG\/25 MG BT 30",
-        "37,085",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301827.0,
-        "COAPROZAR Comp Pell 300 MG\/25MG BT 30",
-        "39,105",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301749.0,
-        "COARAVEN Comp Pell 300 MG\/25 MG BT 30",
-        "44,980",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301702.0,
-        "COAPROVEL Comp Pell 300 MG\/25 MG BT 30",
-        "64,780",
-        "24,240",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302815.0,
-        "CO-IRIVEL 300MG\/25MG Comp Pell BT 90",
-        "85,480",
-        "72,720",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302776.0,
-        "CO-IRBESAR 300 mg\/25 mg COMP. BT 90",
-        "88,440",
-        "72,720",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302334.0,
-        "CO-ARADEUX Comp Pell 300 MG\/25MG  BT 90",
-        "90,785",
-        "72,720",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301891.0,
-        "COAPROZAR Comp Pell 300 MG\/25MG BT 90",
-        "98,880",
-        "72,720",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301821.0,
-        "COARAVEN Comp Pell 300 MG\/25MG BT 90",
-        "121,035",
-        "72,720",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301787.0,
-        "COAPROVEL Comp Pell  300 MG\/25 MG BT 90",
-        "180,945",
-        "72,720",
-        "E",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
         303575.0,
         "IRBEXTRA PLUS 150mg\/12.5mg Comp Pell Bt 30",
         "20,090",
@@ -17281,6 +17164,132 @@
         "N"
     ],
     [
+        301857.0,
+        "CO-ARADEUX Comp Pell 300 MG\/25 MG BT 30",
+        "33,155",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302261.0,
+        "CO-IRIVEL Comp Pell 300 MG\/25 MG BT 30",
+        "34,345",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302089.0,
+        "CO-IRBESAR Comp 300 MG\/25 MG BT 30",
+        "34,580",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        105160.0,
+        "IRBEGEN PLUS  300\/25 MG MG Comp Pell BT 30",
+        "35,610",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301739.0,
+        "CO-IRBY Comp Pell 300MG\/25 MG BT 30",
+        "37,085",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301827.0,
+        "COAPROZAR Comp Pell 300 MG\/25MG BT 30",
+        "39,105",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301749.0,
+        "COARAVEN Comp Pell 300 MG\/25 MG BT 30",
+        "44,980",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301702.0,
+        "COAPROVEL Comp Pell 300 MG\/25 MG BT 30",
+        "64,780",
+        "24,240",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302815.0,
+        "CO-IRIVEL 300MG\/25MG Comp Pell BT 90",
+        "85,480",
+        "72,720",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302776.0,
+        "CO-IRBESAR 300 mg\/25 mg COMP. BT 90",
+        "88,440",
+        "72,720",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302334.0,
+        "CO-ARADEUX Comp Pell 300 MG\/25MG  BT 90",
+        "90,785",
+        "72,720",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301891.0,
+        "COAPROZAR Comp Pell 300 MG\/25MG BT 90",
+        "98,880",
+        "72,720",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301821.0,
+        "COARAVEN Comp Pell 300 MG\/25MG BT 90",
+        "121,035",
+        "72,720",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301787.0,
+        "COAPROVEL Comp Pell  300 MG\/25 MG BT 90",
+        "180,945",
+        "72,720",
+        "E",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
         300920.0,
         "MEDZAR Comp Pell Sec 50mg Bt 28",
         "24,715",
@@ -17416,69 +17425,6 @@
         "N"
     ],
     [
-        301432.0,
-        "CO-MEDZAR  FORT Comp Pell Sec  100 mg\/25 mg Bt 28",
-        "27,080",
-        "22,176",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301413.0,
-        "CO-LOSARTAN WINTHROP Comp Pell 100 mg\/25 mg Fl 30",
-        "26,485",
-        "23,760",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302097.0,
-        "CO-LOSAR FORT Comp Pell Sec 100 MG\/25MG BT 30",
-        "30,975",
-        "23,760",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        300869.0,
-        "CO-ZARTAN FORT Comp Pell 100 MG\/25 MG Bt 30",
-        "34,660",
-        "23,760",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302993.0,
-        "CO-MEDZAR FORT 100mg\/25mg comp pell s\u00e9c Bt 90",
-        "71,290",
-        "71,280",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302122.0,
-        "CO-LOSAR FORT Comp Pell Sec 100 MG\/25 MG BT 90",
-        "75,035",
-        "71,280",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302358.0,
-        "CO-ZARTAN FORT Comp Pell S\u00e9c  100 MG\/25MG BT 90",
-        "77,640",
-        "71,280",
-        "E",
-        "LOSARTAN+HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
         301431.0,
         "CO-MEDZAR Comp Pell Sec 50 mg\/12.5 mg BT 28",
         "24,245",
@@ -17569,6 +17515,69 @@
         "N"
     ],
     [
+        301432.0,
+        "CO-MEDZAR  FORT Comp Pell Sec  100 mg\/25 mg Bt 28",
+        "27,080",
+        "22,176",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301413.0,
+        "CO-LOSARTAN WINTHROP Comp Pell 100 mg\/25 mg Fl 30",
+        "26,485",
+        "23,760",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302097.0,
+        "CO-LOSAR FORT Comp Pell Sec 100 MG\/25MG BT 30",
+        "30,975",
+        "23,760",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        300869.0,
+        "CO-ZARTAN FORT Comp Pell 100 MG\/25 MG Bt 30",
+        "34,660",
+        "23,760",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302993.0,
+        "CO-MEDZAR FORT 100mg\/25mg comp pell s\u00e9c Bt 90",
+        "71,290",
+        "71,280",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302122.0,
+        "CO-LOSAR FORT Comp Pell Sec 100 MG\/25 MG BT 90",
+        "75,035",
+        "71,280",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302358.0,
+        "CO-ZARTAN FORT Comp Pell S\u00e9c  100 MG\/25MG BT 90",
+        "77,640",
+        "71,280",
+        "E",
+        "LOSARTAN+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
         303324.0,
         "OLMECARD 10mg Comp Pell Bt 30",
         "16,055",
@@ -17623,42 +17632,6 @@
         "N"
     ],
     [
-        303328.0,
-        "OLMECARD PLUS 20mg\/25mg Comp Pell Bt 30",
-        "28,750",
-        "28,740",
-        "E",
-        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
-        "N"
-    ],
-    [
-        103295.0,
-        "CO-OLMETEC Comp Pell 20mg\/25mg  Bt 30",
-        "49,120",
-        "28,740",
-        "E",
-        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
-        "N"
-    ],
-    [
-        303330.0,
-        "OLMECARD PLUS 40mg\/25mg Comp Pell Bt 30",
-        "32,840",
-        "32,820",
-        "E",
-        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
-        "N"
-    ],
-    [
-        104643.0,
-        "CO-OLMETEC Comp Pell  40 MG\/25MG BT 30",
-        "56,130",
-        "32,820",
-        "E",
-        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
-        "N"
-    ],
-    [
         303327.0,
         "OLMECARD PLUS 20mg\/12.5mg Comp Pell Bt 30",
         "27,900",
@@ -17677,6 +17650,24 @@
         "N"
     ],
     [
+        303328.0,
+        "OLMECARD PLUS 20mg\/25mg Comp Pell Bt 30",
+        "28,750",
+        "28,740",
+        "E",
+        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
+        "N"
+    ],
+    [
+        103295.0,
+        "CO-OLMETEC Comp Pell 20mg\/25mg  Bt 30",
+        "49,120",
+        "28,740",
+        "E",
+        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
+        "N"
+    ],
+    [
         303329.0,
         "OLMECARD PLUS 40mg\/12.5mg Comp Pell Bt 30",
         "32,840",
@@ -17688,6 +17679,24 @@
     [
         104644.0,
         "CO-OLMETEC Comp Pell 40 MG\/12.5 MG BT 30",
+        "56,130",
+        "32,820",
+        "E",
+        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
+        "N"
+    ],
+    [
+        303330.0,
+        "OLMECARD PLUS 40mg\/25mg Comp Pell Bt 30",
+        "32,840",
+        "32,820",
+        "E",
+        "OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE",
+        "N"
+    ],
+    [
+        104643.0,
+        "CO-OLMETEC Comp Pell  40 MG\/25MG BT 30",
         "56,130",
         "32,820",
         "E",
@@ -17758,24 +17767,6 @@
         "N"
     ],
     [
-        302509.0,
-        "BI-THERAPRIL 10 MG\/2.5 MG COMP BT 30",
-        "34,970",
-        "34,950",
-        "E",
-        "PERINDOPRIL+ INDAPAMIDE",
-        "N"
-    ],
-    [
-        104556.0,
-        "BIPRETERAX Comp Pell 10 MG\/2.5MG BT 30",
-        "60,970",
-        "34,950",
-        "E",
-        "PERINDOPRIL+ INDAPAMIDE",
-        "N"
-    ],
-    [
         302508.0,
         "BI-THERAPRIL 5MG\/1.25MG COMP BT 30",
         "32,460",
@@ -17794,6 +17785,24 @@
         "N"
     ],
     [
+        302509.0,
+        "BI-THERAPRIL 10 MG\/2.5 MG COMP BT 30",
+        "34,970",
+        "34,950",
+        "E",
+        "PERINDOPRIL+ INDAPAMIDE",
+        "N"
+    ],
+    [
+        104556.0,
+        "BIPRETERAX Comp Pell 10 MG\/2.5MG BT 30",
+        "60,970",
+        "34,950",
+        "E",
+        "PERINDOPRIL+ INDAPAMIDE",
+        "N"
+    ],
+    [
         302796.0,
         "CO-THERAPRIL 5MG\/5MG Comp BT 30",
         "27,145",
@@ -17807,6 +17816,15 @@
         "COVERAM Comp  5 MG\/5MG Fl 30",
         "53,260",
         "27,120",
+        "E",
+        "PERINDOPRIL+AMLODIPINE",
+        "N"
+    ],
+    [
+        104435.0,
+        "COVERAM Comp 5 MG\/10 MG Fl 30",
+        "48,160",
+        "40,170",
         "E",
         "PERINDOPRIL+AMLODIPINE",
         "N"
@@ -17839,15 +17857,6 @@
         "N"
     ],
     [
-        104435.0,
-        "COVERAM Comp 5 MG\/10 MG Fl 30",
-        "48,160",
-        "40,170",
-        "E",
-        "PERINDOPRIL+AMLODIPINE",
-        "N"
-    ],
-    [
         302597.0,
         "CO-THERAPRIL 10mg\/10mg comp. bt\/30",
         "36,840",
@@ -17857,19 +17866,28 @@
         "N"
     ],
     [
-        303256.0,
-        "TRIPLIXAM 10mg\/2.5mg\/5mg Comp Pell Bt 30",
-        "59,816",
-        "59,790",
+        303254.0,
+        "TRIPLIXAM 5mg\/1.25mg\/5mg Comp Pell Bt 30",
+        "46,067",
+        "46,050",
         "E",
         "PERINDOPRIL+INDAPAMIDE+AMLODIPINE",
         "N"
     ],
     [
-        303254.0,
-        "TRIPLIXAM 5mg\/1.25mg\/5mg Comp Pell Bt 30",
-        "46,067",
-        "46,050",
+        303255.0,
+        "TRIPLIXAM 5mg\/1.25mg\/10mg Comp Pell Bt 30",
+        "49,119",
+        "49,110",
+        "E",
+        "PERINDOPRIL+INDAPAMIDE+AMLODIPINE",
+        "N"
+    ],
+    [
+        303256.0,
+        "TRIPLIXAM 10mg\/2.5mg\/5mg Comp Pell Bt 30",
+        "59,816",
+        "59,790",
         "E",
         "PERINDOPRIL+INDAPAMIDE+AMLODIPINE",
         "N"
@@ -17884,12 +17902,30 @@
         "N"
     ],
     [
-        303255.0,
-        "TRIPLIXAM 5mg\/1.25mg\/10mg Comp Pell Bt 30",
-        "49,119",
-        "49,110",
+        300996.0,
+        "RAMIPRIL WINTHROP Comp Sec 2.5mg Bt 28",
+        "19,010",
+        "18,200",
         "E",
-        "PERINDOPRIL+INDAPAMIDE+AMLODIPINE",
+        "RAMIPRIL",
+        "N"
+    ],
+    [
+        300977.0,
+        "PREVENSYL Gelule 2.5mg Bt 30",
+        "19,515",
+        "19,500",
+        "E",
+        "RAMIPRIL",
+        "N"
+    ],
+    [
+        303025.0,
+        "TRIATEC 2.5mg Comp. S\u00e9c. Bt 30",
+        "34,030",
+        "19,500",
+        "E",
+        "RAMIPRIL",
         "N"
     ],
     [
@@ -17905,6 +17941,15 @@
         301026.0,
         "RAPRIL Comp Sec 5mg Bt 30",
         "23,555",
+        "17,910",
+        "E",
+        "RAMIPRIL",
+        "N"
+    ],
+    [
+        300978.0,
+        "PREVENSYL Gelule 5mg Bt 30",
+        "23,870",
         "17,910",
         "E",
         "RAMIPRIL",
@@ -17947,6 +17992,15 @@
         "N"
     ],
     [
+        300979.0,
+        "PREVENSYL Gelule 10mg Bt30",
+        "29,640",
+        "24,810",
+        "E",
+        "RAMIPRIL",
+        "N"
+    ],
+    [
         303055.0,
         "TRIATEC 10mg Comp S\u00e9c Bt 30",
         "48,280",
@@ -17960,51 +18014,6 @@
         "RAPRIL Comp Sec 10MG BT 90",
         "74,435",
         "74,430",
-        "E",
-        "RAMIPRIL",
-        "N"
-    ],
-    [
-        300996.0,
-        "RAMIPRIL WINTHROP Comp Sec 2.5mg Bt 28",
-        "19,010",
-        "18,200",
-        "E",
-        "RAMIPRIL",
-        "N"
-    ],
-    [
-        303025.0,
-        "TRIATEC 2.5mg Comp. S\u00e9c. Bt 30",
-        "34,030",
-        "19,500",
-        "E",
-        "RAMIPRIL",
-        "N"
-    ],
-    [
-        300978.0,
-        "PREVENSYL Gelule 5mg Bt 30",
-        "23,870",
-        "17,910",
-        "E",
-        "RAMIPRIL",
-        "N"
-    ],
-    [
-        300979.0,
-        "PREVENSYL Gelule 10mg Bt30",
-        "29,640",
-        "24,810",
-        "E",
-        "RAMIPRIL",
-        "N"
-    ],
-    [
-        300977.0,
-        "PREVENSYL Gelule 2.5mg Bt 30",
-        "19,515",
-        "19,500",
         "E",
         "RAMIPRIL",
         "N"
@@ -18037,24 +18046,6 @@
         "N"
     ],
     [
-        302901.0,
-        "CORAPRIL 10 mg\/25mg Comp Sec BT 30",
-        "29,930",
-        "29,910",
-        "E",
-        "RAMIPRIL+HYDROCHLOROTHIZIDE",
-        "N"
-    ],
-    [
-        303019.0,
-        "TRITAZIDE 10mg\/25mg Comp S\u00e9c Bt 30",
-        "50,320",
-        "29,910",
-        "E",
-        "RAMIPRIL+HYDROCHLOROTHIZIDE",
-        "N"
-    ],
-    [
         302900.0,
         "CORAPRIL 10 mg\/12.5mg Comp Sec BT 30",
         "29,930",
@@ -18066,6 +18057,24 @@
     [
         303057.0,
         "TRITAZIDE 10mg\/12.5mg Comp S\u00e9c Bt\/30",
+        "50,320",
+        "29,910",
+        "E",
+        "RAMIPRIL+HYDROCHLOROTHIZIDE",
+        "N"
+    ],
+    [
+        302901.0,
+        "CORAPRIL 10 mg\/25mg Comp Sec BT 30",
+        "29,930",
+        "29,910",
+        "E",
+        "RAMIPRIL+HYDROCHLOROTHIZIDE",
+        "N"
+    ],
+    [
+        303019.0,
+        "TRITAZIDE 10mg\/25mg Comp S\u00e9c Bt 30",
         "50,320",
         "29,910",
         "E",
@@ -18145,24 +18154,6 @@
         "N"
     ],
     [
-        106150.0,
-        "TWYNSTA 80mg\/5mg Comp Bt 28",
-        "51,435",
-        "31,164",
-        "E",
-        "TELMISARTAN + AMLODIPINE",
-        "N"
-    ],
-    [
-        303560.0,
-        "TELMYCOR-AM 80mg\/5mg Comp Bt 30",
-        "33,395",
-        "33,390",
-        "E",
-        "TELMISARTAN + AMLODIPINE",
-        "N"
-    ],
-    [
         106149.0,
         "TWYNSTA 40mg\/10mg Comp Bt 28",
         "45,080",
@@ -18176,6 +18167,24 @@
         "TELMYCOR-AM 40mg\/10mg Comp Bt 30",
         "29,285",
         "29,280",
+        "E",
+        "TELMISARTAN + AMLODIPINE",
+        "N"
+    ],
+    [
+        106150.0,
+        "TWYNSTA 80mg\/5mg Comp Bt 28",
+        "51,435",
+        "31,164",
+        "E",
+        "TELMISARTAN + AMLODIPINE",
+        "N"
+    ],
+    [
+        303560.0,
+        "TELMYCOR-AM 80mg\/5mg Comp Bt 30",
+        "33,395",
+        "33,390",
         "E",
         "TELMISARTAN + AMLODIPINE",
         "N"
@@ -18196,24 +18205,6 @@
         "33,390",
         "E",
         "TELMISARTAN + AMLODIPINE",
-        "N"
-    ],
-    [
-        106139.0,
-        "MICARDIS PLUS 80mg\/25mg Comp Bt 28",
-        "64,650",
-        "26,516",
-        "E",
-        "TELMISARTAN + HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302913.0,
-        "TELMYCOR PLUS 80 mg\/25mg  Comp BT 30",
-        "28,420",
-        "28,410",
-        "E",
-        "TELMISARTAN + HYDROCHLOROTHIAZIDE",
         "N"
     ],
     [
@@ -18239,6 +18230,24 @@
         "TELMYCOR PLUS 80MG\/12.5 MG Comp BT 30",
         "28,460",
         "28,440",
+        "E",
+        "TELMISARTAN + HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        106139.0,
+        "MICARDIS PLUS 80mg\/25mg Comp Bt 28",
+        "64,650",
+        "26,516",
+        "E",
+        "TELMISARTAN + HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302913.0,
+        "TELMYCOR PLUS 80 mg\/25mg  Comp BT 30",
+        "28,420",
+        "28,410",
         "E",
         "TELMISARTAN + HYDROCHLOROTHIAZIDE",
         "N"
@@ -18406,60 +18415,6 @@
         "N"
     ],
     [
-        302106.0,
-        "BIVAL Comp Pell 160 MG\/25 MG BT 30",
-        "33,115",
-        "32,250",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302974.0,
-        "RETAZID 160MG\/25MG Comp Pell Bt 30",
-        "33,115",
-        "32,250",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        104558.0,
-        "DIOSTAR-PLUS Comp Pell 160MG\/25 MG BT 30",
-        "46,570",
-        "32,250",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302295.0,
-        "COTAREG Comp Pell 160MG\/25MG BT 30",
-        "61,370",
-        "32,250",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        302975.0,
-        "RETAZID 160MG\/25MG Comp Pell Bt 90",
-        "96,820",
-        "96,750",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        301711.0,
-        "COTAREG Comp Pell 160 MG\/25MG  BT 90",
-        "152,140",
-        "96,750",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
         302976.0,
         "RETAZID 80MG\/12.5 MG Comp Pell Bt 30",
         "21,800",
@@ -18532,12 +18487,57 @@
         "N"
     ],
     [
-        104631.0,
-        "ZANTIPRES Comp Pell 30 MG BT 28",
-        "20,346",
-        "20,328",
+        302106.0,
+        "BIVAL Comp Pell 160 MG\/25 MG BT 30",
+        "33,115",
+        "32,250",
         "E",
-        "ZOFENOPRIL",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302974.0,
+        "RETAZID 160MG\/25MG Comp Pell Bt 30",
+        "33,115",
+        "32,250",
+        "E",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        104558.0,
+        "DIOSTAR-PLUS Comp Pell 160MG\/25 MG BT 30",
+        "46,570",
+        "32,250",
+        "E",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302295.0,
+        "COTAREG Comp Pell 160MG\/25MG BT 30",
+        "61,370",
+        "32,250",
+        "E",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        302975.0,
+        "RETAZID 160MG\/25MG Comp Pell Bt 90",
+        "96,820",
+        "96,750",
+        "E",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        301711.0,
+        "COTAREG Comp Pell 160 MG\/25MG  BT 90",
+        "152,140",
+        "96,750",
+        "E",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
         "N"
     ],
     [
@@ -18545,6 +18545,15 @@
         "ZANTIPRES 7.5 MG COMP. PELL. BT 12",
         "12,956",
         "12,948",
+        "E",
+        "ZOFENOPRIL",
+        "N"
+    ],
+    [
+        104631.0,
+        "ZANTIPRES Comp Pell 30 MG BT 28",
+        "20,346",
+        "20,328",
         "E",
         "ZOFENOPRIL",
         "N"
@@ -19369,19 +19378,19 @@
         "N"
     ],
     [
-        103519.0,
-        "LESCOL Comp LP 80 mg Bt 28",
-        "41,485",
-        "41,468",
+        302341.0,
+        "FLUVASTA Gel 40MG FL 30",
+        "24,895",
+        "24,870",
         "E",
         "FLUVASTATINE",
         "N"
     ],
     [
-        302341.0,
-        "FLUVASTA Gel 40MG FL 30",
-        "24,895",
-        "24,870",
+        103519.0,
+        "LESCOL Comp LP 80 mg Bt 28",
+        "41,485",
+        "41,468",
         "E",
         "FLUVASTATINE",
         "N"
@@ -20260,6 +20269,69 @@
         "N"
     ],
     [
+        303022.0,
+        "BISOCOR 2.5mg Comp. Pell. s\u00e9c Bt 30",
+        "5,420",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
+        303027.0,
+        "BIPROCARD 2.5mg Comp Pell S\u00e9c Bt 30",
+        "5,525",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
+        302372.0,
+        "BONACOR Comp  Pell S\u00e9c 2.5 MG BT 30",
+        "6,155",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
+        302345.0,
+        "EVOCOR 2.5 2.5mg Comp Pell BT 30",
+        "6,980",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
+        309070.0,
+        "CINCOR 2.5 Comp Pell Sec 2.5 mg  Bt 30",
+        "7,330",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
+        302452.0,
+        "BISOPRAL Comp Pell Sec 2.5 MG BT 30",
+        "7,490",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
+        105759.0,
+        "CARDENSIEL 2.5mg Comp Pell S\u00e9c Bt 30",
+        "15,280",
+        "5,400",
+        "E",
+        "BISOPROLOL",
+        "N"
+    ],
+    [
         303023.0,
         "bisocor 5mg Comp. Pell. s\u00e9c. Bt 30",
         "6,440",
@@ -20413,69 +20485,6 @@
         "N"
     ],
     [
-        303022.0,
-        "BISOCOR 2.5mg Comp. Pell. s\u00e9c Bt 30",
-        "5,420",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
-        303027.0,
-        "BIPROCARD 2.5mg Comp Pell S\u00e9c Bt 30",
-        "5,525",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
-        302372.0,
-        "BONACOR Comp  Pell S\u00e9c 2.5 MG BT 30",
-        "6,155",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
-        302345.0,
-        "EVOCOR 2.5 2.5mg Comp Pell BT 30",
-        "6,980",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
-        309070.0,
-        "CINCOR 2.5 Comp Pell Sec 2.5 mg  Bt 30",
-        "7,330",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
-        302452.0,
-        "BISOPRAL Comp Pell Sec 2.5 MG BT 30",
-        "7,490",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
-        105759.0,
-        "CARDENSIEL 2.5mg Comp Pell S\u00e9c Bt 30",
-        "15,280",
-        "5,400",
-        "E",
-        "BISOPROLOL",
-        "N"
-    ],
-    [
         303116.0,
         "BISOCOR AMLO 5\/5 5mg\/5mg Comp Bt 30",
         "15,090",
@@ -20503,6 +20512,24 @@
         "N"
     ],
     [
+        303114.0,
+        "BISOCOR AMLO 5\/10 5mg\/10mg Comp Bt 30",
+        "18,460",
+        "18,450",
+        "E",
+        "BISOPROLOL+ AMLODIPINE",
+        "N"
+    ],
+    [
+        105751.0,
+        "CONCOR AMLO 5mg\/10mg Comp Bt 30",
+        "34,840",
+        "18,450",
+        "E",
+        "BISOPROLOL+ AMLODIPINE",
+        "N"
+    ],
+    [
         303117.0,
         "BISOCOR AMLO 10\/5 10mg\/5mg Comp Bt 30",
         "16,886",
@@ -20525,24 +20552,6 @@
         "CONCOR AMLO 10mg\/5mg Comp Bt 30",
         "34,840",
         "16,860",
-        "E",
-        "BISOPROLOL+ AMLODIPINE",
-        "N"
-    ],
-    [
-        303114.0,
-        "BISOCOR AMLO 5\/10 5mg\/10mg Comp Bt 30",
-        "18,460",
-        "18,450",
-        "E",
-        "BISOPROLOL+ AMLODIPINE",
-        "N"
-    ],
-    [
-        105751.0,
-        "CONCOR AMLO 5mg\/10mg Comp Bt 30",
-        "34,840",
-        "18,450",
         "E",
         "BISOPROLOL+ AMLODIPINE",
         "N"
@@ -20584,55 +20593,10 @@
         "N"
     ],
     [
-        301290.0,
-        "KARVEX Comp Sec 25 mg Bt 30",
-        "18,895",
-        "18,870",
-        "E",
-        "CARVEDILOL",
-        "N"
-    ],
-    [
-        103366.0,
-        "CARDILOL Comp 25mg  Fl 30",
-        "23,216",
-        "18,870",
-        "E",
-        "CARVEDILOL",
-        "N"
-    ],
-    [
-        103534.0,
-        "CARVIDOL Comp Sec 25 mg Bt  30",
-        "26,255",
-        "18,870",
-        "E",
-        "CARVEDILOL",
-        "N"
-    ],
-    [
-        301289.0,
-        "KARVEX Comp  Sec 12.5 mg Bt 30",
-        "13,710",
-        "13,710",
-        "E",
-        "CARVEDILOL",
-        "N"
-    ],
-    [
-        103365.0,
-        "CARDILOL 12.5 mg Comp Fl 30",
-        "16,742",
-        "13,710",
-        "E",
-        "CARVEDILOL",
-        "N"
-    ],
-    [
-        104184.0,
-        "CARVIDOL  Comp Sec 12.5 mg Bt 30",
-        "18,605",
-        "13,710",
+        103824.0,
+        "CARDILOL Comp 3.125 MG  FL 30",
+        "7,611",
+        "7,590",
         "E",
         "CARVEDILOL",
         "N"
@@ -20665,10 +20629,55 @@
         "N"
     ],
     [
-        103824.0,
-        "CARDILOL Comp 3.125 MG  FL 30",
-        "7,611",
-        "7,590",
+        301289.0,
+        "KARVEX Comp  Sec 12.5 mg Bt 30",
+        "13,710",
+        "13,710",
+        "E",
+        "CARVEDILOL",
+        "N"
+    ],
+    [
+        103365.0,
+        "CARDILOL 12.5 mg Comp Fl 30",
+        "16,742",
+        "13,710",
+        "E",
+        "CARVEDILOL",
+        "N"
+    ],
+    [
+        104184.0,
+        "CARVIDOL  Comp Sec 12.5 mg Bt 30",
+        "18,605",
+        "13,710",
+        "E",
+        "CARVEDILOL",
+        "N"
+    ],
+    [
+        301290.0,
+        "KARVEX Comp Sec 25 mg Bt 30",
+        "18,895",
+        "18,870",
+        "E",
+        "CARVEDILOL",
+        "N"
+    ],
+    [
+        103366.0,
+        "CARDILOL Comp 25mg  Fl 30",
+        "23,216",
+        "18,870",
+        "E",
+        "CARVEDILOL",
+        "N"
+    ],
+    [
+        103534.0,
+        "CARVIDOL Comp Sec 25 mg Bt  30",
+        "26,255",
+        "18,870",
         "E",
         "CARVEDILOL",
         "N"
@@ -20755,8 +20764,8 @@
         "N"
     ],
     [
-        105118.0,
-        "NEBILET PLUS 5MG\/25 MG Comp Pell BT 28",
+        105117.0,
+        "NEBILET PLUS 5MG\/12.5 MG Comp Pell BT 28",
         "33,875",
         "33,852",
         "E",
@@ -20764,8 +20773,8 @@
         "N"
     ],
     [
-        105117.0,
-        "NEBILET PLUS 5MG\/12.5 MG Comp Pell BT 28",
+        105118.0,
+        "NEBILET PLUS 5MG\/25 MG Comp Pell BT 28",
         "33,875",
         "33,852",
         "E",
@@ -20863,19 +20872,19 @@
         "N"
     ],
     [
-        105086.0,
-        "ALPRESS LP Comp 5mg Bt 30",
-        "20,982",
-        "20,970",
+        105085.0,
+        "ALPRESS LP Comp 2.5mg Bt 30",
+        "12,472",
+        "12,450",
         "E",
         "PRAZOSINE",
         "N"
     ],
     [
-        105085.0,
-        "ALPRESS LP Comp 2.5mg Bt 30",
-        "12,472",
-        "12,450",
+        105086.0,
+        "ALPRESS LP Comp 5mg Bt 30",
+        "20,982",
+        "20,970",
         "E",
         "PRAZOSINE",
         "N"
@@ -21097,6 +21106,15 @@
         "N"
     ],
     [
+        303135.0,
+        "AMLOTENS 5mg G\u00e9l Bt 30",
+        "8,740",
+        "8,400",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         302968.0,
         "AMLODIPINE MEDIS 5MG Comp Pell Sec BT30",
         "9,080",
@@ -21115,9 +21133,27 @@
         "N"
     ],
     [
+        301161.0,
+        "TENSYNEL Gelule 5 mg  Bt 30",
+        "12,675",
+        "8,400",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         302431.0,
         "AMLODEP Comp 5 MG BT 30",
         "12,890",
+        "8,400",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        309929.0,
+        "LOWRAC G\u00e9lule 5mg Bt 30",
+        "14,750",
         "8,400",
         "E",
         "AMLODIPINE",
@@ -21142,6 +21178,15 @@
         "N"
     ],
     [
+        300892.0,
+        "LODEPINE Gelu  5mg Bt 30",
+        "16,400",
+        "8,400",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         300740.0,
         "MIBRAL 5 mg comp.sec.Bt\/30",
         "16,445",
@@ -21155,6 +21200,15 @@
         "AMLOR Comp 5mg Bt 30",
         "26,050",
         "8,400",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        301265.0,
+        "CARDEPINE Gel 5 mg BT 32",
+        "13,755",
+        "8,960",
         "E",
         "AMLODIPINE",
         "N"
@@ -21187,10 +21241,46 @@
         "N"
     ],
     [
+        300942.0,
+        "LODEPINE 5 mg Gelule Bt 60",
+        "24,780",
+        "16,800",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        309012.0,
+        "LOWRAC 5 mg g\u00e9lu. Bt\/60",
+        "25,695",
+        "16,800",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         300792.0,
         "AMLOR 5 mg comp.Bt 60",
         "35,430",
         "16,800",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        301577.0,
+        "CARDEPINE Gelule 5 MG BT 64",
+        "19,680",
+        "17,920",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        303137.0,
+        "AMLOTENS 5mg G\u00e9l Bt 90",
+        "25,240",
+        "25,200",
         "E",
         "AMLODIPINE",
         "N"
@@ -21208,6 +21298,24 @@
         302943.0,
         "LODIPEX 5 5MG Comp BT 90",
         "25,800",
+        "25,200",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        309113.0,
+        "LOWRAC Gelule 5 mg Bt 90",
+        "27,610",
+        "25,200",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        302162.0,
+        "LODEPINE  Gelule  5 MG BT 90",
+        "28,115",
         "25,200",
         "E",
         "AMLODIPINE",
@@ -21232,10 +21340,28 @@
         "N"
     ],
     [
+        301396.0,
+        "TENSYNEL Gelule 5 mg Bt 90",
+        "30,080",
+        "25,200",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         301279.0,
         "AMLOR Comp 5 mg BT 90",
         "53,025",
         "25,200",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        303136.0,
+        "AMLOTENS 10mg G\u00e9l. Bt 30",
+        "12,865",
+        "11,760",
         "E",
         "AMLODIPINE",
         "N"
@@ -21259,9 +21385,27 @@
         "N"
     ],
     [
+        301162.0,
+        "TENSYNEL Gelule 10 mg Bt 30",
+        "19,100",
+        "11,760",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         300897.0,
         "MIBRAL Comp Sec 10mg Bt 30",
         "20,260",
+        "11,760",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        309021.0,
+        "LOWRAC Gelule 10mg Bt 30",
+        "20,860",
         "11,760",
         "E",
         "AMLODIPINE",
@@ -21295,186 +21439,6 @@
         "N"
     ],
     [
-        303424.0,
-        "LODIPEX 10 10mg Comp Bt 90",
-        "35,340",
-        "35,280",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        302971.0,
-        "AMLODIPINE MEDIS 10MG Comp Pell Sec BT90",
-        "37,370",
-        "35,280",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        302163.0,
-        "LODEPINE Comp Sec 10 MG BT 90",
-        "39,205",
-        "35,280",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301621.0,
-        "AMLODIS Comp 10 MG BT 90",
-        "40,515",
-        "35,280",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301682.0,
-        "MIBRAL Comp Sec 10  MG BT 90",
-        "41,150",
-        "35,280",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        303135.0,
-        "AMLOTENS 5mg G\u00e9l Bt 30",
-        "8,740",
-        "8,400",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301161.0,
-        "TENSYNEL Gelule 5 mg  Bt 30",
-        "12,675",
-        "8,400",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        309929.0,
-        "LOWRAC G\u00e9lule 5mg Bt 30",
-        "14,750",
-        "8,400",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        300892.0,
-        "LODEPINE Gelu  5mg Bt 30",
-        "16,400",
-        "8,400",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301265.0,
-        "CARDEPINE Gel 5 mg BT 32",
-        "13,755",
-        "8,960",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        300942.0,
-        "LODEPINE 5 mg Gelule Bt 60",
-        "24,780",
-        "16,800",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        309012.0,
-        "LOWRAC 5 mg g\u00e9lu. Bt\/60",
-        "25,695",
-        "16,800",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301577.0,
-        "CARDEPINE Gelule 5 MG BT 64",
-        "19,680",
-        "17,920",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        303137.0,
-        "AMLOTENS 5mg G\u00e9l Bt 90",
-        "25,240",
-        "25,200",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        309113.0,
-        "LOWRAC Gelule 5 mg Bt 90",
-        "27,610",
-        "25,200",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        302162.0,
-        "LODEPINE  Gelule  5 MG BT 90",
-        "28,115",
-        "25,200",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301396.0,
-        "TENSYNEL Gelule 5 mg Bt 90",
-        "30,080",
-        "25,200",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        303136.0,
-        "AMLOTENS 10mg G\u00e9l. Bt 30",
-        "12,865",
-        "11,760",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        301162.0,
-        "TENSYNEL Gelule 10 mg Bt 30",
-        "19,100",
-        "11,760",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
-        309021.0,
-        "LOWRAC Gelule 10mg Bt 30",
-        "20,860",
-        "11,760",
-        "E",
-        "AMLODIPINE",
-        "N"
-    ],
-    [
         301492.0,
         "AMLOR Gelule 10 MG Bt 30",
         "24,905",
@@ -21502,6 +21466,24 @@
         "N"
     ],
     [
+        303424.0,
+        "LODIPEX 10 10mg Comp Bt 90",
+        "35,340",
+        "35,280",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        302971.0,
+        "AMLODIPINE MEDIS 10MG Comp Pell Sec BT90",
+        "37,370",
+        "35,280",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         301395.0,
         "TENSYNEL 10mg Gelule Bt 90",
         "37,590",
@@ -21511,9 +21493,36 @@
         "N"
     ],
     [
+        302163.0,
+        "LODEPINE Comp Sec 10 MG BT 90",
+        "39,205",
+        "35,280",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
         301627.0,
         "LOWRAC Gelule 10 MG BT 90",
         "39,505",
+        "35,280",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        301621.0,
+        "AMLODIS Comp 10 MG BT 90",
+        "40,515",
+        "35,280",
+        "E",
+        "AMLODIPINE",
+        "N"
+    ],
+    [
+        301682.0,
+        "MIBRAL Comp Sec 10  MG BT 90",
+        "41,150",
         "35,280",
         "E",
         "AMLODIPINE",
@@ -21610,19 +21619,19 @@
         "N"
     ],
     [
-        102684.0,
-        "ICAZ G\u00e9lule Ret 5mg Bt 30",
-        "29,042",
-        "29,040",
+        102683.0,
+        "ICAZ G\u00e9lule Ret 2.5mg Bt 30",
+        "15,506",
+        "15,480",
         "E",
         "ISRADIPINE",
         "N"
     ],
     [
-        102683.0,
-        "ICAZ G\u00e9lule Ret 2.5mg Bt 30",
-        "15,506",
-        "15,480",
+        102684.0,
+        "ICAZ G\u00e9lule Ret 5mg Bt 30",
+        "29,042",
+        "29,040",
         "E",
         "ISRADIPINE",
         "N"
@@ -21790,19 +21799,19 @@
         "N"
     ],
     [
-        100371.0,
-        "RYTHMODAN LP Comp enr sec 250mg Bt 20",
-        "6,406",
-        "6,400",
+        100370.0,
+        "RYTHMODAN G\u00e9ule 100mg Bt40",
+        "4,320",
+        "4,320",
         "E",
         "DISOPYRAMIDE PHOSPHATE",
         "N"
     ],
     [
-        100370.0,
-        "RYTHMODAN G\u00e9ule 100mg Bt40",
-        "4,320",
-        "4,320",
+        100371.0,
+        "RYTHMODAN LP Comp enr sec 250mg Bt 20",
+        "6,406",
+        "6,400",
         "E",
         "DISOPYRAMIDE PHOSPHATE",
         "N"
@@ -22501,18 +22510,18 @@
         "N"
     ],
     [
-        103892.0,
-        "DIANE 35 Comp 2mg\/0.035mg Bt 21",
-        "9,900",
+        103496.0,
+        "ELLEACNELLE Comp Drag Bt 21",
+        "7,756",
         "7,749",
         "E",
         "CYPROTERONE+ETHINYLESTRADIOL",
         "N"
     ],
     [
-        103496.0,
-        "ELLEACNELLE Comp Drag Bt 21",
-        "7,756",
+        103892.0,
+        "DIANE 35 Comp 2mg\/0.035mg Bt 21",
+        "9,900",
         "7,749",
         "E",
         "CYPROTERONE+ETHINYLESTRADIOL",
@@ -22834,6 +22843,15 @@
         "N"
     ],
     [
+        106674.0,
+        "XATRAL Comp pell 2.5mg Bt 30",
+        "13,701",
+        "13,680",
+        "I",
+        "ALFUZOSINE",
+        "N"
+    ],
+    [
         302820.0,
         "XAPROST LP 10 mg COMP. LP BT 30",
         "33,780",
@@ -22847,15 +22865,6 @@
         "XATRAL Comp LP 10mg Bt 30",
         "64,325",
         "33,780",
-        "I",
-        "ALFUZOSINE",
-        "N"
-    ],
-    [
-        106674.0,
-        "XATRAL Comp pell 2.5mg Bt 30",
-        "13,701",
-        "13,680",
         "I",
         "ALFUZOSINE",
         "N"
@@ -23086,15 +23095,6 @@
         "N"
     ],
     [
-        105735.0,
-        "ASPEGIC 1gr Pdre P Pr\u00e9p Inj Bt 6+S\/5ml (ex 103644)",
-        "6,314",
-        "6,312",
-        "E",
-        "ACETYLSALICYLATE DE LYSINE",
-        "N"
-    ],
-    [
         102592.0,
         "ACETYLSALICYLATE DE LYSINE 500 mg p.p.i b\/6+6",
         "6,773",
@@ -23113,10 +23113,10 @@
         "N"
     ],
     [
-        303357.0,
-        "ASPEGIC Pdre\/Sol Or 1000mg Sach Bt 20",
-        "7,300",
-        "7,300",
+        105735.0,
+        "ASPEGIC 1gr Pdre P Pr\u00e9p Inj Bt 6+S\/5ml (ex 103644)",
+        "6,314",
+        "6,312",
         "E",
         "ACETYLSALICYLATE DE LYSINE",
         "N"
@@ -23171,6 +23171,15 @@
         "ASPEGIC Pdre\/Sol Or 500mg Sach Bt 20",
         "2,750",
         "2,740",
+        "E",
+        "ACETYLSALICYLATE DE LYSINE",
+        "N"
+    ],
+    [
+        303357.0,
+        "ASPEGIC Pdre\/Sol Or 1000mg Sach Bt 20",
+        "7,300",
+        "7,300",
         "E",
         "ACETYLSALICYLATE DE LYSINE",
         "N"
@@ -23383,6 +23392,15 @@
         "N"
     ],
     [
+        504845.0,
+        "SKENAN LP 10 mg GEL. A LIBERATION PROLONGEE BT 14",
+        "14,406",
+        "14,406",
+        "V",
+        "MORPHINE",
+        "N"
+    ],
+    [
         502440.0,
         "MOSCONTIN Comp enr LP 10mg Bt 14",
         "14,450",
@@ -23392,10 +23410,28 @@
         "N"
     ],
     [
+        504880.0,
+        "SKENAN LP 30 mg GEL. A LIBERATION PROLONGEE BT 14",
+        "35,063",
+        "35,063",
+        "V",
+        "MORPHINE",
+        "N"
+    ],
+    [
         502441.0,
         "MOSCONTIN Comp enr LP 30mg Bt 14",
         "35,154",
         "35,154",
+        "V",
+        "MORPHINE",
+        "N"
+    ],
+    [
+        504831.0,
+        "SKENAN LP 60 mg  GEL. LIBERATION PROLONGEE BT 14",
+        "68,898",
+        "68,898",
         "V",
         "MORPHINE",
         "N"
@@ -23437,33 +23473,6 @@
         "N"
     ],
     [
-        504845.0,
-        "SKENAN LP 10 mg GEL. A LIBERATION PROLONGEE BT 14",
-        "14,406",
-        "14,406",
-        "V",
-        "MORPHINE",
-        "N"
-    ],
-    [
-        504880.0,
-        "SKENAN LP 30 mg GEL. A LIBERATION PROLONGEE BT 14",
-        "35,063",
-        "35,063",
-        "V",
-        "MORPHINE",
-        "N"
-    ],
-    [
-        504831.0,
-        "SKENAN LP 60 mg  GEL. LIBERATION PROLONGEE BT 14",
-        "68,898",
-        "68,898",
-        "V",
-        "MORPHINE",
-        "N"
-    ],
-    [
         502042.0,
         "MORPHINE Fl inj 10mg\/ml vrac",
         "2,028",
@@ -23497,33 +23506,6 @@
         "7,590",
         "E",
         "OXETORONE",
-        "N"
-    ],
-    [
-        302256.0,
-        "CETAMOL Comp  Sec 1 GR BT 8",
-        "2,995",
-        "2,336",
-        "E",
-        "PARACETAMOL",
-        "N"
-    ],
-    [
-        301686.0,
-        "PANADOL Comp Pell Sec 1 GR  BT 8",
-        "3,710",
-        "2,336",
-        "E",
-        "PARACETAMOL",
-        "N"
-    ],
-    [
-        302581.0,
-        "DAFALGAN 1 gr COMP. PELL. BT\/8",
-        "3,885",
-        "2,336",
-        "E",
-        "PARACETAMOL",
         "N"
     ],
     [
@@ -23752,9 +23734,36 @@
         "N"
     ],
     [
+        302256.0,
+        "CETAMOL Comp  Sec 1 GR BT 8",
+        "2,995",
+        "2,336",
+        "E",
+        "PARACETAMOL",
+        "N"
+    ],
+    [
         302268.0,
         "ADOL 1000 mg Comp Sec Bt 8",
         "3,110",
+        "2,336",
+        "E",
+        "PARACETAMOL",
+        "N"
+    ],
+    [
+        301686.0,
+        "PANADOL Comp Pell Sec 1 GR  BT 8",
+        "3,710",
+        "2,336",
+        "E",
+        "PARACETAMOL",
+        "N"
+    ],
+    [
+        302581.0,
+        "DAFALGAN 1 gr COMP. PELL. BT\/8",
+        "3,885",
         "2,336",
         "E",
         "PARACETAMOL",
@@ -23819,15 +23828,6 @@
         "EFFERALGAN Comp Efferv 1 GR BT 1 TB\/8",
         "3,885",
         "2,408",
-        "E",
-        "PARACETAMOL",
-        "N"
-    ],
-    [
-        102449.0,
-        "PERFALGAN Sol inj 10mg\/ml Fl 100ml Bt 12",
-        "84,330",
-        "49,740",
         "E",
         "PARACETAMOL",
         "N"
@@ -23905,10 +23905,10 @@
         "N"
     ],
     [
-        301520.0,
-        "NOVADOL Pdre P Sol Orale 1 gr Bt 8 Sachets",
-        "4,330",
-        "4,328",
+        102449.0,
+        "PERFALGAN Sol inj 10mg\/ml Fl 100ml Bt 12",
+        "84,330",
+        "49,740",
         "E",
         "PARACETAMOL",
         "N"
@@ -23990,6 +23990,15 @@
         "DOLIPRANE Ad. 500mg Pdre\/Sol or. Sach. Bt 12",
         "4,275",
         "3,204",
+        "E",
+        "PARACETAMOL",
+        "N"
+    ],
+    [
+        301520.0,
+        "NOVADOL Pdre P Sol Orale 1 gr Bt 8 Sachets",
+        "4,330",
+        "4,328",
         "E",
         "PARACETAMOL",
         "N"
@@ -24481,10 +24490,10 @@
         "N"
     ],
     [
-        301504.0,
-        "DOLIPRANE PRO  Comp 325 mg\/37.5 mg Bt 20",
-        "8,490",
-        "4,480",
+        301237.0,
+        "SUPRADOL Gelule 37.5 mg\/325 mg  Bt 16",
+        "8,180",
+        "3,584",
         "E",
         "TRAMADOL + PARACETAMOL",
         "N"
@@ -24502,6 +24511,15 @@
         303563.0,
         "ALGETRA 37.5 mg\/325 mg Comp Pell Bt 20",
         "4,490",
+        "4,480",
+        "E",
+        "TRAMADOL + PARACETAMOL",
+        "N"
+    ],
+    [
+        301914.0,
+        "BI-ALGIC Gelule 37.5 MG\/325 MG BT 20",
+        "4,495",
         "4,480",
         "E",
         "TRAMADOL + PARACETAMOL",
@@ -24526,36 +24544,27 @@
         "N"
     ],
     [
-        103401.0,
-        "ZALDIAR Comp Pell 37.5mg\/325 mg Bt 20",
-        "19,320",
-        "4,480",
-        "E",
-        "TRAMADOL + PARACETAMOL",
-        "N"
-    ],
-    [
-        301237.0,
-        "SUPRADOL Gelule 37.5 mg\/325 mg  Bt 16",
-        "8,180",
-        "3,584",
-        "E",
-        "TRAMADOL + PARACETAMOL",
-        "N"
-    ],
-    [
-        301914.0,
-        "BI-ALGIC Gelule 37.5 MG\/325 MG BT 20",
-        "4,495",
-        "4,480",
-        "E",
-        "TRAMADOL + PARACETAMOL",
-        "N"
-    ],
-    [
         301715.0,
         "CETRADOL Gelule 37.5 MG\/325 MG BT 20",
         "6,365",
+        "4,480",
+        "E",
+        "TRAMADOL + PARACETAMOL",
+        "N"
+    ],
+    [
+        301504.0,
+        "DOLIPRANE PRO  Comp 325 mg\/37.5 mg Bt 20",
+        "8,490",
+        "4,480",
+        "E",
+        "TRAMADOL + PARACETAMOL",
+        "N"
+    ],
+    [
+        103401.0,
+        "ZALDIAR Comp Pell 37.5mg\/325 mg Bt 20",
+        "19,320",
         "4,480",
         "E",
         "TRAMADOL + PARACETAMOL",
@@ -24598,19 +24607,19 @@
         "N"
     ],
     [
-        303600.0,
-        "LIDOCA 20mg\/ml Sans Consevateur Sol. Inj. Bt 10Amp \/5ml",
-        "5,445",
-        "5,440",
+        307697.0,
+        "UNICAINE 1% Sol Inj  Bt 10\/5ml",
+        "4,960",
+        "4,810",
         "E",
         "LIDOCAINE",
         "N"
     ],
     [
-        307697.0,
-        "UNICAINE 1% Sol Inj  Bt 10\/5ml",
-        "4,960",
-        "4,810",
+        303600.0,
+        "LIDOCA 20mg\/ml Sans Consevateur Sol. Inj. Bt 10Amp \/5ml",
+        "5,445",
+        "5,440",
         "E",
         "LIDOCAINE",
         "N"
@@ -24628,6 +24637,15 @@
         303748.0,
         "LIDOCA PLUS sans pansement 5% Cr\u00e8me Derm Tb 5 gr",
         "6,190",
+        "3,380",
+        "E",
+        "LIDOCAINE+PRILOCAINE",
+        "N"
+    ],
+    [
+        303592.0,
+        "PRILIA 5% Cr\u00e9me Derm.Tb Monodose\/5gr",
+        "6,740",
         "3,380",
         "E",
         "LIDOCAINE+PRILOCAINE",
@@ -24665,15 +24683,6 @@
         "PRILIA Creme Der 5 % Tbe30 Gr",
         "23,585",
         "20,280",
-        "E",
-        "LIDOCAINE+PRILOCAINE",
-        "N"
-    ],
-    [
-        303592.0,
-        "PRILIA 5% Cr\u00e9me Derm.Tb Monodose\/5gr",
-        "6,740",
-        "3,380",
         "E",
         "LIDOCAINE+PRILOCAINE",
         "N"
@@ -26209,6 +26218,15 @@
         "N"
     ],
     [
+        301280.0,
+        "GINKGO 7 40 mg Gelule Bt 30",
+        "6,330",
+        "6,330",
+        "I",
+        "GINKGO BILOBA",
+        "N"
+    ],
+    [
         300188.0,
         "TANAKAN Comp Bt 30",
         "10,050",
@@ -26222,15 +26240,6 @@
         "TANAKAN  Comp Enr 40 mg Bt 90",
         "27,630",
         "18,990",
-        "I",
-        "GINKGO BILOBA",
-        "N"
-    ],
-    [
-        301280.0,
-        "GINKGO 7 40 mg Gelule Bt 30",
-        "6,330",
-        "6,330",
         "I",
         "GINKGO BILOBA",
         "N"
@@ -26416,6 +26425,15 @@
         "N"
     ],
     [
+        301397.0,
+        "SERVAL Gelule 25 mg Bt 30",
+        "11,425",
+        "11,400",
+        "E",
+        "SERTRALINE",
+        "N"
+    ],
+    [
         301969.0,
         "SERTRALINE SANOFI (EX ZENTIVA)  Comp Pell Sec  50 MG BT 15",
         "10,560",
@@ -26447,6 +26465,15 @@
         "ZOLOFT Comp Pell Sec 50 MG  Bt 15",
         "16,075",
         "10,425",
+        "E",
+        "SERTRALINE",
+        "N"
+    ],
+    [
+        301398.0,
+        "SERVAL Gelule 50 mg Bt 30",
+        "20,865",
+        "20,850",
         "E",
         "SERTRALINE",
         "N"
@@ -26506,24 +26533,6 @@
         "N"
     ],
     [
-        301397.0,
-        "SERVAL Gelule 25 mg Bt 30",
-        "11,425",
-        "11,400",
-        "E",
-        "SERTRALINE",
-        "N"
-    ],
-    [
-        301398.0,
-        "SERVAL Gelule 50 mg Bt 30",
-        "20,865",
-        "20,850",
-        "E",
-        "SERTRALINE",
-        "N"
-    ],
-    [
         301912.0,
         "SERVAL Gelule 100 MG BT 30",
         "39,610",
@@ -26569,33 +26578,6 @@
         "N"
     ],
     [
-        105526.0,
-        "EFFEXOR LP 75mg G\u00e9l LP Bt 30 (ex 103518)",
-        "23,560",
-        "22,890",
-        "E",
-        "VENLAFAXINE",
-        "N"
-    ],
-    [
-        303784.0,
-        "TEDEMA LP 75mg G\u00e9l \u00e0 lib\u00e9ration prolong\u00e9e Bt 30",
-        "30,240",
-        "22,890",
-        "E",
-        "VENLAFAXINE",
-        "N"
-    ],
-    [
-        301389.0,
-        "ZENEXOR LP Gelule LP 75 MG Bt 30",
-        "31,225",
-        "22,890",
-        "E",
-        "VENLAFAXINE",
-        "N"
-    ],
-    [
         301388.0,
         "ZENEXOR LP Gelule LP 37.5 mg Bt 30",
         "15,680",
@@ -26618,6 +26600,33 @@
         "EFFEXOR LP 37.5mg G\u00e9l LP Bt 30 ( ex 102316)",
         "19,570",
         "15,660",
+        "E",
+        "VENLAFAXINE",
+        "N"
+    ],
+    [
+        105526.0,
+        "EFFEXOR LP 75mg G\u00e9l LP Bt 30 (ex 103518)",
+        "23,560",
+        "22,890",
+        "E",
+        "VENLAFAXINE",
+        "N"
+    ],
+    [
+        303784.0,
+        "TEDEMA LP 75mg G\u00e9l \u00e0 lib\u00e9ration prolong\u00e9e Bt 30",
+        "30,240",
+        "22,890",
+        "E",
+        "VENLAFAXINE",
+        "N"
+    ],
+    [
+        301389.0,
+        "ZENEXOR LP Gelule LP 75 MG Bt 30",
+        "31,225",
+        "22,890",
         "E",
         "VENLAFAXINE",
         "N"
@@ -27964,24 +27973,6 @@
         "N"
     ],
     [
-        300220.0,
-        "ALLERGICA Sirop 0.1% Fl 150ml",
-        "9,335",
-        "6,300",
-        "E",
-        "CETIRIZINE",
-        "N"
-    ],
-    [
-        302927.0,
-        "CETOLERGE 10mg\/ml Sol Buv Fl 30 ml",
-        "7,400",
-        "7,380",
-        "E",
-        "CETIRIZINE",
-        "N"
-    ],
-    [
         302928.0,
         "CETOLERGE 5mg\/5ml Sirop Fl 100 ml",
         "4,280",
@@ -27991,10 +27982,28 @@
         "N"
     ],
     [
+        300220.0,
+        "ALLERGICA Sirop 0.1% Fl 150ml",
+        "9,335",
+        "6,300",
+        "E",
+        "CETIRIZINE",
+        "N"
+    ],
+    [
         301485.0,
         "ARHIN Sol Buv 1 %  Fl 15 ml",
         "4,600",
         "3,690",
+        "E",
+        "CETIRIZINE",
+        "N"
+    ],
+    [
+        302927.0,
+        "CETOLERGE 10mg\/ml Sol Buv Fl 30 ml",
+        "7,400",
+        "7,380",
         "E",
         "CETIRIZINE",
         "N"
@@ -28153,19 +28162,19 @@
         "N"
     ],
     [
-        105650.0,
-        "DESLORATADINE GENEPHARM 5mg Comp orodisp Bt 30",
-        "9,615",
-        "9,210",
+        105909.0,
+        "DESLORATADINE GENEPHARM 2.5mg Comp Orodisp Bt 30",
+        "9,150",
+        "9,150",
         "E",
         "DESLORATADINE",
         "N"
     ],
     [
-        105909.0,
-        "DESLORATADINE GENEPHARM 2.5mg Comp Orodisp Bt 30",
-        "9,150",
-        "9,150",
+        105650.0,
+        "DESLORATADINE GENEPHARM 5mg Comp orodisp Bt 30",
+        "9,615",
+        "9,210",
         "E",
         "DESLORATADINE",
         "N"
@@ -28576,6 +28585,15 @@
         "N"
     ],
     [
+        109707.0,
+        "MIFLASONE G\u00e9lule 400\u00b5gr\/Dose Bt 60",
+        "21,793",
+        "21,780",
+        "E",
+        "BECLOMETASONE",
+        "N"
+    ],
+    [
         301139.0,
         "CORTIS Sus\/Inha  50 \u00b5g  Fl 200 Doses",
         "7,490",
@@ -28634,15 +28652,6 @@
         "BECLOJET 250\u00b5g Sol\/Inhl Fl 200doses",
         "32,310",
         "12,800",
-        "E",
-        "BECLOMETASONE",
-        "N"
-    ],
-    [
-        109707.0,
-        "MIFLASONE G\u00e9lule 400\u00b5gr\/Dose Bt 60",
-        "21,793",
-        "21,780",
         "E",
         "BECLOMETASONE",
         "N"
@@ -29287,6 +29296,15 @@
         "N"
     ],
     [
+        309872.0,
+        "TALIN Comp 2,5mg Bt 60",
+        "3,610",
+        "3,600",
+        "E",
+        "TERBUTALINE",
+        "N"
+    ],
+    [
         106972.0,
         "BRICANYL LP Comp LP 5mg Bt 30",
         "5,028",
@@ -29300,15 +29318,6 @@
         "BRICANYL LP Comp LP 5 MG FL 60",
         "15,597",
         "10,020",
-        "E",
-        "TERBUTALINE",
-        "N"
-    ],
-    [
-        309872.0,
-        "TALIN Comp 2,5mg Bt 60",
-        "3,610",
-        "3,600",
         "E",
         "TERBUTALINE",
         "N"
@@ -29530,6 +29539,15 @@
         "N"
     ],
     [
+        104176.0,
+        "AVAMYS  Pulv Spray Nasal 27.5 \u00b5g Fl 120 Doses",
+        "17,646",
+        "17,640",
+        "E",
+        "FLUTICASONE",
+        "N"
+    ],
+    [
         303064.0,
         "PERINASE 50\u00b5G Spray Nasal Fl 120Doses",
         "13,815",
@@ -29566,24 +29584,6 @@
         "N"
     ],
     [
-        104176.0,
-        "AVAMYS  Pulv Spray Nasal 27.5 \u00b5g Fl 120 Doses",
-        "17,646",
-        "17,640",
-        "E",
-        "FLUTICASONE",
-        "N"
-    ],
-    [
-        105224.0,
-        "RISOMAX 0.05% SUSP. NASALE FL 140 DOSES",
-        "16,625",
-        "15,120",
-        "E",
-        "MOMETASONE",
-        "N"
-    ],
-    [
         303011.0,
         "NASOMET 50 mcg\/Dose Susp Nas Fl 120 Doses",
         "13,690",
@@ -29602,21 +29602,21 @@
         "N"
     ],
     [
-        105645.0,
-        "NASONEX 50mcg\/Dose Susp Nas Fl 140 Doses (ex 101995)",
-        "27,875",
+        105224.0,
+        "RISOMAX 0.05% SUSP. NASALE FL 140 DOSES",
+        "16,625",
         "15,120",
         "E",
         "MOMETASONE",
         "N"
     ],
     [
-        303466.0,
-        "OLOPAN 0.1% Collyre Fl 5ml",
-        "9,740",
-        "9,740",
+        105645.0,
+        "NASONEX 50mcg\/Dose Susp Nas Fl 140 Doses (ex 101995)",
+        "27,875",
+        "15,120",
         "E",
-        "OLOPATADINE",
+        "MOMETASONE",
         "N"
     ],
     [

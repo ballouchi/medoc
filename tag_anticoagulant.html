@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,6 +18,10 @@
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
 <link rel="stylesheet" type="text/css" href="css/tableaux.css">
+
+<!-- pagefind search -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
 
 <!--  <script src="js/jquery-3.3.1.min.js"></script>  -->
 <script type="text/javascript" charset="utf8" src="js/jquery-3.7.1.min.js"></script>
@@ -136,8 +140,8 @@
                 
                 
                 <!--comment out this block if you want to hide search-->
+                    <!--start search
                 <li>
-                    <!--start search-->
                     <div id="search-demo-container">
                         <input type="text" id="search-input" placeholder="rechercher...">
                         <ul id="results-container"></ul>
@@ -154,14 +158,36 @@
                             fuzzy: true,
                     })
                     </script>
-                    <!--end search-->
                 </li>
+                    end search-->
             </ul>
         </div>
-        </div>
+	</div>
         <!-- /.container -->
 </nav>
 
+<!-- pagefind searchbox -->
+<div class="container" style="margin-bottom: 40px;">
+	<!-- moved to head.html
+	<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+	<script src="/pagefind/pagefind-ui.js"></script>  -->
+	<div id="search" style="--pagefind-ui-scale: 0.8; --pagefind-ui-border: #428bca; --pagefind-ui-border-radius: 3px; --pagefind-ui-image-border-radius: 3px; width: 100%; "></div>
+	<script>
+	window.addEventListener('DOMContentLoaded', (event) => {
+		new PagefindUI({
+	        element: "#search",
+	        showSubResults: true,
+	        showImages: false,
+	        //excerptLength: 30,
+	        //sort: { date: "desc" },
+	        translations: {
+		        placeholder: "Rechercher sur le site",
+		        zero_results: "Pas de résultats pour [SEARCH_TERM]"
+	        }
+		});
+	});
+	</script>
+</div>
 
 
 	<!-- Page Content -->
@@ -832,13 +858,6 @@
           
           
           
-          
-          
-          <li><a title="Inhibiteurs De La Libération De Médiateurs" href="tag_.html">Inhibiteurs De La Libération De Médiateurs</a></li>
-          
-          
-          
-          
       </ul>
    </li>
      
@@ -1222,7 +1241,7 @@
 	        
 	
 	        <!-- Content Column -->
-	        <div class="col-md-12" id="tg-sb-content">
+	        <div class="col-md-12" id="tg-sb-content" data-pagefind-body>
 	            <p>Catégorie: <button type="button" style="cursor: default" class="btn btn-default navbar-btn">Anticoagulants</button></p>
 <table><thead><tr><th>Titre</th><th>Date</th><th>Description</th></tr></thead>
     <tbody>
@@ -3998,16 +4017,81 @@
 </div>
 
 	<footer>
-            <div class="row">
-                <div class="col-lg-12 footer">
-                &copy;2024-2025 <br />
+	      <!-- Footer main -->
+      <section class="ft-main">
+
 <!--
-				
+        <div class="ft-main-item">
+          <h5 class="ft-title">About</h5>
+          <ul>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Pricing</a></li>
+          </ul>
+        </div>
 -->
-				Prix Publiés le 3/12/2025 <br />
-				<!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
-                </div>
-            </div>
+
+        <div class="ft-main-item">
+          <h5 class="ft-title">Sources</h5>
+          <ul>
+            <li><a href="https://www.cnam.nat.tn/espace_assure.jsp">Liste des Médicaments Remboursés CNAM</a></li>
+            <li><a href="https://spot.tn/?mayor=articles&id=337">Liste des Médicaments Remboursés SPOT</a></li>
+            <li><a href="http://www.phct.com.tn/index.php/communiques/circulaires-de-la-pct">Circulaires de la Pharmacie Centrale de Tunisie</a></li>
+            <li><a href="https://spot.tn/?mayor=articles&type=cir">Circulaires de la Pharmacie Centrale de Tunisie SPOT</a></li>
+            <li><a href="https://dpm.tn/medicament/humain/liste-des-medicaments">Médicaments à usage Humain autorisés en Tunisie</a></li>
+          </ul>
+        </div>
+
+        <div class="ft-main-item">
+          <h5 class="ft-title">Liens</h5>
+          <ul>
+            <li><a href="http://www.phct.com.tn/index.php">PCT - Pharmacie Centrale de Tunisie</a></li>
+            <li><a href="https://dpm.tn">DPM - Direction de la Pharmacie et du Médicament</a></li>
+            <li><a href="https://www.cnam.nat.tn/index.jsp">CNAM - Caisse Nationale d'Assurance Maladie</a></li>
+            <li><a href="https://centre.e-cnam.tn/login">e-CNAM</a></li>
+            <li><a href="https://spot.tn">SPOT - Syndicat des Pharmaciens d'Officine de Tunisie</a></li>
+          </ul>
+        </div>
+
+<!--
+        <div class="ft-main-item">
+          <h5 class="ft-title">Stay Updated</h5>
+          <p>Subscribe to our newsletter to get our latest news.</p>
+          <form>
+            <input type="email" name="email" placeholder="Enter email address">
+            <input type="submit" value="Subscribe">
+          </form>
+        </div>
+-->
+
+      </section>
+
+      <!-- Footer social -->
+      <section class="ft-social">
+        <ul class="ft-social-list">
+<!--
+          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+-->
+          <li><a href="https://github.com/ballouchi/medoc"><i class="fa fa-github"></i></a></li>
+<!--
+          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+-->
+        </ul>
+      </section>
+
+      <!-- Footer legal -->
+      <section class="ft-legal">
+        <ul class="ft-legal-list">
+          <li>Prix Publiés le 26/12/2025</li>
+<!--
+          <li><a href="#">Politique de Confidentialité</a></li>
+-->
+          <li>&copy; 2024-2026 </li>
+        </ul>
+      </section>
 </footer>
 
 </body>

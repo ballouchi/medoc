@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 <head>
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,6 +18,10 @@
 <!-- most color styles are extracted out to here -->
 <link rel="stylesheet" href="css/theme-blue.css">
 <link rel="stylesheet" type="text/css" href="css/tableaux.css">
+
+<!-- pagefind search -->
+<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/pagefind/pagefind-ui.js"></script>
 
 <!--  <script src="js/jquery-3.3.1.min.js"></script>  -->
 <script type="text/javascript" charset="utf8" src="js/jquery-3.7.1.min.js"></script>
@@ -96,7 +100,8 @@
     </script>
 
     
-            <!-- Include  DataTables css and js in head -->
+	    
+	            <!-- Include  DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
@@ -165,6 +170,7 @@
       });
     </script>
 
+		
 	
 </head>
 <body>
@@ -207,8 +213,8 @@
                 
                 
                 <!--comment out this block if you want to hide search-->
+                    <!--start search
                 <li>
-                    <!--start search-->
                     <div id="search-demo-container">
                         <input type="text" id="search-input" placeholder="rechercher...">
                         <ul id="results-container"></ul>
@@ -225,14 +231,36 @@
                             fuzzy: true,
                     })
                     </script>
-                    <!--end search-->
                 </li>
+                    end search-->
             </ul>
         </div>
-        </div>
+	</div>
         <!-- /.container -->
 </nav>
 
+<!-- pagefind searchbox -->
+<div class="container" style="margin-bottom: 40px;">
+	<!-- moved to head.html
+	<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+	<script src="/pagefind/pagefind-ui.js"></script>  -->
+	<div id="search" style="--pagefind-ui-scale: 0.8; --pagefind-ui-border: #428bca; --pagefind-ui-border-radius: 3px; --pagefind-ui-image-border-radius: 3px; width: 100%; "></div>
+	<script>
+	window.addEventListener('DOMContentLoaded', (event) => {
+		new PagefindUI({
+	        element: "#search",
+	        showSubResults: true,
+	        showImages: false,
+	        //excerptLength: 30,
+	        //sort: { date: "desc" },
+	        translations: {
+		        placeholder: "Rechercher sur le site",
+		        zero_results: "Pas de résultats pour [SEARCH_TERM]"
+	        }
+		});
+	});
+	</script>
+</div>
 
 
 	<!-- Page Content -->
@@ -903,13 +931,6 @@
           
           
           
-          
-          
-          <li><a title="Inhibiteurs De La Libération De Médiateurs" href="tag_.html">Inhibiteurs De La Libération De Médiateurs</a></li>
-          
-          
-          
-          
       </ul>
    </li>
      
@@ -1293,54 +1314,80 @@
 	        
 	
 	        <!-- Content Column -->
-	        <div class="col-md-12" id="tg-sb-content">
+	        <div class="col-md-12" id="tg-sb-content" data-pagefind-body>
 	            <h1 id="circulaires-de-la-pharmacie-centrale-de-décembre-2025">Circulaires de la Pharmacie Centrale de Décembre 2025</h1>
 
 <style type="text/css">
 </style>
 
-<table id="T_2025-dec.csv" class="display">
+<table id="T_2025-dec-min.csv" class="display">
   <thead>
     <tr>
-      <th id="T_2025-dec.csv_level0_col0" class="col_heading level0 col0">Code PCT</th>
-      <th id="T_2025-dec.csv_level0_col1" class="col_heading level0 col1">Libellé</th>
-      <th id="T_2025-dec.csv_level0_col2" class="col_heading level0 col2">Commentaire</th>
-      <th id="T_2025-dec.csv_level0_col3" class="col_heading level0 col3">Prix Public</th>
-      <th id="T_2025-dec.csv_level0_col4" class="col_heading level0 col4">DCI</th>
-      <th id="T_2025-dec.csv_level0_col5" class="col_heading level0 col5">Laboratoire</th>
-      <th id="T_2025-dec.csv_level0_col6" class="col_heading level0 col6">AMM</th>
-      <th id="T_2025-dec.csv_level0_col7" class="col_heading level0 col7">Durée de vie</th>
-      <th id="T_2025-dec.csv_level0_col8" class="col_heading level0 col8">Tableau</th>
-      <th id="T_2025-dec.csv_level0_col9" class="col_heading level0 col9">Circulaire</th>
-      <th id="T_2025-dec.csv_level0_col10" class="col_heading level0 col10">Date</th>
+      <th id="T_2025-dec-min.csv_level0_col0" class="col_heading level0 col0">Code PCT</th>
+      <th id="T_2025-dec-min.csv_level0_col1" class="col_heading level0 col1">Libellé</th>
+      <th id="T_2025-dec-min.csv_level0_col2" class="col_heading level0 col2">Commentaire</th>
+      <th id="T_2025-dec-min.csv_level0_col3" class="col_heading level0 col3">Prix Public</th>
+      <th id="T_2025-dec-min.csv_level0_col4" class="col_heading level0 col4">DCI</th>
+      <th id="T_2025-dec-min.csv_level0_col5" class="col_heading level0 col5">Laboratoire</th>
+      <th id="T_2025-dec-min.csv_level0_col6" class="col_heading level0 col6">AMM</th>
+      <th id="T_2025-dec-min.csv_level0_col7" class="col_heading level0 col7">Durée de vie</th>
+      <th id="T_2025-dec-min.csv_level0_col8" class="col_heading level0 col8">Tableau</th>
+      <th id="T_2025-dec-min.csv_level0_col9" class="col_heading level0 col9">Circulaire</th>
+      <th id="T_2025-dec-min.csv_level0_col10" class="col_heading level0 col10">Date</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_2025-dec.csv_row0_col0" class="data row0 col0">303802</td>
-      <td id="T_2025-dec.csv_row0_col1" class="data row0 col1">ANTIXA 2.5mg Comp. Pell. Bt 180</td>
-      <td id="T_2025-dec.csv_row0_col2" class="data row0 col2">Nouveau Produit</td>
-      <td id="T_2025-dec.csv_row0_col3" class="data row0 col3">105,240</td>
-      <td id="T_2025-dec.csv_row0_col4" class="data row0 col4">APIXABAN</td>
-      <td id="T_2025-dec.csv_row0_col5" class="data row0 col5">S.A.I.PH</td>
-      <td id="T_2025-dec.csv_row0_col6" class="data row0 col6"></td>
-      <td id="T_2025-dec.csv_row0_col7" class="data row0 col7">24 mois</td>
-      <td id="T_2025-dec.csv_row0_col8" class="data row0 col8">A</td>
-      <td id="T_2025-dec.csv_row0_col9" class="data row0 col9">2025/48</td>
-      <td id="T_2025-dec.csv_row0_col10" class="data row0 col10">05/12/2025</td>
+      <td id="T_2025-dec-min.csv_row0_col0" class="data row0 col0">303802</td>
+      <td id="T_2025-dec-min.csv_row0_col1" class="data row0 col1">ANTIXA 2.5mg Comp. Pell. Bt 180</td>
+      <td id="T_2025-dec-min.csv_row0_col2" class="data row0 col2">Nouveau Produit</td>
+      <td id="T_2025-dec-min.csv_row0_col3" class="data row0 col3">105,240</td>
+      <td id="T_2025-dec-min.csv_row0_col4" class="data row0 col4">APIXABAN</td>
+      <td id="T_2025-dec-min.csv_row0_col5" class="data row0 col5">S.A.I.PH</td>
+      <td id="T_2025-dec-min.csv_row0_col6" class="data row0 col6">9164345</td>
+      <td id="T_2025-dec-min.csv_row0_col7" class="data row0 col7">24 mois</td>
+      <td id="T_2025-dec-min.csv_row0_col8" class="data row0 col8">A</td>
+      <td id="T_2025-dec-min.csv_row0_col9" class="data row0 col9">2025/48</td>
+      <td id="T_2025-dec-min.csv_row0_col10" class="data row0 col10">05/12/2025</td>
     </tr>
     <tr>
-      <td id="T_2025-dec.csv_row1_col0" class="data row1 col0">303804</td>
-      <td id="T_2025-dec.csv_row1_col1" class="data row1 col1">ANTIXA 5mg Comp. Pell. Bt 180</td>
-      <td id="T_2025-dec.csv_row1_col2" class="data row1 col2">Nouveau Produit</td>
-      <td id="T_2025-dec.csv_row1_col3" class="data row1 col3">105,240</td>
-      <td id="T_2025-dec.csv_row1_col4" class="data row1 col4">APIXABAN</td>
-      <td id="T_2025-dec.csv_row1_col5" class="data row1 col5">S.A.I.PH</td>
-      <td id="T_2025-dec.csv_row1_col6" class="data row1 col6"></td>
-      <td id="T_2025-dec.csv_row1_col7" class="data row1 col7">24 mois</td>
-      <td id="T_2025-dec.csv_row1_col8" class="data row1 col8">A</td>
-      <td id="T_2025-dec.csv_row1_col9" class="data row1 col9">2025/48</td>
-      <td id="T_2025-dec.csv_row1_col10" class="data row1 col10">05/12/2025</td>
+      <td id="T_2025-dec-min.csv_row1_col0" class="data row1 col0">303804</td>
+      <td id="T_2025-dec-min.csv_row1_col1" class="data row1 col1">ANTIXA 5mg Comp. Pell. Bt 180</td>
+      <td id="T_2025-dec-min.csv_row1_col2" class="data row1 col2">Nouveau Produit</td>
+      <td id="T_2025-dec-min.csv_row1_col3" class="data row1 col3">105,240</td>
+      <td id="T_2025-dec-min.csv_row1_col4" class="data row1 col4">APIXABAN</td>
+      <td id="T_2025-dec-min.csv_row1_col5" class="data row1 col5">S.A.I.PH</td>
+      <td id="T_2025-dec-min.csv_row1_col6" class="data row1 col6">9164346</td>
+      <td id="T_2025-dec-min.csv_row1_col7" class="data row1 col7">24 mois</td>
+      <td id="T_2025-dec-min.csv_row1_col8" class="data row1 col8">A</td>
+      <td id="T_2025-dec-min.csv_row1_col9" class="data row1 col9">2025/48</td>
+      <td id="T_2025-dec-min.csv_row1_col10" class="data row1 col10">05/12/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-dec-min.csv_row2_col0" class="data row2 col0">104720</td>
+      <td id="T_2025-dec-min.csv_row2_col1" class="data row2 col1">DEROXAT 20mg Comp.Pell.Séc. Bt 50</td>
+      <td id="T_2025-dec-min.csv_row2_col2" class="data row2 col2">Arrêt de Commercialisation</td>
+      <td id="T_2025-dec-min.csv_row2_col3" class="data row2 col3"></td>
+      <td id="T_2025-dec-min.csv_row2_col4" class="data row2 col4">PAROXETINE</td>
+      <td id="T_2025-dec-min.csv_row2_col5" class="data row2 col5">GLAXOSMITHKLINE SERVICES UNLIMITED</td>
+      <td id="T_2025-dec-min.csv_row2_col6" class="data row2 col6">5163042</td>
+      <td id="T_2025-dec-min.csv_row2_col7" class="data row2 col7"></td>
+      <td id="T_2025-dec-min.csv_row2_col8" class="data row2 col8"></td>
+      <td id="T_2025-dec-min.csv_row2_col9" class="data row2 col9">2025/49</td>
+      <td id="T_2025-dec-min.csv_row2_col10" class="data row2 col10">22/12/2025</td>
+    </tr>
+    <tr>
+      <td id="T_2025-dec-min.csv_row3_col0" class="data row3 col0">107033</td>
+      <td id="T_2025-dec-min.csv_row3_col1" class="data row3 col1">ENTEROGERMINA 4 milliards/5ml Susp.Buv. Bt 10 Fl/5ml</td>
+      <td id="T_2025-dec-min.csv_row3_col2" class="data row3 col2">Nouveau Produit</td>
+      <td id="T_2025-dec-min.csv_row3_col3" class="data row3 col3">18,920</td>
+      <td id="T_2025-dec-min.csv_row3_col4" class="data row3 col4">BACILLUS CLAUSII SPORES POLYANTIBIO-RESISTANTS</td>
+      <td id="T_2025-dec-min.csv_row3_col5" class="data row3 col5">OPELLA HEALTHCARE INTERNATIONAL SAS</td>
+      <td id="T_2025-dec-min.csv_row3_col6" class="data row3 col6">29693013</td>
+      <td id="T_2025-dec-min.csv_row3_col7" class="data row3 col7">24 mois</td>
+      <td id="T_2025-dec-min.csv_row3_col8" class="data row3 col8"></td>
+      <td id="T_2025-dec-min.csv_row3_col9" class="data row3 col9">2025/50</td>
+      <td id="T_2025-dec-min.csv_row3_col10" class="data row3 col10">26/12/2025</td>
     </tr>
   </tbody>
 </table>
@@ -1369,16 +1416,81 @@
 </div>
 
 	<footer>
-            <div class="row">
-                <div class="col-lg-12 footer">
-                &copy;2024-2025 <br />
+	      <!-- Footer main -->
+      <section class="ft-main">
+
 <!--
-				
+        <div class="ft-main-item">
+          <h5 class="ft-title">About</h5>
+          <ul>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Pricing</a></li>
+          </ul>
+        </div>
 -->
-				Prix Publiés le 3/12/2025 <br />
-				<!--<p><img src="images/company_logo.png" alt="Company logo"/></p>-->
-                </div>
-            </div>
+
+        <div class="ft-main-item">
+          <h5 class="ft-title">Sources</h5>
+          <ul>
+            <li><a href="https://www.cnam.nat.tn/espace_assure.jsp">Liste des Médicaments Remboursés CNAM</a></li>
+            <li><a href="https://spot.tn/?mayor=articles&id=337">Liste des Médicaments Remboursés SPOT</a></li>
+            <li><a href="http://www.phct.com.tn/index.php/communiques/circulaires-de-la-pct">Circulaires de la Pharmacie Centrale de Tunisie</a></li>
+            <li><a href="https://spot.tn/?mayor=articles&type=cir">Circulaires de la Pharmacie Centrale de Tunisie SPOT</a></li>
+            <li><a href="https://dpm.tn/medicament/humain/liste-des-medicaments">Médicaments à usage Humain autorisés en Tunisie</a></li>
+          </ul>
+        </div>
+
+        <div class="ft-main-item">
+          <h5 class="ft-title">Liens</h5>
+          <ul>
+            <li><a href="http://www.phct.com.tn/index.php">PCT - Pharmacie Centrale de Tunisie</a></li>
+            <li><a href="https://dpm.tn">DPM - Direction de la Pharmacie et du Médicament</a></li>
+            <li><a href="https://www.cnam.nat.tn/index.jsp">CNAM - Caisse Nationale d'Assurance Maladie</a></li>
+            <li><a href="https://centre.e-cnam.tn/login">e-CNAM</a></li>
+            <li><a href="https://spot.tn">SPOT - Syndicat des Pharmaciens d'Officine de Tunisie</a></li>
+          </ul>
+        </div>
+
+<!--
+        <div class="ft-main-item">
+          <h5 class="ft-title">Stay Updated</h5>
+          <p>Subscribe to our newsletter to get our latest news.</p>
+          <form>
+            <input type="email" name="email" placeholder="Enter email address">
+            <input type="submit" value="Subscribe">
+          </form>
+        </div>
+-->
+
+      </section>
+
+      <!-- Footer social -->
+      <section class="ft-social">
+        <ul class="ft-social-list">
+<!--
+          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+-->
+          <li><a href="https://github.com/ballouchi/medoc"><i class="fa fa-github"></i></a></li>
+<!--
+          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+-->
+        </ul>
+      </section>
+
+      <!-- Footer legal -->
+      <section class="ft-legal">
+        <ul class="ft-legal-list">
+          <li>Prix Publiés le 26/12/2025</li>
+<!--
+          <li><a href="#">Politique de Confidentialité</a></li>
+-->
+          <li>&copy; 2024-2026 </li>
+        </ul>
+      </section>
 </footer>
 
 </body>

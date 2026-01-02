@@ -488,6 +488,7 @@
 #T_paroxetine .row6,
 #T_paroxetine .row9,
 #T_paroxetine .row10 { border-bottom: 1px solid black; }
+#T_paroxetine .row10 { text-decoration-line: line-through; }
 
 #T_sertraline .row0,
 #T_sertraline .row9 { border-bottom: 3px solid black; }
@@ -1060,7 +1061,7 @@
 #T_49e99 :is(.row2, .row3, .row4).col3 { background-color: thistle; }
 #T_49e99 :is(.row14, .row15).col3 { background-color: khaki; }
 /* fluocinonide */
-#T_ce87e :is(.row0, .row2, .row3, .row4, .row5) { border-bottom: 3px solid black; }
+#T_ce87e :is(.row0, .row2, .row3, .row4, .row5) { border-bottom: 1px solid black; }
 #T_ce87e .row3.col1 { background-color: khaki; }
 #T_ce87e :is(.row6, .row4, .row5).col1 { background-color: thistle; }
 /* desonide */

@@ -71,16 +71,6 @@
         "7473144H"
     ],
     [
-        "TRIAXONE IV",
-        "500 mg",
-        "Pdre p.prep.injectable",
-        "B\/1 FL + S\/5 ml",
-        null,
-        "CEFTRIAXONE",
-        "JULPHAR",
-        "7473143H"
-    ],
-    [
         "CEFAXONE IM IV SC",
         "0,5 g",
         "Pdre p.prep.injectable",
@@ -89,6 +79,16 @@
         "CEFTRIAXONE",
         "UNIMED",
         9093504
+    ],
+    [
+        "TRIAXONE IV",
+        "500 mg",
+        "Pdre p.prep.injectable",
+        "B\/1 FL + S\/5 ml",
+        null,
+        "CEFTRIAXONE",
+        "JULPHAR",
+        "7473143H"
     ],
     [
         "TRIAXONE IM",
@@ -241,6 +241,16 @@
         9373602
     ],
     [
+        "SPIROGYL",
+        "0,75 MUI\/125 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/500",
+        null,
+        "METRONIDAZOLE+SPIRAMYCINE",
+        "SIPHAT",
+        "9003802H"
+    ],
+    [
         "BI-SPIROGYL",
         "1,5 MUI\/250 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -249,16 +259,6 @@
         "METRONIDAZOLE+SPIRAMYCINE",
         "SIPHAT",
         "9003813H"
-    ],
-    [
-        "SPIROGYL",
-        "750 mU\/125 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/500",
-        null,
-        "METRONIDAZOLE+SPIRAMYCINE",
-        "SIPHAT",
-        "9003802H"
     ],
     [
         "ODYCIN",
@@ -325,7 +325,7 @@
         "100 mg",
         "G\u00e9lules",
         "B\/28",
-        null,
+        "78,570",
         "ITRACONAZOLE",
         "OPALIA PHARMA",
         9023833
@@ -459,6 +459,16 @@
         "TACROLIMUS",
         "LEO PHARMA",
         5823102
+    ],
+    [
+        "ENTEROGERMINA",
+        "4 Milliards\/5 ml",
+        "Suspension buvable",
+        "B\/10 FL\/5 ml",
+        "18,920",
+        "BACILLUS CLAUSII SPORES POLYANTIBIO-RESISTANTS",
+        "OPELLA HEALTHCARE INTERNATIONAL SAS",
+        29693013
     ],
     [
         "EUCARBON",
@@ -701,6 +711,16 @@
         7473113
     ],
     [
+        "GLYSS NOURRISSONS",
+        null,
+        "Suppositoires",
+        "B\/20",
+        "6,500",
+        "GLYCERINE",
+        "OPALIA PHARMA S.A.",
+        9023307
+    ],
+    [
         "GLYSS ADULTES",
         null,
         "Suppositoires",
@@ -729,16 +749,6 @@
         "GLYCERINE",
         "OPALIA PHARMA",
         "9023304H"
-    ],
-    [
-        "GLYSS NOURRISSONS",
-        null,
-        "Suppositoires",
-        "B\/20",
-        "6,500",
-        "GLYCEROL",
-        "OPALIA PHARMA S.A.",
-        9023307
     ],
     [
         "NORMACOL LAVEMENT ENFANT",
@@ -781,6 +791,16 @@
         9023343
     ],
     [
+        "LACTULOSE",
+        null,
+        "Solution buvable",
+        "B\/20 Sachets-dose \/15 ml",
+        "7,495",
+        "LACTULOSE",
+        "OPALIA PHARMA",
+        9023342
+    ],
+    [
         "DUPHALAC",
         null,
         "Solution buvable",
@@ -789,16 +809,6 @@
         "LACTULOSE",
         "TERIAK",
         9253122
-    ],
-    [
-        "LACTULOSE",
-        null,
-        "Solution buvable",
-        "B\/20 Sachets-dose \/15 ml",
-        null,
-        "LACTULOSE",
-        "OPALIA PHARMA",
-        9023342
     ],
     [
         "PERILAX",
@@ -835,7 +845,7 @@
         null,
         "Solution buvable",
         "FL\/200 ml",
-        null,
+        "4,960",
         "LACTULOSE",
         "OPALIA PHARMA",
         9023341
@@ -871,26 +881,6 @@
         9293223
     ],
     [
-        "OSMOLAX",
-        "10 g",
-        "Poudre pour solution orale",
-        "B\/10",
-        "4,700",
-        "MACROGOL 4000",
-        "ADWYA",
-        9043883
-    ],
-    [
-        "TRANSITON",
-        "10 g",
-        "Poudre pour solution orale",
-        "B\/14 Sachets",
-        "6,210",
-        "MACROGOL 4000",
-        "GALPHARMA",
-        9223343
-    ],
-    [
         "ILAX",
         "4 g",
         "Poudre pour solution orale",
@@ -919,6 +909,26 @@
         "POLYETHYLENE GLYCOL",
         "ADWYA",
         null
+    ],
+    [
+        "OSMOLAX",
+        "10 g",
+        "Poudre pour solution orale",
+        "B\/10",
+        "4,700",
+        "POLYETHYLENE GLYCOL",
+        "ADWYA",
+        9043883
+    ],
+    [
+        "TRANSITON",
+        "10 g",
+        "Poudre pour solution orale",
+        "B\/14 Sachets",
+        "6,210",
+        "POLYETHYLENE GLYCOL",
+        "GALPHARMA",
+        9223343
     ],
     [
         "TRANSITON",
@@ -1136,7 +1146,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/60",
         "39,510",
-        "SITAGLIPTINE+METFORMINE",
+        "SITAGLIPTINE + METFORMINE",
         "SOCIETE THERA SA",
         9403191
     ],
@@ -1161,6 +1171,16 @@
         9164332
     ],
     [
+        "BI-GALVINE",
+        "50 mg\/ 850 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/60",
+        "47,250",
+        "VILDAGLIPTINE + METFORMINE",
+        "S.A.I.PH",
+        9164334
+    ],
+    [
         "GLIPTAMET",
         "50 mg\/850 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -1179,16 +1199,6 @@
         "VILDAGLIPTINE + METFORMINE",
         "NOVARTIS PHARMA SCHWEIZ AG",
         10283303
-    ],
-    [
-        "BI-GALVINE",
-        "50 mg\/ 850 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/60",
-        "47,250",
-        "VILDAGLIPTINE+METFORMINE",
-        "S.A.I.PH",
-        9164334
     ],
     [
         "APYROSIS DOUBLE ACTION MENTHE",
@@ -1651,16 +1661,6 @@
         "9000502H"
     ],
     [
-        "VITAMYL",
-        "1 g",
-        "Comprim\u00e9s effervescents",
-        "Tube\/10",
-        "1,750",
-        "VITAMINE C",
-        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
-        9273091
-    ],
-    [
         "VITAMINE C IPS",
         "500 mg",
         "Comprim\u00e9s \u00e0 sucer",
@@ -1711,6 +1711,16 @@
         "9000451H"
     ],
     [
+        "VITAMYL",
+        "1 g",
+        "Comprim\u00e9s effervescents",
+        "Tube\/10",
+        "1,750",
+        "VITAMINE C",
+        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
+        9273091
+    ],
+    [
         "UPSA-C",
         "1000 mg",
         "Comprim\u00e9s effervescents",
@@ -1756,7 +1766,7 @@
         "Solution pour prick-test cutan\u00e9",
         "B\/1 FL\/3 ml",
         null,
-        null,
+        "T\u00e9moin N\u00e9gatif",
         "STALLERGENES",
         3653051
     ],
@@ -2681,26 +2691,6 @@
         7883042
     ],
     [
-        "TROLAMINE NEITUM",
-        "0,67%",
-        "Emulsion",
-        "T\/93 gr",
-        null,
-        "TROLAMINE",
-        "ALEPT",
-        12133021
-    ],
-    [
-        "TROLAMINE NEITUM",
-        "0,67%",
-        "Emulsion",
-        "T\/186 gr",
-        null,
-        "TROLAMINE",
-        "ALEPT",
-        12133022
-    ],
-    [
         "BIAFINE",
         null,
         "Emulsion",
@@ -2711,6 +2701,16 @@
         11283011
     ],
     [
+        "TROLAMINE NEITUM",
+        "0,67%",
+        "Emulsion",
+        "T\/93 gr",
+        null,
+        "TROLAMINE",
+        "ALEPT",
+        12133021
+    ],
+    [
         "BIAFINE",
         null,
         "Emulsion",
@@ -2719,6 +2719,16 @@
         "TROLAMINE",
         "JOHNSON AND JOHNSON MIDDLE EAST FZ-LLC",
         11283012
+    ],
+    [
+        "TROLAMINE NEITUM",
+        "0,67%",
+        "Emulsion",
+        "T\/186 gr",
+        null,
+        "TROLAMINE",
+        "ALEPT",
+        12133022
     ],
     [
         "NIFLUMIC",
@@ -2831,16 +2841,6 @@
         6133012
     ],
     [
-        "PIASCLEDINE 300",
-        "300 mg",
-        "G\u00e9lules",
-        "B\/30",
-        null,
-        "EXTRAIT D'INSAPONIFIABLES D'AVOCAT ET SOJA",
-        "EXPANSCIENCE",
-        6133012
-    ],
-    [
         "STRUCTOFLEX",
         "625 mg",
         "G\u00e9lules",
@@ -2861,34 +2861,14 @@
         null
     ],
     [
-        "PROFENID",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/15",
-        "6,850",
-        "KETOPROFENE",
-        "WINTHROP PHARMA TUNISIE",
-        null
-    ],
-    [
-        "PROFENID",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        "12,525",
-        "KETOPROFENE",
-        "WINTHROP PHARMA TUNISIE",
-        null
-    ],
-    [
-        "PROFENID LP",
-        "200 mg",
-        "G\u00e9lules",
-        "B\/14",
-        "13,880",
-        "KETOPROFENE",
-        "WINTHROP PHARMA TUNISIE",
-        null
+        "XICALM",
+        "7,5 mg",
+        "Comprim\u00e9s orodispersibles",
+        "B\/18",
+        "8,790",
+        "MELOXICAM",
+        "OPALIA PHARMA S.A.",
+        9024081
     ],
     [
         "XICALM",
@@ -2899,16 +2879,6 @@
         "MELOXICAM",
         "OPALIA PHARMA S.A.",
         9024082
-    ],
-    [
-        "XICALM",
-        "7,5 mg",
-        "Comprim\u00e9s orodispersibles",
-        "B\/18",
-        "8,790",
-        "MELOXICAM",
-        "OPALIA PHARMA S.A.",
-        9024081
     ],
     [
         "UTP OPALIA",
@@ -2951,6 +2921,16 @@
         6163021
     ],
     [
+        "CHONDROSULF",
+        "400 mg",
+        "G\u00e9lules",
+        "B\/84",
+        "61,480",
+        "CHONDROITINE",
+        "GENEVRIER",
+        5583031
+    ],
+    [
         "CARTILUM",
         "500 mg",
         "G\u00e9lules",
@@ -2961,6 +2941,16 @@
         9363051
     ],
     [
+        "STRUCTUM",
+        "500 mg",
+        "G\u00e9lules",
+        "B\/60",
+        "35,230",
+        "CHONDROITINE",
+        "PIERRE FABRE MEDICAMENTS",
+        6063241
+    ],
+    [
         "CARTIFOR",
         "500 mg",
         "G\u00e9lules",
@@ -2969,26 +2959,6 @@
         "CHONDROITINE",
         "PHARMAGHREB",
         9014101
-    ],
-    [
-        "STRUCTUM",
-        "500 mg",
-        "G\u00e9lules",
-        "B\/60",
-        null,
-        "CHONDROITINE",
-        "PIERRE FABRE MEDICAMENT .",
-        6063241
-    ],
-    [
-        "CHONDROSULF",
-        "400 mg",
-        "G\u00e9lules",
-        "B\/84",
-        "61,480",
-        "CHONDROITINE SULFATE",
-        "GENEVRIER",
-        5583031
     ],
     [
         "SINOVIAL",
@@ -3135,7 +3105,7 @@
         null,
         "Gel dermique",
         "T\/70 gr",
-        null,
+        "3,560",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL",
         "OPALIA PHARMA",
         9023672
@@ -3171,16 +3141,6 @@
         9053011
     ],
     [
-        "FLECTOR TISSUGEL EP",
-        "1\u00a0%",
-        "Emplatre m\u00e9dicamenteux",
-        "Bt 5 Emplatres",
-        "25,125",
-        "DICLOFENAC",
-        "GENEVRIER",
-        null
-    ],
-    [
         "ITAMI",
         "140 mg",
         "Emplatre m\u00e9dicamenteux",
@@ -3189,6 +3149,16 @@
         "DICLOFENAC",
         "FIDIA SPA",
         7883051
+    ],
+    [
+        "FLECTOR TISSUGEL EP",
+        "1\u00a0%",
+        "Emplatre m\u00e9dicamenteux",
+        "Bt 5 Emplatres",
+        "25,125",
+        "DICLOFENAC",
+        "GENEVRIER",
+        null
     ],
     [
         "DICLOFEN GEL",
@@ -3226,7 +3196,7 @@
         "Gel dermique",
         "T\/50 gr",
         "4,120",
-        "IBUPROFENE",
+        "IBUPROFEN",
         "PHARMADERM",
         9053321
     ],
@@ -3236,7 +3206,7 @@
         "Gel dermique",
         "T\/50 gr",
         "5,005",
-        "IBUPROFENE",
+        "IBUPROFEN",
         "PHARMADERM",
         9053322
     ],
@@ -3246,7 +3216,7 @@
         "Gel dermique",
         "T\/50 gr",
         "5,755",
-        "IBUPROFENE",
+        "IBUPROFEN",
         "SIMED",
         null
     ],
@@ -3256,7 +3226,7 @@
         "Gel dermique",
         "T\/50 gr",
         "5,815",
-        "IBUPROFENE",
+        "IBUPROFEN",
         "SIMED",
         null
     ],
@@ -3492,13 +3462,13 @@
     ],
     [
         "TOBREX",
-        "0,3\u00a0%",
+        "0,30%",
         "Pommade ophtalmique",
         "T\/5 gr",
         "7,890",
         "TOBRAMYCINE",
         "NOVARTIS PHARMA SERVICES AG.",
-        null
+        6643054
     ],
     [
         "EUPHYTOSE",
@@ -3508,156 +3478,6 @@
         "8,595",
         "EXTRAITS DE PLANTES",
         "BAYER HEALTHCARE",
-        null
-    ],
-    [
-        "VESSEL",
-        "250 ULS",
-        "Capsule molle",
-        "B\/50",
-        null,
-        "SULODEXIDE",
-        "ALFASIGMA  S.p.A.",
-        6683081
-    ],
-    [
-        "EDIXOL 250",
-        "250 LSU",
-        "G\u00e9lules",
-        "B\/48",
-        null,
-        "SULODEXIDE",
-        "TAHA PHARMA",
-        9373421
-    ],
-    [
-        "VESSEL",
-        "600 UL",
-        "Solution injectable",
-        "B\/10\/2 ML",
-        null,
-        "SULODEXIDE",
-        "ALFASIGMA  S.p.A.",
-        6683082
-    ],
-    [
-        "ANTIXA",
-        "2,5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/180",
-        "105,240",
-        "APIXABAN",
-        "S.A.I.PH",
-        null
-    ],
-    [
-        "APIXADIS",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/14",
-        "12,240",
-        "APIXABAN",
-        "MEDIS",
-        9234113
-    ],
-    [
-        "APIXAN",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
-        "B\/15",
-        "13,000",
-        "APIXABAN",
-        "PHARMACARE",
-        9343474
-    ],
-    [
-        "ANTIXA",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/20",
-        "14,820",
-        "APIXABAN",
-        "SAIPH",
-        9164343
-    ],
-    [
-        "ELIXTRA",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/20",
-        "26,840",
-        "APIXABAN",
-        "OPALIA PHARMA S.A.",
-        9024242
-    ],
-    [
-        "ANTIXA",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/60",
-        "41,790",
-        "APIXABAN",
-        "SAIPH",
-        9164344
-    ],
-    [
-        "APIXAN",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
-        "B\/60",
-        "46,240",
-        "APIXABAN",
-        "PHARMACARE",
-        9343472
-    ],
-    [
-        "APIXADIS",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/60",
-        "51,240",
-        "APIXABAN",
-        "MEDIS",
-        9234114
-    ],
-    [
-        "ELIXTRA",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/60",
-        "68,140",
-        "APIXABAN",
-        "OPALIA PHARMA S.A.",
-        9024244
-    ],
-    [
-        "ELIQUIS",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/60",
-        "114,885",
-        "APIXABAN",
-        "PFIZER EXPORT B.V",
-        1673043
-    ],
-    [
-        "APIXADIS",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/180",
-        "95,240",
-        "APIXABAN",
-        "MEDIS",
-        9234116
-    ],
-    [
-        "ANTIXA",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/180",
-        "105,240",
-        "APIXABAN",
-        "S.A.I.PH",
         null
     ],
     [
@@ -3769,6 +3589,126 @@
         "APIXABAN",
         "MEDIS",
         9234115
+    ],
+    [
+        "ANTIXA",
+        "2,5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/180",
+        "105,240",
+        "APIXABAN",
+        "S.A.I.PH",
+        9164345
+    ],
+    [
+        "APIXADIS",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/14",
+        "12,240",
+        "APIXABAN",
+        "MEDIS",
+        9234113
+    ],
+    [
+        "APIXAN",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/15",
+        "13,000",
+        "APIXABAN",
+        "PHARMACARE",
+        9343474
+    ],
+    [
+        "ANTIXA",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/20",
+        "14,820",
+        "APIXABAN",
+        "SAIPH",
+        9164343
+    ],
+    [
+        "ELIXTRA",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/20",
+        "26,840",
+        "APIXABAN",
+        "OPALIA PHARMA S.A.",
+        9024242
+    ],
+    [
+        "ANTIXA",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/60",
+        "41,790",
+        "APIXABAN",
+        "SAIPH",
+        9164344
+    ],
+    [
+        "APIXAN",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/60",
+        "46,240",
+        "APIXABAN",
+        "PHARMACARE",
+        9343472
+    ],
+    [
+        "APIXADIS",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/60",
+        "51,240",
+        "APIXABAN",
+        "MEDIS",
+        9234114
+    ],
+    [
+        "ELIXTRA",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/60",
+        "68,140",
+        "APIXABAN",
+        "OPALIA PHARMA S.A.",
+        9024244
+    ],
+    [
+        "ELIQUIS",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/60",
+        "114,885",
+        "APIXABAN",
+        "PFIZER EXPORT B.V",
+        1673043
+    ],
+    [
+        "APIXADIS",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/180",
+        "95,240",
+        "APIXABAN",
+        "MEDIS",
+        9234116
+    ],
+    [
+        "ANTIXA",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/180",
+        "105,240",
+        "APIXABAN",
+        "S.A.I.PH",
+        9164346
     ],
     [
         "ARIXTRA",
@@ -4091,14 +4031,44 @@
         9223703
     ],
     [
+        "EDIXOL 250",
+        "250 LSU",
+        "G\u00e9lules",
+        "B\/48",
+        "25,605",
+        "SULODEXIDE",
+        "TAHA PHARMA",
+        9373421
+    ],
+    [
+        "VESSEL",
+        "250 ULS",
+        "Capsules molles",
+        "B\/50",
+        null,
+        "SULODEXIDE",
+        "ALFASIGMA  S.p.A.",
+        6683081
+    ],
+    [
         "TREPARIN",
         "250 ULS",
         "Capsules molles",
-        "B\/60 + inhalateur",
+        "B\/60",
         "40,200",
         "SULODEXIDE",
         "S.A.I.PH",
         9164432
+    ],
+    [
+        "VESSEL",
+        "600 UL",
+        "Solution injectable",
+        "B\/10\/2 ML",
+        null,
+        "SULODEXIDE",
+        "ALFASIGMA  S.p.A.",
+        6683082
     ],
     [
         "INIPLAC",
@@ -4172,16 +4142,6 @@
     ],
     [
         "CO-IRBESARTAN",
-        "300 mg\/25 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        "30,200",
-        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
-        "PFIZER PHARMACEUTICALS TUNISIE",
-        9243175
-    ],
-    [
-        "CO-IRBESARTAN",
         "150 mg\/12,5 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/30",
@@ -4201,14 +4161,14 @@
         9243174
     ],
     [
-        "VIACORAM",
-        "7 mg\/5 mg",
-        "Comprim\u00e9s",
-        "FL\/30",
-        "57,120",
-        "PERINDOPRIL+AMLODIPINE",
-        "SERVIER INTERNATIONAL",
-        6353202
+        "CO-IRBESARTAN",
+        "300 mg\/25 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/30",
+        "30,200",
+        "IRBESARTAN+HYDROCHLOROTHIAZIDE",
+        "PFIZER PHARMACEUTICALS TUNISIE",
+        9243175
     ],
     [
         "VIACORAM",
@@ -4219,6 +4179,16 @@
         "PERINDOPRIL+AMLODIPINE",
         "SERVIER INTERNATIONAL",
         6353201
+    ],
+    [
+        "VIACORAM",
+        "7 mg\/5 mg",
+        "Comprim\u00e9s",
+        "FL\/30",
+        "57,120",
+        "PERINDOPRIL+AMLODIPINE",
+        "SERVIER INTERNATIONAL",
+        6353202
     ],
     [
         "ODRIK",
@@ -4262,6 +4232,16 @@
     ],
     [
         "CO-VALSARTAN",
+        "80 mg\/12,5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/30",
+        "26,785",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
+        "WINTHROP PHARMA TUNISIE",
+        null
+    ],
+    [
+        "CO-VALSARTAN",
         "160 mg\/25 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/30",
@@ -4281,16 +4261,6 @@
         9353213
     ],
     [
-        "CO-VALSARTAN",
-        "80 mg\/12,5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        "26,785",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "WINTHROP PHARMA TUNISIE",
-        null
-    ],
-    [
         "ENTRESTO",
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4299,26 +4269,6 @@
         "VALSARTAN+SACUBITRIL",
         "NOVARTIS PHARMA SERVICES AG.",
         10283371
-    ],
-    [
-        "ENTRESTO",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/56",
-        "271,330",
-        "VALSARTAN+SACUBITRIL",
-        "NOVARTIS PHARMA SERVICES AG.",
-        10283372
-    ],
-    [
-        "ENTRESTO",
-        "200 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/56",
-        "271,330",
-        "VALSARTAN+SACUBITRIL",
-        "NOVARTIS PHARMA SERVICES AG.",
-        10283373
     ],
     [
         "SACUVAL 50",
@@ -4331,6 +4281,16 @@
         9353291
     ],
     [
+        "ENTRESTO",
+        "100 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/56",
+        "271,330",
+        "VALSARTAN+SACUBITRIL",
+        "NOVARTIS PHARMA SERVICES AG.",
+        10283372
+    ],
+    [
         "SACUVAL 100",
         "48,6 mg\/51,4 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4339,6 +4299,16 @@
         "VALSARTAN+SACUBITRIL",
         "PHILADELPHIA PHARMA",
         9353292
+    ],
+    [
+        "ENTRESTO",
+        "200 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/56",
+        "271,330",
+        "VALSARTAN+SACUBITRIL",
+        "NOVARTIS PHARMA SERVICES AG.",
+        10283373
     ],
     [
         "SACUVAL 200",
@@ -4445,7 +4415,7 @@
         "500 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/30",
-        null,
+        "15,235",
         "DIOSMINE+HESPERIDINE",
         "TERIAK",
         9253891
@@ -4811,6 +4781,16 @@
         9373451
     ],
     [
+        "VIAGRA",
+        "25 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "22,465",
+        "SILDENAFIL",
+        "Upjohn EESV",
+        25603023
+    ],
+    [
         "VIADIS",
         "25 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4819,16 +4799,6 @@
         "SILDENAFIL",
         "LES LABORATOIRES MEDIS",
         9233661
-    ],
-    [
-        "VIAGRA",
-        "25 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "Upjohn EESV",
-        25603023
     ],
     [
         "VIATEC",
@@ -4855,7 +4825,7 @@
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/1",
-        null,
+        "3,160",
         "SILDENAFIL",
         "IBN AL BAYTAR",
         9073651
@@ -4865,7 +4835,7 @@
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/2",
-        null,
+        "5,160",
         "SILDENAFIL",
         "IBN AL BAYTAR",
         9073652
@@ -4891,6 +4861,26 @@
         35773132
     ],
     [
+        "ADENAFIL",
+        "50 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/4",
+        "9,160",
+        "SILDENAFIL",
+        "IBN AL BAYTAR",
+        9073653
+    ],
+    [
+        "SILDENAFIL-ACTAVIS",
+        "50 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "11,620",
+        "SILDENAFIL",
+        "ACTAVIS Group PTC ehf",
+        10243121
+    ],
+    [
         "VIATEC",
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4901,14 +4891,14 @@
         9044083
     ],
     [
-        "ADENAFIL",
+        "VIAGRA",
         "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "Comprim\u00e9s pellicul\u00e9s",
         "B\/4",
-        null,
+        "25,415",
         "SILDENAFIL",
-        "IBN AL BAYTAR",
-        9073653
+        "Upjohn EESV",
+        25603022
     ],
     [
         "ERECTA",
@@ -4931,16 +4921,6 @@
         9163921
     ],
     [
-        "SILDENAFIL-ACTAVIS",
-        "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "ACTAVIS Group PTC ehf",
-        10243121
-    ],
-    [
         "VIADIS",
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4949,16 +4929,6 @@
         "SILDENAFIL",
         "LES LABORATOIRES MEDIS",
         9233662
-    ],
-    [
-        "VIAGRA",
-        "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "Upjohn EESV",
-        25603022
     ],
     [
         "VIAMAXIM",
@@ -5011,16 +4981,6 @@
         9163922
     ],
     [
-        "VIATEC",
-        "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "SILDENAFIL",
-        "ADWYA",
-        9044084
-    ],
-    [
         "VIAMAXIM",
         "50 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5029,6 +4989,16 @@
         "SILDENAFIL",
         "GALPHARMA",
         9223443
+    ],
+    [
+        "VIATEC",
+        "50 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "SILDENAFIL",
+        "ADWYA",
+        9044084
     ],
     [
         "EXTEMENT",
@@ -5051,6 +5021,26 @@
         9373453
     ],
     [
+        "VIADIS",
+        "100 mg",
+        "Comprim\u00e9s",
+        "B\/4",
+        "15,740",
+        "SILDENAFIL",
+        "LES LABORATOIRES MEDIS",
+        9233663
+    ],
+    [
+        "SILDENAFIL-ACTAVIS",
+        "100 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "15,760",
+        "SILDENAFIL",
+        "ACTAVIS Group PTC ehf",
+        10243122
+    ],
+    [
         "VIATEC",
         "100 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5059,6 +5049,16 @@
         "SILDENAFIL",
         "ADWYA",
         9044085
+    ],
+    [
+        "VIAGRA",
+        "100 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "29,790",
+        "SILDENAFIL",
+        "Upjohn EESV",
+        25603021
     ],
     [
         "ERECTA",
@@ -5081,36 +5081,6 @@
         9163923
     ],
     [
-        "SILDENAFIL-ACTAVIS",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "ACTAVIS Group PTC ehf",
-        10243122
-    ],
-    [
-        "VIADIS",
-        "100 mg",
-        "Comprim\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "LES LABORATOIRES MEDIS",
-        9233663
-    ],
-    [
-        "VIAGRA",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "Upjohn EESV",
-        25603021
-    ],
-    [
         "VIAMAXIM",
         "100 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5131,16 +5101,6 @@
         "ST9023984"
     ],
     [
-        "VIATEC",
-        "100 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "SILDENAFIL",
-        "ADWYA",
-        9044086
-    ],
-    [
         "VIAMAXIM",
         "100 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5149,6 +5109,16 @@
         "SILDENAFIL",
         "GALPHARMA",
         9223444
+    ],
+    [
+        "VIATEC",
+        "100 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "SILDENAFIL",
+        "ADWYA",
+        9044086
     ],
     [
         "CIAPLUS",
@@ -5191,6 +5161,16 @@
         9213374
     ],
     [
+        "TEROS",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/30",
+        "38,640",
+        "TADALAFIL",
+        "TERIAK",
+        9253835
+    ],
+    [
         "BIFOR5",
         "5 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5199,16 +5179,6 @@
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353115
-    ],
-    [
-        "TEROS",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        null,
-        "TADALAFIL",
-        "TERIAK",
-        9253835
     ],
     [
         "TADAPLUS",
@@ -5245,7 +5215,7 @@
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/4",
-        null,
+        "10,480",
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353114
@@ -5255,20 +5225,10 @@
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/4",
-        null,
+        "12,400",
         "TADALAFIL",
         "ADWYA",
         9044231
-    ],
-    [
-        "TEROS",
-        "10 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "TADALAFIL",
-        "TERIAK",
-        9253831
     ],
     [
         "TADAPLUS",
@@ -5279,6 +5239,16 @@
         "TADALAFIL",
         "SAIPH",
         9164122
+    ],
+    [
+        "TEROS",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        null,
+        "TADALAFIL",
+        "TERIAK",
+        9253831
     ],
     [
         "TADAMAX",
@@ -5295,20 +5265,10 @@
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/8",
-        null,
+        "24,560",
         "TADALAFIL",
         "ADWYA",
         9044232
-    ],
-    [
-        "TEROS",
-        "10 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "TADALAFIL",
-        "TERIAK",
-        9253833
     ],
     [
         "TADAPLUS",
@@ -5321,11 +5281,21 @@
         9164123
     ],
     [
+        "TEROS",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "TADALAFIL",
+        "TERIAK",
+        9253833
+    ],
+    [
         "BIFOR10",
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/10",
-        null,
+        "17,240",
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353111
@@ -5351,6 +5321,16 @@
         9343202
     ],
     [
+        "CIAPLUS",
+        "20 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "18,745",
+        "TADALAFIL",
+        "ADWYA",
+        9044233
+    ],
+    [
         "BIFOR20",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5361,16 +5341,6 @@
         9353113
     ],
     [
-        "CIAPLUS",
-        "20 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "TADALAFIL",
-        "ADWYA",
-        9044233
-    ],
-    [
         "TADALIS",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
@@ -5379,6 +5349,16 @@
         "TADALAFIL",
         "DAR-ESSAYDALI.",
         9213371
+    ],
+    [
+        "TADAPLUS",
+        "20 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        null,
+        "TADALAFIL",
+        "SAIPH",
+        9164124
     ],
     [
         "TEROS",
@@ -5401,16 +5381,6 @@
         9233771
     ],
     [
-        "TADAPLUS",
-        "20 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "TADALAFIL",
-        "SAIPH",
-        9164124
-    ],
-    [
         "TADAMAX",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
@@ -5431,34 +5401,24 @@
         9343203
     ],
     [
-        "CIAPLUS",
-        "20 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/8",
-        null,
-        "TADALAFIL",
-        "ADWYA",
-        9044234
-    ],
-    [
         "TADALIS",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/8",
-        null,
+        "30,090",
         "TADALAFIL",
         "DAR-ESSAYDALI.",
         9213372
     ],
     [
-        "TEROS",
+        "CIAPLUS",
         "20 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/8",
-        null,
+        "37,255",
         "TADALAFIL",
-        "TERIAK",
-        9253834
+        "ADWYA",
+        9044234
     ],
     [
         "TADAPLUS",
@@ -5469,6 +5429,16 @@
         "TADALAFIL",
         "SAIPH",
         9164125
+    ],
+    [
+        "TEROS",
+        "20 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/8",
+        null,
+        "TADALAFIL",
+        "TERIAK",
+        9253834
     ],
     [
         "BIFOR20",
@@ -6171,6 +6141,16 @@
         null
     ],
     [
+        "ALZHECEPT",
+        "5 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/30",
+        "69,240",
+        "DONEPEZIL",
+        "TAHA PHARMA",
+        9373441
+    ],
+    [
         "NOROCEPT",
         "5 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -6179,16 +6159,6 @@
         "DONEPEZIL",
         "ADWYA",
         9044181
-    ],
-    [
-        "ALZHECEPT",
-        "5 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        null,
-        "DONEPEZIL",
-        "TAHA PHARMA",
-        9373441
     ],
     [
         "ARIZIL",
@@ -6251,6 +6221,16 @@
         null
     ],
     [
+        "ALZHECEPT",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/30",
+        "69,240",
+        "DONEPEZIL",
+        "TAHA PHARMA",
+        9373442
+    ],
+    [
         "NOROCEPT",
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -6259,16 +6239,6 @@
         "DONEPEZIL",
         "ADWYA",
         9044182
-    ],
-    [
-        "ALZHECEPT",
-        "10 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/30",
-        null,
-        "DONEPEZIL",
-        "TAHA PHARMA",
-        9373442
     ],
     [
         "ARIZIL",
@@ -6415,50 +6385,20 @@
         "0,75 mg\/ml",
         "Gouttes buvables",
         "FL\/20 ml",
-        null,
+        "7,955",
         "ALPRAZOLAM",
         "VIATRIS INTERNATIONAL",
-        null
-    ],
-    [
-        "CALCIDRONAT",
-        "2 g",
-        "Comprim\u00e9s effervescents",
-        "T\/20",
-        "13,400",
-        "CALCIUMBRMOLACTOBIONATE",
-        "DES GRANIONS",
-        11273011
+        8013043
     ],
     [
         "CALCIBRONAT",
         "2 g",
         "Comprim\u00e9s effervescents",
         "T\/20",
-        null,
+        "13,400",
         "CALCIUMBRMOLACTOBIONATE",
         "EQUILIBRE ATTITUDE",
         11273011
-    ],
-    [
-        "REAGILA",
-        "3 mg",
-        "G\u00e9lules",
-        "B\/30",
-        "171,845",
-        "CARIPRAZINE",
-        "BOUCHARA-RECORDATI",
-        6673132
-    ],
-    [
-        "REAGILA",
-        "6 mg",
-        "G\u00e9lules",
-        "B\/30",
-        "171,845",
-        "CARIPRAZINE",
-        "BOUCHARA-RECORDATI",
-        6673134
     ],
     [
         "REAGILA",
@@ -6472,6 +6412,16 @@
     ],
     [
         "REAGILA",
+        "3 mg",
+        "G\u00e9lules",
+        "B\/30",
+        "171,845",
+        "CARIPRAZINE",
+        "BOUCHARA-RECORDATI",
+        6673132
+    ],
+    [
+        "REAGILA",
         "4,5 mg",
         "G\u00e9lules",
         "B\/30",
@@ -6479,6 +6429,16 @@
         "CARIPRAZINE",
         "BOUCHARA-RECORDATI",
         6673133
+    ],
+    [
+        "REAGILA",
+        "6 mg",
+        "G\u00e9lules",
+        "B\/30",
+        "171,845",
+        "CARIPRAZINE",
+        "BOUCHARA-RECORDATI",
+        6673134
     ],
     [
         "STRESAM",
@@ -6781,6 +6741,16 @@
         9043231
     ],
     [
+        "MUXOL",
+        "30 mg",
+        "Comprim\u00e9s",
+        "B\/30",
+        "4,830",
+        "AMBROXOL",
+        "BIOCODEX",
+        5193071
+    ],
+    [
         "ACTICIL",
         "30 mg",
         "Comprim\u00e9s",
@@ -6791,16 +6761,6 @@
         9223451
     ],
     [
-        "MUXOL",
-        "30 mg",
-        "Comprim\u00e9s",
-        "B\/30",
-        null,
-        "AMBROXOL",
-        "BIOCODEX",
-        5193071
-    ],
-    [
         "AMBROGAM 0.3%",
         "0,3\u00a0%",
         "Solution buvable",
@@ -6809,6 +6769,16 @@
         "AMBROXOL",
         "PHARMAGHREB",
         9013491
+    ],
+    [
+        "SURBRONC",
+        "30 mg\/5 ml",
+        "Solution buvable",
+        "FL\/150 ml",
+        null,
+        "AMBROXOL",
+        "BOEHRINGER INGELHEIM FRANCE",
+        5213062
     ],
     [
         "MUXOL",
@@ -6871,16 +6841,6 @@
         9253322
     ],
     [
-        "SURBRONC",
-        "30 mg\/5 ml",
-        "Solution buvable",
-        "FL\/150 ml",
-        null,
-        "AMBROXOL",
-        "BOEHRINGER INGELHEIM FRANCE",
-        5213062
-    ],
-    [
         "BROMHEXINE",
         "4 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -6888,16 +6848,6 @@
         "5,040",
         "BROMHEXINE",
         "S.I.PHA.T",
-        null
-    ],
-    [
-        "BROMHEXINE",
-        "4 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/40",
-        null,
-        "BROMHEXINE",
-        "SIPHAT",
         9003141
     ],
     [
@@ -6925,7 +6875,7 @@
         "0,2 %",
         "Solution buvable",
         "FL\/60 ml",
-        "0,200",
+        null,
         "BROMHEXINE",
         "OPALIA PHARMA",
         9023461
@@ -6935,7 +6885,7 @@
         "4 mg\/5 ml",
         "Sirop",
         "FL\/100 ml",
-        null,
+        "3,720",
         "BROMHEXINE",
         "JULPHAR",
         7473042
@@ -7095,7 +7045,7 @@
         "5%",
         "Sirop",
         "FL\/180 ml",
-        null,
+        "2,800",
         "CARBOCISTEINE",
         "WEST PHARMA",
         9293231
@@ -7151,6 +7101,16 @@
         9083021
     ],
     [
+        "RHINATHIOL",
+        "5%",
+        "Sirop",
+        "FL\/300 ml",
+        "6,375",
+        "CARBOCISTEINE",
+        "SANOFI AVENTIS PHARMA TUNISIE",
+        "ST9263052"
+    ],
+    [
         "MUCOLARE",
         "5%",
         "Sirop",
@@ -7189,16 +7149,6 @@
         "CARBOCISTEINE",
         "WINTHROP PHARMA TUNISIE",
         "ST9103942"
-    ],
-    [
-        "RHINATHIOL",
-        "5%",
-        "Sirop",
-        "FL\/300 ml",
-        null,
-        "CARBOCISTEINE",
-        "SANOFI AVENTIS PHARMA TUNISIE",
-        "ST9263052"
     ],
     [
         "MUCOSOL ADULTE",
@@ -7326,7 +7276,7 @@
         "Sirop",
         "FL\/150 ml",
         "3,060",
-        "CODEINE+EUCALYPTOL+GAIACOL ",
+        "CODEINE+EUCALYPTOL+GAIACOL",
         "S.I.PHA.T",
         null
     ],
@@ -7391,6 +7341,16 @@
         9223302
     ],
     [
+        "NOVATOUX ADULTES TOUX S\u00c8CHE 0.3 %",
+        "15 mg\/5 ml",
+        "Sirop",
+        "FL\/150 ml",
+        "4,490",
+        "DEXTROMETHORPHANE",
+        "ADWYA",
+        9044272
+    ],
+    [
         "RHUVEX ADULTE TOUX SECHE",
         "0,3\u00a0%",
         "Sirop",
@@ -7429,16 +7389,6 @@
         "DEXTROMETHORPHANE",
         "ELERTE FRANCE",
         14803011
-    ],
-    [
-        "NOVATOUX ADULTES TOUX S\u00c8CHE 0.3 %",
-        "15 mg\/5 ml",
-        "Sirop",
-        "FL\/150 ml",
-        "4,490",
-        "DEXTROMETHORPHANE",
-        "ADWYA",
-        9044272
     ],
     [
         "TUSSIPAX ENFANT",
@@ -7611,14 +7561,14 @@
         7493081
     ],
     [
-        "FIBREX SANS SUCRE ADULTE",
-        "500 mg\/25 mg\/200 mg",
-        "Granul\u00e9s pour solution buvable",
-        "B\/8 Sachets",
+        "GRIPEX ADULTES",
         null,
+        "Poudre pour solution orale",
+        "B\/8 Sachets",
+        "3,245",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "PHARMACARE",
-        9343233
+        "GALPHARMA",
+        9223162
     ],
     [
         "GRIPEX ENFANTS",
@@ -7639,6 +7589,26 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "ADWYA",
         9044141
+    ],
+    [
+        "GRIPEX SANS SUCRE ADULTES",
+        null,
+        "Poudre pour solution orale",
+        "B\/8 Sachets",
+        "4,040",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "GALPHARMA",
+        9223163
+    ],
+    [
+        "RHUVEX ADULTE SANS SUCRE",
+        null,
+        "Granul\u00e9s pour suspension buvable",
+        "B\/8 Sachets",
+        "4,115",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "TERIAK",
+        9253491
     ],
     [
         "RHUVEX ADULTE",
@@ -7671,16 +7641,6 @@
         9253871
     ],
     [
-        "GRIPEX ADULTES",
-        null,
-        "Poudre pour solution orale",
-        "B\/8 Sachets",
-        null,
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
-        9223162
-    ],
-    [
         "GRIPEX ENFANTS",
         null,
         "Poudre pour solution orale",
@@ -7689,26 +7649,6 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "GALPHARMA",
         9223161
-    ],
-    [
-        "GRIPEX SANS SUCRE ADULTES",
-        null,
-        "Poudre pour solution orale",
-        "B\/8 Sachets",
-        null,
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
-        9223163
-    ],
-    [
-        "RHUVEX ADULTE SANS SUCRE",
-        null,
-        "Granul\u00e9s pour suspension buvable",
-        "B\/8 Sachets",
-        null,
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "TERIAK",
-        9253491
     ],
     [
         "RHUVEX ENFANT",
@@ -7751,6 +7691,16 @@
         9223165
     ],
     [
+        "GRIPEX ADULTES",
+        null,
+        "Poudre pour solution orale",
+        "B\/12 Sachets",
+        null,
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "GALPHARMA",
+        null
+    ],
+    [
         "GRIPEX ENFANTS",
         null,
         "Poudre pour solution orale",
@@ -7779,16 +7729,6 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "ADWYA",
         9044142
-    ],
-    [
-        "GRIPEX ADULTES",
-        null,
-        "Poudre pour solution orale",
-        "B\/12 Sachets",
-        null,
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
-        null
     ],
     [
         "FERVEX ENFANT",
@@ -7895,17 +7835,7 @@
         "3000 U",
         "Comprim\u00e9s enrob\u00e9s",
         "B\/24",
-        null,
-        "ALPHA-AMYLASE",
-        "WINTHROP PHARMA TUNISIE",
-        9103931
-    ],
-    [
-        "MAXILASE",
-        "3000 U",
-        "Comprim\u00e9s enrob\u00e9s",
-        "B\/24",
-        null,
+        "5,695",
         "ALPHA-AMYLASE",
         "SANOFI AVENTIS PHARMA TUNISIE",
         "ST9263062"
@@ -7929,16 +7859,6 @@
         "ALPHA-AMYLASE",
         "SANOFI-AVENTIS PHARMA TUNISIE",
         "ST9263061"
-    ],
-    [
-        "MAXILASE",
-        null,
-        "Sirop",
-        "FL\/125 ml",
-        null,
-        "ALPHA-AMYLASE",
-        "WINTHROP PHARMA TUNISIE",
-        "ST9103932"
     ],
     [
         "HUMEX MAL DE GORGE MENTHE SANS SUCRE",
@@ -8135,7 +8055,7 @@
         null,
         "Sirop",
         "FL\/100 ml",
-        null,
+        "2,425",
         "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE",
         "SIMED",
         9083311
@@ -8217,7 +8137,7 @@
         "FL\/10 ml",
         "4,670",
         "XYLOMETAZOLINE",
-        "DT-TEC-01\/02",
+        "AMMAN PHARMACEUTICAL INDUSTRIES",
         3693051
     ]
 ]
