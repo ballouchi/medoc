@@ -211,16 +211,6 @@
         9024263
     ],
     [
-        "TAMIZOL",
-        "500 mg",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
-        "B\/14",
-        "3,710",
-        "METRONIDAZOLE",
-        "GALPHARMA",
-        9223273
-    ],
-    [
         "NIDAZOLE",
         "500 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -231,11 +221,21 @@
         9343372
     ],
     [
+        "TAMIZOL",
+        "500 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/14",
+        "4,710",
+        "METRONIDAZOLE",
+        "GALPHARMA",
+        9223273
+    ],
+    [
         "FLAMET",
         "500 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/20",
-        "5,840",
+        "6,720",
         "METRONIDAZOLE",
         "TAHA PHARMA",
         9373602
@@ -265,7 +265,7 @@
         "0,5\u00a0%",
         "Collyre",
         "FL\/3 ml",
-        "5,995",
+        "6,910",
         "MOXIFLOXACINE",
         "ADWYA",
         9044431
@@ -565,7 +565,7 @@
         "1 g",
         "Comprim\u00e9s effervescents",
         "Tube\/10",
-        "2,490",
+        "3,235",
         "CALCIUM+VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9133151
@@ -599,6 +599,16 @@
         "CHLORURE DE POTASSIUM",
         "DESMA GMBH",
         null
+    ],
+    [
+        "FRUBIOSE CALCIQUE FAIBLE",
+        null,
+        "Solution buvable",
+        "B\/20 Ampoules\/5 ml",
+        "7,470",
+        "ERGOCALCIFEROL+CALCIUM LACTATE+CALCIUM GLUCONATE",
+        "S.I.PHA.T",
+        9003502
     ],
     [
         "MAG 2",
@@ -945,7 +955,7 @@
         "4 g",
         "Poudre pour solution orale",
         "B\/20 Sachets",
-        "4,655",
+        "6,050",
         "POLYETHYLENE GLYCOL",
         "GALPHARMA",
         null
@@ -955,7 +965,7 @@
         "4 g",
         "Poudre pour solution orale",
         "B\/20 Sachets",
-        "5,140",
+        "6,170",
         "POLYETHYLENE GLYCOL",
         "ADWYA",
         null
@@ -965,7 +975,7 @@
         "10 g",
         "Poudre pour solution orale",
         "B\/10",
-        "4,700",
+        "6,110",
         "POLYETHYLENE GLYCOL",
         "ADWYA",
         9043883
@@ -975,7 +985,7 @@
         "10 g",
         "Poudre pour solution orale",
         "B\/14 Sachets",
-        "6,210",
+        "7,450",
         "POLYETHYLENE GLYCOL",
         "GALPHARMA",
         9223343
@@ -991,16 +1001,6 @@
         null
     ],
     [
-        "OSMOLAX",
-        "10 g",
-        "Poudre pour solution orale",
-        "B\/20 Sachets",
-        "9,820",
-        "POLYETHYLENE GLYCOL",
-        "ADWYA",
-        null
-    ],
-    [
         "ILAX",
         "10 g",
         "Poudre pour solution orale",
@@ -1011,11 +1011,21 @@
         null
     ],
     [
+        "OSMOLAX",
+        "10 g",
+        "Poudre pour solution orale",
+        "B\/20 Sachets",
+        "11,785",
+        "POLYETHYLENE GLYCOL",
+        "ADWYA",
+        null
+    ],
+    [
         "SORBITOL",
         "5 g",
         "Poudre pour suspension orale",
         "B\/20 Sachets",
-        "3,485",
+        "4,790",
         "SORBITOL",
         "S.I.PHA.T",
         9003041
@@ -1355,7 +1365,7 @@
         "0,15\u00a0%",
         "Solut\u00e9 buccal",
         "FL\/120 ml",
-        "3,500",
+        "4,550",
         "BENZYDAMINE",
         "ADWYA",
         9044501
@@ -1375,7 +1385,7 @@
         null,
         "Solut\u00e9 buccal",
         "FL\/120 ml",
-        null,
+        "3,900",
         "BENZYDAMINE",
         "OPALIA PHARMA S.A.",
         null
@@ -1415,7 +1425,7 @@
         "0,5 ml\/0,5 g",
         "Solut\u00e9 buccal",
         "FL\/200 ml",
-        "9,680",
+        "11,615",
         "CHLORHEXIDINE+CHLORBUTANOL",
         "SIMED",
         9083013
@@ -1435,7 +1445,7 @@
         "2%",
         "Gel buccal",
         "T\/60 gr",
-        "4,810",
+        "5,941",
         "LIDOCAINE",
         "PHARMADERM",
         null
@@ -1485,7 +1495,7 @@
         "10\u00a0%",
         "Solut\u00e9 buccal",
         "FL\/125 ml",
-        "4,510",
+        "5,863",
         "POLYVIDONE IODEE",
         "PHARMADERM",
         9053167
@@ -1575,7 +1585,7 @@
         null,
         "Ampoules buvables",
         "C\/20\/10 ml",
-        "9,565",
+        "11,800",
         "SORBITOL+CHOLINE",
         "S.I.PHA.T",
         9000341
@@ -1595,7 +1605,7 @@
         "250 mg\/100 mg\/20 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/24",
-        "4,900",
+        "6,370",
         "ARGININE+VITAMINE B1+VITAMINE B6",
         "ADWYA",
         9044451
@@ -1685,7 +1695,7 @@
         "100 mg",
         "Solution injectable",
         "B\/4\/2 ml",
-        "4,670",
+        "5,280",
         "VITAMINE B1",
         "S.I.PHA.T",
         "ST9000371"
@@ -1725,7 +1735,7 @@
         "500 mg",
         "Comprim\u00e9s \u00e0 sucer",
         "B\/2 Tubes\/10",
-        "2,485",
+        "3,415",
         "VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9273101
@@ -1735,7 +1745,7 @@
         "500 mg",
         "Comprim\u00e9s",
         "B\/20",
-        "2,740",
+        "3,480",
         "VITAMINE C",
         "S.I.PHA.T",
         9000451
@@ -1745,7 +1755,7 @@
         "500 mg",
         "Comprim\u00e9s \u00e0 sucer",
         "B\/20",
-        "3,085",
+        "4,240",
         "VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         "9133071b"
@@ -1775,7 +1785,7 @@
         "1 g",
         "Comprim\u00e9s effervescents",
         "Tube\/10",
-        "1,750",
+        "2,340",
         "VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9273091
@@ -1785,7 +1795,7 @@
         "1000 mg",
         "Comprim\u00e9s effervescents",
         "B\/10",
-        "2,640",
+        "3,430",
         "VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         "9133011A"
@@ -2301,11 +2311,21 @@
         5553011
     ],
     [
+        "VITAPRED 1",
+        "1 mg",
+        "Comprim\u00e9s orodispersibles",
+        "FL\/30",
+        "7,060",
+        "PREDNISOLONE",
+        "TAHA PHARMA",
+        9373045
+    ],
+    [
         "VITAPRED",
         "1 mg\/ml",
         "Solution buvable",
         "FL\/50 ml",
-        "5,330",
+        "6,110",
         "PREDNISOLONE",
         "TAHA PHARMA",
         93730410
@@ -2375,7 +2395,7 @@
         "1\u00a0%",
         "Poudre \u00e0 usage externe",
         "FL\/30 gr",
-        "7,200",
+        "8,880",
         "ECONAZOLE",
         "PHARMAGHREB",
         9013973
@@ -2475,7 +2495,7 @@
         "10 g\/100 g",
         "Solution externe",
         "FL\/5 ml  + Applicateur",
-        "5,075",
+        "6,090",
         "ACIDE SALICYLIQUE+COLLODION OFFICINAL",
         "PHARMAGHREB",
         9013021
@@ -2505,7 +2525,7 @@
         "500 mg",
         "G\u00e9lules",
         "B\/20",
-        "3,185",
+        "4,140",
         "CYSTEINE",
         "GALPHARMA",
         9223141
@@ -2625,7 +2645,7 @@
         null,
         "Pommade dermique",
         "T\/20 gr",
-        "3,590",
+        "4,667",
         "OXYDE DE ZINC",
         "PHARMADERM",
         9053022
@@ -2641,11 +2661,21 @@
         9053021
     ],
     [
+        "VASELINE",
+        null,
+        "Pommade dermique",
+        "T\/20 gr",
+        "1,750",
+        "VASELINE",
+        "S.I.PHA.T",
+        9003411
+    ],
+    [
         "DERMOVIT A+D",
         null,
         "Pommade dermique",
         "T\/35 gr",
-        "5,005",
+        "5,660",
         "VITAMINE A+VITAMINE D+ZINC OXYDE",
         "S.I.PHA.T",
         9000461
@@ -2825,7 +2855,7 @@
         "3,00%",
         "Cr\u00e8me dermique",
         "T\/60 gr",
-        "2,450",
+        "3,090",
         "ACIDE NIFLUMIQUE",
         "S.I.PHA.T",
         null
@@ -2835,7 +2865,7 @@
         "3,00%",
         "Cr\u00e8me dermique",
         "T\/60 gr",
-        "5,150",
+        "6,383",
         "ACIDE NIFLUMIQUE",
         "PHARMADERM",
         null
@@ -2845,7 +2875,7 @@
         "2,5\u00a0%",
         "Gel dermique",
         "T\/60 gr",
-        "4,650",
+        "6,215",
         "ACIDE NIFLUMIQUE",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         null
@@ -2855,7 +2885,7 @@
         "2,5\u00a0%",
         "Gel dermique",
         "T\/60 gr",
-        "5,815",
+        "6,980",
         "ACIDE NIFLUMIQUE",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         null
@@ -2865,7 +2895,7 @@
         "3,00%",
         "Pommade dermique",
         "T\/60 gr",
-        "2,845",
+        "3,700",
         "ACIDE NIFLUMIQUE",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         null
@@ -2955,7 +2985,7 @@
         "125 mg",
         "Suppositoires",
         "B\/10",
-        "7,365",
+        "8,550",
         "IBUPROFEN",
         "SIMED",
         null
@@ -3135,7 +3165,7 @@
         null,
         "Baume",
         "T\/70 gr",
-        "3,530",
+        "4,330",
         "MEPHENESINE",
         "S.I.PHA.T",
         null
@@ -3255,7 +3285,7 @@
         "1\u00a0%",
         "Gel dermique",
         "T\/50 gr",
-        "4,580",
+        "5,640",
         "DICLOFENAC",
         "PHARMAGHREB",
         null
@@ -3269,16 +3299,6 @@
         "ESSENCES NATURELLES+SALICYLAMIDE",
         "MAYOLY SPINDLER",
         5910011
-    ],
-    [
-        "CLIPTOL",
-        "5%",
-        "Gel dermique",
-        "T\/50 gr",
-        "9,935",
-        "IBUPROFEN+MENTHOL",
-        "PIERRE FABRE MEDICAMENT .",
-        6063301
     ],
     [
         "ADOFEN",
@@ -3305,7 +3325,7 @@
         "5%",
         "Gel dermique",
         "T\/50 gr",
-        "5,755",
+        "6,905",
         "IBUPROFEN",
         "SIMED",
         null
@@ -3315,17 +3335,27 @@
         "5%",
         "Gel dermique",
         "T\/50 gr",
-        "5,815",
+        "6,980",
         "IBUPROFEN",
         "SIMED",
         null
+    ],
+    [
+        "CLIPTOL",
+        "5%",
+        "Gel dermique",
+        "T\/50 gr",
+        "9,935",
+        "IBUPROFEN+MENTHOL",
+        "PIERRE FABRE MEDICAMENT .",
+        6063301
     ],
     [
         "KETOPROGEL",
         "2,5\u00a0%",
         "Gel dermique",
         "T\/50 gr",
-        "3,935",
+        "4,804",
         "KETOPROFENE",
         "PHARMADERM",
         9053241
@@ -3335,7 +3365,7 @@
         "2,5\u00a0%",
         "Gel dermique",
         "T\/50 gr",
-        "6,155",
+        "7,100",
         "KETOPROFENE",
         "PHARMAGHREB",
         null
@@ -3345,7 +3375,7 @@
         null,
         null,
         null,
-        "2,500",
+        "5,800",
         "KETOPROFENE",
         "WEST PHARMA",
         null
@@ -3365,7 +3395,7 @@
         "0,5\u00a0%",
         "Gel dermique",
         "T\/50 gr",
-        "4,580",
+        "6,115",
         "PIROXICAM",
         "GALPHARMA",
         null
@@ -3395,7 +3425,7 @@
         "0,9\u00a0%",
         "Solution ophtalmique ORL",
         "B\/15\/10 ml",
-        "3,085",
+        "4,240",
         "CHLORURE DE SODIUM",
         "UNIMED",
         null
@@ -3562,7 +3592,7 @@
     ],
     [
         "FLUIDABAK",
-        0.015,
+        "0.015",
         "Collyre",
         "FL\/10 ml",
         "10,715",
@@ -4471,6 +4501,16 @@
         19843011
     ],
     [
+        "VASTAREL",
+        "35 mg",
+        "Comprim\u00e9s pellicul\u00e9s LM",
+        "B\/60",
+        "30,950",
+        "TRIMETAZIDINE",
+        "TERIAK",
+        9253911
+    ],
+    [
         "DIOGAM",
         "300 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -4505,7 +4545,7 @@
         "500 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/30",
-        "15,235",
+        "18,950",
         "DIOSMINE+HESPERIDINE",
         "TERIAK",
         9253891
@@ -4565,7 +4605,7 @@
         null,
         "Cr\u00e8me dermique",
         "T\/100 gr",
-        "9,330",
+        "11,195",
         "EXT DE RUSCUS ACULEATUS+EXT FLUIDE DE MELILOT",
         "SIMED",
         9083132
@@ -4865,9 +4905,9 @@
         "25 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/4",
-        "9,500",
+        "11,720",
         "SILDENAFIL",
-        "TAHAPHARMA",
+        "TAHA PHARMA",
         9373451
     ],
     [
@@ -4931,16 +4971,6 @@
         9073652
     ],
     [
-        "AS-ONE",
-        "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        "8,920",
-        "SILDENAFIL",
-        "TAHAPHARMA",
-        9373452
-    ],
-    [
         "EXTEMENT",
         "50 mg",
         "Comprim\u00e9s \u00e0 croquer",
@@ -4959,6 +4989,26 @@
         "SILDENAFIL",
         "IBN AL BAYTAR",
         9073653
+    ],
+    [
+        "VIAMAXIM",
+        "50 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "10,085",
+        "SILDENAFIL",
+        "GALPHARMA",
+        9223441
+    ],
+    [
+        "AS-ONE",
+        "50 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/4",
+        "11,000",
+        "SILDENAFIL",
+        "TAHA PHARMA",
+        9373452
     ],
     [
         "SILDENAFIL-ACTAVIS",
@@ -5019,16 +5069,6 @@
         "SILDENAFIL",
         "LES LABORATOIRES MEDIS",
         9233662
-    ],
-    [
-        "VIAMAXIM",
-        "50 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/4",
-        null,
-        "SILDENAFIL",
-        "GALPHARMA",
-        9223441
     ],
     [
         "VIAXON",
@@ -5345,7 +5385,7 @@
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/5",
-        "9,930",
+        "10,660",
         "TADALAFIL",
         "GALPHARMA",
         9223612
@@ -6545,6 +6585,16 @@
         "10 mg",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "B\/15",
+        "6,250",
+        "ZOLPIDEM",
+        "PHARMAGHREB",
+        9013801
+    ],
+    [
+        "SOMEX",
+        "10 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/15",
         null,
         "ZOLPIDEM",
         "PHARMAGHREB",
@@ -6605,7 +6655,7 @@
         null,
         "Sirop",
         "FL\/150 ml",
-        "3,275",
+        "4,260",
         "OXOMEMAZINE",
         "ADWYA",
         9043031
@@ -6625,7 +6675,7 @@
         null,
         "Suppositoires",
         "B\/10",
-        "1,400",
+        "1,820",
         "CAMPHRE+EUCALYPTOL+GAIACOL",
         "S.I.PHA.T",
         9000132
@@ -6635,7 +6685,7 @@
         null,
         "Suppositoires",
         "B\/10",
-        "1,885",
+        "2,520",
         "CAMPHRE+EUCALYPTOL+GAIACOL",
         "S.I.PHA.T",
         null
@@ -6675,7 +6725,7 @@
         null,
         "Liniment",
         "FL\/5 ml",
-        "3,660",
+        "4,758",
         "EUCALYPTOL+MENTHOL PUR+SALICYLATE DE METHYLE",
         "PHARMADERM",
         9053071
@@ -6685,7 +6735,7 @@
         null,
         "Cr\u00e8me dermique",
         "T\/40 gr",
-        "3,720",
+        "4,836",
         "EUCALYPTOL+MENTHOL PUR+SALICYLATE DE METHYLE+HUILE ESSENTIEL",
         "PHARMADERM",
         9053012
@@ -6745,7 +6795,7 @@
         "200 mg",
         "Poudre pour solution orale",
         "B\/30 Sachets",
-        "5,465",
+        "6,560",
         "ACETYLCYSTEINE",
         "GALPHARMA",
         9223101
@@ -6756,6 +6806,16 @@
         "Poudre pour suspension orale",
         "B\/30 S\/3 gr",
         null,
+        "ACETYLCYSTEINE",
+        "ADWYA",
+        9043231
+    ],
+    [
+        "MUCOLATOR",
+        "200 mg",
+        "Poudre pour suspension orale",
+        "B\/30 sachets\/3 gr",
+        "6,390",
         "ACETYLCYSTEINE",
         "ADWYA",
         9043231
@@ -6795,7 +6855,7 @@
         "0,3\u00a0%",
         "Solution buvable",
         "FL\/180 ml",
-        "5,275",
+        "6,330",
         "AMBROXOL",
         "TERIAK",
         9253321
@@ -6815,7 +6875,7 @@
         "0,6\u00a0%",
         "Solution buvable",
         "FL\/150 ml",
-        "6,390",
+        "7,670",
         "AMBROXOL",
         "PHARMAGHREB",
         9013492
@@ -6835,7 +6895,7 @@
         "0,6\u00a0%",
         "Solution buvable",
         "FL\/180 ml",
-        "5,255",
+        "6,310",
         "AMBROXOL",
         "ADWYA",
         9044242
@@ -6845,7 +6905,7 @@
         "0,6\u00a0%",
         "Solution buvable",
         "FL\/180 ml",
-        "6,060",
+        "7,475",
         "AMBROXOL",
         "TERIAK",
         9253322
@@ -6905,7 +6965,7 @@
         "0,15\u00a0%",
         "Sirop",
         "FL\/200 ml",
-        "6,415",
+        "7,910",
         "BUTAMIRATE",
         "SIMED",
         9083551
@@ -6931,26 +6991,6 @@
         9223061
     ],
     [
-        "MUCOLARE",
-        "2%",
-        "Sirop",
-        "FL\/125 ml",
-        "2,150",
-        "CARBOCISTEINE",
-        "GALPHARMA",
-        9223064
-    ],
-    [
-        "BRONCHOTHIOL ENFANT",
-        "2%",
-        "Sirop",
-        "FL\/125 ml",
-        "2,330",
-        "CARBOCISTEINE",
-        "S.I.PHA.T",
-        9003111
-    ],
-    [
         "BRONCHOKOD NOURRISSON ENFANT",
         "2%",
         "Sirop",
@@ -6961,13 +7001,33 @@
         9083022
     ],
     [
+        "MUCOLARE",
+        "2%",
+        "Sirop",
+        "FL\/125 ml",
+        "2,875",
+        "CARBOCISTEINE",
+        "GALPHARMA",
+        9223064
+    ],
+    [
+        "BRONCHOTHIOL ENFANT",
+        "2%",
+        "Sirop",
+        "FL\/125 ml",
+        "2,960",
+        "CARBOCISTEINE",
+        "S.I.PHA.T",
+        9003111
+    ],
+    [
         "RHINATHIOL",
         "2%",
         "Sirop",
         "FL\/125 ml",
-        "3,580",
+        "4,655",
         "CARBOCISTEINE",
-        "SANOFI-AVENTIS PHARMA TUNISIE",
+        "WINTHROP PHARMA TUNISIE (EX-AVENTIS PHARMA)",
         "ST9103941"
     ],
     [
@@ -6975,7 +7035,7 @@
         "2%",
         "Sirop",
         "FL\/125 ml",
-        "3,720",
+        "4,836",
         "CARBOCISTEINE",
         "PHARMADERM",
         9053103
@@ -7035,7 +7095,7 @@
         "5%",
         "Sirop",
         "FL\/150 ml",
-        "3,365",
+        "4,630",
         "CARBOCISTEINE",
         "GALPHARMA",
         9223062
@@ -7045,7 +7105,7 @@
         "5%",
         "Sirop",
         "FL\/180 ml",
-        "2,800",
+        "3,885",
         "CARBOCISTEINE",
         "WEST PHARMA",
         9293231
@@ -7055,7 +7115,7 @@
         "5%",
         "Sirop",
         "FL\/200 ml",
-        "4,790",
+        "5,420",
         "CARBOCISTEINE",
         "S.I.PHA.T",
         9003112
@@ -7065,7 +7125,7 @@
         "5%",
         "Sirop",
         "FL\/200 ml",
-        "6,470",
+        "7,765",
         "CARBOCISTEINE",
         "PIERRE FABRE PRODUCTION TUNISIE",
         "ST9323061"
@@ -7095,37 +7155,37 @@
         "5%",
         "Sirop",
         "FL\/300 ml",
-        "6,030",
+        "7,435",
         "CARBOCISTEINE",
         "SIMED",
         9083021
-    ],
-    [
-        "RHINATHIOL",
-        "5%",
-        "Sirop",
-        "FL\/300 ml",
-        "6,375",
-        "CARBOCISTEINE",
-        "SANOFI AVENTIS PHARMA TUNISIE",
-        "ST9103942"
     ],
     [
         "MUCOLARE",
         "5%",
         "Sirop",
         "FL\/300 ml",
-        "6,600",
+        "7,920",
         "CARBOCISTEINE",
         "GALPHARMA",
         9223063
+    ],
+    [
+        "RHINATHIOL",
+        "5%",
+        "Sirop",
+        "FL\/300 ml",
+        "8,730",
+        "CARBOCISTEINE",
+        "WINTHROP PHARMA TUNISIE (EX-AVENTIS PHARMA)",
+        "ST9103942"
     ],
     [
         "BRONCHOKOD SANS SUCRE",
         "5%",
         "Solution buvable",
         "FL\/300 ml",
-        "7,810",
+        "9,635",
         "CARBOCISTEINE",
         "SIMED",
         9083023
@@ -7159,6 +7219,16 @@
         "CODEINE",
         "BOUCHARA-RECORDATI",
         5225013
+    ],
+    [
+        "PECTORAL ADULTE",
+        "60 mg\/100 ml",
+        "Sirop",
+        "FL\/200 ml",
+        "3,925",
+        "CODEINE",
+        "S.I.PHA.T",
+        9003751
     ],
     [
         "NEO-CODION ADULTES",
@@ -7201,11 +7271,21 @@
         9000051
     ],
     [
+        "CALMATUX ADULTE",
+        null,
+        "Sirop",
+        "FL\/200 ml",
+        "6,300",
+        "CODEINE+ACIDE ASCORBIQUE+ESPECES PECTORALES",
+        "S.I.PHA.T",
+        9000051
+    ],
+    [
         "CALMATUX",
         null,
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/20",
-        "3,870",
+        "4,695",
         "CODEINE+CODETHYLINE+ESPECES PECTORALES",
         "S.I.PHA.T",
         9000054
@@ -7215,7 +7295,7 @@
         null,
         "Sirop",
         "FL\/125 ml",
-        null,
+        "4,255",
         "CODEINE+CODETHYLINE+ESPECES PECTORALES",
         "S.I.PHA.T",
         9000052
@@ -7225,7 +7305,7 @@
         null,
         "Sirop",
         "FL\/180 ml",
-        "5,575",
+        "6,880",
         "CODEINE+CODETHYLINE+ESPECES PECTORALES",
         "SIMED",
         9083081
@@ -7245,7 +7325,7 @@
         null,
         "Sirop",
         "FL\/150 ml",
-        "6,000",
+        "6,910",
         "CODEINE+ESPECES PECTORALES",
         "SIMED",
         9083082
@@ -7265,7 +7345,7 @@
         null,
         "Sirop",
         "FL\/150 ml",
-        "3,060",
+        "3,835",
         "CODEINE+EUCALYPTOL+GAIACOL",
         "S.I.PHA.T",
         null
@@ -7285,7 +7365,7 @@
         "0,1\u00a0%",
         "Sirop",
         "FL\/125 ml",
-        "4,375",
+        "5,250",
         "DEXTROMETHORPHANE",
         "GALPHARMA",
         9223301
@@ -7295,7 +7375,7 @@
         "0,1\u00a0%",
         "Sirop",
         "FL\/150 ml",
-        "4,640",
+        "6,200",
         "DEXTROMETHORPHANE",
         "ADWYA",
         9044271
@@ -7315,7 +7395,7 @@
         "0,1\u00a0%",
         "Sirop",
         "FL\/150 ml",
-        "7,075",
+        "8,200",
         "DEXTROMETHORPHANE",
         "SIMED",
         9083211
@@ -7325,7 +7405,7 @@
         "0,3\u00a0%",
         "Sirop",
         "FL\/125 ml",
-        "4,780",
+        "5,450",
         "DEXTROMETHORPHANE",
         "GALPHARMA",
         9223303
@@ -7335,7 +7415,7 @@
         "0,3\u00a0%",
         "Sirop",
         "FL\/125 ml",
-        "5,315",
+        "6,090",
         "DEXTROMETHORPHANE",
         "GALPHARMA",
         9223302
@@ -7345,7 +7425,7 @@
         "15 mg\/5 ml",
         "Sirop",
         "FL\/150 ml",
-        "4,490",
+        "6,000",
         "DEXTROMETHORPHANE",
         "ADWYA",
         9044272
@@ -7365,7 +7445,7 @@
         "0,3\u00a0%",
         "Sirop",
         "FL\/150 ml",
-        "6,985",
+        "8,095",
         "DEXTROMETHORPHANE",
         "SIMED",
         null
@@ -7395,7 +7475,7 @@
         null,
         "Sirop",
         "FL\/125 ml",
-        "3,120",
+        "4,170",
         "DEXTROMETHORPHANE+GUAIFENESINE",
         "OPALIA PHARMA S.A.",
         9023482
@@ -7405,7 +7485,7 @@
         null,
         "Sirop",
         "FL\/125 ml",
-        "4,635",
+        "5,330",
         "DEXTROMETHORPHANE+GUAIFENESINE",
         "OPALIA PHARMA S.A.",
         9023481
@@ -7425,7 +7505,7 @@
         "0,7 g",
         "Sirop",
         "FL\/100 ml",
-        "9,300",
+        "11,160",
         "EXTRAIT SEC DE FEUILLE DE LIERRE",
         "IBN AL BAYTAR",
         "ST9073711"
@@ -7535,7 +7615,7 @@
         "500 mg\/25 mg\/200 mg",
         "Granul\u00e9s pour solution buvable",
         "B\/8 Sachets",
-        "3,800",
+        "4,825",
         "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
         "PHARMACARE",
         9343233
@@ -7545,7 +7625,7 @@
         "500 mg\/25 mg\/200 mg",
         "Poudre pour solution orale",
         "B\/12 Sachets",
-        "4,500",
+        "5,550",
         "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
         "PHARMACARE",
         9343234
@@ -7581,16 +7661,6 @@
         9223161
     ],
     [
-        "NOVEX  ADULTE",
-        null,
-        "Poudre pour suspension orale",
-        "B\/8 Sachets",
-        "3,950",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "ADWYA",
-        9044141
-    ],
-    [
         "GRIPEX SANS SUCRE ADULTES",
         null,
         "Poudre pour solution orale",
@@ -7611,11 +7681,21 @@
         9253491
     ],
     [
+        "NOVEX  ADULTE",
+        null,
+        "Poudre pour suspension orale",
+        "B\/8 Sachets",
+        "4,915",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "ADWYA",
+        9044141
+    ],
+    [
         "RHUVEX ADULTE",
         null,
         "Granul\u00e9s pour suspension buvable",
         "B\/8 Sachets",
-        "4,745",
+        "6,170",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "TERIAK",
         9253331
@@ -7625,7 +7705,7 @@
         null,
         "Poudre pour solution orale",
         "B\/8 Sachets",
-        "6,230",
+        "7,475",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9133181
@@ -7655,30 +7735,30 @@
         null,
         "Poudre pour solution orale",
         "B\/12 Sachets",
-        "4,540",
+        "5,605",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "GALPHARMA",
         9223164
-    ],
-    [
-        "GRIPEX SANS SUCRE ADULTES",
-        null,
-        "Poudre pour solution orale",
-        "B\/12 Sachets",
-        "5,520",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
-        9223166
     ],
     [
         "GRIPEX ADULTES",
         null,
         "Poudre pour solution orale",
         "B\/12 Sachets",
-        null,
+        "5,995",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "GALPHARMA",
         9223165
+    ],
+    [
+        "GRIPEX SANS SUCRE ADULTES",
+        null,
+        "Poudre pour solution orale",
+        "B\/12 Sachets",
+        "6,810",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "GALPHARMA",
+        9223166
     ],
     [
         "NOVEX  ADULTE",
@@ -7695,7 +7775,7 @@
         null,
         "Poudre pour solution orale",
         "B\/8 Sachets\/3 gr",
-        "5,010",
+        "6,180",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9133183
@@ -7705,7 +7785,7 @@
         null,
         "Poudre pour solution orale",
         "B\/8 Sachets\/5 gr",
-        "6,890",
+        "8,270",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9133182
@@ -7745,7 +7825,7 @@
         null,
         "Sirop",
         "FL\/90 ml",
-        "3,130",
+        "3,910",
         "VITAMINE C+ESPECES PECTORALES+SODIUM BENZOATE",
         "S.I.PHA.T",
         9000053
@@ -7805,9 +7885,9 @@
         "3000 U",
         "Comprim\u00e9s enrob\u00e9s",
         "B\/24",
-        "5,695",
+        "7,590",
         "ALPHA-AMYLASE",
-        "SANOFI AVENTIS PHARMA TUNISIE",
+        "WINTHROP PHARMA TUNISIE (EX-AVENTIS PHARMA)",
         9103931
     ],
     [
@@ -7825,9 +7905,9 @@
         null,
         "Sirop",
         "FL\/125 ml",
-        "5,615",
+        "6,740",
         "ALPHA-AMYLASE",
-        "SANOFI-AVENTIS PHARMA TUNISIE",
+        "WINTHROP PHARMA TUNISIE (EX-AVENTIS PHARMA)",
         "ST9103932"
     ],
     [
@@ -7865,7 +7945,7 @@
         "20 mg\/10 ml",
         "Collutoire",
         "FL\/30 ml",
-        "5,140",
+        "6,170",
         "CHLORHEXIDINE+LIDOCAINE",
         "SIMED",
         9083781

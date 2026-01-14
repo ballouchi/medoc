@@ -2,12 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title></title>
-        <description>Prix des médicaments remboursés par la CNAM en Tunisie.</description>
+        <description>Prix des Médicaments en Tunisie.</description>
         <link>https://ballouchi.github.io/medoc/</link>
         <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 09 Jan 2026 17:10:43 +0100</pubDate>
-        <lastBuildDate>Fri, 09 Jan 2026 17:10:43 +0100</lastBuildDate>
+        <pubDate>Wed, 14 Jan 2026 08:22:52 +0100</pubDate>
+        <lastBuildDate>Wed, 14 Jan 2026 08:22:52 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
+        
+        <item>
+            <title>Circulaires de la Pharmacie Centrale de Janvier 2026</title>
+            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-de-janvier-2026&quot;&gt;Circulaires de la Pharmacie Centrale de Janvier 2026&lt;/h1&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_2026-01&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_2026-01_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Circulaire&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Code PCT&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Libellé&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Commentaire&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix Public&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Laboratoire&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;AMM&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Durée de vie&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Tableau&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col11&quot; class=&quot;col_heading level0 col11&quot;&gt;Date&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;2026/01&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;106962&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;TRIMBOW 87µg/5µg/9µg Sol.P.Inhal. Fl 120Doses (F)&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;Nouveau Produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;168,040&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;CHIESI FARMACEUTICI SPA&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;7133091&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;22 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col11&quot; class=&quot;data row0 col11&quot;&gt;02/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;2026/02&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;303808&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;CINKASA 500mg Suppo. Bt 60&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;Nouveau Produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;62,000&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;MESALAZINE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;OPALIA PHARMA S.A.&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;9023933&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col11&quot; class=&quot;data row1 col11&quot;&gt;09/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/pct-2026-01.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/pct-2026-01.html</guid>
+            
+            <category>changements</category>
+            
+            
+        </item>
         
         <item>
             <title>Circulaires de la Pharmacie Centrale de Décembre 2025</title>
@@ -1032,321 +1095,6 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
             <pubDate>Mon, 15 Sep 2025 00:00:00 +0100</pubDate>
             <link>https://ballouchi.github.io/medoc/changements-2025-09.html</link>
             <guid isPermaLink="true">https://ballouchi.github.io/medoc/changements-2025-09.html</guid>
-            
-            <category>changements</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>CNAM: Mise à jour du 03-09-2025</title>
-            <description>&lt;h1 id=&quot;cnam-liste-des-médicaments-classés-en-vei-couverts-par-le-régime-de-base-03092025&quot;&gt;CNAM: Liste des Médicaments Classés en VEI Couverts par le Régime de Base &lt;a href=&quot;https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20V%20E%20I%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE03-09-2025.xls&quot;&gt;03/09/2025&lt;/a&gt;&lt;/h1&gt;
-
-&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
-&lt;script&gt;
-$( document ).ready(function() {
-  // Handler for .ready() called.
-
-$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
-
-/* this offset helps account for the space taken up by the floating toolbar. */
-$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
-  var target = $(this.getAttribute(&apos;href&apos;))
-    , scroll_target = target.offset().top
-
-  $(window).scrollTop(scroll_target - 10);
-  return false
-})
-
-});
-&lt;/script&gt;
-
-&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;nouvelles-entrées-dans-la-liste-des-médicaments-remboursés&quot;&gt;Nouvelles Entrées dans la Liste des Médicaments Remboursés&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_1aec0&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_1aec0_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
-      &lt;th id=&quot;T_1aec0_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
-      &lt;th id=&quot;T_1aec0_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_1aec0_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;TARIF REFERENCE&lt;/th&gt;
-      &lt;th id=&quot;T_1aec0_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;CATEGORIE&lt;/th&gt;
-      &lt;th id=&quot;T_1aec0_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_1aec0_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AP&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_1aec0_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;301749&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;COARAVEN Comp Pell 300 MG/25 MG BT 30&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;44,980&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;24,240&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;IRBESARTAN+HYDROCHLOROTHIAZIDE&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_1aec0_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303784&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;TEDEMA LP 75mg Gél à libération prolongée Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;30,240&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;22,890&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;VENLAFAXINE&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_1aec0_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;105635&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;FOSAVANCE 70mg/5600UI Comp Bt 4&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;19,200&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;19,200&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;ALENDRONATE + COLECALCIFEROL&lt;/td&gt;
-      &lt;td id=&quot;T_1aec0_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;O&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;changement-du-code-pct-et-ajustement-des-prix&quot;&gt;Changement du Code PCT et Ajustement des Prix&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_f287d&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_f287d_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Ancien Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Nouveau Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Ancien Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Nouveau Prix&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Ancien Prix&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Différence&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Tarif Reference&lt;/th&gt;
-      &lt;th id=&quot;T_f287d_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;105639&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;102703&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;AERIUS 0.5mg/ml Sol Buv Fl 150ml&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;AERIUS Sirop 0,5mg/ml Fl 150ml&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;19,995&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;20,970&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;-0,975&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;6,750&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;DESLORATADINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;106115&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;103402&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;SPIRIVA 18mcg Pdre P Inhalation Bucc Bt 30 Gél + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;SPIRIVA Pdre Inh Bucc 18µgr Bt 30 Gelule&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;108,580&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;90,525&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;18,055&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;70,560&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;TIOTROPIUM&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;105571&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;100108&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;KETODERM 2% Gel En Sachet 2% Gel Derm Bt 8/6gr&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;KETODERM Gel derm 2% dose 6gr Bt 8 sach&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;24,105&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;25,280&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;-1,175&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;24,105&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;KETOCONAZOLE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;105786&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;102798&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;SMECTA 3g ORANGE-VANILLE Pdre P Susp Or Bt 30 Sach&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;SMECTA Sach Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;9,280&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;7,735&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;1,545&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;7,710&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;DIOSMECTITE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;105759&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;103054&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;CARDENSIEL 2.5mg Comp Pell Séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;CARDENSIEL 2,5 mg comp.pell.séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;15,280&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;16,180&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;-0,900&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;5,400&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;BISOPROLOL&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;105760&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;103055&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;CARDENSIEL 5mg Comp Pell Séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;CARDENSIEL 5 mg comp.pell.séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;15,280&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;16,180&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;-0,900&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;6,420&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;BISOPROLOL&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;105761&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;104491&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;DETENSIEL 10mg Comp Pell Séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;DETENSIEL Comp Pell Sec 10 MG BT 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;16,080&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;13,440&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;2,640&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;8,220&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;BISOPROLOL&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;105752&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;104943&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;CONCOR AMLO 5mg/5mg Comp Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;CONCOR AMLO Comp 5 MG/5 MG BT 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;28,760&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;24,005&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;4,755&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;15,090&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;BISOPROLOL+ AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;105750&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;104945&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;CONCOR AMLO 10mg/5mg Comp Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;CONCOR AMLO Comp 10 MG/5 MG BT 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;34,840&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;28,585&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;6,255&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;16,860&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;BISOPROLOL+ AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;105751&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;104944&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;CONCOR AMLO 5mg/10mg Comp Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;CONCOR AMLO Comp 5 MG/10 MG BT 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;34,840&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;28,585&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;6,255&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;18,450&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;BISOPROLOL+ AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;105749&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;104946&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;CONCOR AMLO 10mg/10mg Comp Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;CONCOR AMLO Comp 10 MG/10 MG BT 30&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;38,675&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;32,270&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;6,405&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;20,250&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row10_col8&quot; class=&quot;data row10 col8&quot;&gt;BISOPROLOL+ AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row11_col0&quot; class=&quot;data row11 col0&quot;&gt;106136&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col1&quot; class=&quot;data row11 col1&quot;&gt;104260&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col2&quot; class=&quot;data row11 col2&quot;&gt;MICARDIS 40mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col3&quot; class=&quot;data row11 col3&quot;&gt;MICARDIS Comp 40 mg Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col4&quot; class=&quot;data row11 col4&quot;&gt;47,605&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col5&quot; class=&quot;data row11 col5&quot;&gt;39,710&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col6&quot; class=&quot;data row11 col6&quot;&gt;7,895&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col7&quot; class=&quot;data row11 col7&quot;&gt;21,728&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row11_col8&quot; class=&quot;data row11 col8&quot;&gt;TELMISARTAN&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row12_col0&quot; class=&quot;data row12 col0&quot;&gt;106137&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col1&quot; class=&quot;data row12 col1&quot;&gt;104261&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col2&quot; class=&quot;data row12 col2&quot;&gt;MICARDIS 80mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col3&quot; class=&quot;data row12 col3&quot;&gt;MICARDIS Comp 80 mg Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col4&quot; class=&quot;data row12 col4&quot;&gt;57,080&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col5&quot; class=&quot;data row12 col5&quot;&gt;47,605&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col6&quot; class=&quot;data row12 col6&quot;&gt;9,475&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col7&quot; class=&quot;data row12 col7&quot;&gt;21,728&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row12_col8&quot; class=&quot;data row12 col8&quot;&gt;TELMISARTAN&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row13_col0&quot; class=&quot;data row13 col0&quot;&gt;106138&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col1&quot; class=&quot;data row13 col1&quot;&gt;104262&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col2&quot; class=&quot;data row13 col2&quot;&gt;MICARDIS PLUS 80mg/12.5mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col3&quot; class=&quot;data row13 col3&quot;&gt;MICARDIS PLUS Comp 80 MG/12.5MG  Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col4&quot; class=&quot;data row13 col4&quot;&gt;57,020&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col5&quot; class=&quot;data row13 col5&quot;&gt;47,555&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col6&quot; class=&quot;data row13 col6&quot;&gt;9,465&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col7&quot; class=&quot;data row13 col7&quot;&gt;26,544&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row13_col8&quot; class=&quot;data row13 col8&quot;&gt;TELMISARTAN + HYDROCHLOROTHIAZIDE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row14_col0&quot; class=&quot;data row14 col0&quot;&gt;106139&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col1&quot; class=&quot;data row14 col1&quot;&gt;104727&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col2&quot; class=&quot;data row14 col2&quot;&gt;MICARDIS PLUS 80mg/25mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col3&quot; class=&quot;data row14 col3&quot;&gt;MICARDIS PLUS Comp 80 MG/25MG BT 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col4&quot; class=&quot;data row14 col4&quot;&gt;64,650&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col5&quot; class=&quot;data row14 col5&quot;&gt;53,915&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col6&quot; class=&quot;data row14 col6&quot;&gt;10,735&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col7&quot; class=&quot;data row14 col7&quot;&gt;26,516&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row14_col8&quot; class=&quot;data row14 col8&quot;&gt;TELMISARTAN + HYDROCHLOROTHIAZIDE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row15_col0&quot; class=&quot;data row15 col0&quot;&gt;106148&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col1&quot; class=&quot;data row15 col1&quot;&gt;104987&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col2&quot; class=&quot;data row15 col2&quot;&gt;TWYNSTA 40mg/5mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col3&quot; class=&quot;data row15 col3&quot;&gt;TWYNSTA Comp 40MG/5MG BT 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col4&quot; class=&quot;data row15 col4&quot;&gt;45,080&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col5&quot; class=&quot;data row15 col5&quot;&gt;41,730&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col6&quot; class=&quot;data row15 col6&quot;&gt;3,350&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col7&quot; class=&quot;data row15 col7&quot;&gt;27,328&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row15_col8&quot; class=&quot;data row15 col8&quot;&gt;TELMISARTAN + AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row16_col0&quot; class=&quot;data row16 col0&quot;&gt;106149&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col1&quot; class=&quot;data row16 col1&quot;&gt;104988&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col2&quot; class=&quot;data row16 col2&quot;&gt;TWYNSTA 40mg/10mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col3&quot; class=&quot;data row16 col3&quot;&gt;TWYNSTA 40 MG/ 10 MG COMP BT 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col4&quot; class=&quot;data row16 col4&quot;&gt;45,080&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col5&quot; class=&quot;data row16 col5&quot;&gt;41,730&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col6&quot; class=&quot;data row16 col6&quot;&gt;3,350&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col7&quot; class=&quot;data row16 col7&quot;&gt;27,328&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row16_col8&quot; class=&quot;data row16 col8&quot;&gt;TELMISARTAN + AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row17_col0&quot; class=&quot;data row17 col0&quot;&gt;106150&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col1&quot; class=&quot;data row17 col1&quot;&gt;104989&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col2&quot; class=&quot;data row17 col2&quot;&gt;TWYNSTA 80mg/5mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col3&quot; class=&quot;data row17 col3&quot;&gt;TWYNSTA Comp 80MG/5MG BT 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col4&quot; class=&quot;data row17 col4&quot;&gt;51,435&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col5&quot; class=&quot;data row17 col5&quot;&gt;47,605&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col6&quot; class=&quot;data row17 col6&quot;&gt;3,830&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col7&quot; class=&quot;data row17 col7&quot;&gt;31,164&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row17_col8&quot; class=&quot;data row17 col8&quot;&gt;TELMISARTAN + AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_f287d_row18_col0&quot; class=&quot;data row18 col0&quot;&gt;106153&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col1&quot; class=&quot;data row18 col1&quot;&gt;104990&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col2&quot; class=&quot;data row18 col2&quot;&gt;TWYNSTA 80mg/10mg Comp Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col3&quot; class=&quot;data row18 col3&quot;&gt;TWYNSTA Comp 80MG/10MG BT 28&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col4&quot; class=&quot;data row18 col4&quot;&gt;51,435&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col5&quot; class=&quot;data row18 col5&quot;&gt;47,605&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col6&quot; class=&quot;data row18 col6&quot;&gt;3,830&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col7&quot; class=&quot;data row18 col7&quot;&gt;31,164&lt;/td&gt;
-      &lt;td id=&quot;T_f287d_row18_col8&quot; class=&quot;data row18 col8&quot;&gt;TELMISARTAN + AMLODIPINE&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Fri, 12 Sep 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/cnam-2025-09.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/cnam-2025-09.html</guid>
             
             <category>changements</category>
             
