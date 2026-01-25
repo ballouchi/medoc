@@ -631,16 +631,6 @@
         9253681
     ],
     [
-        "MAGNESIUM GLYCOCOLLE LAFARGE",
-        null,
-        "Comprim\u00e9 pellicul\u00e9",
-        "B\/50",
-        null,
-        "MAGNESIUM",
-        "S.E.R.P. MONACO",
-        10703011
-    ],
-    [
         "MEGAMAG",
         null,
         "G\u00e9lule",
@@ -649,6 +639,16 @@
         "MAGNESIUM",
         "MAYOLY SPINDLER",
         5913051
+    ],
+    [
+        "MAGNESIUM GLYCOCOLLE LAFARGE",
+        null,
+        "Comprim\u00e9 pellicul\u00e9",
+        "B\/50",
+        null,
+        "MAGNESIUM",
+        "S.E.R.P. MONACO",
+        10703011
     ],
     [
         "SPASMAG IV",
@@ -691,12 +691,22 @@
         9023471
     ],
     [
+        "PYRIMAG",
+        null,
+        "Solution buvable",
+        "B\/20 Sachets-dose\/10 ml",
+        "9,000",
+        "MAGNESIUM+VITAMINE B6",
+        "OPALIA PHARMA S.A.",
+        9023473
+    ],
+    [
         "MAG B6",
         "100 mg\/10 ml",
         "Solution buvable",
         "B\/20",
         "10,395",
-        "MAGNESIUM LACTATE+MAGNESIUM PIDOLATE+PYRIDOXINE",
+        "MAGNESIUM+VITAMINE B6",
         "ADWYA",
         9044331
     ],
@@ -709,16 +719,6 @@
         "MAGNESIUM+VITAMINE B6",
         "S.I.PHA.T",
         9003591
-    ],
-    [
-        "PYRIMAG",
-        null,
-        "Solution buvable",
-        "B\/20 Sachets-dose\/10 ml",
-        "9,000",
-        "PYRIDOXINE+MAGNESIUM",
-        "OPALIA PHARMA S.A.",
-        9023473
     ],
     [
         "PICOPREP",
@@ -1256,7 +1256,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/60",
         "84,860",
-        "VILDAGLIPTINE+METFORMINE",
+        "VILDAGLIPTINE + METFORMINE",
         "NOVARTIS PHARMA SCHWEIZ AG",
         10283303
     ],
@@ -1509,6 +1509,16 @@
         "SALICYLATE DE CHOLINE",
         "SIMED",
         9083641
+    ],
+    [
+        "DELABARRE",
+        null,
+        "Gel gingival",
+        "T\/20 gr",
+        "10,775",
+        "TAMARIN",
+        "FUMOUZE",
+        5553011
     ],
     [
         "SARGENOR SANS SUCRE",
@@ -2183,6 +2193,16 @@
     [
         "AVENOC",
         null,
+        "Suppositoires",
+        "B\/10",
+        "11,500",
+        "HOMEOPATHIE",
+        "BOIRON",
+        null
+    ],
+    [
+        "AVENOC",
+        null,
         "Pommade rectale",
         "T\/30 gr",
         "13,050",
@@ -2289,26 +2309,6 @@
         "HOMEOPATHIE",
         "BOIRON",
         null
-    ],
-    [
-        "AVENOC",
-        null,
-        "Suppositoires",
-        "B\/10",
-        "11,500",
-        "HOMEOPATHIE",
-        "BOIRON",
-        null
-    ],
-    [
-        "DELABARRE",
-        null,
-        "Gel gingival",
-        "T\/20 gr",
-        "10,775",
-        "TAMARIN",
-        "FUMOUZE",
-        5553011
     ],
     [
         "VITAPRED 1",
@@ -2509,16 +2509,6 @@
         "ACIDE SALICYLIQUE+COLLODION OFFICINAL",
         "PHARMAGHREB",
         9014111
-    ],
-    [
-        "IVERMED PLUS",
-        null,
-        "Solution injectable",
-        "FL\/100 ml",
-        "52,385",
-        "CLORSULONE+IVERMECTINE",
-        "AFRIMED",
-        169142718
     ],
     [
         "CYSTINA",
@@ -3011,6 +3001,26 @@
         9024082
     ],
     [
+        "FIXURIC",
+        "80 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/30",
+        "29,277",
+        "FEBUXOSTAT",
+        "IBN AL BAYTAR",
+        9073811
+    ],
+    [
+        "UTEPLEX",
+        "2 mg\/ml",
+        "Solution buvable",
+        "B\/45 Ampoules\/2 ml",
+        "17,837",
+        "ACIDE URIDINE-5' TRIPHOSPHORIQUE",
+        "NEURAXPHARM",
+        null
+    ],
+    [
         "UTP OPALIA",
         "2 mg",
         "Solution buvable",
@@ -3029,16 +3039,6 @@
         "ACIDE URIDINE-5' TRIPHOSPHORIQUE",
         "OPALIA PHARMA",
         9023731
-    ],
-    [
-        "UTEPLEX",
-        "2 mg\/ml",
-        "Solution buvable",
-        "B\/45 Ampoules\/2 ml",
-        "17,837",
-        "ACIDE URIDINE-5' TRIPHOSPHORIQUE",
-        "NEURAXPHARM",
-        null
     ],
     [
         "LACRYPOS",
@@ -3151,7 +3151,7 @@
         7883031
     ],
     [
-        "BENEFOS",
+        "BONEFOS",
         "800 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/100",
@@ -3301,7 +3301,7 @@
         5910011
     ],
     [
-        "ADOFEN",
+        "ADOFEN MENTHOL",
         "5%",
         "Gel dermique",
         "T\/50 gr",
@@ -3321,7 +3321,7 @@
         9053322
     ],
     [
-        "IBUPHIL",
+        "IBUPHIL GEL Menthol\u00e9",
         "5%",
         "Gel dermique",
         "T\/50 gr",
@@ -3331,7 +3331,7 @@
         null
     ],
     [
-        "IBUPHIL",
+        "IBUPHIL GEL",
         "5%",
         "Gel dermique",
         "T\/50 gr",
@@ -5611,6 +5611,16 @@
         13473011
     ],
     [
+        "ASPIRYL",
+        "75 mg",
+        "Comprim\u00e9s",
+        "FL\/100",
+        "7,300",
+        "ACIDE ACETYLSALICYLIQUE",
+        "ADVANS PHARMA",
+        9413151
+    ],
+    [
         "CARDIOCINE",
         "100 mg",
         "Comprim\u00e9s",
@@ -5791,6 +5801,16 @@
         null
     ],
     [
+        "TERACETAM LP",
+        "500 mg",
+        "Comprim\u00e9s pellicul\u00e9s LP",
+        "B\/60",
+        "48,240",
+        "LEVETIRACETAM",
+        "S.A.I.PH",
+        9164411
+    ],
+    [
         "ANTIOMAL",
         "750 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -5839,6 +5859,16 @@
         "LEVETIRACETAM",
         "TAHA PHARMA",
         9373153
+    ],
+    [
+        "TERACETAM LP",
+        "750 mg",
+        "Comprim\u00e9s pellicul\u00e9s LP",
+        "B\/60",
+        "78,240",
+        "LEVETIRACETAM",
+        "S.A.I.PH",
+        9164412
     ],
     [
         "EPITAM",
@@ -7849,6 +7879,36 @@
         "BECLOMETASONE",
         "CHIESI SAS",
         1263091
+    ],
+    [
+        "TRIMBOW",
+        "87 \u00b5g\/5 \u00b5g\/9 \u00b5g",
+        "Solution pour Inhalation",
+        "FL\/120 doses",
+        "168,040",
+        "BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE",
+        "CHIESI FARMACEUTICI SPA",
+        7133091
+    ],
+    [
+        "ALVE-ONE",
+        "80 \u00b5g\/dose",
+        "Solution pour Inhalation",
+        "FL\/60 doses",
+        "25,905",
+        "CICLESONIDE",
+        "BERG LIFE SCIENCES",
+        9283081
+    ],
+    [
+        "ALVE-ONE",
+        "160 \u00b5g\/dose",
+        "Solution pour Inhalation",
+        "FL\/60 doses",
+        "40,240",
+        "CICLESONIDE",
+        "BERG LIFE SCIENCES",
+        9283082
     ],
     [
         "FOSTER",

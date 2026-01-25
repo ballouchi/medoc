@@ -68,11 +68,461 @@
 
 
 {
+"title": "Liste des Médicaments Remboursés",
+"tags": "changements",
+"keywords": "",
+"url": "liste-vei.html",
+"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d' Assurance Maladie Tunisienne"
+}
+,
+
+
+{
+"title": "Liste des Médicaments Non Remboursés",
+"tags": "changements",
+"keywords": "",
+"url": "liste-non-vei.html",
+"summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
+}
+,
+
+
+{
 "title": "Circulaires de la Pharmacie Centrale de Janvier 2026",
 "tags": "changements",
 "keywords": "pct",
 "url": "pct-2026-01.html",
 "summary": "Changements de Janvier 2026"
+}
+,
+
+
+{
+"title": "Hyaluronate De Sodium Injectable",
+"tags": "muscles-et-os",
+"keywords": "sinovial, hyalgan, structovial, suplasyn, synocrom, hyalubrix, hyaluronate de sodium",
+"url": "hyaluronate-de-sodium-injectable.html",
+"summary": "Traitement symptomatique de l'arthrose dégénerative ou post-traumatique par remplacement du liquide articulaire."
+}
+,
+
+
+{
+"title": "Structoflex (Glucosamine) Gélules",
+"tags": "muscles-et-os",
+"keywords": "structoflex, glucosamine",
+"url": "glucosamine-gelules.html",
+"summary": "Traitement symptômatique de l'arthrose légère à modérée du genou"
+}
+,
+
+
+{
+"title": "Piascledine (Extrait D&#39;Insaponifiables D&#39;Avocat Et Soja)",
+"tags": "muscles-et-os",
+"keywords": "piascledine 300, extrait d'insaponifiables d'avocat et soja",
+"url": "extrait-d-insaponifiables-d-avocat-et-soja-gelules.html",
+"summary": "Traitement symptomatique à effet différé de l'arthrose du genou chez l'adulte."
+}
+,
+
+
+{
+"title": "Chondroitine",
+"tags": "muscles-et-os",
+"keywords": "chondrosulf, cartilum, structum, cartifor, chondroitine",
+"url": "chondroitine.html",
+"summary": "Traitement symptomatique à effet différé de l'arthrose de la hanche et du genou."
+}
+,
+
+
+{
+"title": "Acide Uridine-5&#39; Triphosphorique",
+"tags": "muscles-et-os",
+"keywords": "utp opalia, uteplex, acide uridine-5 triphosphorique",
+"url": "acide-uridine-5--triphosphorique.html",
+"summary": "Traitement des dorsalgies primitives."
+}
+,
+
+
+{
+"title": "Topiques pour les Douleurs Articulaires et Musculaires",
+"tags": "anti-inflammatoiremuscles-et-os",
+"keywords": "niflumic, nifluderm, inflocine, niflugel, acide niflumique ,synthol, saverol, acide salicylique, menthol, resorcine, veratrol ,baume calmol, camphre, eucalyptol, itami, flector tissugel, diclofen, xedol emulgel, diclofenac, baume aroma, essences naturelles, salicylamide, adofen, ibuphil, ibuprofen ,cliptol, ketoprogel, ketum, rhutagel, ketoprofene, arthrosyl, geldene, piroxicam",
+"url": "topiques-pour-les-douleurs-articulaires-et-musculaires.html",
+"summary": "Traitement antalgique et anti-inflammatoire par application locale."
+}
+,
+
+
+{
+"title": "Enantyum (Dexketoprofene)",
+"tags": "anti-inflammatoireantalgique",
+"keywords": "enantyum, dexketoprofene",
+"url": "dexketoprofene.html",
+"summary": "Traitement symptomatique des douleurs d'intensité légère à modérée, telles que douleurs de l'appareil locomoteur, dysménorrhées et douleurs dentaires."
+}
+,
+
+
+{
+"title": "Traitement des Verrues",
+"tags": "autres-dermato",
+"keywords": "coricide diable, verrucide, cvl, acide salicylique, collodion officinal, duofilm, acide lactique",
+"url": "verrues.html",
+"summary": "Traitement local d'appoint des cors, durillons, oeil de perdrix et verrues."
+}
+,
+
+
+{
+"title": "Traitement des Plaies et Ulcérations",
+"tags": "plaies",
+"keywords": "mebo, betasitosterol, biafine, trolamine, connettivina, hyalosilver, hyaluronate de sodium",
+"url": "plaies.html",
+"summary": ""
+}
+,
+
+
+{
+"title": "Minoxidil Solution Externe",
+"tags": "autres-dermato",
+"keywords": "alopexy, minoxidil, minopexil, minostyl",
+"url": "minoxidil-solution-externe.html",
+"summary": "Traitement de l'alopécie"
+}
+,
+
+
+{
+"title": "Meladinine (Methoxsalene)",
+"tags": "psoriasischimiotherapie-dermato",
+"keywords": "meladinine, methoxsalene",
+"url": "methoxsalene.html",
+"summary": "Photochimiothérapie: psoriasis, vitiligo, mycosis fongoîde, lymphomes T cutanés, lichen plan, pelade décalvante, photodermatoses, mastocytose cutanée, dermatite atopique."
+}
+,
+
+
+{
+"title": "Soolantra (Ivermectine) Crème",
+"tags": "autres-dermato",
+"keywords": "soolantra, ivermectine",
+"url": "ivermectine-creme.html",
+"summary": "Traitement topique des lésions inflammatoires (papulopustuleuses) de la rosacée chez l'adulte."
+}
+,
+
+
+{
+"title": "Aldara (Imiquimod) Crème",
+"tags": "chimiotherapie-dermato",
+"keywords": "aldara, imiquimod",
+"url": "imiquimod-creme.html",
+"summary": "Traitement topique des verrues génitales et périanales externes (condylomes acuminés) de l'adulte, des petits carcinomes baso-cellulaires superficiels (CBCs) de l'adulte et de certaines Kératoses actiniques du visage ou du cuir chevelu."
+}
+,
+
+
+{
+"title": "Eosine Solution Externe",
+"tags": "antiseptiques",
+"keywords": "eosine gilbert",
+"url": "eosine-solution-externe.html",
+"summary": "Antiseptique"
+}
+,
+
+
+{
+"title": "Emollients et Protecteurs",
+"tags": "preparations-protectrices",
+"keywords": "prurex, eurax, crotamiton, healer, mafenide acetate, dexeryl, glycerol, paraffine, vaseline, mytoplastine, oxyde de zinc, dermovit a+d, vitamine a + vitamine d, mitosyl, huile de foie de morue,",
+"url": "emollients-et-protecteurs.html",
+"summary": "Préparations Protectrices ou Cicatrisantes"
+}
+,
+
+
+{
+"title": "Cystina (Cysteine) Gélules",
+"tags": "autres-dermato",
+"keywords": "cystina, cysteine",
+"url": "cysteine-gelules.html",
+"summary": "Traitement d'appoint des affections phanériennes."
+}
+,
+
+
+{
+"title": "Apriva (Apermilast) Comprimés",
+"tags": "psoriasis",
+"keywords": "apriva, apermilast",
+"url": "apermilast-comprimes.html",
+"summary": "Traitement du Rhumatisme Psoriasique et du Psoriasis en plaques."
+}
+,
+
+
+{
+"title": "Metronidazole + Tetracycline + Bismuth Gélules",
+"tags": "acidité",
+"keywords": "tripylori, pylera, metronidazole, tetracycline, bismuth",
+"url": "metronidazole-tetracycline-bismuth-gelules.html",
+"summary": "Traitement de deuxième ligne (après traitement séquentiel ou trithérapie): Eradication d'Hélicobacter pylori et prévention des récidives d'ulcères gastro-duodénaux chez les patients ayant un ulcère actif ou un antécédent d'ulcère associé à H. pylori."
+}
+,
+
+
+{
+"title": "Alyostal",
+"tags": "allergenes",
+"keywords": "alyostal prick, extraits allergeniques, histamine",
+"url": "alyostal.html",
+"summary": "Tests cutanés (prick-tests) pour le diagnostic de l'allergie de type I: réaction d'hypersensibilité à médiation IgE dépendante selon la classification de Gell et Coombs."
+}
+,
+
+
+{
+"title": "Préparations pour les Dents et les Gencives",
+"tags": "preparations-stomatologiques",
+"keywords": "pansoral, salicylate de choline, xylogel, lidocaine, aftagel, lidocaine, sulfate de zinc, delabarre, tamarin",
+"url": "dents-gencives.html",
+"summary": "Ces préparations contiennent un anesthésique local et sont utilisées dans l'espoir d'un soulagement momentané lors des poussées dentaires ou avant un traitement dentaire."
+}
+,
+
+
+{
+"title": "Bains de Bouche, Collutoires et Gargarismes",
+"tags": "preparations-stomatologiques",
+"keywords": "saverol, acide salicylique, menthol, resorcine, veratrol, benzydex, verax blu, benzydamine, eludril, colluxid, hexident, chlorhexidine, hexabain, hexetidine, betaseptine, polyvidone iodee",
+"url": "bains-de-bouche.html",
+"summary": "Traitement local d'appoint des affections de la cavité buccale et lors de soins post-opératoires en stomatologie"
+}
+,
+
+
+{
+"title": "Antifongique à Usage Stomatologique",
+"tags": "preparations-stomatologiques",
+"keywords": "micoral, daktarin, miconazole, fungizone, amphotericine b, nystatine, mikostat",
+"url": "antifongiques-stomato.html",
+"summary": "Traitement des mycoses de la cavité buccale de l'adulte et de l'enfant agé de 4 mois et plus: muguet, perlèche, glossites, gingivites, stomatites"
+}
+,
+
+
+{
+"title": "Vitamine C",
+"tags": "vitamines",
+"keywords": "vitamine c ips, upsa, vitascorbol, vitamyl, upsa-c, acide ascorbique",
+"url": "vitamine-c.html",
+"summary": "Traitement de la carence en vitamine C (scorbut), traitement d'appoint de l'asthénie fonctionnelle et des états de fatigue passagers de l’adulte."
+}
+,
+
+
+{
+"title": "Vitamine B1 Injectable",
+"tags": "vitamines",
+"keywords": "vitamine b1",
+"url": "vitamine-b1-injectable.html",
+"summary": "Traitement des carences en vitamine B1 lorsque la voie orale n'est pas possible."
+}
+,
+
+
+{
+"title": "Toniques",
+"tags": "minerauxvitamines",
+"keywords": "sargenor sans sucre, sargenor, arginine aspartate, tonicalcium, calcium ascorbate, lysine, stimol, citrulline, vitargine, arginine, vitamine b1, vitamine b6, tri-b, vitamine b12",
+"url": "toniques.html",
+"summary": "Traitement d'appoint de l'asthénie fonctionnelle."
+}
+,
+
+
+{
+"title": "Polyvitamines Sirop",
+"tags": "vitamines",
+"keywords": "hydrosol, polyvitamines",
+"url": "polyvitamines-sirop.html",
+"summary": "Prévention ou correction de troubles en rapport avec un régime alimentaire carencé ou déséquilibré."
+}
+,
+
+
+{
+"title": "Troubles Dyspeptiques",
+"tags": "dyspepsie",
+"keywords": "oxyboldine, boldine, sorbitocholine, sorbitol, choline, cetornan, oxyglurate ornithine monohydrate",
+"url": "troubles-dyspeptiques.html",
+"summary": "Traitement symptomatique des troubles dyspeptiques"
+}
+,
+
+
+{
+"title": "Sitagliptine Comprimés",
+"tags": "diabeteautres-diabete",
+"keywords": "sita 50, glipita 50, sita 100, januvia, glitivia, sitaglip, sitavia, glipita 100, sitagliptine",
+"url": "sitagliptine-comprimes.html",
+"summary": "Traitement du Diabète de type 2"
+}
+,
+
+
+{
+"title": "Association Sitagliptine + Metformine Comprimés",
+"tags": "diabeteautres-diabete",
+"keywords": "sitavia plus, sitaglimet, sitagliptine, metformine",
+"url": "sitagliptine---metformine-comprimes.html",
+"summary": "Traitement du Diabète de type 2"
+}
+,
+
+
+{
+"title": "Association Metformine + Glibenclamide Comprimés",
+"tags": "diabete",
+"keywords": "glucovance, metformine, glibenclamide",
+"url": "metformine-glibenclamide-comprimes.html",
+"summary": "Traitement du Diabète de type 2"
+}
+,
+
+
+{
+"title": "Association Linagliptine + Metformine Comprimés",
+"tags": "diabeteautres-diabete",
+"keywords": "jentadueto, linagliptine, metformine",
+"url": "linagliptine-metformine-comprimes.html",
+"summary": "Traitement du Diabète de type 2"
+}
+,
+
+
+{
+"title": "Linagliptine Comprimés",
+"tags": "diabeteautres-diabete",
+"keywords": "trajenta, linagliptine",
+"url": "linagliptine-comprimes.html",
+"summary": "Traitement du Diabète de type 2"
+}
+,
+
+
+{
+"title": "Magnesium",
+"tags": "mineraux",
+"keywords": "mag 2, magnesium teriak, magnesium glycocolle lafarge, megamag, spasmag iv, mg 2 plus, magnesium, uvimag b6, mag b6, pyrimag, vitamine b6, pyridoxine",
+"url": "magnesium.html",
+"summary": "Carences en Magnesium"
+}
+,
+
+
+{
+"title": "Sorbitol",
+"tags": "laxatif",
+"keywords": "sorbitol",
+"url": "sorbitol-sachet.html",
+"summary": "Traitement symptomatique de la constipation"
+}
+,
+
+
+{
+"title": "Lactulose",
+"tags": "laxatifs",
+"keywords": "lactulose, duphalac, perilax, laxatyl",
+"url": "lactulose.html",
+"summary": "Traitement symptomatique de la constipation"
+}
+,
+
+
+{
+"title": "Normacol (Gomme De Sterculia)",
+"tags": "laxatifs",
+"keywords": "normacol lavement, gomme de sterculia",
+"url": "gomme-de-sterculia-rectale.html",
+"summary": "Traitement symptomatique de la constipation basse et préparation aux examens endoscopiques du rectum"
+}
+,
+
+
+{
+"title": "Glycerine Suppositoires",
+"tags": "laxatif",
+"keywords": "laxolyne, glyss, glycerine",
+"url": "glycerine-suppo.html",
+"summary": "Traitement symptomatique de la constipation basse et préparation aux examens endoscopiques du rectum"
+}
+,
+
+
+{
+"title": "Laxagel (Docusate Sodique)",
+"tags": "laxatif",
+"keywords": "laxagel, docusate sodique",
+"url": "docusate-sodique-rectale.html",
+"summary": "Traitement symptomatique de la constipation basse et préparation aux examens endoscopiques du rectum"
+}
+,
+
+
+{
+"title": "Picoprep: Acide Citrique + Sodium + Magnesium",
+"tags": "laxatif",
+"keywords": "picoprep, acide citrique",
+"url": "acide-citrique-sodium-magnesium-sachet.html",
+"summary": "Lavage colique assurant la préparation des patients aux explorations endoscopiques, radiologiques et à la chirurgie colique"
+}
+,
+
+
+{
+"title": "Tacrolimus",
+"tags": "immunosuppresseurs",
+"keywords": "tacrolimus",
+"url": "tacrolimus.html",
+"summary": "Immunosuppresseur utilisé pour prévenir et traiter les épisodes de rejet aigu lors de transplantation d'organes, ou en pommade pour l'eczéma"
+}
+,
+
+
+{
+"title": "Itraconazole 100 mg Gélules",
+"tags": "anti-mycosique",
+"keywords": "itraconazole",
+"url": "itraconazole.html",
+"summary": "Agent antimycosique"
+}
+,
+
+
+{
+"title": "Ceftriaxone Injectable",
+"tags": "cephalosporineantibiotique",
+"keywords": "ceftriaxone",
+"url": "ceftriaxone.html",
+"summary": "Céphalosporine du troisième groupe. Traitement de certaines infections bactériennes graves"
+}
+,
+
+
+{
+"title": "Omnicef (Cefdinir) Sirop",
+"tags": "cephalosporineantibiotique",
+"keywords": "omnicef, cefdinir",
+"url": "cefdinir.html",
+"summary": "Céphalosporine du troisième groupe. Traitement de certaines infections bactériennes graves"
 }
 ,
 
@@ -113,26 +563,6 @@
 "keywords": "pct",
 "url": "changements-2025-10.html",
 "summary": "Changements d'Octobre 2025"
-}
-,
-
-
-{
-"title": "Liste des Médicaments Remboursés",
-"tags": "changements",
-"keywords": "",
-"url": "liste-vei.html",
-"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d' Assurance Maladie Tunisienne"
-}
-,
-
-
-{
-"title": "Liste des Médicaments Non Remboursés",
-"tags": "changements",
-"keywords": "",
-"url": "liste-non-vei.html",
-"summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
 }
 ,
 
@@ -538,10 +968,10 @@
 
 
 {
-"title": "Allergènes",
+"title": "Staloral",
 "tags": "allergenes",
 "keywords": "staloral cupressacees, staloral dpt + df, staloral dpt ct initial, staloral dpt entretien, graminees, olivier, parietaire, cupressacee, melange acariens dermatophagoides (pteronyssinus + farinae), pollens graminees, pollens arbres et arbustes",
-"url": "allergenes.html",
+"url": "staloral.html",
 "summary": "Désensibilisation pour les allergies de type I se manifestant par rhinite, conjonctivite ou asthme et de caractère saisonnier ou perannuel"
 }
 ,
@@ -640,7 +1070,7 @@
 {
 "title": "Médicaments antiacnéiques",
 "tags": "antiacneiquesdermato",
-"keywords": "antiacneique, erysol, eryfluid, erythromycine, differine, adapalene, acneta 10, xeractan, curacne gé, acneta 20, acneta 40, curacne, acneta 5, isotretinoine, retisol a, locacid, tretinoine, eclaran, peroxyde de benzoyle, dalacine t topic, clindamycine",
+"keywords": "antiacneique, erysol, eryfluid, erythromycine, differine, adapalene, acneta 10, xeractan, curacne gé, acneta 20, acneta 40, curacne, acneta 5, isotretinoine, retisol a, locacid, tretinoine, eclaran, peroxyde de benzoyle, dalacine t topic, clindamycine, epiduo gel, rosacne, acide azelaique",
 "url": "antiacneiques.html",
 "summary": "Traitement de l'acné"
 }
@@ -1649,7 +2079,7 @@
 
 {
 "title": "Association Salmeterol + Fluticasone",
-"tags": "sympathicomimetique-corticosteroidebronchodilatateursanti-inflammatoire",
+"tags": "sympathicomimetique-corticosteroidebronchodilatateurscorticoides-a-inhaler",
 "keywords": "cyvax, seretide, seretide diskus, rolenium, fluticasone propionate + salmeterol",
 "url": "salmeterol-fluticasone.html",
 "summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
@@ -1659,7 +2089,7 @@
 
 {
 "title": "Association Budesonide + Formoterol",
-"tags": "sympathicomimetique-corticosteroidebronchodilatateursanti-inflammatoire",
+"tags": "sympathicomimetique-corticosteroidebronchodilatateurscorticoides-a-inhaler",
 "keywords": "notos combi, combifor, symbicort turbuhaler, budesonide, formoterol",
 "url": "budesonide-formoterol.html",
 "summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
@@ -1669,7 +2099,7 @@
 
 {
 "title": "Foster: Association Beclometasone + Formoterol",
-"tags": "sympathicomimetique-corticosteroidebronchodilatateursanti-inflammatoire",
+"tags": "sympathicomimetique-corticosteroidebronchodilatateurscorticoides-a-inhaler",
 "keywords": "foster, beclomethasone, formoterol, beclometasone",
 "url": "beclometasone-formoterol.html",
 "summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
@@ -1679,7 +2109,7 @@
 
 {
 "title": "Fluticasone",
-"tags": "corticoides-a-inhaleranti-inflammatoire",
+"tags": "corticoides-a-inhalersympathicomimetique-corticosteroide",
 "keywords": "erva, flixotide 50, flixotide diskus 250, fluticapen, fluticasone",
 "url": "fluticasone.html",
 "summary": "Traitement d'entretien de l'asthme"
@@ -1689,7 +2119,7 @@
 
 {
 "title": "Budesonide",
-"tags": "corticoides-a-inhaleranti-inflammatoire",
+"tags": "corticoides-a-inhalersympathicomimetique-corticosteroide",
 "keywords": "bercum, pulmicort, aeronide, eolide easy flow, miflonide, airycort, budesonide",
 "url": "budesonide.html",
 "summary": "Traitement d'entretien de l'asthme"
@@ -1699,7 +2129,7 @@
 
 {
 "title": "Beclometasone",
-"tags": "corticoides-a-inhaleranti-inflammatoire",
+"tags": "corticoides-a-inhalersympathicomimetique-corticosteroide",
 "keywords": "cortis, beclo-asma, beclonil, clenil 250 µg, beclojet 250, miflasone, beclometasone, beclomethasone",
 "url": "beclometasone.html",
 "summary": "Traitement d'entretien de l'asthme"
@@ -1929,10 +2359,10 @@
 
 {
 "title": "Chlorure de Potassium",
-"tags": "perfusion",
-"keywords": "chlorure de potassium unimed, chlorure de potassium",
+"tags": "perfusionmineraux",
+"keywords": "chlorure de potassium unimed, chlorure de potassium, kaleorid lp, kalinor retard",
 "url": "chlorure-de-potassium.html",
-"summary": "Apports de potassium pour assurer les besoins quotidients lors de l'alimentation par voie parentérale. Traitement d'une hypokaliémie"
+"summary": "Traitement des hypokaliémies"
 }
 ,
 
@@ -3159,8 +3589,8 @@
 
 {
 "title": "Insuline",
-"tags": "insuline",
-"keywords": "glargen, semglee, lantus, lantus solostar, levemir flexpen, novomix 30 flexpen, novorapid flexpen, apidra solostar, ryzodeg flex touch, toujeo solostar, insuline analogue glargine, insuline analogue detemir, insuline analogue insuline aspartate, insuline analogue glulisine, insuline asparte + insuline degludec",
+"tags": "insulinediabete",
+"keywords": "glargen, semglee, lantus, lantus solostar, levemir flexpen, novomix 30 flexpen, novorapid flexpen, apidra solostar, ryzodeg flex touch, toujeo solostar, insuline analogue glargine, detemir, aspartate, glulisine, degludec, tresiba flextouch",
 "url": "insuline.html",
 "summary": "Traitement du diabète"
 }
@@ -3188,11 +3618,11 @@
 
 
 {
-"title": "Vitamines D",
+"title": "Vitamines D et Dérivés",
 "tags": "vitamines",
-"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacaps, alfacalcidol",
+"keywords": "d-max, vitamine d3 b.o.n, vit d3, vitamine d, sterogyl, ergocalciferol, dedrogyl, calcifediol, un-alfa, alfacaps, alfacalcidol , natecal, frubiose, dibase, d3plus, colecalciferol",
 "url": "vitamines-d.html",
-"summary": "Vitamine D et dérivés"
+"summary": "Prévention et traitement des carences en Vitamine D"
 }
 ,
 
@@ -3220,7 +3650,7 @@
 {
 "title": "Calcium",
 "tags": "mineraux",
-"keywords": "deflatine, calcemil, fixical, calcium sandoz, unimed, chlorure de calcium, calplus, calcitop, calcifast, calperos, tonucal, calciboise, densical",
+"keywords": "deflatine, calcemil, fixical, calcium sandoz, unimed, chlorure de calcium, calplus, calcitop, calcifast, calperos, tonucal, calciboise, densical, natecal",
 "url": "calcium.html",
 "summary": "Prévention et traitement de l'ostéoporose et des carences en calcium."
 }
@@ -3229,8 +3659,8 @@
 
 {
 "title": "Diphosphonates",
-"tags": "muscles et os",
-"keywords": "fosalen, fosalen d3, fosavance, alendronate, colecalciferol, risonel, aktonate, ostenel, actonel, risedronate, protelos, ranelate de strontium, evista, raloxifene",
+"tags": "muscles-et-os",
+"keywords": "fosalen, fosalen d3, fosavance, alendronate, colecalciferol, risonel, aktonate, ostenel, actonel, risedronate, protelos, ranelate de strontium, evista, raloxifene, bonefos, benefos, clodronate",
 "url": "diphosphonates.html",
 "summary": "Inhibiteurs de la résorption osseuse, utilisés dans certaines maladies des os et dans l'ostéoporose postménopausique"
 }
@@ -3239,10 +3669,20 @@
 
 {
 "title": "Antigoutteux (Colchicine et Allopurinol)",
-"tags": "anti-inflammatoiremuscles et os",
+"tags": "anti-inflammatoiremuscles-et-os",
 "keywords": "colchicine opocalcium, colchicina lirca, purinol 100, alloric, purinol 300, colchicine, allopurinol",
 "url": "antigoutteux.html",
 "summary": "Traitement de la goutte"
+}
+,
+
+
+{
+"title": "Myorelaxants",
+"tags": "anti-inflammatoiremuscles-et-os",
+"keywords": "miorel, myolax, coltramyl, relaxil, thiomed, thiocolchicoside, decontractyl, mephenesine,myorelax ,ortoton, methocarbamol",
+"url": "myorelaxants.html",
+"summary": "Traitement des contractures musculaires douloureuses."
 }
 ,
 
@@ -3253,16 +3693,6 @@
 "keywords": "liorefen, pms-baclofen, baclofene",
 "url": "baclofene.html",
 "summary": "Traitement des contractures spastiques graves dans les maladies dégénératives de la moëlle épinière ou liées à des troubles vasculaires cérébraux"
-}
-,
-
-
-{
-"title": "Myorelaxants",
-"tags": "anti-inflammatoiremuscles et os",
-"keywords": "miorel, myolax, coltramyl, relaxil, thiomed, thiocolchicoside, decontractyl, mephenesine",
-"url": "myorelaxants.html",
-"summary": "Traitement des contractures musculaires douloureuses"
 }
 ,
 
@@ -3298,11 +3728,11 @@
 
 
 {
-"title": "Polyéthylène Glycol",
+"title": "Polyéthylène Glycol (Macrogol)",
 "tags": "laxatif",
-"keywords": "fortrans",
-"url": "laxatif.html",
-"summary": "Lavage colique assurant la préparation des patients aux explorations endoscopiques, radiologiques et à la chirurgie colique."
+"keywords": "ilax, transiton, osmolax, polyethylene glycol, fortrans",
+"url": "polyethylene-glycol.html",
+"summary": "Laxatif osmotique"
 }
 ,
 
@@ -3380,19 +3810,19 @@
 {
 "title": "Autres médicaments pour la diarrhée",
 "tags": "diarrhee",
-"keywords": "fungizone, amphotericine b, nystatine, mikostat, diarix, normix, rifixine 200, Rifaximina, sulfaguanidine, lacteol fort, lactobacillus acidophilus",
+"keywords": "fungizone, amphotericine b, nystatine, mikostat, diarix, normix, rifixine 200, Rifaximina, sulfaguanidine, lacteol fort, lactobacillus acidophilus, enterogermina, bacillus clausii spores",
 "url": "autres-diarrhees.html",
-"summary": "Antifongiques, Antibiotiques et Anti-inflammatoires pour la diarrhée"
+"summary": "Antifongiques, Antibiotiques, Anti-inflammatoires et Probiotiques pour la diarrhée"
 }
 ,
 
 
 {
-"title": "Charbon Activé",
-"tags": "antispasmodiquediarrhee",
-"keywords": "carbactive, carbophos, carbosylane, carbosylane enfant, charbon, siméthicone",
+"title": "Charbon",
+"tags": "antispasmodique",
+"keywords": "carbactive, carbophos, carbosylane, carbosylane enfant, charbon, siméthicone, eucarbon, rhubarbe, feuille de senne",
 "url": "charbon.html",
-"summary": "Traitement symptomatique de la diarrhée et des manifestations fonctionnelles intestinales, notamment avec météorisme. Traitement de certaines intoxications médicamenteuses"
+"summary": "Traitement symptomatique des manifestations fonctionnelles intestinales, notamment avec météorisme. Traitement de certaines intoxications médicamenteuses"
 }
 ,
 
@@ -3410,7 +3840,7 @@
 {
 "title": "Antimycosiques à Usage Dermatologique",
 "tags": "dermatoanti-mycosique",
-"keywords": "nystatine, ecozyl, ecorex, fongicil, pevaryl, mycoderm, perozyl, econazole, ketolin, ketoderm , koderm, ketozol gel moussant, ketogel, philazole shampooing, ketoconazole, vocozole, philaderm, isoconazole, camysten, clotrimazole, terbisil, tinasil, mycophil, onycal, tercyd, tallis, terbinafine, loceryl, amorolfine, mycorex, mycoster, sebiprox, mycoster vernis, ciclopiroxolamine, tomycose, sporalim, tolnaftate",
+"keywords": "nystatine, ecozyl, ecorex, fongicil, pevaryl, mycoderm, perozyl, econazole, ketolin, ketoderm , koderm, ketozol gel moussant, ketogel, philazole shampooing, ketoconazole, vocozole, philaderm, isoconazole, camysten, clotrimazole, terbisil, tinasil, mycophil, onycal, tercyd, tallis, terbinafine, loceryl, amorolfine, mycorex, mycoster, sebiprox, mycoster vernis, ciclopiroxolamine, tomycose, sporalim, tolnaftate, lamisil",
 "url": "antimycosiques-dermato.html",
 "summary": "Traitement local des infections mycosiques cutanées"
 }
@@ -3658,16 +4088,6 @@
 
 
 {
-"title": "Antituberculeux",
-"tags": "antituberculeuxantibiotique",
-"keywords": "rifadin, rifadine, rifampicine, isoniazide, pdp-isoniazide",
-"url": "antituberculeux.html",
-"summary": "Antibiotiques réservés au traitement de la Tuberculose"
-}
-,
-
-
-{
 "title": "Terbinafine",
 "tags": "anti-mycosique",
 "keywords": "tinasil, tallis, onycal, lamisil, terbisil, tercyd, mycophil, terbinafine zentiva, terbinafine, antifongique, antimycosique",
@@ -3703,6 +4123,16 @@
 "keywords": "flukas, difluzol, flinzol, flucazole, diflucan, flucand 150, fluconazole winthrop, fylcol, diflu4, funzol, fluconazole",
 "url": "fluconazole.html",
 "summary": "Agent antimycosique"
+}
+,
+
+
+{
+"title": "Antituberculeux",
+"tags": "antituberculeuxantibiotique",
+"keywords": "rifadin, rifadine, rifampicine, isoniazide, pdp-isoniazide",
+"url": "antituberculeux.html",
+"summary": "Antibiotiques réservés au traitement de la Tuberculose"
 }
 ,
 
@@ -4260,7 +4690,7 @@
 {
 "title": "Alginates",
 "tags": "aciditéacidité-autres",
-"keywords": "apyrosis nourrissons, apyrosis, gaviscon",
+"keywords": "apyrosis, gaviscon, apyrosis double action menthe, bicarbonate, alginate",
 "url": "alginates.html",
 "summary": "Traitement symptomatique du reflux gastro-oesophagien"
 }
@@ -4510,7 +4940,7 @@
 {
 "title": "Acide Niflumique",
 "tags": "anti-inflammatoireantalgique",
-"keywords": "niflumic, inflocine enfant, nifluril enfant., inflocine adulte, nifluril, acide niflumique",
+"keywords": "niflumic, nifluril enfant, inflocine, acide niflumique, nifluderm, niflugel",
 "url": "acide-niflumique.html",
 "summary": "Traitement des maladies inflammatoires et des douleurs"
 }

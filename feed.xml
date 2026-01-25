@@ -5,646 +5,9 @@
         <description>Prix des Médicaments en Tunisie.</description>
         <link>https://ballouchi.github.io/medoc/</link>
         <atom:link href="https://ballouchi.github.io/medoc/feed.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 14 Jan 2026 08:22:52 +0100</pubDate>
-        <lastBuildDate>Wed, 14 Jan 2026 08:22:52 +0100</lastBuildDate>
+        <pubDate>Sun, 25 Jan 2026 14:36:42 +0100</pubDate>
+        <lastBuildDate>Sun, 25 Jan 2026 14:36:42 +0100</lastBuildDate>
         <generator>Jekyll v4.4.1</generator>
-        
-        <item>
-            <title>Circulaires de la Pharmacie Centrale de Janvier 2026</title>
-            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-de-janvier-2026&quot;&gt;Circulaires de la Pharmacie Centrale de Janvier 2026&lt;/h1&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_2026-01&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_2026-01_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Circulaire&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Commentaire&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix Public&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Laboratoire&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;AMM&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Durée de vie&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Tableau&lt;/th&gt;
-      &lt;th id=&quot;T_2026-01_level0_col11&quot; class=&quot;col_heading level0 col11&quot;&gt;Date&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2026-01_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;2026/01&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;106962&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;TRIMBOW 87µg/5µg/9µg Sol.P.Inhal. Fl 120Doses (F)&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;168,040&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;CHIESI FARMACEUTICI SPA&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;7133091&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;22 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row0_col11&quot; class=&quot;data row0 col11&quot;&gt;02/01/2026&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2026-01_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;2026/02&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;303808&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;CINKASA 500mg Suppo. Bt 60&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;62,000&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;MESALAZINE&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;OPALIA PHARMA S.A.&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;9023933&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2026-01_row1_col11&quot; class=&quot;data row1 col11&quot;&gt;09/01/2026&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Tue, 13 Jan 2026 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/pct-2026-01.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/pct-2026-01.html</guid>
-            
-            <category>changements</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Circulaires de la Pharmacie Centrale de Décembre 2025</title>
-            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-de-décembre-2025&quot;&gt;Circulaires de la Pharmacie Centrale de Décembre 2025&lt;/h1&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_2025-dec-min.csv&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Commentaire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Prix Public&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Laboratoire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AMM&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Durée de vie&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Tableau&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Circulaire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-dec-min.csv_level0_col10&quot; class=&quot;col_heading level0 col10&quot;&gt;Date&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303802&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;ANTIXA 2.5mg Comp. Pell. Bt 180&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;105,240&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;APIXABAN&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;S.A.I.PH&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;9164345&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;2025/48&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row0_col10&quot; class=&quot;data row0 col10&quot;&gt;05/12/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303804&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;ANTIXA 5mg Comp. Pell. Bt 180&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;105,240&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;APIXABAN&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;S.A.I.PH&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;9164346&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;2025/48&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row1_col10&quot; class=&quot;data row1 col10&quot;&gt;05/12/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;104720&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;DEROXAT 20mg Comp.Pell.Séc. Bt 50&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Arrêt de Commercialisation&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;PAROXETINE&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;GLAXOSMITHKLINE SERVICES UNLIMITED&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;5163042&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col9&quot; class=&quot;data row2 col9&quot;&gt;2025/49&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row2_col10&quot; class=&quot;data row2 col10&quot;&gt;22/12/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;107033&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;ENTEROGERMINA 4 milliards/5ml Susp.Buv. Bt 10 Fl/5ml&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;18,920&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;BACILLUS CLAUSII SPORES POLYANTIBIO-RESISTANTS&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;OPELLA HEALTHCARE INTERNATIONAL SAS&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;29693013&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col9&quot; class=&quot;data row3 col9&quot;&gt;2025/50&lt;/td&gt;
-      &lt;td id=&quot;T_2025-dec-min.csv_row3_col10&quot; class=&quot;data row3 col10&quot;&gt;26/12/2025&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/pct-2025-12.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/pct-2025-12.html</guid>
-            
-            <category>changements</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>CNAM: Mise à Jour du 03-12-2025</title>
-            <description>&lt;h1 id=&quot;cnam-mise-à-jour-du-03-12-2025&quot;&gt;CNAM: Mise à Jour du 03-12-2025&lt;/h1&gt;
-
-&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
-&lt;script&gt;
-$( document ).ready(function() {
-  // Handler for .ready() called.
-
-$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
-
-/* this offset helps account for the space taken up by the floating toolbar. */
-$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
-  var target = $(this.getAttribute(&apos;href&apos;))
-    , scroll_target = target.offset().top
-
-  $(window).scrollTop(scroll_target - 10);
-  return false
-})
-
-});
-&lt;/script&gt;
-
-&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
-
-&lt;h3 id=&quot;liste-des-médicaments-classés-en-vei-couverts-par-le-régime-de-base&quot;&gt;Liste des Médicaments Classés en VEI Couverts par le Régime de Base&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20VEI%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE%20(1)03-12-2025.xlsx&quot;&gt;3/12/2025&lt;/a&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;ajustement-des-prix&quot;&gt;Ajustement des Prix&lt;/h3&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_55171&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_55171_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
-      &lt;th id=&quot;T_55171_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
-      &lt;th id=&quot;T_55171_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_55171_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;ANCIEN PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_55171_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DIFFERENCE&lt;/th&gt;
-      &lt;th id=&quot;T_55171_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;TARIF REFERENCE&lt;/th&gt;
-      &lt;th id=&quot;T_55171_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;DCI&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_55171_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;105788&lt;/td&gt;
-      &lt;td id=&quot;T_55171_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;FORXIGA 10mg Comp Pell Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_55171_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;113,770&lt;/td&gt;
-      &lt;td id=&quot;T_55171_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;128,560&lt;/td&gt;
-      &lt;td id=&quot;T_55171_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;-14,790&lt;/td&gt;
-      &lt;td id=&quot;T_55171_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;48,272&lt;/td&gt;
-      &lt;td id=&quot;T_55171_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;DAPAGLIFLOZINE&lt;/td&gt;
-    &lt;/tr&gt;
-        &lt;tr&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;107087&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;GARDENAL 10mg Comp Bt 80&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;10,240&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;0,493&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;9,747&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;0,480&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;PHENOBARBITAL&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;107074&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;URBANYL 10mg Comp Séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;11,115&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;8,240&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;2,875&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;8,220&lt;/td&gt;
-      &lt;td id=&quot;T_e2fe1_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;CLOBAZAM&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Mon, 08 Dec 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/cnam-2025-12-03.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/cnam-2025-12-03.html</guid>
-            
-            <category>changements</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Circulaires de la Pharmacie Centrale de Novembre 2025</title>
-            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-de-novembre-2025&quot;&gt;Circulaires de la Pharmacie Centrale de Novembre 2025&lt;/h1&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_2025-nov-min.csv&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Commentaire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Prix Public&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Laboratoire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AMM&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Durée de vie&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Tableau&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Circulaire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-nov-min.csv_level0_col10&quot; class=&quot;col_heading level0 col10&quot;&gt;Date&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303801&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;LEVOCINE 750mg Comp.Pell. Bt 5&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;22,280&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;LEVOFLOXACINE&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;DAR ESSAYDALI&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;9213491&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;2025/43&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row0_col10&quot; class=&quot;data row0 col10&quot;&gt;07/11/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;105788&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;FORXIGA 10mg Comp.Pell. Bt 28&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;113,770&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;DAPAGLIFLOZINE&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ASTRA ZENECA UK LTD&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;2025/45&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row1_col10&quot; class=&quot;data row1 col10&quot;&gt;14/11/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;107087&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;GARDENAL 10mg Comp. Bt 80&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Changement de Code PCT (102277) et Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;10,240&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;PHENOBARBITAL&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;ATNAHS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;36 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;C&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col9&quot; class=&quot;data row2 col9&quot;&gt;2025/47&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row2_col10&quot; class=&quot;data row2 col10&quot;&gt;28/11/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;107074&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;URBANYL 10mg Comp. Séc. Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Changement de Code PCT (303387) et Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;11,115&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;CLOBAZAM&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;ATNAHS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;36 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col9&quot; class=&quot;data row3 col9&quot;&gt;2025/47&lt;/td&gt;
-      &lt;td id=&quot;T_2025-nov-min.csv_row3_col10&quot; class=&quot;data row3 col10&quot;&gt;28/11/2025&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Sun, 07 Dec 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/pct-2025-11.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/pct-2025-11.html</guid>
-            
-            <category>changements</category>
-            
-            
-        </item>
-        
-        <item>
-            <title>Circulaires de la Pharmacie Centrale d&apos;Octobre 2025</title>
-            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-doctobre-2025&quot;&gt;Circulaires de la Pharmacie Centrale d’Octobre 2025&lt;/h1&gt;
-
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_a9e58&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_a9e58_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Commentaire&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Prix Public&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Laboratoire&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AMM&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Durée de vie&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Tableau&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Circulaire&lt;/th&gt;
-      &lt;th id=&quot;T_a9e58_level0_col10&quot; class=&quot;col_heading level0 col10&quot;&gt;Date&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303790&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;ESCITAPUR 10mg Comp. Pell. Séc. Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;14,072&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;ESCITALOPRAM&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;S.A.I.PH&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;9164392&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;2025/40&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row0_col10&quot; class=&quot;data row0 col10&quot;&gt;03/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303791&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;ESCITAPUR 20mg Comp. Pell. Séc. Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;20,220&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;ESCITALOPRAM&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;S.A.I.PH&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;9164393&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;2025/40&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row1_col10&quot; class=&quot;data row1 col10&quot;&gt;03/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;303795&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;RGEO 40mg Gél. Gastro-résist Bt 7&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;5,805&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;ESOMEPRAZOLE&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;S.A.I.PH&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;9164235&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;C&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col9&quot; class=&quot;data row2 col9&quot;&gt;2025/40&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row2_col10&quot; class=&quot;data row2 col10&quot;&gt;03/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;303792&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;TREPARIN 250 ULS Caps. Molle Bt 60&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;40,200&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;SULODEXIDE&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;S.A.I.PH&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;9164432&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col9&quot; class=&quot;data row3 col9&quot;&gt;2025/40&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row3_col10&quot; class=&quot;data row3 col10&quot;&gt;03/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;303799&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;AIRYCORT 200µg Pdre.P.Inha.Bucc. en Gél. Bt 60 + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;12,140&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;BUDESONIDE&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;NEAPOLIS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;9393311&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col9&quot; class=&quot;data row4 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row4_col10&quot; class=&quot;data row4 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;303800&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;AIRYCORT 400µg Pdre.P.Inha.Bucc. en Gél. Bt 60 + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;22,020&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;BUDESONIDE&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;NEAPOLIS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;9393312&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col9&quot; class=&quot;data row5 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row5_col10&quot; class=&quot;data row5 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;303797&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;RESPYFOR 12µg Pdre.P.Inhal.Bucc. Bt 30 + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;17,365&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;FORMOTEROL FUMARATE&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;NEAPOLIS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;9393271&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col9&quot; class=&quot;data row6 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row6_col10&quot; class=&quot;data row6 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;303798&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;RESPYFOR 12µg Pdre.P.Inhal.Bucc. Bt 60 Gél. + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;32,015&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;FORMOTEROL FUMARATE&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;NEAPOLIS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;9393272&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col9&quot; class=&quot;data row7 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row7_col10&quot; class=&quot;data row7 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;303796&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;RESPYVA 18 µg Pdre.P.Inhal.Bucc. Bt 30 Gél. + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;Nouveau Produit&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;63,440&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;BROMURE DE TIOTROPIUM&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;NEAPOLIS PHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;9393251&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col9&quot; class=&quot;data row8 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row8_col10&quot; class=&quot;data row8 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row9_col0&quot; class=&quot;data row9 col0&quot;&gt;306028&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col1&quot; class=&quot;data row9 col1&quot;&gt;ANALGAN 500mg Comp. Bt 20&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col2&quot; class=&quot;data row9 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col3&quot; class=&quot;data row9 col3&quot;&gt;2,300&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col4&quot; class=&quot;data row9 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col5&quot; class=&quot;data row9 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col6&quot; class=&quot;data row9 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col7&quot; class=&quot;data row9 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col8&quot; class=&quot;data row9 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col9&quot; class=&quot;data row9 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row9_col10&quot; class=&quot;data row9 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row10_col0&quot; class=&quot;data row10 col0&quot;&gt;300011&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col1&quot; class=&quot;data row10 col1&quot;&gt;ASPIRINE 500mg Comp. Bt 20&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col2&quot; class=&quot;data row10 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col3&quot; class=&quot;data row10 col3&quot;&gt;3,500&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col4&quot; class=&quot;data row10 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col5&quot; class=&quot;data row10 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col6&quot; class=&quot;data row10 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col7&quot; class=&quot;data row10 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col8&quot; class=&quot;data row10 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col9&quot; class=&quot;data row10 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row10_col10&quot; class=&quot;data row10 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row11_col0&quot; class=&quot;data row11 col0&quot;&gt;304111&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col1&quot; class=&quot;data row11 col1&quot;&gt;BROMHEXINE 4mg Comp.Pell. Bt 40&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col2&quot; class=&quot;data row11 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col3&quot; class=&quot;data row11 col3&quot;&gt;5,040&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col4&quot; class=&quot;data row11 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col5&quot; class=&quot;data row11 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col6&quot; class=&quot;data row11 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col7&quot; class=&quot;data row11 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col8&quot; class=&quot;data row11 col8&quot;&gt;C&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col9&quot; class=&quot;data row11 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row11_col10&quot; class=&quot;data row11 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row12_col0&quot; class=&quot;data row12 col0&quot;&gt;308000&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col1&quot; class=&quot;data row12 col1&quot;&gt;BUSCOPAN 10mg Comp.Enr. Bt 40&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col2&quot; class=&quot;data row12 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col3&quot; class=&quot;data row12 col3&quot;&gt;7,220&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col4&quot; class=&quot;data row12 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col5&quot; class=&quot;data row12 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col6&quot; class=&quot;data row12 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col7&quot; class=&quot;data row12 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col8&quot; class=&quot;data row12 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col9&quot; class=&quot;data row12 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row12_col10&quot; class=&quot;data row12 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row13_col0&quot; class=&quot;data row13 col0&quot;&gt;302673&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col1&quot; class=&quot;data row13 col1&quot;&gt;EUCAMPHINE ADULTE Pde.Derm. Tb 25gr&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col2&quot; class=&quot;data row13 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col3&quot; class=&quot;data row13 col3&quot;&gt;7,800&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col4&quot; class=&quot;data row13 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col5&quot; class=&quot;data row13 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col6&quot; class=&quot;data row13 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col7&quot; class=&quot;data row13 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col8&quot; class=&quot;data row13 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col9&quot; class=&quot;data row13 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row13_col10&quot; class=&quot;data row13 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row14_col0&quot; class=&quot;data row14 col0&quot;&gt;302674&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col1&quot; class=&quot;data row14 col1&quot;&gt;EUCAMPHINE ENFANT Pde.Derm. Tb 25gr&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col2&quot; class=&quot;data row14 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col3&quot; class=&quot;data row14 col3&quot;&gt;7,300&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col4&quot; class=&quot;data row14 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col5&quot; class=&quot;data row14 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col6&quot; class=&quot;data row14 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col7&quot; class=&quot;data row14 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col8&quot; class=&quot;data row14 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col9&quot; class=&quot;data row14 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row14_col10&quot; class=&quot;data row14 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row15_col0&quot; class=&quot;data row15 col0&quot;&gt;306600&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col1&quot; class=&quot;data row15 col1&quot;&gt;GRISEOFULVINE 250mg Comp.Enr. Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col2&quot; class=&quot;data row15 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col3&quot; class=&quot;data row15 col3&quot;&gt;14,040&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col4&quot; class=&quot;data row15 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col5&quot; class=&quot;data row15 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col6&quot; class=&quot;data row15 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col7&quot; class=&quot;data row15 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col8&quot; class=&quot;data row15 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col9&quot; class=&quot;data row15 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row15_col10&quot; class=&quot;data row15 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row16_col0&quot; class=&quot;data row16 col0&quot;&gt;308045&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col1&quot; class=&quot;data row16 col1&quot;&gt;HEXABAIN 1mg Sol.Bucc. Fl 200ml&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col2&quot; class=&quot;data row16 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col3&quot; class=&quot;data row16 col3&quot;&gt;5,600&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col4&quot; class=&quot;data row16 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col5&quot; class=&quot;data row16 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col6&quot; class=&quot;data row16 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col7&quot; class=&quot;data row16 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col8&quot; class=&quot;data row16 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col9&quot; class=&quot;data row16 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row16_col10&quot; class=&quot;data row16 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row17_col0&quot; class=&quot;data row17 col0&quot;&gt;302592&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col1&quot; class=&quot;data row17 col1&quot;&gt;NEOFUNGINE Pde.Derm. Tb 10gr&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col2&quot; class=&quot;data row17 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col3&quot; class=&quot;data row17 col3&quot;&gt;5,640&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col4&quot; class=&quot;data row17 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col5&quot; class=&quot;data row17 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col6&quot; class=&quot;data row17 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col7&quot; class=&quot;data row17 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col8&quot; class=&quot;data row17 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col9&quot; class=&quot;data row17 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row17_col10&quot; class=&quot;data row17 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row18_col0&quot; class=&quot;data row18 col0&quot;&gt;302679&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col1&quot; class=&quot;data row18 col1&quot;&gt;NYSTATINE 2% Pde.Derm. Tb 25gr&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col2&quot; class=&quot;data row18 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col3&quot; class=&quot;data row18 col3&quot;&gt;4,740&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col4&quot; class=&quot;data row18 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col5&quot; class=&quot;data row18 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col6&quot; class=&quot;data row18 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col7&quot; class=&quot;data row18 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col8&quot; class=&quot;data row18 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col9&quot; class=&quot;data row18 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row18_col10&quot; class=&quot;data row18 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row19_col0&quot; class=&quot;data row19 col0&quot;&gt;302204&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col1&quot; class=&quot;data row19 col1&quot;&gt;PREDNISONE 5mg Comp. Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col2&quot; class=&quot;data row19 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col3&quot; class=&quot;data row19 col3&quot;&gt;7,420&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col4&quot; class=&quot;data row19 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col5&quot; class=&quot;data row19 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col6&quot; class=&quot;data row19 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col7&quot; class=&quot;data row19 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col8&quot; class=&quot;data row19 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col9&quot; class=&quot;data row19 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row19_col10&quot; class=&quot;data row19 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_a9e58_row20_col0&quot; class=&quot;data row20 col0&quot;&gt;302209&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col1&quot; class=&quot;data row20 col1&quot;&gt;TRI-B Comp.Enr. Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col2&quot; class=&quot;data row20 col2&quot;&gt;Ajustement des Prix&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col3&quot; class=&quot;data row20 col3&quot;&gt;10,000&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col4&quot; class=&quot;data row20 col4&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col5&quot; class=&quot;data row20 col5&quot;&gt;S.I.PHA.T&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col6&quot; class=&quot;data row20 col6&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col7&quot; class=&quot;data row20 col7&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col8&quot; class=&quot;data row20 col8&quot;&gt;&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col9&quot; class=&quot;data row20 col9&quot;&gt;2025/41&lt;/td&gt;
-      &lt;td id=&quot;T_a9e58_row20_col10&quot; class=&quot;data row20 col10&quot;&gt;10/10/2025&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-</description>
-            <pubDate>Fri, 24 Oct 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/changements-2025-10.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/changements-2025-10.html</guid>
-            
-            <category>changements</category>
-            
-            
-        </item>
         
         <item>
             <title>Liste des Médicaments Remboursés</title>
@@ -660,7 +23,7 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     
 &lt;/div&gt;
 
-&lt;div class=&quot;bs-callout bs-callout-success&quot;&gt; Liste officielle publiée par la CNAM &lt;a href=&quot;https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20VEI%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE%20(1)03-12-2025.xlsx&quot;&gt;3/12/2025&lt;/a&gt; &lt;/div&gt;
+&lt;div class=&quot;bs-callout bs-callout-success&quot;&gt; Liste officielle publiée par la CNAM &lt;a href=&quot;https://spot.tn/media/articles/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20VEI%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE-16-01-2026.xlsx&quot;&gt;16/01/2026&lt;/a&gt; &lt;/div&gt;
 
 &lt;table id=&quot;vei&quot; class=&quot;display&quot; style=&quot;width:100%&quot;&gt;
         &lt;thead&gt;
@@ -677,7 +40,7 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     &lt;/table&gt;
 
 </description>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 +0100</pubDate>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
             <link>https://ballouchi.github.io/medoc/liste-vei.html</link>
             <guid isPermaLink="true">https://ballouchi.github.io/medoc/liste-vei.html</guid>
             
@@ -700,13 +63,24 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     
 &lt;/div&gt;
 
-&lt;div class=&quot;bs-callout bs-callout-warning&quot;&gt;Liste non officielle incomplète&lt;/div&gt;
+&lt;div class=&quot;bs-callout bs-callout-warning&quot;&gt;Liste non officielle incomplète &lt;a href=&quot;/downloads/liste-non-vei-2026-01-24.xlsx&quot;&gt;24/01/2026&lt;/a&gt;&lt;/div&gt;
 
 &lt;h3 id=&quot;sources&quot;&gt;Sources:&lt;/h3&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;Circulaires de la &lt;a href=&quot;http://www.phct.com.tn/index.php/communiques/circulaires-de-la-pct&quot;&gt;Pharmacie Centrale de Tunisie&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Révision des Prix:&lt;/p&gt;
+
+    &lt;p&gt;1- &lt;a href=&quot;/downloads/2024-02-16-revision-modifie.xlsx&quot;&gt;2024-02-16&lt;/a&gt;(circulaire 06/2024)&lt;/p&gt;
+
+    &lt;p&gt;2- &lt;a href=&quot;/downloads/2024-02-20-revision-modifie.xlsx&quot;&gt;2024-02-20&lt;/a&gt;(circulaire 07/2024)&lt;/p&gt;
+
+    &lt;p&gt;3- &lt;a href=&quot;/downloads/2024-04-25-revision-modifie.xlsx&quot;&gt;2024-04-25&lt;/a&gt;(circulaire 18/2024)&lt;/p&gt;
+
+    &lt;p&gt;4- &lt;a href=&quot;/downloads/2025-07-16-revision-modifie.xlsx&quot;&gt;2025-07-16&lt;/a&gt;(circulaire 32/2025)&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;Liste des Médicaments à usage Humain autorisés en Tunisie publiée par la &lt;a href=&quot;https://dpm.tn/medicament/humain/liste-des-medicaments&quot;&gt;Direction de la Pharmacie et du Médicament&lt;/a&gt;&lt;/p&gt;
@@ -729,7 +103,7 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
     &lt;/table&gt;
 
 </description>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 +0100</pubDate>
+            <pubDate>Sat, 24 Jan 2026 00:00:00 +0100</pubDate>
             <link>https://ballouchi.github.io/medoc/liste-non-vei.html</link>
             <guid isPermaLink="true">https://ballouchi.github.io/medoc/liste-non-vei.html</guid>
             
@@ -739,9 +113,370 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
         </item>
         
         <item>
-            <title>CNAM: Mise à Jour du 14-10-2025</title>
-            <description>&lt;h1 id=&quot;cnam-mise-à-jour-du-14-10-2025&quot;&gt;CNAM: Mise à Jour du 14-10-2025&lt;/h1&gt;
+            <title>Circulaires de la Pharmacie Centrale de Janvier 2026</title>
+            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-de-janvier-2026&quot;&gt;Circulaires de la Pharmacie Centrale de Janvier 2026&lt;/h1&gt;
 
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_2026-01&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_2026-01_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Circulaire&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Code PCT&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Libellé&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Commentaire&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix Public&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;Laboratoire&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;AMM&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Durée de vie&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Tableau&lt;/th&gt;
+      &lt;th id=&quot;T_2026-01_level0_col10&quot; class=&quot;col_heading level0 col10&quot;&gt;Date&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;2026/01&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;106962&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;TRIMBOW 87µg/5µg/9µg Sol.P.Inhal. Fl 120Doses (F)&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;168,040&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;CHIESI FARMACEUTICI SPA&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;7133091&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;22 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row0_col10&quot; class=&quot;data row0 col10&quot;&gt;02/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;2026/02&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;303808&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;CINKASA 500mg Suppo. Bt 60&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;62,000&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;MESALAZINE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;OPALIA PHARMA S.A.&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;9023933&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row1_col10&quot; class=&quot;data row1 col10&quot;&gt;09/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;2026/03&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;303806&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;ALVE-ONE 160µg/dose Sol.P.Inha. Fl 60 Doses&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;40,240&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;CICLESONIDE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;BERG LIFE SCIENCES&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;9283082&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col9&quot; class=&quot;data row2 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row2_col10&quot; class=&quot;data row2 col10&quot;&gt;16/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;2026/03&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;303805&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;ALVE-ONE 80µg/dose Sol.P.Inha. Fl 60 Doses&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;25,905&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;CICLESONIDE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;BERG LIFE SCIENCES&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;9283081&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col9&quot; class=&quot;data row3 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row3_col10&quot; class=&quot;data row3 col10&quot;&gt;16/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;2026/03&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;303809&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;FIXURIC 80mg Comp. Pell. Sec. Bt 30&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;29,277&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;FEBUXOSTAT&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;IBN AL BAYTAR&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col7&quot; class=&quot;data row4 col7&quot;&gt;9073811&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col8&quot; class=&quot;data row4 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col9&quot; class=&quot;data row4 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row4_col10&quot; class=&quot;data row4 col10&quot;&gt;16/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;2026/03&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;303810&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;TERACETAM LP 500mg Comp. Pell. LP Bt 60&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;48,240&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;LEVETIRACETAM&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;S.A.I.PH&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col7&quot; class=&quot;data row5 col7&quot;&gt;9164411&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col8&quot; class=&quot;data row5 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col9&quot; class=&quot;data row5 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row5_col10&quot; class=&quot;data row5 col10&quot;&gt;16/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;2026/03&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;303811&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;TERACETAM LP 750mg Comp. Pell. LP Bt 60&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;78,240&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;LEVETIRACETAM&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;S.A.I.PH&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col7&quot; class=&quot;data row6 col7&quot;&gt;9164412&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col8&quot; class=&quot;data row6 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col9&quot; class=&quot;data row6 col9&quot;&gt;A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row6_col10&quot; class=&quot;data row6 col10&quot;&gt;16/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row7_col0&quot; class=&quot;data row7 col0&quot;&gt;2026/03&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col1&quot; class=&quot;data row7 col1&quot;&gt;103412&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col2&quot; class=&quot;data row7 col2&quot;&gt;MENAVEN Gel Derm. Tb 60gr&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col3&quot; class=&quot;data row7 col3&quot;&gt;Changement du tableau des substances veneneuses de A à NEANT&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col4&quot; class=&quot;data row7 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col5&quot; class=&quot;data row7 col5&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col6&quot; class=&quot;data row7 col6&quot;&gt;MENARINI S.A&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col7&quot; class=&quot;data row7 col7&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col8&quot; class=&quot;data row7 col8&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col9&quot; class=&quot;data row7 col9&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row7_col10&quot; class=&quot;data row7 col10&quot;&gt;16/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_2026-01_row8_col0&quot; class=&quot;data row8 col0&quot;&gt;2026/04&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col1&quot; class=&quot;data row8 col1&quot;&gt;303812&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col2&quot; class=&quot;data row8 col2&quot;&gt;ASPIRYL 75mg Comp. Fl 100&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col3&quot; class=&quot;data row8 col3&quot;&gt;Nouveau produit&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col4&quot; class=&quot;data row8 col4&quot;&gt;7,300&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col5&quot; class=&quot;data row8 col5&quot;&gt;ACIDE ACETYLSALICYLIQUE&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col6&quot; class=&quot;data row8 col6&quot;&gt;ADVANS PHARMA&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col7&quot; class=&quot;data row8 col7&quot;&gt;9413151&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col8&quot; class=&quot;data row8 col8&quot;&gt;24 mois&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col9&quot; class=&quot;data row8 col9&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_2026-01_row8_col10&quot; class=&quot;data row8 col10&quot;&gt;23/01/2026&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Tue, 13 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/pct-2026-01.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/pct-2026-01.html</guid>
+            
+            <category>changements</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Hyaluronate De Sodium Injectable</title>
+            <description>&lt;div&gt;
+    
+		&lt;h3&gt;Hyaluronate De Sodium Injectable&lt;/h3&gt;
+    
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement symptomatique de l&apos;arthrose dégénerative ou post-traumatique par remplacement du liquide articulaire.&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_hyaluronate-de-sodium-injectable&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_hyaluronate-de-sodium-injectable_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_hyaluronate-de-sodium-injectable_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_hyaluronate-de-sodium-injectable_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_hyaluronate-de-sodium-injectable_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_hyaluronate-de-sodium-injectable_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_hyaluronate-de-sodium-injectable_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SINOVIAL&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;16 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/3 Seringues/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;249,270&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;HYALURONATE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;HYALGAN&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;20 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;94,085&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;HYALURONATE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;STRUCTOVIAL&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;20 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/1 Seringue pré-remplie/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;101,665&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;HYALURONATE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;SUPLASYN&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;20 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/1/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;HYALURONATE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;SYNOCROM&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;20 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;B/1/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;HYALURONATE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;HYALUBRIX&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;60 mg/4 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;B/1 Seringue pré-remplie/4 ml&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;340,550&lt;/td&gt;
+      &lt;td id=&quot;T_hyaluronate-de-sodium-injectable_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;HYALURONATE DE SODIUM&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/hyaluronate-de-sodium-injectable.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/hyaluronate-de-sodium-injectable.html</guid>
+            
+            <category>muscles-et-os</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Structoflex (Glucosamine) Gélules</title>
+            <description>&lt;div&gt;
+    
+		&lt;h3&gt;Structoflex (Glucosamine) Gélules&lt;/h3&gt;
+    
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement symptômatique de l&apos;arthrose légère à modérée du genou&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_glucosamine-gelules&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_glucosamine-gelules_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_glucosamine-gelules_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_glucosamine-gelules_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_glucosamine-gelules_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_glucosamine-gelules_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_glucosamine-gelules_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_glucosamine-gelules_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;STRUCTOFLEX&lt;/td&gt;
+      &lt;td id=&quot;T_glucosamine-gelules_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;625 mg&lt;/td&gt;
+      &lt;td id=&quot;T_glucosamine-gelules_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_glucosamine-gelules_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_glucosamine-gelules_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;41,270&lt;/td&gt;
+      &lt;td id=&quot;T_glucosamine-gelules_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;GLUCOSAMINE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/glucosamine-gelules.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/glucosamine-gelules.html</guid>
+            
+            <category>muscles-et-os</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Piascledine (Extrait D&apos;Insaponifiables D&apos;Avocat Et Soja)</title>
+            <description>&lt;div&gt;
+    
+		&lt;h3&gt;Piascledine (Extrait D&apos;Insaponifiables D&apos;Avocat Et Soja)&lt;/h3&gt;
+    
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement symptomatique à effet différé de l&apos;arthrose du genou chez l&apos;adulte.&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+&lt;/div&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PIASCLEDINE 300&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;300 mg&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/15&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;25,570&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;EXTRAIT D&apos;INSAPONIFIABLES D&apos;AVOCAT ET SOJA&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;PIASCLEDINE 300&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;300 mg&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/30&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;46,980&lt;/td&gt;
+      &lt;td id=&quot;T_extrait-d-insaponifiables-d-avocat-et-soja-gelules_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;EXTRAIT D&apos;INSAPONIFIABLES D&apos;AVOCAT ET SOJA&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/extrait-d-insaponifiables-d-avocat-et-soja-gelules.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/extrait-d-insaponifiables-d-avocat-et-soja-gelules.html</guid>
+            
+            <category>muscles-et-os</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Chondroitine</title>
+            <description>&lt;div&gt;
+    
+		&lt;h1&gt;Chondroitine&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement symptomatique à effet différé de l&apos;arthrose de la hanche et du genou.&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -763,173 +498,150 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 &lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;liste-des-médicaments-classés-en-vei-couverts-par-le-régime-de-base&quot;&gt;Liste des Médicaments Classés en VEI Couverts par le Régime de Base&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.cnam.nat.tn/doc/upload/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20VEI%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE14-10-2025.xls&quot;&gt;14/10/2025&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;nouvelles-entrées-dans-la-liste-des-médicaments-remboursés&quot;&gt;Nouvelles Entrées dans la Liste des Médicaments Remboursés&lt;/h3&gt;
 
-&lt;style type=&quot;text/css&quot;&gt;
-&lt;/style&gt;
-
-&lt;table id=&quot;T_85174&quot; class=&quot;display&quot;&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th id=&quot;T_85174_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
-      &lt;th id=&quot;T_85174_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
-      &lt;th id=&quot;T_85174_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_85174_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;TARIF REFERENCE&lt;/th&gt;
-      &lt;th id=&quot;T_85174_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;CATEGORIE&lt;/th&gt;
-      &lt;th id=&quot;T_85174_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_85174_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AP&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_85174_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303799&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;AIRYCORT 200ug Pdre P Inha Bucc en Gél Bt 60 + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;12,140&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;12,140&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;BUDESONIDE&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_85174_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303800&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;AIRYCORT 400ug Pdre P Inha Bucc en Gel Bt 60 + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;22,020&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;22,020&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;BUDESONIDE&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_85174_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;303797&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;RESPYFOR 12ug Pdre P Inhal Bucc Bt 30 +Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;17,365&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;15,990&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;FORMOTEROL&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_85174_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;303798&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;RESPYFOR 12ug Pdre P Inhal Bucc Bt 60 +Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;32,015&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;32,015&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;FORMOTEROL&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_85174_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;303796&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;RESPYVA 18ug Pdre P Inhal Bucc Bt 30 Gél + Inhalateur&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;63,440&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;63,440&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;TIOTROPIUM&lt;/td&gt;
-      &lt;td id=&quot;T_85174_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;N&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h3 id=&quot;ajustement-des-prix&quot;&gt;Ajustement des Prix&lt;/h3&gt;
+    
+&lt;/div&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;
 
-&lt;table id=&quot;T_90c5f&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_chondroitine-gelules&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_90c5f_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
-      &lt;th id=&quot;T_90c5f_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
-      &lt;th id=&quot;T_90c5f_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_90c5f_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;ANCIEN PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_90c5f_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Différence&lt;/th&gt;
-      &lt;th id=&quot;T_90c5f_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;TARIF REFERENCE&lt;/th&gt;
-      &lt;th id=&quot;T_90c5f_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;DCI&lt;/th&gt;
+      &lt;th id=&quot;T_chondroitine-gelules_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_chondroitine-gelules_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_chondroitine-gelules_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_chondroitine-gelules_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_chondroitine-gelules_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_chondroitine-gelules_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;300011&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;ASPIRINE Comp 500mg Bt 20&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;3,500&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;2,520&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;0,980&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;2,520&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;ACIDE ACETYLSALICYLIQUE&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;CHONDROSULF&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;400 mg&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/84&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;61,480&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;CHONDROITINE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;306600&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;GRISEOFULVINE Comp 250mg Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;14,040&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;6,580&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;7,460&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;6,570&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;GRISEOFULVINE&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;CARTILUM&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;500 mg&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;28,330&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;CHONDROITINE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;308000&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;BUSCOPAN Comp enr 10mg Bt 40&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;7,220&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;5,025&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;2,195&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;5,000&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;N-BUTYLHYOSCINE BROMURE&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;STRUCTUM&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;500 mg&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;49,255&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;CHONDROITINE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;302679&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;NYSTATINE Pde Derm.20mg/g  Tb 25gr&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;4,740&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;4,490&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;0,250&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;4,475&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;NYSTATINE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row4_col0&quot; class=&quot;data row4 col0&quot;&gt;306028&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row4_col1&quot; class=&quot;data row4 col1&quot;&gt;ANALGAN Comp 500mg Bt 20&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row4_col2&quot; class=&quot;data row4 col2&quot;&gt;2,300&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row4_col3&quot; class=&quot;data row4 col3&quot;&gt;1,710&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row4_col4&quot; class=&quot;data row4 col4&quot;&gt;0,590&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row4_col5&quot; class=&quot;data row4 col5&quot;&gt;1,000&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row4_col6&quot; class=&quot;data row4 col6&quot;&gt;PARACETAMOL&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row5_col0&quot; class=&quot;data row5 col0&quot;&gt;302204&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row5_col1&quot; class=&quot;data row5 col1&quot;&gt;PREDNISONE Comp 5mg Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row5_col2&quot; class=&quot;data row5 col2&quot;&gt;7,420&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row5_col3&quot; class=&quot;data row5 col3&quot;&gt;5,940&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row5_col4&quot; class=&quot;data row5 col4&quot;&gt;1,480&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row5_col5&quot; class=&quot;data row5 col5&quot;&gt;5,940&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row5_col6&quot; class=&quot;data row5 col6&quot;&gt;PREDNISONE&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td id=&quot;T_90c5f_row6_col0&quot; class=&quot;data row6 col0&quot;&gt;302592&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row6_col1&quot; class=&quot;data row6 col1&quot;&gt;NEOFUNGINE Pde Tbe 10gr&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row6_col2&quot; class=&quot;data row6 col2&quot;&gt;5,640&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row6_col3&quot; class=&quot;data row6 col3&quot;&gt;5,345&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row6_col4&quot; class=&quot;data row6 col4&quot;&gt;0,295&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row6_col5&quot; class=&quot;data row6 col5&quot;&gt;5,100&lt;/td&gt;
-      &lt;td id=&quot;T_90c5f_row6_col6&quot; class=&quot;data row6 col6&quot;&gt;TRIAMCINOLONE+ NEOMYCINE +NYSTATINE&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;CARTIFOR&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;500 mg&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Gélules&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;B/60&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_chondroitine-gelules_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;CHONDROITINE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Tue, 14 Oct 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/cnam-2025-10-14.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/cnam-2025-10-14.html</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/chondroitine.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/chondroitine.html</guid>
             
-            <category>changements</category>
+            <category>muscles-et-os</category>
             
             
         </item>
         
         <item>
-            <title>CNAM: Mise à Jour du 09-10-2025</title>
-            <description>&lt;h1 id=&quot;cnam-mise-à-jour-du-09-10-2025&quot;&gt;CNAM: Mise à Jour du 09-10-2025&lt;/h1&gt;
+            <title>Acide Uridine-5&apos; Triphosphorique</title>
+            <description>&lt;div&gt;
+    
+		&lt;h3&gt;Acide Uridine-5&apos; Triphosphorique&lt;/h3&gt;
+    
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement des dorsalgies primitives.&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+&lt;/div&gt;
 
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_acide-uridine-5--triphosphorique-sirop&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_acide-uridine-5--triphosphorique-sirop_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-uridine-5--triphosphorique-sirop_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-uridine-5--triphosphorique-sirop_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-uridine-5--triphosphorique-sirop_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-uridine-5--triphosphorique-sirop_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-uridine-5--triphosphorique-sirop_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;UTEPLEX&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2 mg/ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/45 Ampoules/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;17,837&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACIDE URIDINE-5&apos; TRIPHOSPHORIQUE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;UTP OPALIA&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;B/45 Sachets-dose/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ACIDE URIDINE-5&apos; TRIPHOSPHORIQUE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;UTP OPALIA&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;2 mg&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;B/45/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-uridine-5--triphosphorique-sirop_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;ACIDE URIDINE-5&apos; TRIPHOSPHORIQUE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+</description>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/acide-uridine-5--triphosphorique.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/acide-uridine-5--triphosphorique.html</guid>
+            
+            <category>muscles-et-os</category>
+            
+            
+        </item>
+        
+        <item>
+            <title>Topiques pour les Douleurs Articulaires et Musculaires</title>
+            <description>&lt;div&gt;
+    
+		&lt;h1&gt;Topiques pour les Douleurs Articulaires et Musculaires&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement antalgique et anti-inflammatoire par application locale.&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+        
 &lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
 &lt;script&gt;
 $( document ).ready(function() {
@@ -951,152 +663,623 @@ $(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
 
 &lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
 
-&lt;h3 id=&quot;liste-des-médicaments-classés-en-vei-couverts-par-le-régime-de-base&quot;&gt;Liste des Médicaments Classés en VEI Couverts par le Régime de Base&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&quot;https://www.cnam.nat.tn/doc/upload/MEDICAMENTS%20CLASSES%20PAR%20V%20E%20I%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE09-10-2025.xls&quot;&gt;09/10/2025&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;nouvelles-entrées-dans-la-liste-des-médicaments-remboursés&quot;&gt;Nouvelles Entrées dans la Liste des Médicaments Remboursés&lt;/h3&gt;
+
+    
+&lt;/div&gt;
+
+&lt;h3 id=&quot;acide-niflumique&quot;&gt;Acide Niflumique&lt;/h3&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;
 
-&lt;table id=&quot;T_cacb0&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_acide-niflumique-creme&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_cacb0_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;CODE PCT&lt;/th&gt;
-      &lt;th id=&quot;T_cacb0_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;NOM COMMERCIAL&lt;/th&gt;
-      &lt;th id=&quot;T_cacb0_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;PRIX PUBLIC&lt;/th&gt;
-      &lt;th id=&quot;T_cacb0_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;TARIF REFERENCE&lt;/th&gt;
-      &lt;th id=&quot;T_cacb0_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;CATEGORIE&lt;/th&gt;
-      &lt;th id=&quot;T_cacb0_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_cacb0_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AP&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-creme_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-creme_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-creme_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-creme_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-creme_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-creme_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_cacb0_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303790&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;ESCITAPUR 10mg Comp Pell Séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;14,072&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;14,072&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ESCITALOPRAM&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;N&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;NIFLUMIC&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;3,00%&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Crème dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/60 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;3,090&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACIDE NIFLUMIQUE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_cacb0_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303791&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;ESCITAPUR 20mg Comp Pell Séc Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;20,220&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;20,220&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ESCITALOPRAM&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;N&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;NIFLUDERM&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;3,00%&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Crème dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/60 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;6,383&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-creme_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ACIDE NIFLUMIQUE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_acide-niflumique-pommade&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_acide-niflumique-pommade_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-pommade_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-pommade_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-pommade_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-pommade_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-pommade_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-niflumique-pommade_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;INFLOCINE&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-pommade_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;3,00%&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-pommade_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Pommade dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-pommade_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/60 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-pommade_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;3,700&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-pommade_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACIDE NIFLUMIQUE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_acide-niflumique-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_acide-niflumique-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-niflumique-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;INFLOCINE&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/60 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;6,215&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACIDE NIFLUMIQUE&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_cacb0_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;303795&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;RGEO 40mg Gél Gastro-résist Bt 7&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;5,805&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;5,110&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;E&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;ESOMEPRAZOLE&lt;/td&gt;
-      &lt;td id=&quot;T_cacb0_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;N&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;NIFLUGEL&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/60 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;6,980&lt;/td&gt;
+      &lt;td id=&quot;T_acide-niflumique-gel-dermique_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ACIDE NIFLUMIQUE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;diclofenac&quot;&gt;Diclofenac&lt;/h3&gt;
+&lt;h4 id=&quot;gel-dermique&quot;&gt;Gel Dermique&lt;/h4&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_diclofenac-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_diclofenac-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;DICLOFEN GEL&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;1 %&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;3,910&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;DICLOFENAC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;XEDOL EMULGEL&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;1 %&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;5,640&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-gel-dermique_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;DICLOFENAC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h4 id=&quot;emplatre&quot;&gt;Emplatre&lt;/h4&gt;
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_diclofenac-emplatre&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_diclofenac-emplatre_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-emplatre_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-emplatre_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-emplatre_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-emplatre_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_diclofenac-emplatre_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ITAMI&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;140 mg&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Emplatre médicamenteux&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;Bt 5 Emplatres&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;24,210&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;DICLOFENAC&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;FLECTOR TISSUGEL EP&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;1 %&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Emplatre médicamenteux&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;Bt 5 Emplatres&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;25,125&lt;/td&gt;
+      &lt;td id=&quot;T_diclofenac-emplatre_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;DICLOFENAC&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;piroxicam-gel-dermique&quot;&gt;Piroxicam Gel Dermique&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_piroxicam-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_piroxicam-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_piroxicam-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_piroxicam-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_piroxicam-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_piroxicam-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_piroxicam-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;PIROXICAM&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;0,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;4,260&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;PIROXICAM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ARTHROSYL&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;0,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;6,115&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;PIROXICAM&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;GELDENE&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;0,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;9,720&lt;/td&gt;
+      &lt;td id=&quot;T_piroxicam-gel-dermique_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;PIROXICAM&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ketoprofène-gel-dermique&quot;&gt;Ketoprofène Gel Dermique&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_ketoprofene-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_ketoprofene-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_ketoprofene-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_ketoprofene-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_ketoprofene-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_ketoprofene-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_ketoprofene-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;KETOPROGEL&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;2,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;4,804&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;KETOPROFENE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;KETUM&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;2,5 %&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;7,100&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;KETOPROFENE&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;RHUTAGEL&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;5,800&lt;/td&gt;
+      &lt;td id=&quot;T_ketoprofene-gel-dermique_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;KETOPROFENE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;ibuprofène-gel-dermique&quot;&gt;Ibuprofène Gel Dermique&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_ibuprofen-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_ibuprofen-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ADOFEN MENTHOL&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;5%&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;4,120&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;IBUPROFEN&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;ADOFEN&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;5%&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;5,005&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;IBUPROFEN&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;IBUPHIL GEL Mentholé&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;5%&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;6,905&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;IBUPROFEN&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;IBUPHIL GEL&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;5%&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;6,980&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-gel-dermique_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;IBUPROFEN&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;cliptol-ibuprofène--menthol-gel-dermique&quot;&gt;Cliptol (Ibuprofène + Menthol) Gel Dermique&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_ibuprofen-menthol-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_ibuprofen-menthol-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-menthol-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-menthol-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-menthol-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-menthol-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_ibuprofen-menthol-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_ibuprofen-menthol-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;CLIPTOL&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-menthol-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;5%&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-menthol-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-menthol-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-menthol-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;9,935&lt;/td&gt;
+      &lt;td id=&quot;T_ibuprofen-menthol-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;IBUPROFEN+MENTHOL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;baume-calmol-camphre--eucalyptol--menthol-pur-crème&quot;&gt;Baume Calmol (Camphre + Eucalyptol + Menthol Pur) Crème&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_camphre-eucalyptol-menthol-pur-creme&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_camphre-eucalyptol-menthol-pur-creme_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_camphre-eucalyptol-menthol-pur-creme_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_camphre-eucalyptol-menthol-pur-creme_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_camphre-eucalyptol-menthol-pur-creme_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_camphre-eucalyptol-menthol-pur-creme_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_camphre-eucalyptol-menthol-pur-creme_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_camphre-eucalyptol-menthol-pur-creme_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;BAUME CALMOL ADULTES&lt;/td&gt;
+      &lt;td id=&quot;T_camphre-eucalyptol-menthol-pur-creme_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_camphre-eucalyptol-menthol-pur-creme_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Baume&lt;/td&gt;
+      &lt;td id=&quot;T_camphre-eucalyptol-menthol-pur-creme_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/60 gr&lt;/td&gt;
+      &lt;td id=&quot;T_camphre-eucalyptol-menthol-pur-creme_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_camphre-eucalyptol-menthol-pur-creme_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;CAMPHRE+EUCALYPTOL+MENTHOL PUR&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;baume-aroma-essences-naturelles--salicylamide-crème&quot;&gt;Baume Aroma (Essences Naturelles + Salicylamide) Crème&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_essences-naturelles-salicylamide-creme&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_essences-naturelles-salicylamide-creme_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_essences-naturelles-salicylamide-creme_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_essences-naturelles-salicylamide-creme_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_essences-naturelles-salicylamide-creme_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_essences-naturelles-salicylamide-creme_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_essences-naturelles-salicylamide-creme_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_essences-naturelles-salicylamide-creme_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;BAUME AROMA&lt;/td&gt;
+      &lt;td id=&quot;T_essences-naturelles-salicylamide-creme_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_essences-naturelles-salicylamide-creme_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Crème dermique&lt;/td&gt;
+      &lt;td id=&quot;T_essences-naturelles-salicylamide-creme_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/50 gr&lt;/td&gt;
+      &lt;td id=&quot;T_essences-naturelles-salicylamide-creme_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;5,980&lt;/td&gt;
+      &lt;td id=&quot;T_essences-naturelles-salicylamide-creme_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ESSENCES NATURELLES+SALICYLAMIDE&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;acide-salicylique--menthol--resorcine--veratrol&quot;&gt;Acide Salicylique + Menthol + Resorcine + Veratrol&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SAVEROL&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;T/70 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;3,560&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;SYNTHOL&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;T/75 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;6,795&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;SYNTHOL&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Gel dermique&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;T/100 gr&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-gel-dermique_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;SYNTHOL&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution externe&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;FL/225 ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;6,970&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;SYNTHOL&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Solution externe&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;FL/450 ml&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;12,510&lt;/td&gt;
+      &lt;td id=&quot;T_acide-salicylique-menthol-resorcine-veratrol-solution-externe_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Thu, 09 Oct 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/cnam-2025-10-09.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/cnam-2025-10-09.html</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/topiques-pour-les-douleurs-articulaires-et-musculaires.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/topiques-pour-les-douleurs-articulaires-et-musculaires.html</guid>
             
-            <category>changements</category>
+            <category>anti-inflammatoire</category>
+            
+            <category>muscles-et-os</category>
             
             
         </item>
         
         <item>
-            <title>Circulaires de la Pharmacie Centrale d&apos;Août et Septembre 2025</title>
-            <description>&lt;h1 id=&quot;circulaires-de-la-pharmacie-centrale-daoût-et-septembre-2025&quot;&gt;Circulaires de la Pharmacie Centrale d’Août et Septembre 2025&lt;/h1&gt;
+            <title>Enantyum (Dexketoprofene)</title>
+            <description>&lt;div&gt;
+    
+		&lt;h1&gt;Enantyum (Dexketoprofene)&lt;/h1&gt;
+	
+    
+        &lt;div class=&quot;bs-callout bs-callout-primary&quot;&gt;
+			&lt;p&gt;Traitement symptomatique des douleurs d&apos;intensité légère à modérée, telles que douleurs de l&apos;appareil locomoteur, dysménorrhées et douleurs dentaires.&lt;/p&gt;
+		&lt;/div&gt;
+    
+    
+        
+&lt;!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. --&gt;
+&lt;script&gt;
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$(&apos;#toc&apos;).toc({ minimumHeaders: 0, listType: &apos;ul&apos;, showSpeed: 0, headers: &apos;h2,h3,h4&apos; });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$(&apos;#toc&apos;).on(&apos;click&apos;, &apos;a&apos;, function() {
+  var target = $(this.getAttribute(&apos;href&apos;))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+&lt;/script&gt;
+
+&lt;div id=&quot;toc&quot;&gt;&lt;/div&gt;
+
+
+
+    
+&lt;/div&gt;
+
+&lt;h3 id=&quot;comprimés&quot;&gt;Comprimés&lt;/h3&gt;
 
 &lt;style type=&quot;text/css&quot;&gt;
 &lt;/style&gt;
 
-&lt;table id=&quot;T_2025-aout-sept-min.csv&quot; class=&quot;display&quot;&gt;
+&lt;table id=&quot;T_dexketoprofene-comprimes&quot; class=&quot;display&quot;&gt;
   &lt;thead&gt;
     &lt;tr&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Code PCT&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Libellé&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Commentaire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Prix Public&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;DCI&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;Laboratoire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col6&quot; class=&quot;col_heading level0 col6&quot;&gt;AMM&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col7&quot; class=&quot;col_heading level0 col7&quot;&gt;Durée de vie&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col8&quot; class=&quot;col_heading level0 col8&quot;&gt;Tableau&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col9&quot; class=&quot;col_heading level0 col9&quot;&gt;Circulaire&lt;/th&gt;
-      &lt;th id=&quot;T_2025-aout-sept-min.csv_level0_col10&quot; class=&quot;col_heading level0 col10&quot;&gt;Date&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-comprimes_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-comprimes_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-comprimes_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-comprimes_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-comprimes_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-comprimes_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;303784&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;TEDEMA LP 75mg Gél. à Libération Prolongée Bt 30&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Nouveau produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;30,240&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;VENLAFAXINE&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;MEDIS&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col6&quot; class=&quot;data row0 col6&quot;&gt;9233544&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col7&quot; class=&quot;data row0 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col8&quot; class=&quot;data row0 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col9&quot; class=&quot;data row0 col9&quot;&gt;2025/37&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row0_col10&quot; class=&quot;data row0 col10&quot;&gt;29/08/2025&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-comprimes_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ENANTYUM&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-comprimes_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;25 mg&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-comprimes_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Comprimés pelliculés&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-comprimes_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/20&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-comprimes_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;11,365&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-comprimes_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;DEXKETOPROFENE&lt;/td&gt;
     &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;sachets&quot;&gt;Sachets&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_dexketoprofene-sachet&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col0&quot; class=&quot;data row1 col0&quot;&gt;303785&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col1&quot; class=&quot;data row1 col1&quot;&gt;XINIB 10mg Comp. Pell. Bt 15&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col2&quot; class=&quot;data row1 col2&quot;&gt;Nouveau produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col3&quot; class=&quot;data row1 col3&quot;&gt;28,240&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col4&quot; class=&quot;data row1 col4&quot;&gt;RIVAROXABAN&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col5&quot; class=&quot;data row1 col5&quot;&gt;GALPHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col6&quot; class=&quot;data row1 col6&quot;&gt;9223704&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col7&quot; class=&quot;data row1 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col8&quot; class=&quot;data row1 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col9&quot; class=&quot;data row1 col9&quot;&gt;2025/38&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row1_col10&quot; class=&quot;data row1 col10&quot;&gt;05/09/2025&lt;/td&gt;
+      &lt;th id=&quot;T_dexketoprofene-sachet_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-sachet_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-sachet_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-sachet_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-sachet_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-sachet_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
     &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col0&quot; class=&quot;data row2 col0&quot;&gt;303786&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col1&quot; class=&quot;data row2 col1&quot;&gt;XINIB 15mg Comp. Pell. Bt 50&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col2&quot; class=&quot;data row2 col2&quot;&gt;Nouveau produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col3&quot; class=&quot;data row2 col3&quot;&gt;96,940&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col4&quot; class=&quot;data row2 col4&quot;&gt;RIVAROXABAN&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col5&quot; class=&quot;data row2 col5&quot;&gt;GALPHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col6&quot; class=&quot;data row2 col6&quot;&gt;9223706&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col7&quot; class=&quot;data row2 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col8&quot; class=&quot;data row2 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col9&quot; class=&quot;data row2 col9&quot;&gt;2025/38&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row2_col10&quot; class=&quot;data row2 col10&quot;&gt;05/09/2025&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-sachet_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ENANTYUM&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-sachet_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;25 mg&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-sachet_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Granulés pour solution buvable&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-sachet_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/20 Sachets&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-sachet_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-sachet_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;DEXKETOPROFENE&lt;/td&gt;
     &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h3 id=&quot;injectable&quot;&gt;Injectable&lt;/h3&gt;
+
+&lt;style type=&quot;text/css&quot;&gt;
+&lt;/style&gt;
+
+&lt;table id=&quot;T_dexketoprofene-injectable&quot; class=&quot;display&quot;&gt;
+  &lt;thead&gt;
     &lt;tr&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col0&quot; class=&quot;data row3 col0&quot;&gt;303787&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col1&quot; class=&quot;data row3 col1&quot;&gt;XINIB 20mg Comp. Pell. Bt 10&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col2&quot; class=&quot;data row3 col2&quot;&gt;Nouveau produit&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col3&quot; class=&quot;data row3 col3&quot;&gt;23,940&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col4&quot; class=&quot;data row3 col4&quot;&gt;RIVAROXABAN&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col5&quot; class=&quot;data row3 col5&quot;&gt;GALPHARMA&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col6&quot; class=&quot;data row3 col6&quot;&gt;9223705&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col7&quot; class=&quot;data row3 col7&quot;&gt;24 mois&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col8&quot; class=&quot;data row3 col8&quot;&gt;A&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col9&quot; class=&quot;data row3 col9&quot;&gt;2025/38&lt;/td&gt;
-      &lt;td id=&quot;T_2025-aout-sept-min.csv_row3_col10&quot; class=&quot;data row3 col10&quot;&gt;05/09/2025&lt;/td&gt;
+      &lt;th id=&quot;T_dexketoprofene-injectable_level0_col0&quot; class=&quot;col_heading level0 col0&quot;&gt;Nom&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-injectable_level0_col1&quot; class=&quot;col_heading level0 col1&quot;&gt;Dosage&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-injectable_level0_col2&quot; class=&quot;col_heading level0 col2&quot;&gt;Forme&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-injectable_level0_col3&quot; class=&quot;col_heading level0 col3&quot;&gt;Présentation&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-injectable_level0_col4&quot; class=&quot;col_heading level0 col4&quot;&gt;Prix&lt;/th&gt;
+      &lt;th id=&quot;T_dexketoprofene-injectable_level0_col5&quot; class=&quot;col_heading level0 col5&quot;&gt;DCI&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td id=&quot;T_dexketoprofene-injectable_row0_col0&quot; class=&quot;data row0 col0&quot;&gt;ENANTYUM&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-injectable_row0_col1&quot; class=&quot;data row0 col1&quot;&gt;50 mg/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-injectable_row0_col2&quot; class=&quot;data row0 col2&quot;&gt;Solution injectable&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-injectable_row0_col3&quot; class=&quot;data row0 col3&quot;&gt;B/6/2 ml&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-injectable_row0_col4&quot; class=&quot;data row0 col4&quot;&gt;16,690&lt;/td&gt;
+      &lt;td id=&quot;T_dexketoprofene-injectable_row0_col5&quot; class=&quot;data row0 col5&quot;&gt;DEXKETOPROFENE&lt;/td&gt;
     &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
 
 </description>
-            <pubDate>Mon, 15 Sep 2025 00:00:00 +0100</pubDate>
-            <link>https://ballouchi.github.io/medoc/changements-2025-09.html</link>
-            <guid isPermaLink="true">https://ballouchi.github.io/medoc/changements-2025-09.html</guid>
+            <pubDate>Fri, 09 Jan 2026 00:00:00 +0100</pubDate>
+            <link>https://ballouchi.github.io/medoc/dexketoprofene.html</link>
+            <guid isPermaLink="true">https://ballouchi.github.io/medoc/dexketoprofene.html</guid>
             
-            <category>changements</category>
+            <category>anti-inflammatoire</category>
+            
+            <category>antalgique</category>
             
             
         </item>

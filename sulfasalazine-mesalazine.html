@@ -101,10 +101,7 @@
 
     
 	    
-	        <!--
-    
--->
-    <!-- Include  DataTables css and js in head -->
+	            <!-- Include  DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
@@ -121,96 +118,57 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          var table = $('table.display').DataTable({
-            paging: false,
-            info: true,
-            searching: true,
-            order: [],
-            stateSave: false,
-            language: {
-                url: "js/fr-FR.json",
-                buttons: {
-					colvis: "Colonnes Visibles"
-				},
-			},
-            layout: {
-				topStart: {
-		            buttons: [
-			            {
-							extend: 'colvis',
-							postfixButtons: ['colvisRestore']
+          $('table.display').each(function(i) {
+			    var thisTable = $(this);
+			    var thisName = thisTable.attr('id');
+			    thisTable.DataTable({
+		              paging: false,
+		              stateSave: false,
+		              searching: true,
+		              order: [],
+		              language: {
+		                url: "js/fr-FR.json",
+		                buttons: {
+							colvis: "Colonnes Visibles"
 						},
-			            {
-							extend: 'pdfHtml5',
-							exportOptions: { 
-								columns: [0, ':visible']
-							},
-						},
-		                {
-		                    extend: 'excelHtml5',
-		                    title: null,
-		                    exportOptions: { columns: [0, ':visible'] },
-		                    customize: function ( xlsx ) {
-							        var sheet = xlsx.xl.worksheets['sheet1.xml'];
-							        
-							        // Map used to map column index to Excel index
-							        var excelMap = {
-							          0: 'A',
-							          1: 'B',
-							          2: 'C',
-							          3: 'D',
-							          4: 'E',
-							          5: 'F',
-							          6: 'G',
-							          7: 'H',
-							          8: 'I'
-							        };
-							        
-							        var count = 0;
-							        var skippedHeader = false;
-							        $('row', sheet).each( function () {
-							          var row = this;
-							          if (skippedHeader) {
-							//             var colour = $('tbody tr:eq('+parseInt(count)+') td:eq(2)').css('background-color');
-							            
-							            // Output first row
-							            //if (count === 0) {
-							              //console.log(this);
-							            //}
-							            
-							            for (td=0; td<9; td++) {
-							              
-							              // Output cell contents for first row
-							              //if (count === 0) {
-							                //console.log($('c[r^="' + excelMap[td] + '"]', row).text());
-							              //}
-							              var colour = $(table.cell(':eq('+count+')',td).node()).css('background-color');            
-							
-							              if (colour === 'rgb(240, 128, 128)') {
-							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '10' );
-							              }
-							              else if (colour === 'rgb(144, 238, 144)') {
-							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '15' );
-							              }
-							            }
-							            count++;
-							          }
-							          else {
-							            skippedHeader = true;
-		                            }
-		                        });
-		                    }
-		                },
-		                
-		            ]
-		         }
-		      }   
-            });
+		              },
+					  layout: {
+		                  topStart: {
+		                      buttons: [
+		                          {
+									  extend: 'colvis',
+									  postfixButtons: ['colvisRestore']
+								  },
+		                          {
+									  extend: 'excelHtml5',
+									  title: null,
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  filename: function () { 
+										  filename = thisName;
+										  return filename;
+									  }
+								  },
+		                          {
+									  extend: 'pdfHtml5',
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  //filename: function () { return $('h2').attr('id'); }
+									  title: function () { 
+										  filename = thisName;
+										  return filename;
+										  }
+								  },
+								  //'copyHtml5', 'csvHtml5', 'print'
+							  ]
+		                  }
+		              },
+	            });
+          });
       });
     </script>
-<!--
-    
--->
 
 		
 	
@@ -401,7 +359,7 @@
           
           
           
-          <li><a title="Anti-inflammatoires non steroidiens (AINS)" href="tag_anti-inflammatoire.html">Anti-inflammatoires non steroidiens (AINS)</a></li>
+          <li><a title="Anti-inflammatoires et Anti-rhumatismaux" href="tag_anti-inflammatoire.html">Anti-inflammatoires et Anti-rhumatismaux</a></li>
           
           
           
@@ -415,7 +373,7 @@
           
           
           
-          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles et os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles-et-os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
           
           
           
@@ -460,6 +418,13 @@
           
           
           <li><a title="Traitement des Vomissements (Antiémétiques)" href="tag_anti-emetique.html">Traitement des Vomissements (Antiémétiques)</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Troubles Dyspeptiques" href="troubles-dyspeptiques.html">Troubles Dyspeptiques</a></li>
           
           
           
@@ -1190,6 +1155,34 @@
           
           
           
+          <li><a title="Chimiothérapie à Usage Dermatologique" href="tag_chimiotherapie-dermato.html">Chimiothérapie à Usage Dermatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Emollients et Protecteurs" href="emollients-et-protecteurs.html">Emollients et Protecteurs</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement des Plaies et Ulcérations" href="plaies.html">Traitement des Plaies et Ulcérations</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Autres Préparations Dermatologiques" href="tag_autres-dermato.html">Autres Préparations Dermatologiques</a></li>
+          
+          
+          
+          
+          
+          
           <li><a title="Médicaments antiacnéiques" href="antiacneiques.html">Médicaments antiacnéiques</a></li>
           
           
@@ -1324,6 +1317,36 @@
       
   
   <li>
+      <a title="Médicaments des Affections Bucco-pharyngées" href="#">Médicaments des Affections Bucco-pharyngées</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antifongique à usage stomatologique" href="antifongiques-stomato.html">Antifongique à usage stomatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Bains de bouche, collutoires et gargarismes" href="bains-de-bouche.html">Bains de bouche, collutoires et gargarismes</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Préparations pour les dents et les gencives" href="dents-gencives.html">Préparations pour les dents et les gencives</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
       <a title="Produits à Visée Diagnostique" href="#">Produits à Visée Diagnostique</a>
       <ul>
           
@@ -1333,6 +1356,15 @@
           
           
           
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Produits Homéopathiques" href="#">Produits Homéopathiques</a>
+      <ul>
           
       </ul>
    </li>
@@ -1394,7 +1426,7 @@ $('#toc').on('click', 'a', function() {
     
 </div>
 
-<h2 id="sulfasalazine-comprimés-salazopyrine">Sulfasalazine Comprimés: Salazopyrine</h2>
+<h3 id="sulfasalazine-comprimés-salazopyrine">Sulfasalazine Comprimés: Salazopyrine</h3>
 
 <div class="bs-callout bs-callout-success">Traitement de la rectocolite hemorragique, de la maladie de crohn dans sa localisation colique et de la polyarthrite rhumatoide.</div>
 
@@ -1431,9 +1463,9 @@ $('#toc').on('click', 'a', function() {
   </tbody>
 </table>
 
-<h2 id="mesalazine">Mesalazine</h2>
+<h3 id="mesalazine">Mesalazine</h3>
 
-<h3 id="comprimés-et-sachets-pentasa-et-mesatec">Comprimés et Sachets: Pentasa et Mesatec</h3>
+<h4 id="comprimés-et-sachets-pentasa-et-mesatec">Comprimés et Sachets: Pentasa et Mesatec</h4>
 
 <div class="bs-callout bs-callout-success"> - Rectocolite hémorragique: traitement d’attaque des poussées légères à modérées et traitement d’entretien. <br />
  - Maladie de Crohn: traitement d’attaque des poussées légères à modérées et prévention des poussées aiguës pour les formes fréquemment récidivantes.</div>
@@ -1501,17 +1533,16 @@ $('#toc').on('click', 'a', function() {
   </tbody>
 </table>
 
-<h3 id="suppositoires-pentasa-et-cinkasa">Suppositoires: Pentasa et Cinkasa</h3>
+<h4 id="suppositoires-pentasa-et-cinkasa">Suppositoires: Pentasa et Cinkasa</h4>
 
-<div class="bs-callout bs-callout-success">Traitement de la colite ulcéreuse limitée au rectum et des poussées légères ou modérées de rectocolite hémorragique 
- de localisation rectale ou recto-sigmoïdienne basse (jusqu’à 20 cm de la marge anale)</div>
+<div class="bs-callout bs-callout-success">Traitement de la colite ulcéreuse limitée au rectum et des poussées légères ou modérées de rectocolite hémorragique de localisation rectale ou recto-sigmoïdienne basse (jusqu’à 20 cm de la marge anale)</div>
 
-<h3 id="suspension-rectale-pentasa">Suspension rectale: Pentasa</h3>
+<h4 id="suspension-rectale-pentasa">Suspension rectale: Pentasa</h4>
 
 <div class="bs-callout bs-callout-success">Crise aiguë de la colite ulcéreuse distale ou côté gauche.</div>
 
 <style type="text/css">
-#T_mesalazine-suppo_row0_col4, #T_mesalazine-suppo_row1_col4, #T_mesalazine-suppo_row2_col4 {
+#T_mesalazine-suppo_row0_col4, #T_mesalazine-suppo_row1_col4, #T_mesalazine-suppo_row2_col4, #T_mesalazine-suppo_row3_col4 {
   background-color: lightgreen;
 }
 </style>
@@ -1541,24 +1572,34 @@ $('#toc').on('click', 'a', function() {
       <td id="T_mesalazine-suppo_row0_col7" class="data row0 col7">MESALAZINE</td>
     </tr>
     <tr>
-      <td id="T_mesalazine-suppo_row1_col0" class="data row1 col0">PENTASA</td>
-      <td id="T_mesalazine-suppo_row1_col1" class="data row1 col1">1 g</td>
+      <td id="T_mesalazine-suppo_row1_col0" class="data row1 col0">CINKASA</td>
+      <td id="T_mesalazine-suppo_row1_col1" class="data row1 col1">500 mg</td>
       <td id="T_mesalazine-suppo_row1_col2" class="data row1 col2">Suppositoires</td>
-      <td id="T_mesalazine-suppo_row1_col3" class="data row1 col3">B/3/5</td>
-      <td id="T_mesalazine-suppo_row1_col4" class="data row1 col4">64,905</td>
-      <td id="T_mesalazine-suppo_row1_col5" class="data row1 col5">45,964</td>
-      <td id="T_mesalazine-suppo_row1_col6" class="data row1 col6">70,82%</td>
+      <td id="T_mesalazine-suppo_row1_col3" class="data row1 col3">B/60</td>
+      <td id="T_mesalazine-suppo_row1_col4" class="data row1 col4">62,000</td>
+      <td id="T_mesalazine-suppo_row1_col5" class="data row1 col5">44,574</td>
+      <td id="T_mesalazine-suppo_row1_col6" class="data row1 col6">71,89%</td>
       <td id="T_mesalazine-suppo_row1_col7" class="data row1 col7">MESALAZINE</td>
     </tr>
     <tr>
       <td id="T_mesalazine-suppo_row2_col0" class="data row2 col0">PENTASA</td>
       <td id="T_mesalazine-suppo_row2_col1" class="data row2 col1">1 g</td>
-      <td id="T_mesalazine-suppo_row2_col2" class="data row2 col2">Suspension rectale</td>
-      <td id="T_mesalazine-suppo_row2_col3" class="data row2 col3">B/7 FL/100 ml</td>
-      <td id="T_mesalazine-suppo_row2_col4" class="data row2 col4">119,590</td>
-      <td id="T_mesalazine-suppo_row2_col5" class="data row2 col5">92,308</td>
-      <td id="T_mesalazine-suppo_row2_col6" class="data row2 col6">77,19%</td>
+      <td id="T_mesalazine-suppo_row2_col2" class="data row2 col2">Suppositoires</td>
+      <td id="T_mesalazine-suppo_row2_col3" class="data row2 col3">B/3/5</td>
+      <td id="T_mesalazine-suppo_row2_col4" class="data row2 col4">64,905</td>
+      <td id="T_mesalazine-suppo_row2_col5" class="data row2 col5">45,964</td>
+      <td id="T_mesalazine-suppo_row2_col6" class="data row2 col6">70,82%</td>
       <td id="T_mesalazine-suppo_row2_col7" class="data row2 col7">MESALAZINE</td>
+    </tr>
+    <tr>
+      <td id="T_mesalazine-suppo_row3_col0" class="data row3 col0">PENTASA</td>
+      <td id="T_mesalazine-suppo_row3_col1" class="data row3 col1">1 g</td>
+      <td id="T_mesalazine-suppo_row3_col2" class="data row3 col2">Suspension rectale</td>
+      <td id="T_mesalazine-suppo_row3_col3" class="data row3 col3">B/7 FL/100 ml</td>
+      <td id="T_mesalazine-suppo_row3_col4" class="data row3 col4">119,590</td>
+      <td id="T_mesalazine-suppo_row3_col5" class="data row3 col5">92,308</td>
+      <td id="T_mesalazine-suppo_row3_col6" class="data row3 col6">77,19%</td>
+      <td id="T_mesalazine-suppo_row3_col7" class="data row3 col7">MESALAZINE</td>
     </tr>
   </tbody>
 </table>
@@ -1577,7 +1618,7 @@ $('#toc').on('click', 'a', function() {
 
 				
 				
-					<div class="bs-callout bs-callout-default">Page mise à jour le 30/07/2025</div>
+					<div class="bs-callout bs-callout-default">Page mise à jour le 16/01/2026</div>
 				
  
 	        </div>
@@ -1657,7 +1698,7 @@ $('#toc').on('click', 'a', function() {
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 26/12/2025</li>
+          <li>Prix Publiés le 23/01/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->

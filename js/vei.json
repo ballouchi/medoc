@@ -4321,6 +4321,15 @@
         "N"
     ],
     [
+        303808,
+        "CINKASA 500mg Suppo. Bt 60",
+        "62,000",
+        "52,440",
+        "E",
+        "MESALAZINE",
+        "N"
+    ],
+    [
         107423,
         "PENTASA Suppo 1gr Bt 15",
         "64,905",
@@ -12376,6 +12385,15 @@
         "N"
     ],
     [
+        300264,
+        "GELUFENE G\u00e9lule 200mg Bt 20",
+        "2,705",
+        "2,700",
+        "E",
+        "IBUPROFEN",
+        "N"
+    ],
+    [
         301802,
         "IBUCARE 200 Comp Pell 200 MG BT 20",
         "2,880",
@@ -12397,6 +12415,15 @@
         301675,
         "IBUPRANE Comp Pell 200 MG BT 20",
         "2,970",
+        "2,700",
+        "E",
+        "IBUPROFEN",
+        "N"
+    ],
+    [
+        301241,
+        "DOLVEN Gelule 200 mg Bt 20",
+        "3,230",
         "2,700",
         "E",
         "IBUPROFEN",
@@ -12524,24 +12551,6 @@
         "MOMENT Gttes Buv 200mg\/ml Fl 12,5ml",
         "4,880",
         "4,875",
-        "E",
-        "IBUPROFEN",
-        "N"
-    ],
-    [
-        300264,
-        "GELUFENE G\u00e9lule 200mg Bt 20",
-        "2,705",
-        "2,700",
-        "E",
-        "IBUPROFEN",
-        "N"
-    ],
-    [
-        301241,
-        "DOLVEN Gelule 200 mg Bt 20",
-        "3,230",
-        "2,700",
         "E",
         "IBUPROFEN",
         "N"

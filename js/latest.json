@@ -4780,6 +4780,15 @@
         "MESALAZINE"
     ],
     [
+        "CINKASA",
+        "500 mg",
+        "Suppositoires",
+        "B\/60",
+        "62,000",
+        "44,574",
+        "MESALAZINE"
+    ],
+    [
         "PENTASA",
         "1 g",
         "Suppositoires",
@@ -5293,19 +5302,19 @@
         "MAGNESIUM"
     ],
     [
-        "MAGNESIUM GLYCOCOLLE LAFARGE",
+        "MEGAMAG",
         null,
-        "Comprim\u00e9 pellicul\u00e9",
-        "B\/50",
+        "G\u00e9lule",
+        "B\/40",
         null,
         "0,000",
         "MAGNESIUM"
     ],
     [
-        "MEGAMAG",
+        "MAGNESIUM GLYCOCOLLE LAFARGE",
         null,
-        "G\u00e9lule",
-        "B\/40",
+        "Comprim\u00e9 pellicul\u00e9",
+        "B\/50",
         null,
         "0,000",
         "MAGNESIUM"
@@ -5347,13 +5356,22 @@
         "MAGNESIUM"
     ],
     [
+        "PYRIMAG",
+        null,
+        "Solution buvable",
+        "B\/20 Sachets-dose\/10 ml",
+        "9,000",
+        "0,000",
+        "MAGNESIUM+VITAMINE B6"
+    ],
+    [
         "MAG B6",
         "100 mg\/10 ml",
         "Solution buvable",
         "B\/20",
         "10,395",
         "0,000",
-        "MAGNESIUM LACTATE+MAGNESIUM PIDOLATE+PYRIDOXINE"
+        "MAGNESIUM+VITAMINE B6"
     ],
     [
         "UVIMAG B6.",
@@ -5363,15 +5381,6 @@
         "17,630",
         "0,000",
         "MAGNESIUM+VITAMINE B6"
-    ],
-    [
-        "PYRIMAG",
-        null,
-        "Solution buvable",
-        "B\/20 Sachets-dose\/10 ml",
-        "9,000",
-        "0,000",
-        "PYRIDOXINE+MAGNESIUM"
     ],
     [
         "CREON 10 000 U",
@@ -7345,6 +7354,15 @@
         "VILDAGLIPTINE + METFORMINE"
     ],
     [
+        "GALVUMET",
+        "50 mg\/850 mg",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "B\/60",
+        "84,860",
+        "0,000",
+        "VILDAGLIPTINE + METFORMINE"
+    ],
+    [
         "BI-GALVINE",
         "50 mg\/1000 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -7388,15 +7406,6 @@
         "83,830",
         "40,137",
         "VILDAGLIPTINE + METFORMINE"
-    ],
-    [
-        "GALVUMET",
-        "50 mg\/850 mg",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "B\/60",
-        "84,860",
-        "0,000",
-        "VILDAGLIPTINE+METFORMINE"
     ],
     [
         "APYROSIS",
@@ -10081,6 +10090,15 @@
         "SALICYLATE DE CHOLINE"
     ],
     [
+        "DELABARRE",
+        null,
+        "Gel gingival",
+        "T\/20 gr",
+        "10,775",
+        "0,000",
+        "TAMARIN"
+    ],
+    [
         "SARGENOR SANS SUCRE",
         null,
         "Comprim\u00e9s \u00e0 sucer",
@@ -11073,6 +11091,15 @@
     [
         "AVENOC",
         null,
+        "Suppositoires",
+        "B\/10",
+        "11,500",
+        "0,000",
+        "HOMEOPATHIE"
+    ],
+    [
+        "AVENOC",
+        null,
         "Pommade rectale",
         "T\/30 gr",
         "13,050",
@@ -11170,15 +11197,6 @@
         "HOMEOPATHIE"
     ],
     [
-        "AVENOC",
-        null,
-        "Suppositoires",
-        "B\/10",
-        "11,500",
-        "0,000",
-        "HOMEOPATHIE"
-    ],
-    [
         "KAYEXALATE",
         "454 g",
         "Poudre pour solution orale",
@@ -11186,15 +11204,6 @@
         "109,820",
         "93,002",
         "POLYSTYRENE SULFONATE DE NA"
-    ],
-    [
-        "DELABARRE",
-        null,
-        "Gel gingival",
-        "T\/20 gr",
-        "10,775",
-        "0,000",
-        "TAMARIN"
     ],
     [
         "ALERGOSONE",
@@ -13213,15 +13222,6 @@
         "ACIDE SALICYLIQUE+COLLODION OFFICINAL"
     ],
     [
-        "IVERMED PLUS",
-        null,
-        "Solution injectable",
-        "FL\/100 ml",
-        "52,385",
-        "0,000",
-        "CLORSULONE+IVERMECTINE"
-    ],
-    [
         "CYSTINA",
         "500 mg",
         "G\u00e9lules",
@@ -15058,6 +15058,15 @@
         "GLUCOSAMINE"
     ],
     [
+        "GELUFENE",
+        "200 mg",
+        "G\u00e9lules",
+        "B\/20",
+        "2,705",
+        "2,295",
+        "IBUPROFEN"
+    ],
+    [
         "IBUCARE 200",
         "200 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -15081,6 +15090,15 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/20",
         "2,970",
+        "2,295",
+        "IBUPROFEN"
+    ],
+    [
+        "DOLVEN",
+        "200 mg",
+        "G\u00e9lules",
+        "B\/20",
+        "3,230",
         "2,295",
         "IBUPROFEN"
     ],
@@ -15208,24 +15226,6 @@
         "FL\/12,5 ml",
         "4,880",
         "4,144",
-        "IBUPROFEN"
-    ],
-    [
-        "GELUFENE",
-        "200 mg",
-        "G\u00e9lules",
-        "B\/20",
-        "2,705",
-        "2,295",
-        "IBUPROFEN"
-    ],
-    [
-        "DOLVEN",
-        "200 mg",
-        "G\u00e9lules",
-        "B\/20",
-        "3,230",
-        "2,295",
         "IBUPROFEN"
     ],
     [
@@ -15967,6 +15967,24 @@
         "COLCHICINE"
     ],
     [
+        "FIXURIC",
+        "80 mg",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "B\/30",
+        "29,277",
+        "0,000",
+        "FEBUXOSTAT"
+    ],
+    [
+        "UTEPLEX",
+        "2 mg\/ml",
+        "Solution buvable",
+        "B\/45 Ampoules\/2 ml",
+        "17,837",
+        "0,000",
+        "ACIDE URIDINE-5' TRIPHOSPHORIQUE"
+    ],
+    [
         "UTP OPALIA",
         "2 mg",
         "Solution buvable",
@@ -15981,15 +15999,6 @@
         "Solution buvable",
         "B\/45\/2 ml",
         null,
-        "0,000",
-        "ACIDE URIDINE-5' TRIPHOSPHORIQUE"
-    ],
-    [
-        "UTEPLEX",
-        "2 mg\/ml",
-        "Solution buvable",
-        "B\/45 Ampoules\/2 ml",
-        "17,837",
         "0,000",
         "ACIDE URIDINE-5' TRIPHOSPHORIQUE"
     ],
@@ -16129,7 +16138,7 @@
         "ALENDRONATE ANHYDRE"
     ],
     [
-        "BENEFOS",
+        "BONEFOS",
         "800 mg",
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/100",
@@ -16471,7 +16480,7 @@
         "ESSENCES NATURELLES+SALICYLAMIDE"
     ],
     [
-        "ADOFEN",
+        "ADOFEN MENTHOL",
         "5%",
         "Gel dermique",
         "T\/50 gr",
@@ -16489,7 +16498,7 @@
         "IBUPROFEN"
     ],
     [
-        "IBUPHIL",
+        "IBUPHIL GEL Menthol\u00e9",
         "5%",
         "Gel dermique",
         "T\/50 gr",
@@ -16498,7 +16507,7 @@
         "IBUPROFEN"
     ],
     [
-        "IBUPHIL",
+        "IBUPHIL GEL",
         "5%",
         "Gel dermique",
         "T\/50 gr",
@@ -28207,6 +28216,15 @@
         "ACIDE ACETYLSALICYLIQUE"
     ],
     [
+        "ASPIRYL",
+        "75 mg",
+        "Comprim\u00e9s",
+        "FL\/100",
+        "7,300",
+        "0,000",
+        "ACIDE ACETYLSALICYLIQUE"
+    ],
+    [
         "CARDIOCINE",
         "100 mg",
         "Comprim\u00e9s",
@@ -30259,6 +30277,15 @@
         "LEVETIRACETAM"
     ],
     [
+        "TERACETAM LP",
+        "500 mg",
+        "Comprim\u00e9s pellicul\u00e9s LP",
+        "B\/60",
+        "48,240",
+        "0,000",
+        "LEVETIRACETAM"
+    ],
+    [
         "ANTIOMAL",
         "750 mg",
         "Comprim\u00e9s pellicul\u00e9s",
@@ -30300,6 +30327,15 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "B\/60",
         "122,265",
+        "0,000",
+        "LEVETIRACETAM"
+    ],
+    [
+        "TERACETAM LP",
+        "750 mg",
+        "Comprim\u00e9s pellicul\u00e9s LP",
+        "B\/60",
+        "78,240",
         "0,000",
         "LEVETIRACETAM"
     ],
@@ -35668,6 +35704,15 @@
         "BECLOMETASONE"
     ],
     [
+        "TRIMBOW",
+        "87 \u00b5g\/5 \u00b5g\/9 \u00b5g",
+        "Solution pour Inhalation",
+        "FL\/120 doses",
+        "168,040",
+        "0,000",
+        "BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE"
+    ],
+    [
         "PULMICORT",
         "0,5 mg\/2 ml",
         "Solution pour inhalation",
@@ -35819,6 +35864,24 @@
         "48,985",
         "39,831",
         "BUDESONIDE+FORMOTEROL"
+    ],
+    [
+        "ALVE-ONE",
+        "80 \u00b5g\/dose",
+        "Solution pour Inhalation",
+        "FL\/60 doses",
+        "25,905",
+        "0,000",
+        "CICLESONIDE"
+    ],
+    [
+        "ALVE-ONE",
+        "160 \u00b5g\/dose",
+        "Solution pour Inhalation",
+        "FL\/60 doses",
+        "40,240",
+        "0,000",
+        "CICLESONIDE"
     ],
     [
         "BRONCHODUAL",
