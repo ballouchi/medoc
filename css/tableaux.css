@@ -346,9 +346,11 @@
 #T_salmetrol .row0 { border-bottom: 1px solid black; }
 #T_salmetrol .row1.col3 { background-color: thistle; }
 
+/*
 #T_formoterol .row8 { border-bottom: 3px solid black; }
 #T_formoterol .row3 { border-bottom: 1px solid black; }
 #T_formoterol :is(.row9, .row10).col2 { background-color: khaki; }
+*/
 
 #T_terbutaline-inhalation .row0 { border-bottom: 2px solid black; }
 #T_terbutaline-inhalation .row1.col2 { background-color: thistle; }
@@ -508,6 +510,7 @@
 #T_prazepam .row0 { border-bottom: 4px solid black; }
 #T_prazepam .row0.col2 { background-color: lightblue; }
 
+/*
 #T_chlorpromazine .row3 { border-bottom: 6px double black; }
 #T_chlorpromazine .row1 { border-bottom: 2px solid black; }
 #T_chlorpromazine .row0 { border-bottom: 1px solid black; }
@@ -515,12 +518,15 @@
 #T_chlorpromazine .row3.col1,
 #T_chlorpromazine .row1.col3 { background-color: thistle; }
 #T_chlorpromazine .row4.col2 { background-color: lightsalmon; }
+*/
 
+/*
 #T_levomepromazine .row1,
 #T_levomepromazine .row2 { border-bottom: 4px solid black; }
 #T_levomepromazine .row0 { border-bottom: 2px solid black; }
 #T_levomepromazine .row2.col2 { background-color: lightblue; }
 #T_levomepromazine .row3.col2 { background-color: lightsalmon; }
+*/
 
 #T_haloperidol .row2,
 #T_haloperidol .row7 { border-bottom: 4px solid black; }
@@ -620,11 +626,13 @@
 #T_cabergoline .row6 { border-bottom: 1px solid black; }
 #T_cabergoline :is(.row5, .row6).col3 { background-color: thistle; }
 
+/*
 #T_morphine-cp .row1,
 #T_morphine-cp .row3,
 #T_morphine-cp .row5,
 #T_morphine-cp .row7 { border-bottom: 2px solid black; }
 #T_morphine-cp .row7.col3 { background-color: thistle; }
+*/
 
 #T_fentanyl .row0,
 #T_fentanyl .row1 { border-bottom: 2px solid black; }
@@ -757,7 +765,9 @@
 #T_molsidomine .row13 { border-bottom: 1px solid black; }
 #T_molsidomine :is(.row6, .row7, .row14).col3 { background-color: thistle; }
 
+/*
 #T_moxonidine .row2 { border-bottom: 1px solid black; }
+*/
 
 #T_ivabradine .row0 { border-bottom: 2px solid black; }
 #T_ivabradine .row1.col1 { background-color: thistle; }
@@ -949,11 +959,13 @@
 #T_dexamethasone .row5.col3 { background-color: khaki; }
 #T_dexamethasone :is(.row6, .row7, .row8, .row9).col3 { background-color: thistle; }
 
+/*
 #T_methylprednisolone .row1 { border-bottom: 4px solid black; }
 #T_methylprednisolone :is(.row0, .row3, .row5) { border-bottom: 2px solid black; }
 #T_methylprednisolone .row0.col3,
 #T_methylprednisolone .row1.col1 { background-color: thistle; }
 #T_methylprednisolone :is(.row2, .row3, .row4, .row5, .row6).col2 { background-color: lightsalmon; }
+*/
 /* prednisolone */
 #T_8a0eb :is(.row0, .row1),
 #T_86703 :is(.row4, .row5, .row10) { border-bottom: 1px solid black; }

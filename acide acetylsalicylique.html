@@ -4,8 +4,8 @@
     <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Traitement symptomatique des douleurs d'intensité légère à modérée, des états fébriles et des rhumatismes inflammatoires.">
-<meta name="keywords" content="antalgiqueantipyretiquesalicyles,  aspirine ph 8, actalgine, aspirine, acide acetylsalicylique">
+<meta name="description" content="Antalgique, antipyrétique et anti-agrégant plaquettaire.">
+<meta name="keywords" content="antalgiqueantipyretiquesalicyles,  aspirine ph 8, actalgine, aspirine, acide acetylsalicylique, aspiryl, trombyl, cardiocine">
 <title>Acide Acétylsalicylique | Prix des médicaments en Tunisie</title>
 <link rel="stylesheet" href="css/syntax.css">
 
@@ -101,10 +101,7 @@
 
     
 	    
-	        <!--
-    
--->
-    <!-- Include  DataTables css and js in head -->
+	            <!-- Include  DataTables css and js in head -->
     <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
     <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
     <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
@@ -121,96 +118,57 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          var table = $('table.display').DataTable({
-            paging: false,
-            info: true,
-            searching: true,
-            order: [],
-            stateSave: false,
-            language: {
-                url: "js/fr-FR.json",
-                buttons: {
-					colvis: "Colonnes Visibles"
-				},
-			},
-            layout: {
-				topStart: {
-		            buttons: [
-			            {
-							extend: 'colvis',
-							postfixButtons: ['colvisRestore']
+          $('table.display').each(function(i) {
+			    var thisTable = $(this);
+			    var thisName = thisTable.attr('id');
+			    thisTable.DataTable({
+		              paging: false,
+		              stateSave: false,
+		              searching: true,
+		              order: [],
+		              language: {
+		                url: "js/fr-FR.json",
+		                buttons: {
+							colvis: "Colonnes Visibles"
 						},
-			            {
-							extend: 'pdfHtml5',
-							exportOptions: { 
-								columns: [0, ':visible']
-							},
-						},
-		                {
-		                    extend: 'excelHtml5',
-		                    title: null,
-		                    exportOptions: { columns: [0, ':visible'] },
-		                    customize: function ( xlsx ) {
-							        var sheet = xlsx.xl.worksheets['sheet1.xml'];
-							        
-							        // Map used to map column index to Excel index
-							        var excelMap = {
-							          0: 'A',
-							          1: 'B',
-							          2: 'C',
-							          3: 'D',
-							          4: 'E',
-							          5: 'F',
-							          6: 'G',
-							          7: 'H',
-							          8: 'I'
-							        };
-							        
-							        var count = 0;
-							        var skippedHeader = false;
-							        $('row', sheet).each( function () {
-							          var row = this;
-							          if (skippedHeader) {
-							//             var colour = $('tbody tr:eq('+parseInt(count)+') td:eq(2)').css('background-color');
-							            
-							            // Output first row
-							            //if (count === 0) {
-							              //console.log(this);
-							            //}
-							            
-							            for (td=0; td<9; td++) {
-							              
-							              // Output cell contents for first row
-							              //if (count === 0) {
-							                //console.log($('c[r^="' + excelMap[td] + '"]', row).text());
-							              //}
-							              var colour = $(table.cell(':eq('+count+')',td).node()).css('background-color');            
-							
-							              if (colour === 'rgb(240, 128, 128)') {
-							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '10' );
-							              }
-							              else if (colour === 'rgb(144, 238, 144)') {
-							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '15' );
-							              }
-							            }
-							            count++;
-							          }
-							          else {
-							            skippedHeader = true;
-		                            }
-		                        });
-		                    }
-		                },
-		                
-		            ]
-		         }
-		      }   
-            });
+		              },
+					  layout: {
+		                  topStart: {
+		                      buttons: [
+		                          {
+									  extend: 'colvis',
+									  postfixButtons: ['colvisRestore']
+								  },
+		                          {
+									  extend: 'excelHtml5',
+									  title: null,
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  filename: function () { 
+										  filename = thisName;
+										  return filename;
+									  }
+								  },
+		                          {
+									  extend: 'pdfHtml5',
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  //filename: function () { return $('h2').attr('id'); }
+									  title: function () { 
+										  filename = thisName;
+										  return filename;
+										  }
+								  },
+								  //'copyHtml5', 'csvHtml5', 'print'
+							  ]
+		                  }
+		              },
+	            });
+          });
       });
     </script>
-<!--
-    
--->
 
 		
 	
@@ -749,6 +707,13 @@
           
           
           <li><a title="Médicaments de l'Impuissance" href="tag_impuissance.html">Médicaments de l'Impuissance</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Lithiases Urinaires" href="tag_lithiases-urinaires.html">Lithiases Urinaires</a></li>
           
           
           
@@ -1433,15 +1398,43 @@
 	        <div class="col-md-12" id="tg-sb-content" data-pagefind-body>
 	            <div>
     
-		<h3>Acide Acétylsalicylique</h3>
-    
+		<h1>Acide Acétylsalicylique</h1>
+	
     
         <div class="bs-callout bs-callout-primary">
-			<p>Traitement symptomatique des douleurs d'intensité légère à modérée, des états fébriles et des rhumatismes inflammatoires.</p>
+			<p>Antalgique, antipyrétique et anti-agrégant plaquettaire.</p>
 		</div>
     
     
+        
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+</script>
+
+<div id="toc"></div>
+
+
+
+    
 </div>
+
+<h3 id="500-mg">500 mg</h3>
+<div class="bs-callout bs-callout-success">Traitement symptomatique des douleurs d’intensité légère à modérée, des états fébriles et des rhumatismes inflammatoires.</div>
 
 <style type="text/css">
 #T_acide-acetylsalicylique_row0_col4, #T_acide-acetylsalicylique_row1_col4, #T_acide-acetylsalicylique_row2_col4, #T_acide-acetylsalicylique_row3_col4 {
@@ -1543,6 +1536,70 @@
   </tbody>
 </table>
 
+<h3 id="75-100-et-160-mg">75, 100 et 160 mg</h3>
+<div class="bs-callout bs-callout-success">Réduit le risque de formation de caillots sanguins:<br /><br />
+ - Prévention des complications secondaires cardiovasculaires et cérébrovasculaires chez les patients présentant une maladie athéromateuse ischémique (infarctus du myocarde, angor stable et instable, accident vasculaire cérébral).<br /><br />
+ - Prévention des évènements thromboemboliques après chirurgie ou intervention vasculaire tels que l’angioplastie coronaire transluminale, pontage aorto-coronarien, endartériectomie carotidienne, shunt artério-veineux.<br /><br />
+ - Réduction de l’occlusion des greffons après pontage aorto-coronaire.</div>
+
+<style type="text/css">
+</style>
+
+<table id="T_acide-acetylsalicylique-comprimes" class="display">
+  <thead>
+    <tr>
+      <th id="T_acide-acetylsalicylique-comprimes_level0_col0" class="col_heading level0 col0">Nom</th>
+      <th id="T_acide-acetylsalicylique-comprimes_level0_col1" class="col_heading level0 col1">Dosage</th>
+      <th id="T_acide-acetylsalicylique-comprimes_level0_col2" class="col_heading level0 col2">Forme</th>
+      <th id="T_acide-acetylsalicylique-comprimes_level0_col3" class="col_heading level0 col3">Présentation</th>
+      <th id="T_acide-acetylsalicylique-comprimes_level0_col4" class="col_heading level0 col4">Prix</th>
+      <th id="T_acide-acetylsalicylique-comprimes_level0_col5" class="col_heading level0 col5">DCI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_acide-acetylsalicylique-comprimes_row4_col0" class="data row4 col0">ASPIRYL</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row4_col1" class="data row4 col1">75 mg</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row4_col2" class="data row4 col2">Comprimés</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row4_col3" class="data row4 col3">FL/100</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row4_col4" class="data row4 col4">7,300</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row4_col5" class="data row4 col5">ACIDE ACETYLSALICYLIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_acide-acetylsalicylique-comprimes_row0_col0" class="data row0 col0">TROMBYL</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row0_col1" class="data row0 col1">75 mg</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row0_col2" class="data row0 col2">Comprimés</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row0_col3" class="data row0 col3">FL/100</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row0_col4" class="data row0 col4">9,680</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row0_col5" class="data row0 col5">ACIDE ACETYLSALICYLIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_acide-acetylsalicylique-comprimes_row1_col0" class="data row1 col0">CARDIOCINE</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row1_col1" class="data row1 col1">100 mg</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row1_col2" class="data row1 col2">Comprimés</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row1_col3" class="data row1 col3">B/30</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row1_col4" class="data row1 col4">3,800</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row1_col5" class="data row1 col5">ACIDE ACETYLSALICYLIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_acide-acetylsalicylique-comprimes_row2_col0" class="data row2 col0">CARDIOCINE</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row2_col1" class="data row2 col1">100 mg</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row2_col2" class="data row2 col2">Comprimés</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row2_col3" class="data row2 col3">B/90</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row2_col4" class="data row2 col4">9,990</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row2_col5" class="data row2 col5">ACIDE ACETYLSALICYLIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_acide-acetylsalicylique-comprimes_row3_col0" class="data row3 col0">CARDIOCINE</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row3_col1" class="data row3 col1">160 mg</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row3_col2" class="data row3 col2">Comprimés sécables</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row3_col3" class="data row3 col3">B/30</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row3_col4" class="data row3 col4">4,500</td>
+      <td id="T_acide-acetylsalicylique-comprimes_row3_col5" class="data row3 col5">ACIDE ACETYLSALICYLIQUE</td>
+    </tr>
+  </tbody>
+</table>
+
 
 				
 							<div class="tags">
@@ -1561,7 +1618,7 @@
 
 				
 				
-					<div class="bs-callout bs-callout-default">Page mise à jour le 14/10/2025</div>
+					<div class="bs-callout bs-callout-default">Page mise à jour le 23/01/2026</div>
 				
  
 	        </div>
@@ -1641,7 +1698,7 @@
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 23/01/2026</li>
+          <li>Prix Publiés le 13/02/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->

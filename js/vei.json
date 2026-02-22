@@ -4574,8 +4574,8 @@
     ],
     [
         101079,
-        "SALAZOPYRINE Comp enr 500mg Bt 100",
-        "10,269",
+        "SALAZOPYRINE 500mg Comp.Gastro-r\u00e9sist. Fl 100",
+        "15,240",
         "10,200",
         "E",
         "SULFASALAZINE",
@@ -8020,8 +8020,8 @@
         "N"
     ],
     [
-        302294,
-        "DOMPYREX 10mg Comp Pell Bt 40",
+        303807,
+        "DOMPYREX 10mg Comp.Pell. Bt 40",
         "6,395",
         "5,160",
         "I",
@@ -9434,8 +9434,8 @@
     ],
     [
         103683,
-        "DEPO-MEDROL AMP INJ 80 MG  Necess Bt 1",
-        "5,181",
+        "DEPO-MEDROL 80mg Susp.Inj. Ser.\/2ml",
+        "16,163",
         "5,181",
         "E",
         "METHYLPREDNISOLONE",
@@ -20755,10 +20755,28 @@
         "N"
     ],
     [
+        303813,
+        "CO-NEBILUS 5mg\/12.5mg Comp.Pell. Bt 30",
+        "18,490",
+        "18,490",
+        "E",
+        "NEBIVOLOL+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
         105118,
         "NEBILET PLUS 5MG\/25 MG Comp Pell BT 28",
         "33,875",
         "33,852",
+        "E",
+        "NEBIVOLOL+HYDROCHLOROTHIAZIDE",
+        "N"
+    ],
+    [
+        303814,
+        "CO-NEBILUS 5mg\/25mg Comp.Pell. Bt 30",
+        "19,740",
+        "19,740",
         "E",
         "NEBIVOLOL+HYDROCHLOROTHIAZIDE",
         "N"
@@ -20800,6 +20818,15 @@
         "N"
     ],
     [
+        303815,
+        "DROPTENS 0.2mg Comp.Pell. Bt 30",
+        "14,240",
+        "14,240",
+        "E",
+        "MOXONIDINE",
+        "N"
+    ],
+    [
         302797,
         "MOXONYL 0.2 MG Comp Pell BT 30",
         "16,150",
@@ -20822,6 +20849,15 @@
         "PHYSIOTENS Comp Pell 0.2mg Bt 30",
         "27,915",
         "16,140",
+        "E",
+        "MOXONIDINE",
+        "N"
+    ],
+    [
+        303816,
+        "DROPTENS 0.4mg Comp.Pell. Bt 30",
+        "28,455",
+        "28,455",
         "E",
         "MOXONIDINE",
         "N"
@@ -23410,6 +23446,15 @@
         "N"
     ],
     [
+        506779,
+        "MORFIA CR 30mg Comp Bt 20",
+        "27,397",
+        "27,397",
+        "V",
+        "MORPHINE",
+        "N"
+    ],
+    [
         504831,
         "SKENAN LP 60 mg  GEL. LIBERATION PROLONGEE BT 14",
         "68,898",
@@ -23423,6 +23468,15 @@
         "MOSCONTIN Comp enr LP 60mg Bt 14",
         "69,104",
         "69,104",
+        "V",
+        "MORPHINE",
+        "N"
+    ],
+    [
+        506780,
+        "MORFIA CR 60mg Comp Bt 20",
+        "35,092",
+        "35,092",
         "V",
         "MORPHINE",
         "N"
@@ -26533,6 +26587,15 @@
         "N"
     ],
     [
+        106956,
+        "SURMONTIL 4% Gttes.Buv. Fl 30ml",
+        "7,240",
+        "7,240",
+        "E",
+        "TRIMIPRAMINE",
+        "N"
+    ],
+    [
         301171,
         "TEDEMA Comp Pell 25 mg Bt 30",
         "10,240",
@@ -26857,9 +26920,9 @@
         "N"
     ],
     [
-        103479,
-        "LARGACTIL Amp inj 25mg 5ml Bt 5",
-        "2,082",
+        106938,
+        "LARGACTIL 25mg\/5ml Sol.Inj. Bt 5\/5ml",
+        "5,240",
         "2,080",
         "E",
         "CHLORPROMAZINE",
@@ -27064,9 +27127,9 @@
         "N"
     ],
     [
-        102296,
-        "NOZINAN Gttes Buv 4% Fl 30ml",
-        "2,012",
+        106945,
+        "NOZINAN 4% Sol.Buv. Fl 30ml",
+        "5,240",
         "2,010",
         "E",
         "LEVOMEPROMAZINE",
@@ -27379,9 +27442,9 @@
         "N"
     ],
     [
-        103564,
-        "NEULEPTIL Gttes Buv 4% Fl 30ml",
-        "4,499",
+        106939,
+        "NEULEPTIL 4% Gttes.Buv. Fl 30ml",
+        "10,240",
         "4,470",
         "E",
         "PROPERICIAZINE",
@@ -27802,9 +27865,9 @@
         "N"
     ],
     [
-        100435,
-        "TIAPRIDAL Amp inj 100mg\/2ml Bt 12",
-        "5,018",
+        106946,
+        "TIAPRIDAL 100mg Sol.Inj. Bt 12\/2ml",
+        "10,240",
         "5,016",
         "E",
         "TIAPRIDE",

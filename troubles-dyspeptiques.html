@@ -100,78 +100,6 @@
     </script>
 
     
-	    
-	            <!-- Include  DataTables css and js in head -->
-    <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
-    <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
-    <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/dataTables.bootstrap.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/dataTables.buttons.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.bootstrap.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.colVis.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.print.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/jszip.min.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/pdfmake.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/vfs_fonts.js"></script>
-    <script type="text/javascript" charset="utf8" src="js/buttons.html5.js"></script>
-    <!-- Initialize Datatables and Buttons -->
-    <script>
-      $(document).ready(function(){
-          //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          $('table.display').each(function(i) {
-			    var thisTable = $(this);
-			    var thisName = thisTable.attr('id');
-			    thisTable.DataTable({
-		              paging: false,
-		              stateSave: false,
-		              searching: true,
-		              order: [],
-		              language: {
-		                url: "js/fr-FR.json",
-		                buttons: {
-							colvis: "Colonnes Visibles"
-						},
-		              },
-					  layout: {
-		                  topStart: {
-		                      buttons: [
-		                          {
-									  extend: 'colvis',
-									  postfixButtons: ['colvisRestore']
-								  },
-		                          {
-									  extend: 'excelHtml5',
-									  title: null,
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  filename: function () { 
-										  filename = thisName;
-										  return filename;
-									  }
-								  },
-		                          {
-									  extend: 'pdfHtml5',
-									  exportOptions: { 
-										  columns: [0, ':visible']
-									  },
-									  //filename: function () { return $('h2').attr('id'); }
-									  title: function () { 
-										  filename = thisName;
-										  return filename;
-										  }
-								  },
-								  //'copyHtml5', 'csvHtml5', 'print'
-							  ]
-		                  }
-		              },
-	            });
-          });
-      });
-    </script>
-
-		
-	
 </head>
 <body>
 	<!-- Navigation -->
@@ -707,6 +635,13 @@
           
           
           <li><a title="Médicaments de l'Impuissance" href="tag_impuissance.html">Médicaments de l'Impuissance</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Lithiases Urinaires" href="tag_lithiases-urinaires.html">Lithiases Urinaires</a></li>
           
           
           
@@ -1622,7 +1557,7 @@ Adjuvant de la nutrition chez le sujet âgé dénutri.
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 23/01/2026</li>
+          <li>Prix Publiés le 13/02/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->
