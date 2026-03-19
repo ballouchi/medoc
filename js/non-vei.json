@@ -2951,6 +2951,16 @@
         9254231
     ],
     [
+        "VOLTARENE RETARD",
+        "Drag\u00e9es",
+        "75 mg",
+        "B\/30",
+        "12,965",
+        "DICLOFENAC",
+        "TERIAK",
+        9254232
+    ],
+    [
         "DICLOGESIC ENFANT",
         "Suppositoires",
         "12,5 mg",
@@ -3381,6 +3391,16 @@
         6063301
     ],
     [
+        "RHUTAGEL",
+        null,
+        null,
+        null,
+        "5,800",
+        "KETOPROFENE",
+        "WEST PHARMA",
+        null
+    ],
+    [
         "KETOPROGEL",
         "Gel dermique",
         "2,5\u00a0%",
@@ -3398,16 +3418,6 @@
         "7,100",
         "KETOPROFENE",
         "PHARMAGHREB",
-        null
-    ],
-    [
-        "RHUTAGEL",
-        null,
-        null,
-        null,
-        "5,800",
-        "KETOPROFENE",
-        "WEST PHARMA",
         null
     ],
     [
@@ -5611,16 +5621,6 @@
         null
     ],
     [
-        "TROMBYL",
-        "Comprim\u00e9s",
-        "75 mg",
-        "FL\/100",
-        "9,680",
-        "ACIDE ACETYLSALICYLIQUE",
-        "PFIZER EXPORT B.V.",
-        13473011
-    ],
-    [
         "ASPIRYL",
         "Comprim\u00e9s",
         "75 mg",
@@ -5629,6 +5629,16 @@
         "ACIDE ACETYLSALICYLIQUE",
         "ADVANS PHARMA",
         9413151
+    ],
+    [
+        "TROMBYL",
+        "Comprim\u00e9s",
+        "75 mg",
+        "FL\/100",
+        "9,680",
+        "ACIDE ACETYLSALICYLIQUE",
+        "PFIZER EXPORT B.V.",
+        13473011
     ],
     [
         "CARDIOCINE",
@@ -5791,16 +5801,6 @@
         9073801
     ],
     [
-        "KEPPRA",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "500 mg",
-        "B\/60",
-        "198,920",
-        "LEVETIRACETAM",
-        "GLAXOSMITHKLINE SERVICES UNLIMITED",
-        null
-    ],
-    [
         "TERACETAM LP",
         "Comprim\u00e9s pellicul\u00e9s LP",
         "500 mg",
@@ -5809,6 +5809,16 @@
         "LEVETIRACETAM",
         "S.A.I.PH",
         9164411
+    ],
+    [
+        "KEPPRA",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "500 mg",
+        "B\/60",
+        "198,920",
+        "LEVETIRACETAM",
+        "GLAXOSMITHKLINE SERVICES UNLIMITED",
+        null
     ],
     [
         "ANTIOMAL",
@@ -5851,16 +5861,6 @@
         9073802
     ],
     [
-        "ANTIOMAL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "750 mg",
-        "B\/60",
-        "122,265",
-        "LEVETIRACETAM",
-        "TAHA PHARMA",
-        9373153
-    ],
-    [
         "TERACETAM LP",
         "Comprim\u00e9s pellicul\u00e9s LP",
         "750 mg",
@@ -5869,6 +5869,16 @@
         "LEVETIRACETAM",
         "S.A.I.PH",
         9164412
+    ],
+    [
+        "ANTIOMAL",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "750 mg",
+        "B\/60",
+        "122,265",
+        "LEVETIRACETAM",
+        "TAHA PHARMA",
+        9373153
     ],
     [
         "EPITAM",
@@ -7909,16 +7919,6 @@
         "CICLESONIDE",
         "BERG LIFE SCIENCES",
         9283082
-    ],
-    [
-        "ATYFOR",
-        "Solution pour inhalation",
-        "12 \u00b5g",
-        "FL\/100 doses",
-        "27,315",
-        "FORMOTEROL",
-        "VAGA LABORATORIES",
-        9473031
     ],
     [
         "FOSTER",

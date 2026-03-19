@@ -4834,11 +4834,11 @@
         "NIFUROXAZIDE"
     ],
     [
-        "DIARRYL",
+        "DIARYL",
         "Suspension buvable",
         "4,00%",
         "FL\/90 ml",
-        "3,735",
+        "Arr\u00eat\u00e9",
         "1,476",
         "NIFUROXAZIDE"
     ],
@@ -4847,7 +4847,7 @@
         "Suspension buvable",
         "4,00%",
         "FL\/90 ml",
-        "4,625",
+        "Arr\u00eat\u00e9",
         "1,476",
         "NIFUROXAZIDE"
     ],
@@ -14851,6 +14851,15 @@
         "DICLOFENAC"
     ],
     [
+        "VOLTARENE RETARD",
+        "Drag\u00e9es",
+        "75 mg",
+        "B\/30",
+        "12,965",
+        "0,000",
+        "DICLOFENAC"
+    ],
+    [
         "VOLTARENE LP",
         "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
         "75 mg",
@@ -16552,6 +16561,15 @@
         "IBUPROFEN+MENTHOL"
     ],
     [
+        "RHUTAGEL",
+        null,
+        null,
+        null,
+        "5,800",
+        "0,000",
+        "KETOPROFENE"
+    ],
+    [
         "KETOPROGEL",
         "Gel dermique",
         "2,5\u00a0%",
@@ -16566,15 +16584,6 @@
         "2,5\u00a0%",
         "T\/50 gr",
         "7,100",
-        "0,000",
-        "KETOPROFENE"
-    ],
-    [
-        "RHUTAGEL",
-        null,
-        null,
-        null,
-        "5,800",
         "0,000",
         "KETOPROFENE"
     ],
@@ -28252,20 +28261,20 @@
         "ACETYLSALICYLATE DE LYSINE"
     ],
     [
-        "TROMBYL",
-        "Comprim\u00e9s",
-        "75 mg",
-        "FL\/100",
-        "9,680",
-        "0,000",
-        "ACIDE ACETYLSALICYLIQUE"
-    ],
-    [
         "ASPIRYL",
         "Comprim\u00e9s",
         "75 mg",
         "FL\/100",
         "7,300",
+        "0,000",
+        "ACIDE ACETYLSALICYLIQUE"
+    ],
+    [
+        "TROMBYL",
+        "Comprim\u00e9s",
+        "75 mg",
+        "FL\/100",
+        "9,680",
         "0,000",
         "ACIDE ACETYLSALICYLIQUE"
     ],
@@ -30277,6 +30286,15 @@
         "LEVETIRACETAM"
     ],
     [
+        "TERACETAM LP",
+        "Comprim\u00e9s pellicul\u00e9s LP",
+        "500 mg",
+        "B\/60",
+        "48,240",
+        "0,000",
+        "LEVETIRACETAM"
+    ],
+    [
         "KEPPRA",
         "Comprim\u00e9s pellicul\u00e9s",
         "500 mg",
@@ -30331,15 +30349,6 @@
         "LEVETIRACETAM"
     ],
     [
-        "TERACETAM LP",
-        "Comprim\u00e9s pellicul\u00e9s LP",
-        "500 mg",
-        "B\/60",
-        "48,240",
-        "0,000",
-        "LEVETIRACETAM"
-    ],
-    [
         "ANTIOMAL",
         "Comprim\u00e9s pellicul\u00e9s",
         "750 mg",
@@ -30376,20 +30385,20 @@
         "LEVETIRACETAM"
     ],
     [
-        "ANTIOMAL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "750 mg",
-        "B\/60",
-        "122,265",
-        "0,000",
-        "LEVETIRACETAM"
-    ],
-    [
         "TERACETAM LP",
         "Comprim\u00e9s pellicul\u00e9s LP",
         "750 mg",
         "B\/60",
         "78,240",
+        "0,000",
+        "LEVETIRACETAM"
+    ],
+    [
+        "ANTIOMAL",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "750 mg",
+        "B\/60",
+        "122,265",
         "0,000",
         "LEVETIRACETAM"
     ],
@@ -32671,6 +32680,15 @@
         "ARIPIPRAZOLE"
     ],
     [
+        "TROBIPOL",
+        "Comprim\u00e9s",
+        "10 mg",
+        "B\/30",
+        "104,190",
+        "88,562",
+        "ARIPIPRAZOLE"
+    ],
+    [
         "ABILICARE",
         "Comprim\u00e9s",
         "10 mg",
@@ -32686,6 +32704,15 @@
         "B\/28",
         "127,675",
         "97,913",
+        "ARIPIPRAZOLE"
+    ],
+    [
+        "TROBIPOL",
+        "Comprim\u00e9s",
+        "15 mg",
+        "B\/30",
+        "117,240",
+        "99,654",
         "ARIPIPRAZOLE"
     ],
     [
@@ -33016,7 +33043,7 @@
         "LEVOMEPROMAZINE 25",
         "Comprim\u00e9s enrob\u00e9s",
         "25 mg",
-        "B\/600",
+        "B\/20",
         "3,655",
         "3,094",
         "LEVOMEPROMAZINE"
@@ -36087,7 +36114,7 @@
         "12 \u00b5g",
         "FL\/100 doses",
         "27,315",
-        "0,000",
+        "23,218",
         "FORMOTEROL"
     ],
     [
@@ -36114,6 +36141,15 @@
         "100\/6 \u00b5g",
         "FL\/120 doses",
         "48,702",
+        "41,310",
+        "FORMOTEROL + BECLOMETASONE"
+    ],
+    [
+        "FORTYX",
+        "Solution pour inhalation",
+        "100 \u00b5g\/6 \u00b5g",
+        "FL\/120 doses",
+        "67,940",
         "41,310",
         "FORMOTEROL + BECLOMETASONE"
     ],
@@ -36545,7 +36581,7 @@
         "Poudre pour inhalation buccale",
         "18 \u00b5g",
         "B\/30 g\u00e9lules + inhalateur",
-        "108,580",
+        "98,780",
         "59,976",
         "TIOTROPIUM"
     ],

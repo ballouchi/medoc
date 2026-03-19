@@ -68,6 +68,36 @@
 
 
 {
+"title": "Ciclesonide",
+"tags": "corticoides-a-inhalersympathicomimetique-corticosteroide",
+"keywords": "alve-one, ciclesonide",
+"url": "ciclesonide.html",
+"summary": "Traitement d'entretien de l'asthme"
+}
+,
+
+
+{
+"title": "Circulaires de la Pharmacie Centrale de Mars 2026",
+"tags": "changements",
+"keywords": "pct",
+"url": "pct-2026-03.html",
+"summary": "Changements de Mars 2026"
+}
+,
+
+
+{
+"title": "CNAM: Mises à Jour de Mars 2026",
+"tags": "changements",
+"keywords": "cnam",
+"url": "cnam-2026-03-17.html",
+"summary": "Changements de Mars 2026 CNAM"
+}
+,
+
+
+{
 "title": "Association Dapagliflozine 5 ou 10 mg et Metformine 1000 mg Comprimés",
 "tags": "autres-diabetediabete",
 "keywords": "divinus-met, dapagliflozine, metformine",
@@ -1540,7 +1570,7 @@
 {
 "title": "Aripiprazole 10 et 15 mg Comprimés",
 "tags": "neuroleptiques",
-"keywords": "abilify, abilicare, aripiprazole",
+"keywords": "abilify, abilicare, aripiprazole, trobipol",
 "url": "aripiprazole.html",
 "summary": "Antipsychotique"
 }
@@ -1920,7 +1950,7 @@
 {
 "title": "Levetiracetam",
 "tags": "antiepileptique",
-"keywords": "antiomal 250, epixx, vetira, epitam, antiomal 500, epilepta, levet, levetiracetam",
+"keywords": "antiomal 250, epixx, vetira, epitam, antiomal 500, epilepta, levet, levetiracetam, teracetam lp",
 "url": "levetiracetam.html",
 "summary": "Traitement de l'epilepsie"
 }
@@ -2348,9 +2378,9 @@
 
 
 {
-"title": "Foster: Association Beclometasone + Formoterol",
+"title": "Association Beclometasone + Formoterol",
 "tags": "sympathicomimetique-corticosteroidebronchodilatateurscorticoides-a-inhaler",
-"keywords": "foster, beclomethasone, formoterol, beclometasone",
+"keywords": "foster, beclomethasone, formoterol, beclometasone, fortyx, trimbow, glycopyrronium bromide",
 "url": "beclometasone-formoterol.html",
 "summary": "Traitement d'entretien de l'asthme et de la bronchopneumopathie chronique obstructive"
 }
@@ -3918,9 +3948,9 @@
 
 
 {
-"title": "Antigoutteux (Colchicine et Allopurinol)",
+"title": "Antigoutteux",
 "tags": "anti-inflammatoiremuscles-et-os",
-"keywords": "colchicine opocalcium, colchicina lirca, purinol 100, alloric, purinol 300, colchicine, allopurinol",
+"keywords": "colchicine opocalcium, colchicina lirca, purinol 100, alloric, purinol 300, colchicine, allopurinol, fixuric, febuxostat",
 "url": "antigoutteux.html",
 "summary": "Traitement de la goutte"
 }

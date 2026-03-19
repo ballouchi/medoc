@@ -4377,7 +4377,7 @@
     [
         307952,
         "DIARYL 4% Susp Orale Fl 90ml",
-        "3,735",
+        "Arr\u00eat\u00e9",
         "3,690",
         "I",
         "NIFUROXAZIDE",
@@ -4386,7 +4386,7 @@
     [
         300150,
         "NIFROXID Sol Buv Fl 90ml",
-        "4,625",
+        "Arr\u00eat\u00e9",
         "3,690",
         "I",
         "NIFUROXAZIDE",
@@ -26830,6 +26830,15 @@
         "O"
     ],
     [
+        303828,
+        "TROBIPOL 10mg Comp Bt 30",
+        "104,190",
+        "104,190",
+        "E",
+        "ARIPIPRAZOLE",
+        "O"
+    ],
+    [
         302500,
         "ABILICARE 10 MG COMP BT 30",
         "109,675",
@@ -26843,6 +26852,15 @@
         "ABILIFY Comp 15 mg Bt 28 (Laboratoire  ABDI IBRAHIM)",
         "127,675",
         "115,192",
+        "E",
+        "ARIPIPRAZOLE",
+        "O"
+    ],
+    [
+        303829,
+        "TROBIPOL 15mg Comp Bt 30",
+        "117,240",
+        "117,240",
         "E",
         "ARIPIPRAZOLE",
         "O"
@@ -28963,6 +28981,15 @@
         "N"
     ],
     [
+        303817,
+        "ATYFOR 12\u00b5g Sol.P.Inha. Bt 1Fl\/100Doses",
+        "27,315",
+        "27,315",
+        "E",
+        "FORMOTEROL",
+        "N"
+    ],
+    [
         301149,
         "RAFOREX Sus Inh 12 \u00b5G \/inh  Fl 100  Doses",
         "28,745",
@@ -28984,6 +29011,15 @@
         103400,
         "FOSTER  Sol Inh 100\/6\u00b5G Fl 120 doses",
         "48,702",
+        "48,600",
+        "E",
+        "FORMOTEROL + BECLOMETASONE",
+        "N"
+    ],
+    [
+        303818,
+        "FORTYX 100\/6\u00b5g Sol.P.Inhal. Bt 1Fl\/120Doses (F)",
+        "67,940",
         "48,600",
         "E",
         "FORMOTEROL + BECLOMETASONE",
@@ -29406,7 +29442,7 @@
     [
         106115,
         "SPIRIVA 18mcg Pdre P Inhalation Bucc Bt 30 G\u00e9l + Inhalateur",
-        "108,580",
+        "98,780",
         "70,560",
         "E",
         "TIOTROPIUM",
