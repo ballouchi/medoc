@@ -3207,7 +3207,7 @@
     [
         506389,
         "RIFADIN Pdre\/pr\u00e9p inj 600mg\/Fl Bt 1+1(10ml)",
-        "19,024",
+        "19,219",
         "19,024",
         "E",
         "RIFAMPICINE",
@@ -3216,7 +3216,7 @@
     [
         857805,
         "RIFADINE Sirop 2% Fl 120ml",
-        "26,555",
+        "26,829",
         "26,520",
         "E",
         "RIFAMPICINE",
@@ -3801,7 +3801,7 @@
     [
         550024,
         "TETRAXIM FL\/1 DOSE",
-        "66,590",
+        "67,282",
         "66,590",
         "E",
         "VACCIN D+T+C+P",
@@ -3826,19 +3826,19 @@
         "N"
     ],
     [
-        505392,
-        "AZATHIOPRINE AQVIDA 50mg Comp Pell Bt 100",
-        "35,094",
-        "35,094",
+        504664,
+        "AZATHIOPRINE VIATRIS (EX MYLAN)  Comp Pell Sec 50 MG BT 100",
+        "34,061",
+        "34,061",
         "V",
         "AZATHIOPRINE",
         "N"
     ],
     [
-        504664,
-        "AZATHIOPRINE VIATRIS (EX MYLAN)  Comp Pell Sec 50 MG BT 100",
-        "35,806",
-        "35,806",
+        505392,
+        "AZATHIOPRINE AQVIDA 50mg Comp Pell Bt 100",
+        "35,335",
+        "35,000",
         "V",
         "AZATHIOPRINE",
         "N"
@@ -3846,7 +3846,7 @@
     [
         505499,
         "IMUREK 50mg Comp Pell Bt 100",
-        "46,433",
+        "46,913",
         "46,433",
         "V",
         "AZATHIOPRINE",
@@ -3855,7 +3855,7 @@
     [
         505543,
         "IMURAN 50mg Comp Bt 100",
-        "49,191",
+        "49,701",
         "49,191",
         "V",
         "AZATHIOPRINE",
@@ -4204,6 +4204,15 @@
         "N"
     ],
     [
+        303837,
+        "SMECTITE 3g Pdre.P.Susp.Buv. Bt 30 Sachets",
+        "8,800",
+        "7,710",
+        "I",
+        "DIOSMECTITE",
+        "N"
+    ],
+    [
         105786,
         "SMECTA 3g ORANGE-VANILLE Pdre P Susp Or Bt 30 Sach",
         "9,280",
@@ -4375,6 +4384,15 @@
         "N"
     ],
     [
+        307080,
+        "ERCEFURYL 4% Susp Buv Fl 90ml",
+        "5,620",
+        "3,690",
+        "I",
+        "NIFUROXAZIDE",
+        "N"
+    ],
+    [
         307952,
         "DIARYL 4% Susp Orale Fl 90ml",
         "Arr\u00eat\u00e9",
@@ -4387,15 +4405,6 @@
         300150,
         "NIFROXID Sol Buv Fl 90ml",
         "Arr\u00eat\u00e9",
-        "3,690",
-        "I",
-        "NIFUROXAZIDE",
-        "N"
-    ],
-    [
-        307080,
-        "ERCEFURYL 4% Susp Buv Fl 90ml",
-        "5,620",
         "3,690",
         "I",
         "NIFUROXAZIDE",
@@ -8236,6 +8245,15 @@
         "N"
     ],
     [
+        303839,
+        "SPASMOPRO 80mg Comp.Orodisp. Bt 10",
+        "2,700",
+        "2,460",
+        "I",
+        "PHLOROGLUCINOL",
+        "N"
+    ],
+    [
         301556,
         "PHLOROGLUCINOL WINTHROP Comp Orodi 80 MG Bt 10",
         "2,705",
@@ -8338,6 +8356,15 @@
         303002,
         "COLOCALM 80 mg Comp Orodisp Bt 20",
         "4,935",
+        "4,920",
+        "I",
+        "PHLOROGLUCINOL",
+        "N"
+    ],
+    [
+        303840,
+        "SPASMOPRO 80mg Comp.Orodisp. Bt 20",
+        "4,960",
         "4,920",
         "I",
         "PHLOROGLUCINOL",
@@ -8868,7 +8895,7 @@
     [
         571294,
         "STALORAL CUPRESSACEES FL 300 IR",
-        "153,156",
+        "154,751",
         "153,156",
         "E",
         "CUPRESSACEE",
@@ -8877,7 +8904,7 @@
     [
         571293,
         "STALORAL CUPRESSACEES CT 10-100-300 IR",
-        "179,793",
+        "181,663",
         "179,793",
         "E",
         "CUPRESSACEE",
@@ -8904,7 +8931,7 @@
     [
         570065,
         "STALORAL DPT +DF Coffret Entretien 300 IR Bt 1",
-        "153,156",
+        "154,751",
         "137,619",
         "E",
         "MELANGE ACARIENS DERMATOPHAGOIDES(PTERONYSSINUS+FARINAE)",
@@ -8913,7 +8940,7 @@
     [
         570064,
         "STALORAL DPT + DF  Coffret Traitement initial (3 Fl :10\/100\/300 IR)",
-        "179,793",
+        "181,663",
         "179,793",
         "E",
         "MELANGE ACARIENS DERMATOPHAGOIDES(PTERONYSSINUS+FARINAE)",
@@ -8922,7 +8949,7 @@
     [
         571376,
         "STALORAL DPT\/DF C\/3F\/10ml (300 IR) (F) coffret de 3 flacons d'entretien",
-        "412,857",
+        "417,154",
         "412,857",
         "E",
         "MELANGE ACARIENS DERMATOPHAGOIDES(PTERONYSSINUS+FARINAE)",
@@ -8931,7 +8958,7 @@
     [
         571314,
         "STALORAL PARIETAIRE Bt 1 Fl 300 IR (F)",
-        "141,625",
+        "154,751",
         "141,625",
         "E",
         "PARIETAIRE",
@@ -8949,7 +8976,7 @@
     [
         570121,
         "STALORAL P OLIVIER Coffret Entretien 300 IR Bt 1",
-        "153,156",
+        "154,751",
         "137,619",
         "E",
         "POLLENS ARBRES ET ARBUSTES - OLIVIER",
@@ -8958,7 +8985,7 @@
     [
         570120,
         "STALORAL P OLIVIER Coffret Traitement (10\/100\/300 IR) Bt 3",
-        "179,793",
+        "181,663",
         "179,793",
         "E",
         "POLLENS ARBRES ET ARBUSTES - OLIVIER",
@@ -8967,7 +8994,7 @@
     [
         571378,
         "STALORAL OLIVIER C\/3F\/10ml (300IR) (F) coffret de 3 flacons d'entretien",
-        "412,857",
+        "417,154",
         "412,857",
         "E",
         "POLLENS ARBRES ET ARBUSTES - OLIVIER",
@@ -8976,7 +9003,7 @@
     [
         571377,
         "STALORAL 5 GRAMINEES C\/3F\/10ml (300 IR) (F) coffret de 3 flacons d'entretien",
-        "412,857",
+        "417,154",
         "412,857",
         "E",
         "POLLENS GRAMINEES -5 GRAMINEES",
@@ -8985,7 +9012,7 @@
     [
         570116,
         "STALORAL P 5 GRAMINEES Coffret Traitement (10\/100\/300 IR) Bt 3",
-        "179,793",
+        "181,663",
         "179,793",
         "E",
         "POLLENS GRAMINEES -5 GRAMINEES",
@@ -8994,7 +9021,7 @@
     [
         570117,
         "STALORAL P 5 GRAMINEES Coffret Entretien 300 IR Bt 1",
-        "153,156",
+        "154,751",
         "137,619",
         "E",
         "POLLENS GRAMINEES -5 GRAMINEES",
@@ -9003,7 +9030,7 @@
     [
         508234,
         "TELEBRIX 35 % Sol Inj  FL 50 ml",
-        "39,604",
+        "40,013",
         "32,850",
         "E",
         "ACIDE IOXITALAMIQUE",
@@ -9012,7 +9039,7 @@
     [
         508232,
         "TELEBRIX 35 Sol Inj 35% Fl 100ml  #",
-        "67,839",
+        "68,543",
         "65,700",
         "E",
         "ACIDE IOXITALAMIQUE",
@@ -9030,7 +9057,7 @@
     [
         502387,
         "MICROPAQUE Susp Buv\/Rect 100%P\/V Fl 150ml",
-        "16,562",
+        "16,681",
         "8,100",
         "E",
         "BARYUM SULFATE",
@@ -9039,7 +9066,7 @@
     [
         506413,
         "MICROPAQUE Susp Buv. Bidon 2L  #",
-        "109,344",
+        "110,482",
         "108,000",
         "E",
         "BARYUM SULFATE",
@@ -9048,7 +9075,7 @@
     [
         500141,
         "XENETIX 300 Sol Inj 30 GR\/100 ML FL 100 ML",
-        "127,593",
+        "128,920",
         "127,500",
         "E",
         "IOBITRIDOL",
@@ -9057,7 +9084,7 @@
     [
         500154,
         "XENETIX 350 Sol Inj  7 GR\/20 ML FL 20 ML",
-        "38,832",
+        "39,233",
         "28,600",
         "E",
         "IOBITRIDOL",
@@ -9066,7 +9093,7 @@
     [
         500169,
         "XENETIX 350 Sol. Inj. 17.5 gr\/50 ml Fl 50 ml",
-        "71,649",
+        "72,378",
         "71,500",
         "E",
         "IOBITRIDOL",
@@ -9075,7 +9102,7 @@
     [
         500152,
         "XENETIX 350 Sol Inj  35 GR \/100 ML  FL 100 ML",
-        "143,042",
+        "144,517",
         "143,000",
         "E",
         "IOBITRIDOL",
@@ -9120,7 +9147,7 @@
     [
         506393,
         "KAYEXALATE Pdre or\/rect 15gr\/mes Bt 454gr  #",
-        "109,820",
+        "110,743",
         "109,414",
         "E",
         "POLYSTYRENE SULFONATE DE NA",
@@ -9749,7 +9776,7 @@
     ],
     [
         104742,
-        "BERLTHYROX Comp Sec 100 \u00b5g BT 100",
+        "L-THYROXIN BC (ex BERLTHYROX ) 100 \u00b5g  Comp Sec Bt 100",
         "7,716",
         "7,500",
         "E",
@@ -13044,7 +13071,7 @@
     [
         504887,
         "CUPRIPEN Capsule 250 MG BT 30",
-        "60,229",
+        "60,854",
         "60,210",
         "E",
         "PENICILLAMINE",
@@ -15177,8 +15204,8 @@
     [
         353554,
         "FEROVEN 100mg\/5ml Sol Inj P Perf Bt 5\/5ml",
-        "20,921",
-        "20,921",
+        "27,981",
+        "20,920",
         "E",
         "FER",
         "O"
@@ -15330,16 +15357,7 @@
     [
         551434,
         "HUMAN ALBUMIN 20% BEHRING Sol. Inj. Bt 1Fl \/50ml (F)",
-        "126,760",
-        "126,750",
-        "V",
-        "ALBUMINE HUMAINE PLASMATIQUE",
-        "N"
-    ],
-    [
-        551459,
-        "ALBIOMIN 20% boite 1 flacon\/50ml",
-        "160,055",
+        "142,880",
         "126,750",
         "V",
         "ALBUMINE HUMAINE PLASMATIQUE",
@@ -15348,7 +15366,16 @@
     [
         551370,
         "ALBUNORM Sol Inj P Perf 20% Bt 1FL\/50 ml",
-        "166,714",
+        "168,447",
+        "126,750",
+        "V",
+        "ALBUMINE HUMAINE PLASMATIQUE",
+        "N"
+    ],
+    [
+        551459,
+        "ALBIOMIN 20% boite 1 flacon\/50ml",
+        "174,502",
         "126,750",
         "V",
         "ALBUMINE HUMAINE PLASMATIQUE",
@@ -21880,6 +21907,15 @@
         "N"
     ],
     [
+        303838,
+        "HEPTAMINOL ADWYA 187.8mg Comp. Bt 20",
+        "3,700",
+        "3,340",
+        "I",
+        "HEPTAMINOL",
+        "N"
+    ],
+    [
         300095,
         "T 12\/8 Gttes Buv Fl 20ml",
         "2,580",
@@ -23268,7 +23304,7 @@
     [
         503914,
         "GYNERGENE CAFEINE Comp  1 MG BT 20",
-        "10,699",
+        "10,796",
         "10,680",
         "E",
         "CAFEINE+ERGOTAMINE TARTRATE",
@@ -23412,7 +23448,7 @@
     [
         504845,
         "SKENAN LP 10 mg GEL. A LIBERATION PROLONGEE BT 14",
-        "14,406",
+        "14,549",
         "14,406",
         "V",
         "MORPHINE",
@@ -23421,7 +23457,7 @@
     [
         502440,
         "MOSCONTIN Comp enr LP 10mg Bt 14",
-        "14,450",
+        "14,549",
         "14,450",
         "V",
         "MORPHINE",
@@ -23430,8 +23466,8 @@
     [
         504880,
         "SKENAN LP 30 mg GEL. A LIBERATION PROLONGEE BT 14",
-        "35,063",
-        "35,063",
+        "35,395",
+        "35,056",
         "V",
         "MORPHINE",
         "N"
@@ -23439,7 +23475,7 @@
     [
         502441,
         "MOSCONTIN Comp enr LP 30mg Bt 14",
-        "35,154",
+        "35,395",
         "35,154",
         "V",
         "MORPHINE",
@@ -23448,7 +23484,7 @@
     [
         506779,
         "MORFIA CR 30mg Comp Bt 20",
-        "27,397",
+        "27,679",
         "27,397",
         "V",
         "MORPHINE",
@@ -23457,8 +23493,8 @@
     [
         504831,
         "SKENAN LP 60 mg  GEL. LIBERATION PROLONGEE BT 14",
-        "68,898",
-        "68,898",
+        "69,583",
+        "68,894",
         "V",
         "MORPHINE",
         "N"
@@ -23466,7 +23502,7 @@
     [
         502442,
         "MOSCONTIN Comp enr LP 60mg Bt 14",
-        "69,104",
+        "69,583",
         "69,104",
         "V",
         "MORPHINE",
@@ -23475,7 +23511,7 @@
     [
         506780,
         "MORFIA CR 60mg Comp Bt 20",
-        "35,092",
+        "35,456",
         "35,092",
         "V",
         "MORPHINE",
@@ -23484,7 +23520,7 @@
     [
         502443,
         "MOSCONTIN Comp enr LP 100mg Bt 14",
-        "110,036",
+        "110,799",
         "110,036",
         "V",
         "MORPHINE",
@@ -23493,8 +23529,8 @@
     [
         506781,
         "MORFIA CR 100mg Comp Bt 20",
-        "38,694",
-        "38,694",
+        "39,092",
+        "38,680",
         "V",
         "MORPHINE",
         "N"
@@ -23502,7 +23538,7 @@
     [
         502444,
         "MOSCONTIN Comp enr LP 200mg Bt 14",
-        "222,661",
+        "224,210",
         "222,656",
         "V",
         "MORPHINE",
@@ -24609,7 +24645,7 @@
     [
         502104,
         "DUROGESIC 25 mcg\/h (402mg\/10.5cm)  Bt 5",
-        "76,556",
+        "77,279",
         "76,555",
         "E",
         "FENTANYL",
@@ -24618,7 +24654,7 @@
     [
         502105,
         "DUROGESIC 50 mcg\/H (804mg\/21cm2)  Bt 5",
-        "133,983",
+        "135,349",
         "133,980",
         "E",
         "FENTANYL",
@@ -24627,7 +24663,7 @@
     [
         502107,
         "DUROGESIC 100 mcg\/H  (16.8mg\/42cm2)   Bt 5",
-        "228,223",
+        "230,210",
         "228,220",
         "E",
         "FENTANYL",
@@ -25770,7 +25806,7 @@
     [
         500270,
         "SABRIL Comp 500mg Bt 60",
-        "205,632",
+        "207,503",
         "205,620",
         "V",
         "VIGABATRIN",
@@ -25797,7 +25833,7 @@
     [
         503911,
         "AKINETON LP Comp Pell 4 MG BT 30",
-        "14,775",
+        "14,925",
         "14,760",
         "E",
         "BIPERIDENE",
@@ -25806,7 +25842,7 @@
     [
         505391,
         "AKINETON LP 4 MG Comp Pell BT 50",
-        "24,881",
+        "25,131",
         "24,600",
         "E",
         "BIPERIDENE",
@@ -25887,7 +25923,7 @@
     [
         504044,
         "MESTINON 60 MG Comp Enrob Bt 20",
-        "30,802",
+        "31,104",
         "30,800",
         "E",
         "PYRIDOSTIGMINE BROMURE",
@@ -26976,8 +27012,8 @@
     [
         506907,
         "CLOZAREM 25mg Comp S\u00e9c Bt 50",
-        "31,869",
-        "31,869",
+        "32,366",
+        "31,850",
         "E",
         "CLOZAPINE",
         "O"
@@ -26985,7 +27021,7 @@
     [
         505441,
         "LEPONEX 25mg Comp s\u00e9c Bt 50",
-        "44,877",
+        "45,276",
         "44,877",
         "E",
         "CLOZAPINE",
@@ -26994,8 +27030,8 @@
     [
         506906,
         "CLOZAREM 100mg Comp S\u00e9c Bt 50",
-        "131,031",
-        "131,031",
+        "133,592",
+        "131,000",
         "E",
         "CLOZAPINE",
         "O"
@@ -27003,7 +27039,7 @@
     [
         505452,
         "LEPONEX 100mg Comp S\u00e9c Bt 50",
-        "181,472",
+        "183,356",
         "181,472",
         "E",
         "CLOZAPINE",
@@ -27115,6 +27151,15 @@
         "19,470",
         "E",
         "HALOPERIDOL",
+        "N"
+    ],
+    [
+        303843,
+        "SEDARAX 25mg Comp.Pell.S\u00e9c. Bt 30",
+        "6,272",
+        "6,272",
+        "I",
+        "HYDROXYZINE",
         "N"
     ],
     [

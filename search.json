@@ -68,6 +68,36 @@
 
 
 {
+"title": "Empagliflozine + Metformine Comprimés",
+"tags": "autres-diabetediabete",
+"keywords": "emperial plus, empagliflozine, metformine",
+"url": "empagliflozine-metformine.html",
+"summary": "Traitement du Diabète de Type 2"
+}
+,
+
+
+{
+"title": "CNAM: Mises à Jour d&#39;Avril 2026",
+"tags": "changements",
+"keywords": "cnam",
+"url": "cnam-2026-04.html",
+"summary": "Changements d'Avril 2026 CNAM"
+}
+,
+
+
+{
+"title": "Circulaires de la Pharmacie Centrale d&#39;Avril 2026",
+"tags": "changements",
+"keywords": "pct",
+"url": "pct-2026-04.html",
+"summary": "Changements d'Avril 2026"
+}
+,
+
+
+{
 "title": "Ciclesonide",
 "tags": "corticoides-a-inhalersympathicomimetique-corticosteroide",
 "keywords": "alve-one, ciclesonide",
@@ -280,7 +310,7 @@
 {
 "title": "Ticagrelor Comprimés",
 "tags": "antiagregant",
-"keywords": "iniplac, theraglor, brilique, ticagrelor",
+"keywords": "iniplac, theraglor, brilique, ticagrelor, ticagrel",
 "url": "ticagrelor-comprimes.html",
 "summary": "Antiagrégant plaquettaire utilisé en association avec l'acide acétylsalicylique en prévention des événements athéro-thrombotiques."
 }
@@ -1558,7 +1588,7 @@
 
 
 {
-"title": "Leponex (Clozapine 25 et 100 mg Comprimés)",
+"title": "Clozapine 25 et 100 mg Comprimés",
 "tags": "neuroleptiques",
 "keywords": "clozarem, leponex, clozapine",
 "url": "clozapine.html",
@@ -1678,7 +1708,7 @@
 
 
 {
-"title": "Atarax (Hydroxyzine)",
+"title": "Hydroxyzine 25 mg Comprimés",
 "tags": "sedatif",
 "keywords": "atarax, hydroxyzine",
 "url": "hydroxyzine.html",
@@ -1898,7 +1928,7 @@
 
 
 {
-"title": "Parkizol (Trihexyphenidyle) et Akineton (Biperidene)",
+"title": "Anticholinergiques: Parkizol (Trihexyphenidyle) et Biperidene",
 "tags": "antiparkinsonien",
 "keywords": "parkizol, trihexyphenidyle, akineton lp, biperidene",
 "url": "anticholinergiques.html",
@@ -4070,7 +4100,7 @@
 {
 "title": "Diosmectite 3g sachets et Montmorillonite Beidellitique",
 "tags": "diarrhee",
-"keywords": "smactyl, smecta orange-vanille, gastrostop, bedelix",
+"keywords": "smactyl, smecta orange-vanille, gastrostop, bedelix, smectite",
 "url": "diosmectite.html",
 "summary": "Problèmes Fonctionnels Gastro-Intestinaux"
 }
@@ -4290,7 +4320,7 @@
 {
 "title": "Vaccins",
 "tags": "vaccin",
-"keywords": "tetraxim fl/1 dose, vaccin d+t+c+p, poliorix fl/1 dose, imovax polio, tetraxim fl/1 dose, vaccin poliomyélitique, vaccin d+t+c+p, vaccin antitetanique, tetavax",
+"keywords": "tetraxim, vaccin d+t+c+p, poliorix, imovax polio, tetraxim, vaccin poliomyélitique, vaccin antitetanique, tetavax",
 "url": "vaccin.html",
 "summary": "Vaccins"
 }
