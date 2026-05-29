@@ -838,6 +838,15 @@
         "AMOXICILLINE+ACIDE CLAVULANIQUE"
     ],
     [
+        "CLAVUMOX ADULTE",
+        "Poudre Pour Suspension Orale",
+        "1 g\/125 mg",
+        "B\/24 Sachets",
+        "28,300",
+        "23,827",
+        "AMOXICILLINE+ACIDE CLAVULANIQUE"
+    ],
+    [
         "CLAVOR",
         "Poudre pour suspension orale",
         "1 g\/125 mg",
@@ -1697,7 +1706,7 @@
         "Pdre p.prep.injectable",
         "250 mg",
         "B\/1 FL + S\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1715,7 +1724,7 @@
         "Pdre p.prep.injectable",
         "250 mg",
         "B\/1 FL + S\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1724,7 +1733,7 @@
         "Pdre p.prep.injectable",
         "500 mg",
         "B\/1 FL + S\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1733,7 +1742,7 @@
         "Pdre p.prep.injectable",
         "0,5 g",
         "B\/1 FL + S\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1742,7 +1751,7 @@
         "Pdre p.prep.injectable",
         "500 mg",
         "B\/1 FL + S\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1751,7 +1760,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/3,5 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1760,7 +1769,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/4 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1769,7 +1778,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1778,7 +1787,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1787,7 +1796,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + Solvant\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1796,7 +1805,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/10 Flacons sans solvant",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1805,7 +1814,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/25 FL sans solvant",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1814,7 +1823,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/50 FL sans solvant",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1823,7 +1832,7 @@
         "Pdre p.prep.injectable",
         "2 g",
         "B\/1 FL",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -1832,7 +1841,7 @@
         "Pdre p.prep.injectable",
         "2 g",
         "B\/1 Flacon de lyophilisat",
-        null,
+        "0,000",
         "0,000",
         "CEFTRIAXONE"
     ],
@@ -3129,7 +3138,7 @@
         "4,00%",
         "FL\/125 ml",
         "6,040",
-        "4,462",
+        "4,463",
         "METRONIDAZOLE"
     ],
     [
@@ -3173,7 +3182,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "0,75 MUI\/125 mg",
         "B\/500",
-        null,
+        "0,000",
         "0,000",
         "METRONIDAZOLE+SPIRAMYCINE"
     ],
@@ -3263,7 +3272,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "1,5 MUI\/250 mg",
         "B\/500",
-        null,
+        "0,000",
         "0,000",
         "METRONIDAZOLE+SPIRAMYCINE"
     ],
@@ -3705,7 +3714,7 @@
         "150 mg",
         "B\/2",
         "9,810",
-        "6,825",
+        "6,826",
         "FLUCONAZOLE"
     ],
     [
@@ -3714,7 +3723,7 @@
         "150 mg",
         "B\/2",
         "9,890",
-        "6,825",
+        "6,826",
         "FLUCONAZOLE"
     ],
     [
@@ -3723,7 +3732,7 @@
         "150 mg",
         "B\/2",
         "9,890",
-        "6,825",
+        "6,826",
         "FLUCONAZOLE"
     ],
     [
@@ -3732,7 +3741,7 @@
         "150 mg",
         "B\/2",
         "12,050",
-        "6,825",
+        "6,826",
         "FLUCONAZOLE"
     ],
     [
@@ -3741,7 +3750,7 @@
         "150 mg",
         "B\/2",
         "12,800",
-        "6,825",
+        "6,826",
         "FLUCONAZOLE"
     ],
     [
@@ -3750,7 +3759,7 @@
         "150 mg",
         "B\/2",
         "14,770",
-        "6,825",
+        "6,826",
         "FLUCONAZOLE"
     ],
     [
@@ -3866,7 +3875,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "ITRACONAZOLE"
     ],
@@ -3875,7 +3884,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "ITRACONAZOLE"
     ],
@@ -3893,7 +3902,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/16",
-        null,
+        "0,000",
         "0,000",
         "ITRACONAZOLE"
     ],
@@ -3920,7 +3929,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/32",
-        null,
+        "0,000",
         "0,000",
         "ITRACONAZOLE"
     ],
@@ -3939,7 +3948,7 @@
         "200 mg",
         "FL\/30",
         "30,810",
-        "26,188",
+        "26,189",
         "ACICLOVIR"
     ],
     [
@@ -3948,7 +3957,7 @@
         "200 mg",
         "B\/30",
         "30,810",
-        "26,188",
+        "26,189",
         "ACICLOVIR"
     ],
     [
@@ -3957,7 +3966,7 @@
         "200 mg",
         "B\/30",
         "44,255",
-        "26,188",
+        "26,189",
         "ACICLOVIR"
     ],
     [
@@ -4217,7 +4226,7 @@
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "0,5 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4226,7 +4235,7 @@
         "G\u00e9lules",
         "0,5 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4235,7 +4244,7 @@
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "1 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4244,7 +4253,7 @@
         "G\u00e9lules",
         "1 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4253,7 +4262,7 @@
         "G\u00e9lules",
         "1 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4262,7 +4271,7 @@
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "5 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4271,7 +4280,7 @@
         "G\u00e9lules",
         "5 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4280,7 +4289,7 @@
         "G\u00e9lules",
         "5 mg",
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "TACROLIMUS"
     ],
@@ -4425,7 +4434,7 @@
         "500 mg",
         "B\/1",
         "1,890",
-        "1,606",
+        "1,607",
         "MEBENDAZOLE"
     ],
     [
@@ -5045,7 +5054,7 @@
         "G\u00e9lules",
         "50 mg",
         "FL\/20",
-        null,
+        "0,000",
         "0,000",
         "SACCHAROMYCES BOULARDII"
     ],
@@ -5054,7 +5063,7 @@
         "G\u00e9lules",
         "200 mg",
         "FL\/10",
-        null,
+        "0,000",
         "0,000",
         "SACCHAROMYCES BOULARDII"
     ],
@@ -5072,7 +5081,7 @@
         "Poudre pour solution orale",
         "100 mg",
         "B\/20 Sachets",
-        null,
+        "0,000",
         "0,000",
         "SACCHAROMYCES BOULARDII"
     ],
@@ -5118,7 +5127,7 @@
         "500 mg",
         "FL\/30",
         "4,490",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5127,7 +5136,7 @@
         "500 mg",
         "B\/30",
         "4,505",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5136,7 +5145,7 @@
         "500 mg",
         "B\/30",
         "4,985",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5145,7 +5154,7 @@
         "500 mg",
         "B\/30",
         "5,235",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5154,7 +5163,7 @@
         "500 mg",
         "B\/30",
         "5,400",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5163,7 +5172,7 @@
         "500 mg",
         "B\/30",
         "5,900",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5172,7 +5181,7 @@
         "500 mg",
         "B\/30",
         "6,265",
-        "3,799",
+        "3,800",
         "CALCIUM"
     ],
     [
@@ -5190,7 +5199,7 @@
         "10,00%",
         "B\/10",
         "2,690",
-        "2,286",
+        "2,287",
         "CALCIUM"
     ],
     [
@@ -5199,7 +5208,7 @@
         "10,00%",
         "B\/10 FL\/5 ml",
         "3,200",
-        "2,286",
+        "2,287",
         "CALCIUM"
     ],
     [
@@ -5306,7 +5315,7 @@
         "Comprim\u00e9",
         "100 mg",
         "B\/60",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5315,7 +5324,7 @@
         "G\u00e9lule",
         null,
         "B\/40",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5324,7 +5333,7 @@
         "Comprim\u00e9 pellicul\u00e9",
         null,
         "B\/50",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5333,7 +5342,7 @@
         "Solution injectable",
         "1.2 gr",
         "B\/5\/10ML",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5342,7 +5351,7 @@
         "Poudre pour solution orale",
         "184 mg",
         "B\/20 Sachets\/6 gr",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5351,7 +5360,7 @@
         "Solution buvable",
         "122mg\/10 ml",
         "B\/20 sachets-dose\/10ml",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5360,7 +5369,7 @@
         "Solution buvable",
         null,
         "B\/20FL\/10ML",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -5450,7 +5459,7 @@
         "Suppositoires",
         null,
         "B\/10",
-        null,
+        "0,000",
         "0,000",
         "GLYCERINE"
     ],
@@ -5459,7 +5468,7 @@
         "Suppositoires",
         null,
         "B\/10",
-        null,
+        "0,000",
         "0,000",
         "GLYCERINE"
     ],
@@ -5468,7 +5477,7 @@
         "Suppositoires",
         null,
         "B\/10",
-        null,
+        "0,000",
         "0,000",
         "GLYCERINE"
     ],
@@ -5495,7 +5504,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "GLYCERINE"
     ],
@@ -5504,7 +5513,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "GLYCERINE"
     ],
@@ -5522,7 +5531,7 @@
         "Solution buvable",
         null,
         "B\/8 Sachets-dose \/15 ml",
-        null,
+        "0,000",
         "0,000",
         "LACTULOSE"
     ],
@@ -5567,7 +5576,7 @@
         "Solution buvable",
         null,
         "FL\/150 ml + godet-doseur",
-        null,
+        "0,000",
         "0,000",
         "LACTULOSE"
     ],
@@ -5585,7 +5594,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml + godet-doseur",
-        null,
+        "0,000",
         "0,000",
         "LACTULOSE"
     ],
@@ -5594,7 +5603,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "0,000",
         "LACTULOSE"
     ],
@@ -5603,7 +5612,7 @@
         "Solution buvable",
         null,
         "FL\/250 ml + godet-doseur",
-        null,
+        "0,000",
         "0,000",
         "LACTULOSE"
     ],
@@ -5702,7 +5711,7 @@
         "Poudre pour suspension orale",
         "5 g",
         "B\/60 Sachets",
-        null,
+        "0,000",
         "0,000",
         "SORBITOL"
     ],
@@ -5712,7 +5721,7 @@
         "50 mg",
         "B\/90",
         "19,040",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -5721,7 +5730,7 @@
         "50 mg",
         "B\/90",
         "19,300",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -5730,7 +5739,7 @@
         "50 mg",
         "B\/90",
         "20,265",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -5739,7 +5748,7 @@
         "50 mg",
         "B\/90",
         "21,280",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -5748,7 +5757,7 @@
         "50 mg",
         "B\/90",
         "21,460",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -5757,7 +5766,7 @@
         "50 mg",
         "B\/90",
         "23,305",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -5766,7 +5775,7 @@
         "50 mg",
         "B\/90",
         "29,720",
-        "16,141",
+        "16,142",
         "ACARBOSE"
     ],
     [
@@ -6378,7 +6387,7 @@
         "3 mg",
         "B\/30",
         "12,350",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6387,7 +6396,7 @@
         "3 mg",
         "B\/30",
         "12,355",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6396,7 +6405,7 @@
         "3 mg",
         "B\/30",
         "13,190",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6405,7 +6414,7 @@
         "3 mg",
         "B\/30",
         "13,295",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6414,7 +6423,7 @@
         "3 mg",
         "B\/30",
         "13,295",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6423,7 +6432,7 @@
         "3 mg",
         "B\/30",
         "14,715",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6432,7 +6441,7 @@
         "3 mg",
         "B\/30",
         "22,635",
-        "7,114",
+        "7,115",
         "GLIMEPIRIDE"
     ],
     [
@@ -6764,7 +6773,7 @@
         "Solution injectable",
         "200 U\/ ml",
         "B\/3 Stylos pr\u00e9remplis de 3 ml",
-        null,
+        "0,000",
         "0,000",
         "INSULINE DEGLUDEC"
     ],
@@ -6936,7 +6945,7 @@
         "850 mg",
         "B\/30",
         "3,312",
-        "2,218",
+        "2,219",
         "METFORMINE"
     ],
     [
@@ -6945,7 +6954,7 @@
         "850 mg",
         "B\/30",
         "3,320",
-        "2,218",
+        "2,219",
         "METFORMINE"
     ],
     [
@@ -6954,7 +6963,7 @@
         "850 mg",
         "B\/30",
         "3,585",
-        "2,218",
+        "2,219",
         "METFORMINE"
     ],
     [
@@ -6963,7 +6972,7 @@
         "850 mg",
         "B\/30",
         "3,790",
-        "2,218",
+        "2,219",
         "METFORMINE"
     ],
     [
@@ -6972,7 +6981,7 @@
         "850 mg",
         "B\/30",
         "3,925",
-        "2,218",
+        "2,219",
         "METFORMINE"
     ],
     [
@@ -6981,7 +6990,7 @@
         "850 mg",
         "B\/30",
         "3,925",
-        "2,218",
+        "2,219",
         "METFORMINE"
     ],
     [
@@ -7125,7 +7134,7 @@
         "1 mg",
         "B\/90",
         "31,590",
-        "26,851",
+        "26,852",
         "REPAGLINIDE"
     ],
     [
@@ -7134,7 +7143,7 @@
         "1 mg",
         "B\/90",
         "54,350",
-        "26,851",
+        "26,852",
         "REPAGLINIDE"
     ],
     [
@@ -7174,6 +7183,33 @@
         "REPAGLINIDE"
     ],
     [
+        "OZEMPIC",
+        "Solution Injectable",
+        "0,25 mg",
+        "Bt 1Stylo Pre-rempli\/1.5ml+4 aig. jetables novofine plus (F)",
+        "355,790",
+        "0,000",
+        "SEMAGLUTIDE"
+    ],
+    [
+        "OZEMPIC",
+        "Solution Injectable",
+        "0,5 mg",
+        "Bt 1Stylo Pre-rempli\/1.5ml+4 aig. jetables novofine plus (F)",
+        "355,790",
+        "0,000",
+        "SEMAGLUTIDE"
+    ],
+    [
+        "OZEMPIC",
+        "Solution Injectable",
+        "1 mg",
+        "Bt 1Stylo Pre-rempli\/3ml+4 aig. jetables novofine plus (F)",
+        "355,790",
+        "0,000",
+        "SEMAGLUTIDE"
+    ],
+    [
         "SITA 50",
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
@@ -7187,7 +7223,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "SITAGLIPTINE"
     ],
@@ -7196,7 +7232,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/60",
-        null,
+        "0,000",
         "0,000",
         "SITAGLIPTINE"
     ],
@@ -7259,7 +7295,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "SITAGLIPTINE"
     ],
@@ -7367,7 +7403,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg\/500 mg",
         "B\/60",
-        null,
+        "0,000",
         "0,000",
         "VILDAGLIPTINE + METFORMINE"
     ],
@@ -8493,7 +8529,7 @@
         "15 mg",
         "FL\/15",
         "10,515",
-        "8,032",
+        "8,033",
         "LANSOPRAZOLE"
     ],
     [
@@ -8502,7 +8538,7 @@
         "15 mg",
         "FL\/15",
         "12,390",
-        "8,032",
+        "8,033",
         "LANSOPRAZOLE"
     ],
     [
@@ -8511,7 +8547,7 @@
         "15 mg",
         "FL\/15",
         "20,020",
-        "8,032",
+        "8,033",
         "LANSOPRAZOLE"
     ],
     [
@@ -9033,7 +9069,7 @@
         "20 mg",
         "FL\/30",
         "17,340",
-        "14,713",
+        "14,714",
         "PANTOPRAZOLE"
     ],
     [
@@ -9042,7 +9078,7 @@
         "20 mg",
         "B\/30",
         "20,825",
-        "14,713",
+        "14,714",
         "PANTOPRAZOLE"
     ],
     [
@@ -9950,7 +9986,7 @@
         "Solut\u00e9 buccal",
         null,
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL"
     ],
@@ -9959,7 +9995,7 @@
         "Solut\u00e9 buccal",
         null,
         "FL\/250 ml",
-        null,
+        "0,000",
         "0,000",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL"
     ],
@@ -9986,7 +10022,7 @@
         "Collutoire",
         null,
         "FL\/30 ml",
-        null,
+        "0,000",
         "0,000",
         "BENZYDAMINE"
     ],
@@ -10049,7 +10085,7 @@
         "Solut\u00e9 buccal",
         "0,12\u00a0%",
         "FL\/120 ml",
-        null,
+        "0,000",
         "0,000",
         "CHLORHEXIDINE"
     ],
@@ -10166,7 +10202,7 @@
         "Comprim\u00e9s \u00e0 sucer",
         null,
         "B\/18",
-        null,
+        "0,000",
         "0,000",
         "ARGININE ASPARTATE"
     ],
@@ -10238,7 +10274,7 @@
         "Ampoules buvables",
         null,
         "C\/100\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "SORBITOL+CHOLINE"
     ],
@@ -10409,7 +10445,7 @@
         "Solution injectable",
         "100 mg",
         "B\/50\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "VITAMINE B1"
     ],
@@ -10427,7 +10463,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         null,
         "B\/500",
-        null,
+        "0,000",
         "0,000",
         "VITAMINE B1+VITAMINE B12+VITAMINE B6"
     ],
@@ -10463,7 +10499,7 @@
         "Comprim\u00e9s \u00e0 sucer",
         "500 mg",
         "B\/2 Tubes\/12",
-        null,
+        "0,000",
         "0,000",
         "VITAMINE C"
     ],
@@ -10472,7 +10508,7 @@
         "Comprim\u00e9s",
         "500 mg",
         "B\/500",
-        null,
+        "0,000",
         "0,000",
         "VITAMINE C"
     ],
@@ -10499,7 +10535,7 @@
         "Solution injectable",
         "500 mg\/5 ml",
         "B\/100\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "VITAMINE C"
     ],
@@ -10580,7 +10616,7 @@
         "Solution pour prick-test cutan\u00e9",
         "10 mg\/ml",
         "B\/1 FL\/3 ml",
-        null,
+        "0,000",
         "0,000",
         "HISTAMINE"
     ],
@@ -10589,7 +10625,7 @@
         "Solution pour prick-test cutan\u00e9",
         null,
         "B\/1 FL\/3 ml",
-        null,
+        "0,000",
         "0,000",
         "T\u00e9moin N\u00e9gatif"
     ],
@@ -10634,7 +10670,7 @@
         "Solution glyc\u00e9ro-saline d'extrais allerg\u00e9niques\u00e0 usage diagnostique",
         "100 IR\/ml ou 100 IC\/ml ou 1000",
         "B\/1 FL\/3 ml",
-        null,
+        "0,000",
         "0,000",
         "EXTRAITS ALLERGENIQUES"
     ],
@@ -10895,7 +10931,7 @@
         "Solution buvable",
         null,
         "B\/20 unidoses\/1 ml",
-        null,
+        "0,000",
         "0,000",
         "ALLIUM CEPA+BELLADONA..."
     ],
@@ -10913,7 +10949,7 @@
         "Gouttes buvables",
         null,
         "FL\/30 ml",
-        null,
+        "0,000",
         "0,000",
         "ARNICA"
     ],
@@ -10976,7 +11012,7 @@
         "Comprim\u00e9s orodispersibles",
         null,
         "B\/40",
-        null,
+        "0,000",
         "0,000",
         "HOMEOPATHIE"
     ],
@@ -11188,6 +11224,15 @@
         "HOMEOPATHIE"
     ],
     [
+        "COCYNTAL",
+        "Solution Buvable",
+        null,
+        "Bt 30 Doses",
+        "35,240",
+        "0,000",
+        "HOMEOPATHIE"
+    ],
+    [
         "CAMILIA",
         "Solution buvable",
         null,
@@ -11346,7 +11391,7 @@
         "7 mg",
         "B\/1 Ser\/1 ml",
         "5,550",
-        "4,717",
+        "4,718",
         "BETAMETHASONE"
     ],
     [
@@ -11490,7 +11535,7 @@
         "10 mg",
         "B\/30",
         "7,620",
-        "1,402",
+        "1,403",
         "HYDROCORTISONE"
     ],
     [
@@ -11544,7 +11589,7 @@
         "20 mg\/2 ml",
         "B\/1 FL + Solvant 2 ml",
         "2,090",
-        "1,776",
+        "1,777",
         "METHYLPREDNISOLONE"
     ],
     [
@@ -11553,7 +11598,7 @@
         "20 mg\/2 ml",
         "B\/1 FL + Solvant 2 ml",
         "2,130",
-        "1,776",
+        "1,777",
         "METHYLPREDNISOLONE"
     ],
     [
@@ -11598,7 +11643,7 @@
         "5 mg",
         "B\/10",
         "2,695",
-        "1,793",
+        "1,794",
         "PREDNISOLONE"
     ],
     [
@@ -12938,7 +12983,7 @@
         "Pommade dermique",
         "10\u00a0%",
         "T\/60 gr",
-        null,
+        "0,000",
         "0,000",
         "CROTAMITON"
     ],
@@ -13262,7 +13307,7 @@
         "Solution externe",
         "12,5%",
         "FL\/4 gr",
-        null,
+        "0,000",
         "0,000",
         "ACIDE SALICYLIQUE+COLLODION OFFICINAL"
     ],
@@ -13334,7 +13379,7 @@
         "Solution externe",
         "2%",
         "FL\/120 ml",
-        null,
+        "0,000",
         "0,000",
         "MINOXIDIL"
     ],
@@ -13343,7 +13388,7 @@
         "Solution externe",
         "2%",
         "FL\/90 ml + S\u00e9r\/1 ml",
-        null,
+        "0,000",
         "0,000",
         "MINOXIDIL"
     ],
@@ -13352,7 +13397,7 @@
         "Solution externe",
         "2%",
         "Coffret de 2 FL\/120 ml",
-        null,
+        "0,000",
         "0,000",
         "MINOXIDIL"
     ],
@@ -13379,7 +13424,7 @@
         "Solution externe",
         "5%",
         "FL\/120 ml",
-        null,
+        "0,000",
         "0,000",
         "MINOXIDIL"
     ],
@@ -13388,7 +13433,7 @@
         "Solution externe",
         "5%",
         "FL\/90 ml + pipette\/1 ml",
-        null,
+        "0,000",
         "0,000",
         "MINOXIDIL"
     ],
@@ -13415,7 +13460,7 @@
         "Pommade dermique",
         null,
         "T\/50 gr",
-        null,
+        "0,000",
         "0,000",
         "OXYDE DE ZINC"
     ],
@@ -13478,7 +13523,7 @@
         "Gel dermique",
         null,
         "T\/30 gr",
-        null,
+        "0,000",
         "0,000",
         "ADAPALENE+PEROXYDE DE BENZOYLE"
     ],
@@ -13884,7 +13929,7 @@
         "0,10%",
         "T\/10 gr",
         "3,325",
-        "1,725",
+        "1,726",
         "BETAMETHASONE+NEOMYCINE"
     ],
     [
@@ -13911,7 +13956,7 @@
         "0,10%",
         "T\/10 gr",
         "3,050",
-        "1,725",
+        "1,726",
         "BETAMETHASONE+NEOMYCINE"
     ],
     [
@@ -14100,7 +14145,7 @@
         "0,10%",
         "T\/30 gr",
         "10,790",
-        "9,154",
+        "9,155",
         "MOMETASONE"
     ],
     [
@@ -14180,7 +14225,7 @@
         "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
         "2 mg",
         "B\/10\/10x10 cm",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -14189,7 +14234,7 @@
         "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
         "4 mg",
         "B\/10\/10x20 cm",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -14198,7 +14243,7 @@
         "Cr\u00e8me dermique",
         "0,2 %",
         "T\/15 gr",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -14207,7 +14252,7 @@
         "Poudre \u00e0 usage externe",
         "0,2 %",
         "FL\/50 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -14216,7 +14261,7 @@
         "Poudre \u00e0 usage externe",
         "0,2 %",
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -14243,7 +14288,7 @@
         "Emulsion",
         "0,67%",
         "T\/93 gr",
-        null,
+        "0,000",
         "0,000",
         "TROLAMINE"
     ],
@@ -14270,7 +14315,7 @@
         "Emulsion",
         "0,67%",
         "T\/186 gr",
-        null,
+        "0,000",
         "0,000",
         "TROLAMINE"
     ],
@@ -14828,7 +14873,7 @@
         "Granul\u00e9s pour solution buvable",
         "25 mg",
         "B\/20 Sachets",
-        null,
+        "0,000",
         "0,000",
         "DEXKETOPROFENE"
     ],
@@ -15081,7 +15126,7 @@
         "100 mg",
         "B\/15",
         "4,680",
-        "2,677",
+        "2,678",
         "FLURBIPROFENE"
     ],
     [
@@ -15090,7 +15135,7 @@
         "100 mg",
         "B\/15",
         "6,575",
-        "2,677",
+        "2,678",
         "FLURBIPROFENE"
     ],
     [
@@ -15423,7 +15468,7 @@
         "100 mg",
         "B\/10",
         "3,170",
-        "2,694",
+        "2,695",
         "INDOMETACINE"
     ],
     [
@@ -15432,7 +15477,7 @@
         "100 mg",
         "B\/10",
         "3,730",
-        "2,694",
+        "2,695",
         "INDOMETACINE"
     ],
     [
@@ -15441,7 +15486,7 @@
         "100 mg",
         "B\/10",
         "3,800",
-        "2,694",
+        "2,695",
         "INDOMETACINE"
     ],
     [
@@ -15450,7 +15495,7 @@
         "100 mg",
         "B\/10",
         "4,180",
-        "2,694",
+        "2,695",
         "INDOMETACINE"
     ],
     [
@@ -15459,7 +15504,7 @@
         "100 mg",
         "B\/10",
         "4,480",
-        "2,694",
+        "2,695",
         "INDOMETACINE"
     ],
     [
@@ -15603,7 +15648,7 @@
         "100 mg",
         "B\/10",
         "5,245",
-        "2,762",
+        "2,763",
         "KETOPROFENE"
     ],
     [
@@ -15612,7 +15657,7 @@
         "100 mg",
         "B\/10",
         "5,350",
-        "2,762",
+        "2,763",
         "KETOPROFENE"
     ],
     [
@@ -15621,7 +15666,7 @@
         "100 mg",
         "B\/10",
         "6,060",
-        "2,762",
+        "2,763",
         "KETOPROFENE"
     ],
     [
@@ -16061,7 +16106,7 @@
         "Solution buvable",
         "2 mg",
         "B\/45 Sachets-dose\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "ACIDE URIDINE-5' TRIPHOSPHORIQUE"
     ],
@@ -16070,7 +16115,7 @@
         "Solution buvable",
         "2 mg",
         "B\/45\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "ACIDE URIDINE-5' TRIPHOSPHORIQUE"
     ],
@@ -16088,7 +16133,7 @@
         "Collyre",
         null,
         "FL\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "CHONDROITINE"
     ],
@@ -16124,7 +16169,7 @@
         "G\u00e9lules",
         "500 mg",
         "B\/60",
-        null,
+        "0,000",
         "0,000",
         "CHONDROITINE"
     ],
@@ -16160,7 +16205,7 @@
         "Solution injectable",
         "20 mg\/2 ml",
         "B\/1\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -16169,7 +16214,7 @@
         "Solution injectable",
         "20 mg\/2 ml",
         "B\/1\/2 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -16502,7 +16547,7 @@
         "Gel dermique",
         null,
         "T\/100 gr",
-        null,
+        "0,000",
         "0,000",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL"
     ],
@@ -16511,7 +16556,7 @@
         "Baume",
         null,
         "T\/60 gr",
-        null,
+        "0,000",
         "0,000",
         "CAMPHRE+EUCALYPTOL+MENTHOL PUR"
     ],
@@ -16746,7 +16791,7 @@
         "4,90%",
         "FL\/10 ml",
         "12,351",
-        "10,497",
+        "10,498",
         "ACIDE N-ACETYL-ASPARTYL-GLUTAMIQUE"
     ],
     [
@@ -16791,7 +16836,7 @@
         "0,25%",
         "FL\/3 ml",
         "6,811",
-        "5,788",
+        "5,789",
         "BETAXOLOL"
     ],
     [
@@ -17061,7 +17106,7 @@
         "0,10%",
         "FL\/5 ml",
         "2,033",
-        "1,725",
+        "1,726",
         "DEXAMETHASONE"
     ],
     [
@@ -17115,7 +17160,7 @@
         "0,1%\/0,3%",
         "FL\/5 ml",
         "4,390",
-        "3,731",
+        "3,732",
         "DEXAMETHASONE+TOBRAMYCINE"
     ],
     [
@@ -17124,7 +17169,7 @@
         "15 mg\/5 ml",
         "FL\/5 ml",
         "4,390",
-        "3,731",
+        "3,732",
         "DEXAMETHASONE+TOBRAMYCINE"
     ],
     [
@@ -17133,7 +17178,7 @@
         "15 mg\/5 ml",
         "FL\/5 ml",
         "4,390",
-        "3,731",
+        "3,732",
         "DEXAMETHASONE+TOBRAMYCINE"
     ],
     [
@@ -17142,7 +17187,7 @@
         "100 mg\/300 mg",
         "FL\/5 ml",
         "6,390",
-        "3,731",
+        "3,732",
         "DEXAMETHASONE+TOBRAMYCINE"
     ],
     [
@@ -17294,7 +17339,7 @@
         "Solution intra-oculaire",
         "10 mg\/ml",
         "B\/1 Seringue\/0,85 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17303,7 +17348,7 @@
         "Solution intra-oculaire",
         "10 mg\/ml",
         "B\/1 Seringue\/0,85 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17312,7 +17357,7 @@
         "Solution intra-oculaire",
         "10 mg\/ml",
         "B\/1 Seringue\/1 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17321,7 +17366,7 @@
         "Solution intra-oculaire",
         "14 mg\/ml",
         "Seringue\/0,85 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17330,7 +17375,7 @@
         "Solution intra-oculaire",
         "15 mg\/ml",
         "B\/1 Seringue\/1 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17339,7 +17384,7 @@
         "Pr\u00e9paration Visco\u00e9lastique",
         "16 mg\/ml",
         "B\/1 Seringue\/0,8 ml",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17348,7 +17393,7 @@
         "Solution intra-oculaire",
         null,
         "B\/1 Seringue pr\u00e9-remplie",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17357,7 +17402,7 @@
         "Solution intra-oculaire",
         null,
         "B\/1 Seringue pr\u00e9-remplie",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17366,7 +17411,7 @@
         "Solution intra-oculaire",
         null,
         "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17375,7 +17420,7 @@
         "Solution intra-oculaire",
         null,
         "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
+        "0,000",
         "0,000",
         "HYALURONATE DE SODIUM"
     ],
@@ -17420,7 +17465,7 @@
         "Collyre",
         "0,1\u00a0%",
         "FL\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "INOSINE"
     ],
@@ -17772,7 +17817,7 @@
         "1,00%",
         "FL\/10 ml",
         "4,772",
-        "4,054",
+        "4,055",
         "RIFAMYCINE"
     ],
     [
@@ -17817,7 +17862,7 @@
         "0,50%",
         "FL\/5 ml",
         "3,170",
-        "2,694",
+        "2,695",
         "TIMOLOL"
     ],
     [
@@ -17826,7 +17871,7 @@
         "0,50%",
         "FL\/5 ml",
         "3,305",
-        "2,694",
+        "2,695",
         "TIMOLOL"
     ],
     [
@@ -17835,7 +17880,7 @@
         "0,50%",
         "FL\/5 ml",
         "3,460",
-        "2,694",
+        "2,695",
         "TIMOLOL"
     ],
     [
@@ -17844,7 +17889,7 @@
         "0,50%",
         "B\/15 ophtadoses\/0,45 ml",
         "6,940",
-        "5,890",
+        "5,891",
         "TIMOLOL"
     ],
     [
@@ -17853,7 +17898,7 @@
         "0,30%",
         "FL\/5 ml",
         "3,630",
-        "3,085",
+        "3,086",
         "TOBRAMYCINE"
     ],
     [
@@ -17862,7 +17907,7 @@
         "0,30%",
         "FL\/5 ml",
         "3,630",
-        "3,085",
+        "3,086",
         "TOBRAMYCINE"
     ],
     [
@@ -17871,7 +17916,7 @@
         "0,30%",
         "FL\/5 ml",
         "3,630",
-        "3,085",
+        "3,086",
         "TOBRAMYCINE"
     ],
     [
@@ -17880,7 +17925,7 @@
         "0,30%",
         "FL\/5 ml",
         "4,585",
-        "3,085",
+        "3,086",
         "TOBRAMYCINE"
     ],
     [
@@ -18626,7 +18671,7 @@
         "Solution injectable",
         "25000 UI\/5 ml",
         "B\/10\/FL\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "HEPARINE SODIQUE"
     ],
@@ -18635,7 +18680,7 @@
         "Solution injectable",
         "25 000 UI\/ 5 ml",
         "B\/10 FL\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "HEPARINE SODIQUE"
     ],
@@ -18770,7 +18815,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "15 mg",
         "B\/28",
-        null,
+        "0,000",
         "0,000",
         "RIVAROXABAN"
     ],
@@ -18914,7 +18959,7 @@
         "Solution injectable",
         "600 UL",
         "B\/10\/2 ML",
-        null,
+        "0,000",
         "0,000",
         "SULODEXIDE"
     ],
@@ -18929,6 +18974,15 @@
     ],
     [
         "INIPLAC",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "90 mg",
+        "B\/60",
+        "89,760",
+        "0,000",
+        "TICAGRELOR"
+    ],
+    [
+        "BRILOR",
         "Comprim\u00e9s pellicul\u00e9s",
         "90 mg",
         "B\/60",
@@ -19095,7 +19149,7 @@
         "50 mg",
         "B\/90",
         "12,100",
-        "8,644",
+        "8,645",
         "FER+ACIDE FOLIQUE"
     ],
     [
@@ -19113,7 +19167,7 @@
         "150 mg",
         "B\/30",
         "6,640",
-        "5,635",
+        "5,636",
         "FER+ACIDE FOLIQUE"
     ],
     [
@@ -19283,7 +19337,7 @@
         "Solution injectable",
         "7,46 %",
         "B\/100\/10 ml",
-        null,
+        "0,000",
         "0,000",
         "CHLORURE DE POTASSIUM"
     ],
@@ -19301,7 +19355,7 @@
         "Solution injectable",
         "15%",
         "B\/50\/10ML",
-        null,
+        "0,000",
         "0,000",
         "MAGNESIUM"
     ],
@@ -19653,7 +19707,7 @@
         "5 mg\/160 mg\/12,5 mg",
         "B\/30",
         "37,240",
-        "31,645",
+        "31,646",
         "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -19671,7 +19725,7 @@
         "5 mg\/160 mg\/25 mg",
         "B\/30",
         "37,240",
-        "31,645",
+        "31,646",
         "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -19689,7 +19743,7 @@
         "10 mg\/160 mg\/12,5 mg",
         "B\/30",
         "37,240",
-        "31,645",
+        "31,646",
         "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -19707,7 +19761,7 @@
         "10 mg\/160 mg\/25 mg",
         "B\/30",
         "37,240",
-        "31,645",
+        "31,646",
         "AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -21345,7 +21399,7 @@
         "100 mg",
         "B\/90",
         "69,220",
-        "58,828",
+        "58,829",
         "LOSARTAN"
     ],
     [
@@ -21354,7 +21408,7 @@
         "100 mg",
         "B\/90",
         "72,850",
-        "58,828",
+        "58,829",
         "LOSARTAN"
     ],
     [
@@ -21363,7 +21417,7 @@
         "100 mg",
         "B\/90",
         "73,850",
-        "58,828",
+        "58,829",
         "LOSARTAN"
     ],
     [
@@ -21417,7 +21471,7 @@
         "50 mg\/12,5 mg",
         "B\/90",
         "61,735",
-        "52,402",
+        "52,403",
         "LOSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -21426,7 +21480,7 @@
         "50 mg\/12,5 mg",
         "B\/90",
         "64,970",
-        "52,402",
+        "52,403",
         "LOSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -21435,7 +21489,7 @@
         "50 mg\/12,5 mg",
         "B\/90",
         "67,315",
-        "52,402",
+        "52,403",
         "LOSARTAN+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -22056,7 +22110,7 @@
         "40 mg",
         "B\/30",
         "16,130",
-        "13,710",
+        "13,711",
         "TELMISARTAN"
     ],
     [
@@ -22429,7 +22483,16 @@
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
-        "DIOSTAR -PLUS",
+        "DIOSTAR-PLUS",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "80 mg\/12,5 mg",
+        "B\/30",
+        "23,990",
+        "17,799",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
+    ],
+    [
+        "DIOSTAR-PLUS",
         "Comprim\u00e9s pellicul\u00e9s",
         "80 mg\/12,5 mg",
         "B\/30",
@@ -22488,7 +22551,7 @@
         "160 mg\/12,5 mg",
         "B\/30",
         "32,810",
-        "27,871",
+        "27,872",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -22497,7 +22560,7 @@
         "160 mg\/25 mg",
         "B\/30",
         "33,115",
-        "27,412",
+        "27,413",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -22506,16 +22569,16 @@
         "160 mg\/25 mg",
         "B\/30",
         "33,115",
-        "27,412",
+        "27,413",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
-        "DIOSTAR -PLUS",
+        "DIOSTAR-PLUS",
         "Comprim\u00e9s pellicul\u00e9s",
         "160 mg\/25 mg",
         "B\/30",
         "46,570",
-        "27,412",
+        "27,413",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -22524,7 +22587,7 @@
         "160 mg\/25 mg",
         "B\/30",
         "61,370",
-        "27,412",
+        "27,413",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -22650,7 +22713,7 @@
         "5 mg\/10 mg",
         "B\/30",
         "29,155",
-        "24,760",
+        "24,761",
         "AMLODIPINE+ATORVASTATINE"
     ],
     [
@@ -22659,7 +22722,7 @@
         "5 mg\/10 mg",
         "B\/30",
         "42,020",
-        "24,760",
+        "24,761",
         "AMLODIPINE+ATORVASTATINE"
     ],
     [
@@ -22668,7 +22731,7 @@
         "10 mg\/10 mg",
         "B\/30",
         "29,155",
-        "24,760",
+        "24,761",
         "AMLODIPINE+ATORVASTATINE"
     ],
     [
@@ -22677,7 +22740,7 @@
         "10 mg\/10 mg",
         "B\/30",
         "42,020",
-        "24,760",
+        "24,761",
         "AMLODIPINE+ATORVASTATINE"
     ],
     [
@@ -23397,7 +23460,7 @@
         "160 mg",
         "B\/30",
         "10,775",
-        "9,154",
+        "9,155",
         "FENOFIBRATE"
     ],
     [
@@ -23406,7 +23469,7 @@
         "160 mg",
         "B\/30",
         "26,370",
-        "9,154",
+        "9,155",
         "FENOFIBRATE"
     ],
     [
@@ -23424,7 +23487,7 @@
         "200 mg",
         "B\/30",
         "11,145",
-        "7,114",
+        "7,115",
         "FENOFIBRATE"
     ],
     [
@@ -23433,7 +23496,7 @@
         "200 mg",
         "B\/30",
         "11,950",
-        "7,114",
+        "7,115",
         "FENOFIBRATE"
     ],
     [
@@ -23442,7 +23505,7 @@
         "200 mg",
         "B\/30",
         "15,955",
-        "7,114",
+        "7,115",
         "FENOFIBRATE"
     ],
     [
@@ -23991,7 +24054,7 @@
         "10 mg",
         "B\/30",
         "15,525",
-        "13,183",
+        "13,184",
         "SIMVASTATINE"
     ],
     [
@@ -24711,7 +24774,7 @@
         "3,125 mg",
         "FL\/30",
         "7,611",
-        "6,451",
+        "6,452",
         "CARVEDILOL"
     ],
     [
@@ -24891,7 +24954,7 @@
         "5 mg\/12,5 mg",
         "B\/30",
         "18,490",
-        "15,716",
+        "15,717",
         "NEBIVOLOL+HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -25035,7 +25098,7 @@
         "5 mg",
         "B\/30",
         "20,982",
-        "17,824",
+        "17,825",
         "PRAZOSINE"
     ],
     [
@@ -26007,7 +26070,7 @@
         "200 mg",
         "B\/30",
         "37,060",
-        "31,492",
+        "31,493",
         "FLECAINIDE"
     ],
     [
@@ -26303,7 +26366,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "300 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DIOSMINE"
     ],
@@ -26339,7 +26402,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         "500 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DIOSMINE+HESPERIDINE"
     ],
@@ -26348,7 +26411,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         "500 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DIOSMINE+HESPERIDINE"
     ],
@@ -26447,7 +26510,7 @@
         "Ampoules buvables",
         null,
         "C\/30\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "VITAMINE C+EXT DE RUSCUS ACULEATUS+HESPERIDINE METHYL CHALCO"
     ],
@@ -26906,7 +26969,7 @@
         "Comprim\u00e9s",
         "2 mg",
         "B\/28",
-        null,
+        "0,000",
         "0,000",
         "DIENOGEST"
     ],
@@ -26924,7 +26987,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "0,03 mg\/3 mg",
         "B\/21",
-        null,
+        "0,000",
         "0,000",
         "DROSPIRENONE+ETHINYLESTRADIOL"
     ],
@@ -26933,7 +26996,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         null,
         "B\/21",
-        null,
+        "0,000",
         "0,000",
         "DROSPIRENONE+ETHINYLESTRADIOL"
     ],
@@ -26943,7 +27006,7 @@
         "10 mg",
         "B\/10",
         "4,892",
-        "4,156",
+        "4,157",
         "DYDROGESTERONE"
     ],
     [
@@ -27338,7 +27401,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "30 mg",
         "B\/3",
-        null,
+        "0,000",
         "0,000",
         "DAPOXETINE"
     ],
@@ -27374,7 +27437,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "60 mg",
         "B\/3",
-        null,
+        "0,000",
         "0,000",
         "DAPOXETINE"
     ],
@@ -27482,7 +27545,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27491,7 +27554,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27500,7 +27563,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27590,7 +27653,7 @@
         "Comprim\u00e9s orodispersibles",
         "50 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27599,7 +27662,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "50 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27608,7 +27671,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27635,7 +27698,7 @@
         "Comprim\u00e9s orodispersibles",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27644,7 +27707,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27653,7 +27716,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27662,7 +27725,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27725,7 +27788,7 @@
         "Comprim\u00e9s orodispersibles",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27734,7 +27797,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27743,7 +27806,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27752,7 +27815,7 @@
         "Comprim\u00e9s orodispersibles",
         "100 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27761,7 +27824,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27770,7 +27833,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "SILDENAFIL"
     ],
@@ -27932,7 +27995,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -27941,7 +28004,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -27986,7 +28049,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -27995,7 +28058,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28022,7 +28085,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28031,7 +28094,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28076,7 +28139,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28085,7 +28148,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28094,7 +28157,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28103,7 +28166,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28112,7 +28175,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28157,7 +28220,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28166,7 +28229,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/8",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28175,7 +28238,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/10",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28184,7 +28247,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "20 mg",
         "B\/12",
-        null,
+        "0,000",
         "0,000",
         "TADALAFIL"
     ],
@@ -28571,7 +28634,7 @@
         "Comprim\u00e9s",
         "600 mg\/50 mg",
         "B\/300",
-        null,
+        "0,000",
         "0,000",
         "CODEINE+PARACETAMOL"
     ],
@@ -28589,7 +28652,7 @@
         "Comprim\u00e9s",
         null,
         "B\/16",
-        null,
+        "0,000",
         "0,000",
         "CODEINE+PARACETAMOL"
     ],
@@ -28693,6 +28756,15 @@
         "MORPHINE"
     ],
     [
+        "SKENAN LP",
+        "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
+        "100 mg",
+        "B\/14",
+        "85,462",
+        "85,462",
+        "MORPHINE"
+    ],
+    [
         "MOSCONTIN 100",
         "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
         "100 mg",
@@ -28724,7 +28796,7 @@
         "Solution injectable",
         "10 mg\/ml",
         null,
-        "2,028",
+        "2,049",
         "2,028",
         "MORPHINE"
     ],
@@ -28752,7 +28824,7 @@
         "60 mg",
         "B\/30",
         "7,610",
-        "6,451",
+        "6,452",
         "OXETORONE"
     ],
     [
@@ -29274,7 +29346,7 @@
         "3,00%",
         "FL\/90 ml",
         "1,170",
-        "0,994",
+        "0,995",
         "PARACETAMOL"
     ],
     [
@@ -29661,7 +29733,7 @@
         "50 mg",
         "B\/10",
         "3,765",
-        "2,677",
+        "2,678",
         "TRAMADOL"
     ],
     [
@@ -29670,7 +29742,7 @@
         "50 mg",
         "FL\/10",
         "4,400",
-        "2,677",
+        "2,678",
         "TRAMADOL"
     ],
     [
@@ -29679,7 +29751,7 @@
         "50 mg",
         "B\/10",
         "4,640",
-        "2,677",
+        "2,678",
         "TRAMADOL"
     ],
     [
@@ -29688,7 +29760,7 @@
         "50 mg",
         "B\/10",
         "5,340",
-        "2,677",
+        "2,678",
         "TRAMADOL"
     ],
     [
@@ -29697,7 +29769,7 @@
         "50 mg",
         "B\/30",
         "9,475",
-        "8,032",
+        "8,033",
         "TRAMADOL"
     ],
     [
@@ -30354,7 +30426,7 @@
         "500 mg",
         "B\/50",
         "17,335",
-        "13,982",
+        "13,983",
         "LEVETIRACETAM"
     ],
     [
@@ -31325,7 +31397,7 @@
         "Comprim\u00e9s",
         "8 mg",
         "B\/90",
-        null,
+        "0,000",
         "0,000",
         "BETAHISTINE"
     ],
@@ -31343,7 +31415,7 @@
         "Dispositif trans-dermique",
         "36 mg\/7 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31352,7 +31424,7 @@
         "Dispositif trans-dermique",
         "36 mg\/7 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31361,7 +31433,7 @@
         "Dispositif trans-dermique",
         "36 mg\/7 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31370,7 +31442,7 @@
         "Dispositif trans-dermique",
         "7 mg\/24H",
         "B\/7",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31379,7 +31451,7 @@
         "Dispositif trans-dermique",
         "7 mg\/24H",
         "B\/28",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31388,7 +31460,7 @@
         "Dispositif trans-dermique",
         "7 mg\/24H",
         "B\/28",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31397,7 +31469,7 @@
         "Dispositif trans-dermique",
         "14 mg\/24H",
         "B\/7 Sachets",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31406,7 +31478,7 @@
         "Dispositif trans-dermique",
         "14 mg\/24H",
         "B\/28 Sachets",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31415,7 +31487,7 @@
         "Dispositif trans-dermique",
         "21 mg\/24H",
         "B\/7",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31424,7 +31496,7 @@
         "Dispositif trans-dermique",
         "21 mg\/24H",
         "B\/28",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31433,7 +31505,7 @@
         "Dispositif trans-dermique",
         "35 mg\/20 cm\u00b2",
         "B\/7 Dispositifs Transdermiques",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31442,7 +31514,7 @@
         "Dispositif trans-dermique",
         "35 mg\/20 cm\u00b2",
         "B\/28 Dispositifs Transdermiques",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31451,7 +31523,7 @@
         "Dispositif trans-dermique",
         "78 mg\/15 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31460,7 +31532,7 @@
         "Dispositif trans-dermique",
         "78 mg\/15 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31469,7 +31541,7 @@
         "Dispositif trans-dermique",
         "78 mg\/15 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31478,7 +31550,7 @@
         "Dispositif trans-dermique",
         "114 mg\/22 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31487,7 +31559,7 @@
         "Dispositif trans-dermique",
         "114 mg\/22 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31496,7 +31568,7 @@
         "Dispositif trans-dermique",
         "114 mg\/22 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31505,7 +31577,7 @@
         "Dispositif trans-dermique",
         "17,5 mg\/10 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31514,7 +31586,7 @@
         "Dispositif trans-dermique",
         "17,5 mg\/10 cm\u00b2",
         "B\/28 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31523,7 +31595,7 @@
         "Dispositif trans-dermique",
         "52,5 mg\/30 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31532,7 +31604,7 @@
         "Dispositif trans-dermique",
         "52,5 mg\/30 cm\u00b2",
         "B\/28 Timbres",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31541,7 +31613,7 @@
         "Pastilles",
         "1,5 mg",
         "B\/36",
-        null,
+        "0,000",
         "0,000",
         "NICOTINE"
     ],
@@ -31730,7 +31802,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31739,7 +31811,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31748,7 +31820,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31757,7 +31829,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31766,7 +31838,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31802,7 +31874,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31811,7 +31883,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31820,7 +31892,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31829,7 +31901,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31838,7 +31910,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31847,7 +31919,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/90",
-        null,
+        "0,000",
         "0,000",
         "DONEPEZIL"
     ],
@@ -31866,7 +31938,7 @@
         "10 mg",
         "B\/15",
         "13,625",
-        "10,786",
+        "10,787",
         "ESCITALOPRAM"
     ],
     [
@@ -31875,7 +31947,7 @@
         "10 mg",
         "B\/15",
         "15,005",
-        "10,786",
+        "10,787",
         "ESCITALOPRAM"
     ],
     [
@@ -32226,7 +32298,7 @@
         "30 mg",
         "B\/30",
         "26,500",
-        "22,516",
+        "22,517",
         "MIRTAZAPINE"
     ],
     [
@@ -32581,6 +32653,15 @@
         "VENLAFAXINE"
     ],
     [
+        "ZENEXOR LP",
+        "G\u00e9lules \u00e0 Lib\u00e9ration Prolong\u00e9e",
+        "75 mg",
+        "B\/60",
+        "45,545",
+        "0,000",
+        "VENLAFAXINE"
+    ],
+    [
         "EFEXOR",
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "150 mg",
@@ -32883,7 +32964,7 @@
         "25 mg",
         "B\/30",
         "4,880",
-        "0,484",
+        "0,485",
         "CHLORPROMAZINE"
     ],
     [
@@ -33153,7 +33234,7 @@
         "4,00 %",
         "FL\/30 ml",
         "5,240",
-        "1,708",
+        "1,709",
         "LEVOMEPROMAZINE"
     ],
     [
@@ -33468,7 +33549,7 @@
         "4,00 %",
         "FL\/30 ml",
         "10,240",
-        "3,799",
+        "3,800",
         "PROPERICIAZINE"
     ],
     [
@@ -33549,7 +33630,7 @@
         "300 mg",
         "B\/30",
         "102,240",
-        "85,093",
+        "85,094",
         "QUETIAPINE"
     ],
     [
@@ -33666,7 +33747,7 @@
         "4 mg",
         "B\/30",
         "56,790",
-        "48,271",
+        "48,272",
         "RISPERIDONE"
     ],
     [
@@ -33675,7 +33756,7 @@
         "4 mg",
         "B\/30",
         "59,795",
-        "48,271",
+        "48,272",
         "RISPERIDONE"
     ],
     [
@@ -33684,7 +33765,7 @@
         "4 mg",
         "B\/30",
         "59,800",
-        "48,271",
+        "48,272",
         "RISPERIDONE"
     ],
     [
@@ -33692,7 +33773,7 @@
         null,
         null,
         null,
-        null,
+        "0,000",
         "0,000",
         "RISPERIDONE"
     ],
@@ -33701,7 +33782,7 @@
         null,
         null,
         null,
-        null,
+        "0,000",
         "0,000",
         "RISPERIDONE"
     ],
@@ -33783,7 +33864,7 @@
         "200 mg",
         "B\/10",
         "7,435",
-        "6,315",
+        "6,316",
         "SULPIRIDE"
     ],
     [
@@ -33971,7 +34052,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
         "B\/15",
-        null,
+        "0,000",
         "0,000",
         "ZOLPIDEM"
     ],
@@ -33980,7 +34061,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
         "B\/15",
-        null,
+        "0,000",
         "0,000",
         "ZOLPIDEM"
     ],
@@ -34781,7 +34862,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "CAMPHRE+EUCALYPTOL+GAIACOL"
     ],
@@ -34790,7 +34871,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "0,000",
         "CAMPHRE+EUCALYPTOL+GAIACOL"
     ],
@@ -34835,7 +34916,7 @@
         "Pommade dermique",
         null,
         "Pot\/50 gr",
-        null,
+        "0,000",
         "0,000",
         "LEVOMENTHOL+CAMPHRE+THYMOL"
     ],
@@ -34844,7 +34925,7 @@
         "Collyre",
         "5%",
         "FL\/5 ml",
-        null,
+        "0,000",
         "0,000",
         "ACETYLCYSTEINE"
     ],
@@ -34853,7 +34934,7 @@
         "Poudre pour solution orale",
         "200 mg",
         "B\/18 Sachets",
-        null,
+        "0,000",
         "0,000",
         "ACETYLCYSTEINE"
     ],
@@ -34889,7 +34970,7 @@
         "Poudre pour suspension orale",
         "200 mg",
         "B\/30 S\/3 gr",
-        null,
+        "0,000",
         "0,000",
         "ACETYLCYSTEINE"
     ],
@@ -34898,7 +34979,7 @@
         "Comprim\u00e9s",
         "30 mg",
         "B\/30",
-        null,
+        "0,000",
         "0,000",
         "AMBROXOL"
     ],
@@ -34907,7 +34988,7 @@
         "Solution buvable",
         "0,3\u00a0%",
         "FL\/150 ml",
-        null,
+        "0,000",
         "0,000",
         "AMBROXOL"
     ],
@@ -34916,7 +34997,7 @@
         "Solution buvable",
         "30 mg\/5 ml",
         "FL\/150 ml",
-        null,
+        "0,000",
         "0,000",
         "AMBROXOL"
     ],
@@ -34934,7 +35015,7 @@
         "Solution buvable",
         "0,3\u00a0%",
         "FL\/180 ml",
-        null,
+        "0,000",
         "0,000",
         "AMBROXOL"
     ],
@@ -34952,7 +35033,7 @@
         "Solution buvable",
         "0,6\u00a0%",
         "FL\/150 ml",
-        null,
+        "0,000",
         "0,000",
         "AMBROXOL"
     ],
@@ -34988,7 +35069,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "4 mg",
         "B\/500",
-        null,
+        "0,000",
         "0,000",
         "BROMHEXINE"
     ],
@@ -34997,7 +35078,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "4 mg",
         "B\/1000",
-        null,
+        "0,000",
         "0,000",
         "BROMHEXINE"
     ],
@@ -35006,7 +35087,7 @@
         "Solution buvable",
         "0,2 %",
         "FL\/60 ml",
-        null,
+        "0,000",
         "0,000",
         "BROMHEXINE"
     ],
@@ -35033,7 +35114,7 @@
         "Sirop",
         "150 mg\/ml",
         "FL\/100 ml",
-        null,
+        "0,000",
         "0,000",
         "BUTAMIRATE"
     ],
@@ -35042,7 +35123,7 @@
         "Sirop",
         "2%",
         "FL\/90 ml",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35096,7 +35177,7 @@
         "Sirop",
         "2%",
         "FL\/200 gr",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35114,7 +35195,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35123,7 +35204,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35132,7 +35213,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35177,7 +35258,7 @@
         "Solution buvable",
         "5%",
         "FL\/200 ml",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35186,7 +35267,7 @@
         "Sirop",
         "5%",
         "FL\/200 gr",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35231,7 +35312,7 @@
         "Solution buvable",
         "5%",
         "FL\/300 ml",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35240,7 +35321,7 @@
         "Sirop",
         "5%",
         "B\/12 Sachets\/15 gr",
-        null,
+        "0,000",
         "0,000",
         "CARBOCISTEINE"
     ],
@@ -35249,7 +35330,7 @@
         "Sirop",
         "1 mg\/ml",
         "FL\/200 ml",
-        null,
+        "0,000",
         "0,000",
         "CODEINE"
     ],
@@ -35276,7 +35357,7 @@
         "Sirop",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "0,000",
         "CODEINE"
     ],
@@ -35285,7 +35366,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "0,000",
         "CODEINE"
     ],
@@ -35339,7 +35420,7 @@
         "Sirop",
         null,
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "CODEINE+ESPECES PECTORALES"
     ],
@@ -35357,7 +35438,7 @@
         "Sirop",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "0,000",
         "CODEINE+ESPECES PECTORALES"
     ],
@@ -35465,7 +35546,7 @@
         "Sirop",
         "0,3\u00a0%",
         "FL\/150 ml",
-        null,
+        "0,000",
         "0,000",
         "DEXTROMETHORPHANE"
     ],
@@ -35474,7 +35555,7 @@
         "Solution buvable",
         "1,5 mg\/ml",
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "DEXTROMETHORPHANE"
     ],
@@ -35627,7 +35708,7 @@
         "G\u00e9lules",
         null,
         "B\/20",
-        null,
+        "0,000",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
@@ -35699,7 +35780,7 @@
         "Granul\u00e9s pour solution buvable",
         null,
         "B\/8 Sachets",
-        null,
+        "0,000",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
@@ -35708,7 +35789,7 @@
         "Granul\u00e9s pour suspension buvable",
         null,
         "B\/8 Sachets",
-        null,
+        "0,000",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
@@ -35744,7 +35825,7 @@
         "Poudre pour suspension orale",
         null,
         "B\/12 Sachets",
-        null,
+        "0,000",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
@@ -35897,7 +35978,7 @@
         "Solution pour inhalation",
         "0,5 mg\/2 ml",
         "B\/20 doses\/2 ml",
-        "26,047",
+        "26,316",
         "22,138",
         "BUDESONIDE"
     ],
@@ -36698,7 +36779,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         "3000 U",
         "B\/20",
-        null,
+        "0,000",
         "0,000",
         "ALPHA-AMYLASE"
     ],
@@ -36716,7 +36797,7 @@
         "Sirop",
         "1000 U.CEIP\/5 ml",
         "FL\/125 ml",
-        null,
+        "0,000",
         "0,000",
         "ALPHA-AMYLASE"
     ],
@@ -36734,7 +36815,7 @@
         "Pastilles",
         "20 mg",
         "B\/24",
-        null,
+        "0,000",
         "0,000",
         "BICLOTYMOL"
     ],
@@ -36743,7 +36824,7 @@
         "Pastilles",
         "20 mg",
         "B\/24",
-        null,
+        "0,000",
         "0,000",
         "BICLOTYMOL"
     ],
@@ -37094,7 +37175,7 @@
         "Comprim\u00e9s",
         null,
         "B\/16",
-        null,
+        "0,000",
         "0,000",
         "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
     ],
@@ -37112,7 +37193,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg\/30 mg\/ 250 mg",
         "B\/20",
-        null,
+        "0,000",
         "0,000",
         "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
     ],

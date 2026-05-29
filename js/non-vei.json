@@ -35,7 +35,7 @@
         "Pdre p.prep.injectable",
         "250 mg",
         "B\/1 FL + S\/2 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "JULPHAR",
         "7473146H"
@@ -55,7 +55,7 @@
         "Pdre p.prep.injectable",
         "250 mg",
         "B\/1 FL + S\/5 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "JULPHAR",
         "7473145H"
@@ -65,7 +65,7 @@
         "Pdre p.prep.injectable",
         "500 mg",
         "B\/1 FL + S\/2 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "JULPHAR",
         "7473144H"
@@ -75,7 +75,7 @@
         "Pdre p.prep.injectable",
         "0,5 g",
         "B\/1 FL + S\/5 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "UNIMED",
         9093504
@@ -85,7 +85,7 @@
         "Pdre p.prep.injectable",
         "500 mg",
         "B\/1 FL + S\/5 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "JULPHAR",
         "7473143H"
@@ -95,7 +95,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/3,5 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "JULPHAR",
         "7473142H"
@@ -105,7 +105,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/4 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "UNIMED",
         9093502
@@ -115,7 +115,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/10 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "UNIMED",
         "9093501H"
@@ -125,7 +125,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/10 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "LABESFAL - Laboratorios Almiro S.A",
         "4333011H"
@@ -135,7 +135,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + Solvant\/10 ml",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "JULPHAR",
         "7473141H"
@@ -145,7 +145,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/10 Flacons sans solvant",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "UNIMED",
         "9093505H"
@@ -155,7 +155,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/25 FL sans solvant",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "PANPHARMA",
         "7233111H"
@@ -165,7 +165,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/50 FL sans solvant",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "ANTIBIOTICE S.A",
         "4223021H"
@@ -175,7 +175,7 @@
         "Pdre p.prep.injectable",
         "2 g",
         "B\/1 FL",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "ELPEN Pharmaceutical CO .INC",
         "8983021H"
@@ -185,7 +185,7 @@
         "Pdre p.prep.injectable",
         "2 g",
         "B\/1 Flacon de lyophilisat",
-        null,
+        "0,000",
         "CEFTRIAXONE",
         "LABESFAL - Laboratorios Almiro S.A",
         "4333012H"
@@ -198,7 +198,7 @@
         "22,280",
         "LEVOFLOXACINE",
         "DAR ESSAYDALI",
-        "9213491.0"
+        9213491
     ],
     [
         "LEVOREC",
@@ -245,7 +245,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "0,75 MUI\/125 mg",
         "B\/500",
-        null,
+        "0,000",
         "METRONIDAZOLE+SPIRAMYCINE",
         "SIPHAT",
         "9003802H"
@@ -255,7 +255,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "1,5 MUI\/250 mg",
         "B\/500",
-        null,
+        "0,000",
         "METRONIDAZOLE+SPIRAMYCINE",
         "SIPHAT",
         "9003813H"
@@ -285,7 +285,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "ITRACONAZOLE",
         "OPALIA PHARMA",
         9023832
@@ -295,7 +295,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "ITRACONAZOLE",
         "ADWYA",
         9044131
@@ -315,7 +315,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/16",
-        null,
+        "0,000",
         "ITRACONAZOLE",
         "ADWYA",
         9044132
@@ -345,7 +345,7 @@
         "G\u00e9lules",
         "100 mg",
         "B\/32",
-        null,
+        "0,000",
         "ITRACONAZOLE",
         "ADWYA",
         9044133
@@ -365,7 +365,7 @@
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "0,5 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "HIKMA Pharmaceuticals",
         "6653661H"
@@ -375,7 +375,7 @@
         "G\u00e9lules",
         "0,5 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "LES LABORATOIRES MEDIS",
         "ST9233723H"
@@ -385,7 +385,7 @@
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "1 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "HIKMA Pharmaceuticals",
         "6653662H"
@@ -395,7 +395,7 @@
         "G\u00e9lules",
         "1 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "HIKMA Pharmaceuticals",
         "6653411H"
@@ -405,7 +405,7 @@
         "G\u00e9lules",
         "1 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "LES LABORATOIRES MEDIS",
         "ST9233721H"
@@ -415,7 +415,7 @@
         "G\u00e9lules \u00e0 lib\u00e9ration prolong\u00e9e",
         "5 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "HIKMA Pharmaceuticals",
         "6653663H"
@@ -425,7 +425,7 @@
         "G\u00e9lules",
         "5 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "HIKMA Pharmaceuticals",
         "6653412H"
@@ -435,7 +435,7 @@
         "G\u00e9lules",
         "5 mg",
         "B\/100",
-        null,
+        "0,000",
         "TACROLIMUS",
         "LES LABORATOIRES MEDIS",
         "ST9233722H"
@@ -525,7 +525,7 @@
         "G\u00e9lules",
         "50 mg",
         "FL\/20",
-        null,
+        "0,000",
         "SACCHAROMYCES BOULARDII",
         "BIOCODEX",
         5190021
@@ -535,7 +535,7 @@
         "G\u00e9lules",
         "200 mg",
         "FL\/10",
-        null,
+        "0,000",
         "SACCHAROMYCES BOULARDII",
         "BIOCODEX",
         5190024
@@ -555,7 +555,7 @@
         "Poudre pour solution orale",
         "100 mg",
         "B\/20 Sachets",
-        null,
+        "0,000",
         "SACCHAROMYCES BOULARDII",
         "BIOCODEX",
         5190023
@@ -625,7 +625,7 @@
         "Comprim\u00e9",
         "100 mg",
         "B\/60",
-        null,
+        "0,000",
         "MAGNESIUM",
         "TERIAK",
         9253681
@@ -635,7 +635,7 @@
         "G\u00e9lule",
         null,
         "B\/40",
-        null,
+        "0,000",
         "MAGNESIUM",
         "MAYOLY SPINDLER",
         5913051
@@ -645,7 +645,7 @@
         "Comprim\u00e9 pellicul\u00e9",
         null,
         "B\/50",
-        null,
+        "0,000",
         "MAGNESIUM",
         "S.E.R.P. MONACO",
         10703011
@@ -655,7 +655,7 @@
         "Solution injectable",
         "1.2 gr",
         "B\/5\/10ML",
-        null,
+        "0,000",
         "MAGNESIUM",
         "GRIMBERG",
         "1073051H"
@@ -665,7 +665,7 @@
         "Poudre pour solution orale",
         "184 mg",
         "B\/20 Sachets\/6 gr",
-        null,
+        "0,000",
         "MAGNESIUM",
         "IBN AL BAYTAR",
         9073511
@@ -675,7 +675,7 @@
         "Solution buvable",
         "122mg\/10 ml",
         "B\/20 sachets-dose\/10ml",
-        null,
+        "0,000",
         "MAGNESIUM",
         "OPALIA PHARMA",
         9023472
@@ -685,7 +685,7 @@
         "Solution buvable",
         null,
         "B\/20FL\/10ML",
-        null,
+        "0,000",
         "MAGNESIUM",
         "OPALIA PHARMA",
         9023471
@@ -765,7 +765,7 @@
         "Suppositoires",
         null,
         "B\/10",
-        null,
+        "0,000",
         "GLYCERINE",
         "OPALIA PHARMA",
         9023302
@@ -775,7 +775,7 @@
         "Suppositoires",
         null,
         "B\/10",
-        null,
+        "0,000",
         "GLYCERINE",
         "JULPHAR",
         7473112
@@ -785,7 +785,7 @@
         "Suppositoires",
         null,
         "B\/10",
-        null,
+        "0,000",
         "GLYCERINE",
         "JULPHAR",
         7473113
@@ -815,7 +815,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "GLYCERINE",
         "OPALIA PHARMA",
         "9023306H"
@@ -825,7 +825,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "GLYCERINE",
         "OPALIA PHARMA",
         "9023304H"
@@ -845,7 +845,7 @@
         "Solution buvable",
         null,
         "B\/8 Sachets-dose \/15 ml",
-        null,
+        "0,000",
         "LACTULOSE",
         "OPALIA PHARMA",
         9023343
@@ -895,7 +895,7 @@
         "Solution buvable",
         null,
         "FL\/150 ml + godet-doseur",
-        null,
+        "0,000",
         "LACTULOSE",
         "WEST PHARMA",
         9293222
@@ -915,7 +915,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml + godet-doseur",
-        null,
+        "0,000",
         "LACTULOSE",
         "WEST PHARMA",
         9293221
@@ -925,7 +925,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "LACTULOSE",
         "PHARMADERM",
         9053261
@@ -935,7 +935,7 @@
         "Solution buvable",
         null,
         "FL\/250 ml + godet-doseur",
-        null,
+        "0,000",
         "LACTULOSE",
         "WEST PHARMA",
         9293223
@@ -1035,7 +1035,7 @@
         "Poudre pour suspension orale",
         "5 g",
         "B\/60 Sachets",
-        null,
+        "0,000",
         "SORBITOL",
         "SIPHAT",
         "9003042H"
@@ -1095,7 +1095,7 @@
         "Solution injectable",
         "200 U\/ ml",
         "B\/3 Stylos pr\u00e9remplis de 3 ml",
-        null,
+        "0,000",
         "INSULINE DEGLUDEC",
         "NOVO NORDISK A\/S Bagsvaerd",
         5993132
@@ -1131,6 +1131,36 @@
         3183072
     ],
     [
+        "OZEMPIC",
+        "Solution Injectable",
+        "0,25 mg",
+        "Bt 1Stylo Pre-rempli\/1.5ml+4 aig. jetables novofine plus (F)",
+        "355,790",
+        "SEMAGLUTIDE",
+        "NOVO NORDISK",
+        5993151
+    ],
+    [
+        "OZEMPIC",
+        "Solution Injectable",
+        "0,5 mg",
+        "Bt 1Stylo Pre-rempli\/1.5ml+4 aig. jetables novofine plus (F)",
+        "355,790",
+        "SEMAGLUTIDE",
+        "NOVO NORDISK",
+        5993152
+    ],
+    [
+        "OZEMPIC",
+        "Solution Injectable",
+        "1 mg",
+        "Bt 1Stylo Pre-rempli\/3ml+4 aig. jetables novofine plus (F)",
+        "355,790",
+        "SEMAGLUTIDE",
+        "NOVO NORDISK",
+        5993153
+    ],
+    [
         "SITA 50",
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
@@ -1145,7 +1175,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/30",
-        null,
+        "0,000",
         "SITAGLIPTINE",
         "ADWYA",
         9044341
@@ -1155,7 +1185,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/60",
-        null,
+        "0,000",
         "SITAGLIPTINE",
         "TERIAK",
         9254103
@@ -1225,7 +1255,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/30",
-        null,
+        "0,000",
         "SITAGLIPTINE",
         "ADWYA",
         9044342
@@ -1255,7 +1285,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg\/500 mg",
         "B\/60",
-        null,
+        "0,000",
         "VILDAGLIPTINE + METFORMINE",
         "NOVARTIS PHARMA SCHWEIZ AG",
         10283302
@@ -1375,7 +1405,7 @@
         "Solut\u00e9 buccal",
         null,
         "FL\/125 ml",
-        null,
+        "0,000",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL",
         "OPALIA PHARMA",
         9023674
@@ -1385,7 +1415,7 @@
         "Solut\u00e9 buccal",
         null,
         "FL\/250 ml",
-        null,
+        "0,000",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL",
         "OPALIA PHARMA",
         9023675
@@ -1415,7 +1445,7 @@
         "Collutoire",
         null,
         "FL\/30 ml",
-        null,
+        "0,000",
         "BENZYDAMINE",
         "OPALIA PHARMA S.A.",
         null
@@ -1455,7 +1485,7 @@
         "Solut\u00e9 buccal",
         "0,12\u00a0%",
         "FL\/120 ml",
-        null,
+        "0,000",
         "CHLORHEXIDINE",
         "PHARMADERM",
         null
@@ -1565,7 +1595,7 @@
         "Comprim\u00e9s \u00e0 sucer",
         null,
         "B\/18",
-        null,
+        "0,000",
         "ARGININE ASPARTATE",
         "SIPHAT",
         9003102
@@ -1645,7 +1675,7 @@
         "Ampoules buvables",
         null,
         "C\/100\/10 ml",
-        null,
+        "0,000",
         "SORBITOL+CHOLINE",
         "SIPHAT",
         "9000342H"
@@ -1755,7 +1785,7 @@
         "Solution injectable",
         "100 mg",
         "B\/50\/2 ml",
-        null,
+        "0,000",
         "VITAMINE B1",
         "SIPHAT",
         "ST9000372H"
@@ -1775,7 +1805,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         null,
         "B\/500",
-        null,
+        "0,000",
         "VITAMINE B1+VITAMINE B12+VITAMINE B6",
         "SIPHAT",
         "9000502H"
@@ -1815,7 +1845,7 @@
         "Comprim\u00e9s \u00e0 sucer",
         "500 mg",
         "B\/2 Tubes\/12",
-        null,
+        "0,000",
         "VITAMINE C",
         "IBN AL BAYTAR",
         9073351
@@ -1825,7 +1855,7 @@
         "Comprim\u00e9s",
         "500 mg",
         "B\/500",
-        null,
+        "0,000",
         "VITAMINE C",
         "SIPHAT",
         "9000451H"
@@ -1855,7 +1885,7 @@
         "Solution injectable",
         "500 mg\/5 ml",
         "B\/100\/5 ml",
-        null,
+        "0,000",
         "VITAMINE C",
         "RENAUDIN",
         "7713011H"
@@ -1875,7 +1905,7 @@
         "Solution pour prick-test cutan\u00e9",
         "10 mg\/ml",
         "B\/1 FL\/3 ml",
-        null,
+        "0,000",
         "HISTAMINE",
         "STALLERGENES",
         3653052
@@ -1885,7 +1915,7 @@
         "Solution pour prick-test cutan\u00e9",
         null,
         "B\/1 FL\/3 ml",
-        null,
+        "0,000",
         "T\u00e9moin N\u00e9gatif",
         "STALLERGENES",
         3653051
@@ -1895,7 +1925,7 @@
         "Solution glyc\u00e9ro-saline d'extrais allerg\u00e9niques\u00e0 usage diagnostique",
         "100 IR\/ml ou 100 IC\/ml ou 1000",
         "B\/1 FL\/3 ml",
-        null,
+        "0,000",
         "EXTRAITS ALLERGENIQUES",
         "STALLERGENES",
         3653053
@@ -1945,7 +1975,7 @@
         "Solution buvable",
         null,
         "B\/20 unidoses\/1 ml",
-        null,
+        "0,000",
         "ALLIUM CEPA+BELLADONA...",
         "BOIRON",
         6873043
@@ -1965,7 +1995,7 @@
         "Gouttes buvables",
         null,
         "FL\/30 ml",
-        null,
+        "0,000",
         "ARNICA",
         "LEHNING",
         7053101
@@ -2035,7 +2065,7 @@
         "Comprim\u00e9s orodispersibles",
         null,
         "B\/40",
-        null,
+        "0,000",
         "HOMEOPATHIE",
         "LEHNING",
         7053111
@@ -2271,6 +2301,16 @@
         null
     ],
     [
+        "COCYNTAL",
+        "Solution Buvable",
+        null,
+        "Bt 30 Doses",
+        "35,240",
+        "HOMEOPATHIE",
+        "BOIRON",
+        6873651
+    ],
+    [
         "CAMILIA",
         "Solution buvable",
         null,
@@ -2475,7 +2515,7 @@
         "Pommade dermique",
         "10\u00a0%",
         "T\/60 gr",
-        null,
+        "0,000",
         "CROTAMITON",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623021
@@ -2525,7 +2565,7 @@
         "Solution externe",
         "12,5%",
         "FL\/4 gr",
-        null,
+        "0,000",
         "ACIDE SALICYLIQUE+COLLODION OFFICINAL",
         "SODIA",
         4173011
@@ -2595,7 +2635,7 @@
         "Solution externe",
         "2%",
         "FL\/120 ml",
-        null,
+        "0,000",
         "MINOXIDIL",
         "IPS (Industrie Pharmaceutique Said)",
         9273031
@@ -2605,7 +2645,7 @@
         "Solution externe",
         "2%",
         "FL\/90 ml + S\u00e9r\/1 ml",
-        null,
+        "0,000",
         "MINOXIDIL",
         "OPALIA PHARMA",
         9023661
@@ -2615,7 +2655,7 @@
         "Solution externe",
         "2%",
         "Coffret de 2 FL\/120 ml",
-        null,
+        "0,000",
         "MINOXIDIL",
         "PHARMAGHREB",
         9013163
@@ -2645,7 +2685,7 @@
         "Solution externe",
         "5%",
         "FL\/120 ml",
-        null,
+        "0,000",
         "MINOXIDIL",
         "IPS (Industrie Pharmaceutique Said)",
         9273032
@@ -2655,7 +2695,7 @@
         "Solution externe",
         "5%",
         "FL\/90 ml + pipette\/1 ml",
-        null,
+        "0,000",
         "MINOXIDIL",
         "OPALIA PHARMA",
         9023662
@@ -2685,7 +2725,7 @@
         "Pommade dermique",
         null,
         "T\/50 gr",
-        null,
+        "0,000",
         "OXYDE DE ZINC",
         "PHARMADERM",
         9053021
@@ -2735,7 +2775,7 @@
         "Gel dermique",
         null,
         "T\/30 gr",
-        null,
+        "0,000",
         "ADAPALENE+PEROXYDE DE BENZOYLE",
         "GALDERMA INTERNATIONAL",
         7393091
@@ -2775,7 +2815,7 @@
         "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
         "2 mg",
         "B\/10\/10x10 cm",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "FIDIA Farmaceutici SpA",
         7883023
@@ -2785,7 +2825,7 @@
         "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
         "4 mg",
         "B\/10\/10x20 cm",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "FIDIA Farmaceutici SpA",
         7883024
@@ -2795,7 +2835,7 @@
         "Cr\u00e8me dermique",
         "0,2 %",
         "T\/15 gr",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "FIDIA Farmaceutici SpA",
         7883021
@@ -2805,7 +2845,7 @@
         "Poudre \u00e0 usage externe",
         "0,2 %",
         "FL\/50 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "FIDIA Farmaceutici SpA",
         7883041
@@ -2815,7 +2855,7 @@
         "Poudre \u00e0 usage externe",
         "0,2 %",
         "FL\/125 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "FIDIA Farmaceutici SpA",
         7883042
@@ -2845,7 +2885,7 @@
         "Emulsion",
         "0,67%",
         "T\/93 gr",
-        null,
+        "0,000",
         "TROLAMINE",
         "ALEPT",
         12133021
@@ -2875,7 +2915,7 @@
         "Emulsion",
         "0,67%",
         "T\/186 gr",
-        null,
+        "0,000",
         "TROLAMINE",
         "ALEPT",
         12133022
@@ -2955,7 +2995,7 @@
         "Granul\u00e9s pour solution buvable",
         "25 mg",
         "B\/20 Sachets",
-        null,
+        "0,000",
         "DEXKETOPROFENE",
         "MENARINI S.A ESPAGNE",
         1273023
@@ -3075,7 +3115,7 @@
         "Solution buvable",
         "2 mg",
         "B\/45 Sachets-dose\/2 ml",
-        null,
+        "0,000",
         "ACIDE URIDINE-5' TRIPHOSPHORIQUE",
         "OPALIA PHARMA",
         9023732
@@ -3085,7 +3125,7 @@
         "Solution buvable",
         "2 mg",
         "B\/45\/2 ml",
-        null,
+        "0,000",
         "ACIDE URIDINE-5' TRIPHOSPHORIQUE",
         "OPALIA PHARMA",
         9023731
@@ -3105,7 +3145,7 @@
         "Collyre",
         null,
         "FL\/10 ml",
-        null,
+        "0,000",
         "CHONDROITINE",
         "ALCON FRANCE",
         6163021
@@ -3145,7 +3185,7 @@
         "G\u00e9lules",
         "500 mg",
         "B\/60",
-        null,
+        "0,000",
         "CHONDROITINE",
         "PHARMAGHREB",
         9014101
@@ -3185,7 +3225,7 @@
         "Solution injectable",
         "20 mg\/2 ml",
         "B\/1\/2 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "NORDIC PHARMA",
         10783011
@@ -3195,7 +3235,7 @@
         "Solution injectable",
         "20 mg\/2 ml",
         "B\/1\/2 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "CROMA PHARMA GMBH",
         14203011
@@ -3295,7 +3335,7 @@
         "Gel dermique",
         null,
         "T\/100 gr",
-        null,
+        "0,000",
         "ACIDE SALICYLIQUE+MENTHOL+RESORCINE+VERATROL",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783012
@@ -3305,7 +3345,7 @@
         "Baume",
         null,
         "T\/60 gr",
-        null,
+        "0,000",
         "CAMPHRE+EUCALYPTOL+MENTHOL PUR",
         "PHARMADERM",
         9053011
@@ -3495,7 +3535,7 @@
         "Solution intra-oculaire",
         "10 mg\/ml",
         "B\/1 Seringue\/0,85 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "ABBOTT MEDICAL OPTICS (AMO) UPPSALA AB",
         "15583011H"
@@ -3505,7 +3545,7 @@
         "Solution intra-oculaire",
         "10 mg\/ml",
         "B\/1 Seringue\/0,85 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "ALCON FRANCE",
         "6643171H"
@@ -3515,7 +3555,7 @@
         "Solution intra-oculaire",
         "10 mg\/ml",
         "B\/1 Seringue\/1 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "HYALTECH LTD",
         "4353011H"
@@ -3525,7 +3565,7 @@
         "Solution intra-oculaire",
         "14 mg\/ml",
         "Seringue\/0,85 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "ADVANCED MEDICAL OPTIC UPPSALA AB",
         "11393012H"
@@ -3535,7 +3575,7 @@
         "Solution intra-oculaire",
         "15 mg\/ml",
         "B\/1 Seringue\/1 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "HYALTECH LTD",
         "4353012H"
@@ -3545,7 +3585,7 @@
         "Pr\u00e9paration Visco\u00e9lastique",
         "16 mg\/ml",
         "B\/1 Seringue\/0,8 ml",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "BAUSCH AND LOMB",
         "11793021H"
@@ -3555,7 +3595,7 @@
         "Solution intra-oculaire",
         null,
         "B\/1 Seringue pr\u00e9-remplie",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "CROMA PHARMA GMBH",
         14203022
@@ -3565,7 +3605,7 @@
         "Solution intra-oculaire",
         null,
         "B\/1 Seringue pr\u00e9-remplie",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "VALEANT MED SP Z.O.O",
         "20383012H"
@@ -3575,7 +3615,7 @@
         "Solution intra-oculaire",
         null,
         "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "CROMA PHARMA GMBH",
         14203021
@@ -3585,7 +3625,7 @@
         "Solution intra-oculaire",
         null,
         "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
+        "0,000",
         "HYALURONATE DE SODIUM",
         "VALEANT MED SP Z.O.O",
         "20383011H"
@@ -3605,7 +3645,7 @@
         "Collyre",
         "0,1\u00a0%",
         "FL\/10 ml",
-        null,
+        "0,000",
         "INOSINE",
         "ALCON FRANCE",
         6643081
@@ -3965,7 +4005,7 @@
         "Solution injectable",
         "25000 UI\/5 ml",
         "B\/10\/FL\/5 ml",
-        null,
+        "0,000",
         "HEPARINE SODIQUE",
         "UNIMED",
         "9094041H"
@@ -3975,7 +4015,7 @@
         "Solution injectable",
         "25 000 UI\/ 5 ml",
         "B\/10 FL\/5 ml",
-        null,
+        "0,000",
         "HEPARINE SODIQUE",
         "LES LABORATOIRES MEDIS",
         "9233181H"
@@ -4085,7 +4125,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "15 mg",
         "B\/28",
-        null,
+        "0,000",
         "RIVAROXABAN",
         "BAYER AG...",
         8363023
@@ -4245,7 +4285,7 @@
         "Solution injectable",
         "600 UL",
         "B\/10\/2 ML",
-        null,
+        "0,000",
         "SULODEXIDE",
         "ALFASIGMA  S.p.A.",
         6683082
@@ -4269,6 +4309,16 @@
         "TICAGRELOR",
         "GALPHARMA",
         9223691
+    ],
+    [
+        "BRILOR",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "90 mg",
+        "B\/60",
+        "89,760",
+        "TICAGRELOR",
+        "DAR ESSAYDALI",
+        9213521
     ],
     [
         "THERAGLOR",
@@ -4325,7 +4375,7 @@
         "Solution injectable",
         "7,46 %",
         "B\/100\/10 ml",
-        null,
+        "0,000",
         "CHLORURE DE POTASSIUM",
         "UNIMED",
         "9093081BH"
@@ -4335,7 +4385,7 @@
         "Solution injectable",
         "15%",
         "B\/50\/10ML",
-        null,
+        "0,000",
         "MAGNESIUM",
         "LABORATOIRE AGUETTANT",
         "7093072H"
@@ -4585,7 +4635,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "300 mg",
         "B\/30",
-        null,
+        "0,000",
         "DIOSMINE",
         "PHARMAGHREB",
         9013501
@@ -4625,7 +4675,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         "500 mg",
         "B\/30",
-        null,
+        "0,000",
         "DIOSMINE+HESPERIDINE",
         "SERVIER",
         6350022
@@ -4635,7 +4685,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         "500 mg",
         "B\/30",
-        null,
+        "0,000",
         "DIOSMINE+HESPERIDINE",
         "SAIPH",
         9163081
@@ -4715,7 +4765,7 @@
         "Ampoules buvables",
         null,
         "C\/30\/5 ml",
-        null,
+        "0,000",
         "VITAMINE C+EXT DE RUSCUS ACULEATUS+HESPERIDINE METHYL CHALCO",
         "PIERRE FABRE MEDICAMENT",
         6060015
@@ -4775,7 +4825,7 @@
         "Comprim\u00e9s",
         "2 mg",
         "B\/28",
-        null,
+        "0,000",
         "DIENOGEST",
         "JENAPHARM GmbH& Co.KG",
         17463031
@@ -4795,7 +4845,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "0,03 mg\/3 mg",
         "B\/21",
-        null,
+        "0,000",
         "DROSPIRENONE+ETHINYLESTRADIOL",
         "STRAGEN PHARMA S.A",
         1533041
@@ -4805,7 +4855,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         null,
         "B\/21",
-        null,
+        "0,000",
         "DROSPIRENONE+ETHINYLESTRADIOL",
         "BAYER HEALTHCARE  SAS.FRANCE",
         5123051
@@ -4905,7 +4955,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "30 mg",
         "B\/3",
-        null,
+        "0,000",
         "DAPOXETINE",
         "MENARINI Ind.Farmaceutiche Internazionale SRL",
         7053062
@@ -4945,7 +4995,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "60 mg",
         "B\/3",
-        null,
+        "0,000",
         "DAPOXETINE",
         "MENARINI Ind.Farmaceutiche Internazionale SRL",
         7503061
@@ -4995,7 +5045,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "LES LABORATOIRES MEDIS",
         9233661
@@ -5005,7 +5055,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "ADWYA",
         9044081
@@ -5015,7 +5065,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "ADWYA",
         9044082
@@ -5115,7 +5165,7 @@
         "Comprim\u00e9s orodispersibles",
         "50 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "OPALIA PHARMA",
         "ST9023981"
@@ -5125,7 +5175,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "50 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "SAIPH",
         9163921
@@ -5135,7 +5185,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "LES LABORATOIRES MEDIS",
         9233662
@@ -5165,7 +5215,7 @@
         "Comprim\u00e9s orodispersibles",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "OPALIA PHARMA",
         "ST9023982"
@@ -5175,7 +5225,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "SAIPH",
         9163922
@@ -5185,7 +5235,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "GALPHARMA",
         9223443
@@ -5195,7 +5245,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "ADWYA",
         9044084
@@ -5265,7 +5315,7 @@
         "Comprim\u00e9s orodispersibles",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "OPALIA PHARMA",
         "ST9023983"
@@ -5275,7 +5325,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "SAIPH",
         9163923
@@ -5285,7 +5335,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/4",
-        null,
+        "0,000",
         "SILDENAFIL",
         "GALPHARMA",
         9223442
@@ -5295,7 +5345,7 @@
         "Comprim\u00e9s orodispersibles",
         "100 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "OPALIA PHARMA",
         "ST9023984"
@@ -5305,7 +5355,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "GALPHARMA",
         9223444
@@ -5315,7 +5365,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/8",
-        null,
+        "0,000",
         "SILDENAFIL",
         "ADWYA",
         9044086
@@ -5375,7 +5425,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353115
@@ -5385,7 +5435,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "TADALAFIL",
         "SAIPH",
         9164121
@@ -5435,7 +5485,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "SAIPH",
         9164122
@@ -5445,7 +5495,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "TERIAK",
         9253831
@@ -5475,7 +5525,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/8",
-        null,
+        "0,000",
         "TADALAFIL",
         "SAIPH",
         9164123
@@ -5485,7 +5535,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/8",
-        null,
+        "0,000",
         "TADALAFIL",
         "TERIAK",
         9253833
@@ -5535,7 +5585,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353113
@@ -5545,7 +5595,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "DAR-ESSAYDALI.",
         9213371
@@ -5555,7 +5605,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "SAIPH",
         9164124
@@ -5565,7 +5615,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "TERIAK",
         9253832
@@ -5575,7 +5625,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "20 mg",
         "B\/4",
-        null,
+        "0,000",
         "TADALAFIL",
         "LES LABORATOIRES MEDIS",
         9233771
@@ -5625,7 +5675,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/8",
-        null,
+        "0,000",
         "TADALAFIL",
         "SAIPH",
         9164125
@@ -5635,7 +5685,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/8",
-        null,
+        "0,000",
         "TADALAFIL",
         "TERIAK",
         9253834
@@ -5645,7 +5695,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/10",
-        null,
+        "0,000",
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353112
@@ -5655,7 +5705,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "20 mg",
         "B\/12",
-        null,
+        "0,000",
         "TADALAFIL",
         "DAR-ESSAYDALI.",
         9213373
@@ -5725,7 +5775,7 @@
         "Comprim\u00e9s",
         "600 mg\/50 mg",
         "B\/300",
-        null,
+        "0,000",
         "CODEINE+PARACETAMOL",
         "SIPHAT",
         "9003019H"
@@ -5745,7 +5795,7 @@
         "Comprim\u00e9s",
         null,
         "B\/16",
-        null,
+        "0,000",
         "CODEINE+PARACETAMOL",
         "MEDA PHARMA",
         6313031
@@ -6005,7 +6055,7 @@
         "Comprim\u00e9s",
         "8 mg",
         "B\/90",
-        null,
+        "0,000",
         "BETAHISTINE",
         "PHARMAGHREB",
         9013531
@@ -6025,7 +6075,7 @@
         "Dispositif trans-dermique",
         "36 mg\/7 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783024
@@ -6035,7 +6085,7 @@
         "Dispositif trans-dermique",
         "36 mg\/7 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783021
@@ -6045,7 +6095,7 @@
         "Dispositif trans-dermique",
         "36 mg\/7 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783025
@@ -6055,7 +6105,7 @@
         "Dispositif trans-dermique",
         "7 mg\/24H",
         "B\/7",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063384
@@ -6065,7 +6115,7 @@
         "Dispositif trans-dermique",
         "7 mg\/24H",
         "B\/28",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063383
@@ -6075,7 +6125,7 @@
         "Dispositif trans-dermique",
         "7 mg\/24H",
         "B\/28",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063383
@@ -6085,7 +6135,7 @@
         "Dispositif trans-dermique",
         "14 mg\/24H",
         "B\/7 Sachets",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063381
@@ -6095,7 +6145,7 @@
         "Dispositif trans-dermique",
         "14 mg\/24H",
         "B\/28 Sachets",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063382
@@ -6105,7 +6155,7 @@
         "Dispositif trans-dermique",
         "21 mg\/24H",
         "B\/7",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063385
@@ -6115,7 +6165,7 @@
         "Dispositif trans-dermique",
         "21 mg\/24H",
         "B\/28",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT",
         6063386
@@ -6125,7 +6175,7 @@
         "Dispositif trans-dermique",
         "35 mg\/20 cm\u00b2",
         "B\/7 Dispositifs Transdermiques",
-        null,
+        "0,000",
         "NICOTINE",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623083
@@ -6135,7 +6185,7 @@
         "Dispositif trans-dermique",
         "35 mg\/20 cm\u00b2",
         "B\/28 Dispositifs Transdermiques",
-        null,
+        "0,000",
         "NICOTINE",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623084
@@ -6145,7 +6195,7 @@
         "Dispositif trans-dermique",
         "78 mg\/15 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783027
@@ -6155,7 +6205,7 @@
         "Dispositif trans-dermique",
         "78 mg\/15 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783022
@@ -6165,7 +6215,7 @@
         "Dispositif trans-dermique",
         "78 mg\/15 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783026
@@ -6175,7 +6225,7 @@
         "Dispositif trans-dermique",
         "114 mg\/22 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783029
@@ -6185,7 +6235,7 @@
         "Dispositif trans-dermique",
         "114 mg\/22 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783023
@@ -6195,7 +6245,7 @@
         "Dispositif trans-dermique",
         "114 mg\/22 cm\u00b2",
         "B\/14 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "GlaxoSmithKline Sant\u00e9 Grand Public",
         1783028
@@ -6205,7 +6255,7 @@
         "Dispositif trans-dermique",
         "17,5 mg\/10 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623081
@@ -6215,7 +6265,7 @@
         "Dispositif trans-dermique",
         "17,5 mg\/10 cm\u00b2",
         "B\/28 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623082
@@ -6225,7 +6275,7 @@
         "Dispositif trans-dermique",
         "52,5 mg\/30 cm\u00b2",
         "B\/7 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623085
@@ -6235,7 +6285,7 @@
         "Dispositif trans-dermique",
         "52,5 mg\/30 cm\u00b2",
         "B\/28 Timbres",
-        null,
+        "0,000",
         "NICOTINE",
         "NOVARTIS SANTE FAMILIALE S.A.S",
         1623086
@@ -6245,7 +6295,7 @@
         "Pastilles",
         "1,5 mg",
         "B\/36",
-        null,
+        "0,000",
         "NICOTINE",
         "PIERRE FABRE MEDICAMENT .",
         6063314
@@ -6325,7 +6375,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "PHARMAGHREB",
         9013821
@@ -6335,7 +6385,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "SAIPH",
         9163871
@@ -6345,7 +6395,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "ACTAVIS Group PTC ehf",
         10243131
@@ -6355,7 +6405,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "LES LABORATOIRES MEDIS",
         9233501
@@ -6365,7 +6415,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "TERIAK",
         9253981
@@ -6405,7 +6455,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "PHARMAGHREB",
         9013822
@@ -6415,7 +6465,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "SAIPH",
         9163872
@@ -6425,7 +6475,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "ACTAVIS Group PTC ehf",
         10243132
@@ -6435,7 +6485,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "LES LABORATOIRES MEDIS",
         9233502
@@ -6445,7 +6495,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/30",
-        null,
+        "0,000",
         "DONEPEZIL",
         "TERIAK",
         9253982
@@ -6455,7 +6505,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/90",
-        null,
+        "0,000",
         "DONEPEZIL",
         "PHARMAGHREB",
         9013823
@@ -6529,6 +6579,16 @@
         "MEMANTINE",
         "TERIAK",
         9254163
+    ],
+    [
+        "ZENEXOR LP",
+        "G\u00e9lules \u00e0 Lib\u00e9ration Prolong\u00e9e",
+        "75 mg",
+        "B\/60",
+        "45,545",
+        "VENLAFAXINE",
+        "OPALIA PHARMA S.A.",
+        9023923
     ],
     [
         "EFEXOR",
@@ -6635,7 +6695,7 @@
         null,
         null,
         null,
-        null,
+        "0,000",
         "RISPERIDONE",
         "PHARMACARE",
         9343431
@@ -6645,7 +6705,7 @@
         null,
         null,
         null,
-        null,
+        "0,000",
         "RISPERIDONE",
         "PHARMACARE",
         9343433
@@ -6685,7 +6745,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
         "B\/15",
-        null,
+        "0,000",
         "ZOLPIDEM",
         "PHARMAGHREB",
         9013801
@@ -6695,7 +6755,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
         "B\/15",
-        null,
+        "0,000",
         "ZOLPIDEM",
         "ADWYA",
         9044071
@@ -6785,7 +6845,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "CAMPHRE+EUCALYPTOL+GAIACOL",
         "SIPHAT",
         "9000134H"
@@ -6795,7 +6855,7 @@
         "Suppositoires",
         null,
         "B\/100",
-        null,
+        "0,000",
         "CAMPHRE+EUCALYPTOL+GAIACOL",
         "SIPHAT",
         "9000135H"
@@ -6845,7 +6905,7 @@
         "Pommade dermique",
         null,
         "Pot\/50 gr",
-        null,
+        "0,000",
         "LEVOMENTHOL+CAMPHRE+THYMOL",
         "OPALIA PHARMA S.A.",
         9023621
@@ -6855,7 +6915,7 @@
         "Collyre",
         "5%",
         "FL\/5 ml",
-        null,
+        "0,000",
         "ACETYLCYSTEINE",
         "BRUSCHETTINI",
         7583061
@@ -6865,7 +6925,7 @@
         "Poudre pour solution orale",
         "200 mg",
         "B\/18 Sachets",
-        null,
+        "0,000",
         "ACETYLCYSTEINE",
         "GALPHARMA",
         9223102
@@ -6905,7 +6965,7 @@
         "Poudre pour suspension orale",
         "200 mg",
         "B\/30 S\/3 gr",
-        null,
+        "0,000",
         "ACETYLCYSTEINE",
         "ADWYA",
         9043231
@@ -6915,7 +6975,7 @@
         "Comprim\u00e9s",
         "30 mg",
         "B\/30",
-        null,
+        "0,000",
         "AMBROXOL",
         "GALPHARMA",
         9223451
@@ -6925,7 +6985,7 @@
         "Solution buvable",
         "0,3\u00a0%",
         "FL\/150 ml",
-        null,
+        "0,000",
         "AMBROXOL",
         "PHARMAGHREB",
         9013491
@@ -6935,7 +6995,7 @@
         "Solution buvable",
         "30 mg\/5 ml",
         "FL\/150 ml",
-        null,
+        "0,000",
         "AMBROXOL",
         "BOEHRINGER INGELHEIM FRANCE",
         5213062
@@ -6955,7 +7015,7 @@
         "Solution buvable",
         "0,3\u00a0%",
         "FL\/180 ml",
-        null,
+        "0,000",
         "AMBROXOL",
         "ADWYA",
         9044241
@@ -6975,7 +7035,7 @@
         "Solution buvable",
         "0,6\u00a0%",
         "FL\/150 ml",
-        null,
+        "0,000",
         "AMBROXOL",
         "GALPHARMA",
         9223452
@@ -7015,7 +7075,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "4 mg",
         "B\/500",
-        null,
+        "0,000",
         "BROMHEXINE",
         "SIPHAT",
         "9003141H"
@@ -7025,7 +7085,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "4 mg",
         "B\/1000",
-        null,
+        "0,000",
         "BROMHEXINE",
         "SIPHAT",
         "9003142H"
@@ -7035,7 +7095,7 @@
         "Solution buvable",
         "0,2 %",
         "FL\/60 ml",
-        null,
+        "0,000",
         "BROMHEXINE",
         "OPALIA PHARMA",
         9023461
@@ -7065,7 +7125,7 @@
         "Sirop",
         "150 mg\/ml",
         "FL\/100 ml",
-        null,
+        "0,000",
         "BUTAMIRATE",
         "SIMED",
         9083552
@@ -7075,7 +7135,7 @@
         "Sirop",
         "2%",
         "FL\/90 ml",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "GALPHARMA",
         9223061
@@ -7135,7 +7195,7 @@
         "Sirop",
         "2%",
         "FL\/200 gr",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "OPALIA PHARMA S.A.",
         9023191
@@ -7155,7 +7215,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "SIMED",
         "9083023B"
@@ -7165,7 +7225,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "WEST PHARMA",
         9293232
@@ -7175,7 +7235,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "PHARMADERM",
         9053101
@@ -7225,7 +7285,7 @@
         "Solution buvable",
         "5%",
         "FL\/200 ml",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "PHARMADERM",
         9053102
@@ -7235,7 +7295,7 @@
         "Sirop",
         "5%",
         "FL\/200 gr",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "OPALIA PHARMA S.A.",
         9023192
@@ -7285,7 +7345,7 @@
         "Solution buvable",
         "5%",
         "FL\/300 ml",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "PHARMAGHREB",
         9013471
@@ -7295,7 +7355,7 @@
         "Sirop",
         "5%",
         "B\/12 Sachets\/15 gr",
-        null,
+        "0,000",
         "CARBOCISTEINE",
         "OPALIA PHARMA S.A.",
         9023195
@@ -7305,7 +7365,7 @@
         "Sirop",
         "1 mg\/ml",
         "FL\/200 ml",
-        null,
+        "0,000",
         "CODEINE",
         "BOUCHARA-RECORDATI",
         5225013
@@ -7335,7 +7395,7 @@
         "Sirop",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "CODEINE",
         "SIPHAT",
         9003751
@@ -7345,7 +7405,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "CODEINE",
         "SIPHAT",
         9003754
@@ -7405,7 +7465,7 @@
         "Sirop",
         null,
         "FL\/125 ml",
-        null,
+        "0,000",
         "CODEINE+ESPECES PECTORALES",
         "SIPHAT",
         9003753
@@ -7425,7 +7485,7 @@
         "Sirop",
         null,
         "FL\/200 ml",
-        null,
+        "0,000",
         "CODEINE+ESPECES PECTORALES",
         "SIPHAT",
         9003752
@@ -7545,7 +7605,7 @@
         "Sirop",
         "0,3\u00a0%",
         "FL\/150 ml",
-        null,
+        "0,000",
         "DEXTROMETHORPHANE",
         "SIMED",
         9083212
@@ -7555,7 +7615,7 @@
         "Solution buvable",
         "1,5 mg\/ml",
         "FL\/125 ml",
-        null,
+        "0,000",
         "DEXTROMETHORPHANE",
         "ELERTE FRANCE",
         14803011
@@ -7725,7 +7785,7 @@
         "G\u00e9lules",
         null,
         "B\/20",
-        null,
+        "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "McNeil",
         7493081
@@ -7805,7 +7865,7 @@
         "Granul\u00e9s pour solution buvable",
         null,
         "B\/8 Sachets",
-        null,
+        "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "TERIAK",
         9253871
@@ -7815,7 +7875,7 @@
         "Granul\u00e9s pour suspension buvable",
         null,
         "B\/8 Sachets",
-        null,
+        "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "TERIAK",
         9253492
@@ -7855,7 +7915,7 @@
         "Poudre pour suspension orale",
         null,
         "B\/12 Sachets",
-        null,
+        "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "ADWYA",
         9044142
@@ -7995,7 +8055,7 @@
         "Comprim\u00e9s enrob\u00e9s",
         "3000 U",
         "B\/20",
-        null,
+        "0,000",
         "ALPHA-AMYLASE",
         "SIPHAT",
         9003441
@@ -8015,7 +8075,7 @@
         "Sirop",
         "1000 U.CEIP\/5 ml",
         "FL\/125 ml",
-        null,
+        "0,000",
         "ALPHA-AMYLASE",
         "SIPHAT",
         9003442
@@ -8035,7 +8095,7 @@
         "Pastilles",
         "20 mg",
         "B\/24",
-        null,
+        "0,000",
         "BICLOTYMOL",
         "URGO",
         1893011
@@ -8045,7 +8105,7 @@
         "Pastilles",
         "20 mg",
         "B\/24",
-        null,
+        "0,000",
         "BICLOTYMOL",
         "URGO",
         1893012
@@ -8235,7 +8295,7 @@
         "Comprim\u00e9s",
         null,
         "B\/16",
-        null,
+        "0,000",
         "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
         "TERIAK",
         9254131
@@ -8255,7 +8315,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg\/30 mg\/ 250 mg",
         "B\/20",
-        null,
+        "0,000",
         "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
         "TERIAK",
         9254121

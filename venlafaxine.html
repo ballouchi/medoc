@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Antidépresseurs">
-<meta name="keywords" content="antidepresseurs,  tedema, zenexor lp, tedema lp, effexor lp, venlafaxine">
+<meta name="keywords" content="antidepresseurs,  tedema, zenexor lp, tedema lp, effexor lp, venlafaxine, efexor">
 <title>Venlafaxine | Prix des médicaments en Tunisie</title>
 <link rel="stylesheet" href="css/syntax.css">
 
@@ -118,91 +118,55 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
-          var table = $('table.display').DataTable({
-            paging: false,
-            info: true,
-            searching: true,
-            order: [],
-            stateSave: false,
-            language: {
-                url: "js/fr-FR.json",
-                buttons: {
-					colvis: "Colonnes Visibles"
-				},
-			},
-            layout: {
-				topStart: {
-		            buttons: [
-			            {
-							extend: 'colvis',
-							postfixButtons: ['colvisRestore']
+          $('table.display').each(function(i) {
+			    var thisTable = $(this);
+			    var thisName = thisTable.attr('id');
+			    thisTable.DataTable({
+		              paging: false,
+		              stateSave: false,
+		              searching: true,
+		              order: [],
+		              language: {
+		                url: "js/fr-FR.json",
+		                buttons: {
+							colvis: "Colonnes Visibles"
 						},
-			            {
-							extend: 'pdfHtml5',
-							exportOptions: { 
-								columns: [0, ':visible']
-							},
-						},
-		                {
-		                    extend: 'excelHtml5',
-		                    title: null,
-		                    exportOptions: { columns: [0, ':visible'] },
-		                    customize: function ( xlsx ) {
-							        var sheet = xlsx.xl.worksheets['sheet1.xml'];
-							        
-							        // Map used to map column index to Excel index
-							        var excelMap = {
-							          0: 'A',
-							          1: 'B',
-							          2: 'C',
-							          3: 'D',
-							          4: 'E',
-							          5: 'F',
-							          6: 'G',
-							          7: 'H',
-							          8: 'I'
-							        };
-							        
-							        var count = 0;
-							        var skippedHeader = false;
-							        $('row', sheet).each( function () {
-							          var row = this;
-							          if (skippedHeader) {
-							//             var colour = $('tbody tr:eq('+parseInt(count)+') td:eq(2)').css('background-color');
-							            
-							            // Output first row
-							            //if (count === 0) {
-							              //console.log(this);
-							            //}
-							            
-							            for (td=0; td<9; td++) {
-							              
-							              // Output cell contents for first row
-							              //if (count === 0) {
-							                //console.log($('c[r^="' + excelMap[td] + '"]', row).text());
-							              //}
-							              var colour = $(table.cell(':eq('+count+')',td).node()).css('background-color');            
-							
-							              if (colour === 'rgb(240, 128, 128)') {
-							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '10' );
-							              }
-							              else if (colour === 'rgb(144, 238, 144)') {
-							                $('c[r^="' + excelMap[td] + '"]', row).attr( 's', '15' );
-							              }
-							            }
-							            count++;
-							          }
-							          else {
-							            skippedHeader = true;
-		                            }
-		                        });
-		                    }
-		                },
-		                
-		            ]
-		         }
-		      }   
-            });
+		              },
+					  layout: {
+		                  topStart: {
+		                      buttons: [
+		                          {
+									  extend: 'colvis',
+									  postfixButtons: ['colvisRestore']
+								  },
+		                          {
+									  extend: 'excelHtml5',
+									  title: null,
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  filename: function () { 
+										  filename = thisName;
+										  return filename;
+									  }
+								  },
+		                          {
+									  extend: 'pdfHtml5',
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  //filename: function () { return $('h2').attr('id'); }
+									  title: function () { 
+										  filename = thisName;
+										  return filename;
+										  }
+								  },
+								  //'copyHtml5', 'csvHtml5', 'print'
+							  ]
+		                  }
+		              },
+	            });
+          });
       });
     </script>
 
@@ -245,6 +209,34 @@
                 
                 <li><a href="changements.html">Mises à jour</a></li>
                 
+                
+                
+                <li><a href="tag_cnam.html">CNAM</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pharmacie Centrale<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        
+                        
+                        <li><a href="tag_circulaires.html">Circulaires Officinales</a></li>
+                        
+                        
+                        
+                        <li><a href="retrait-de-lots-2026.html">Retrait de Lots 2026</a></li>
+                        
+                        
+                        
+                        <li><a href="retrait-de-lots-2025.html">Retrait de Lots 2025</a></li>
+                        
+                        
+                    </ul>
+                </li>
                 
                 
                 
@@ -1147,6 +1139,13 @@
           
           
           
+          <li><a title="Traitement des Vertiges" href="tag_vertiges.html">Traitement des Vertiges</a></li>
+          
+          
+          
+          
+          
+          
           <li><a title="Médicaments Des Etats Spastiques" href="tag_anti-spastiques.html">Médicaments Des Etats Spastiques</a></li>
           
           
@@ -1155,6 +1154,20 @@
           
           
           <li><a title="Traitement de la Myasthénie" href="tag_myasthenie.html">Traitement de la Myasthénie</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments De La Maladie D'Alzheimer" href="tag_demence.html">Médicaments De La Maladie D'Alzheimer</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Nicotine" href="nicotine.html">Nicotine</a></li>
           
           
           
@@ -1432,109 +1445,168 @@
 	
 	        <!-- Content Column -->
 	        <div class="col-md-12" id="tg-sb-content" data-pagefind-body>
-	            <h1 id="venlafaxine-25-375-mg-50-et-75-mg-comprimés-ou-gélules">Venlafaxine 25, 37,5 mg, 50 et 75 mg Comprimés ou Gélules</h1>
+	            <h1 id="venlafaxine-comprimés-ou-gélules">VENLAFAXINE Comprimés ou Gélules</h1>
 
 <div class="bs-callout bs-callout-primary">Antidépresseurs</div>
 
 <style type="text/css">
-#T_venlafaxine_row0_col4, #T_venlafaxine_row1_col4, #T_venlafaxine_row2_col4, #T_venlafaxine_row3_col4, #T_venlafaxine_row4_col4, #T_venlafaxine_row5_col4, #T_venlafaxine_row6_col4 {
+#T_venlafaxine-comprimes_row0_col0, #T_venlafaxine-comprimes_row0_col1, #T_venlafaxine-comprimes_row0_col2, #T_venlafaxine-comprimes_row0_col3, #T_venlafaxine-comprimes_row0_col5, #T_venlafaxine-comprimes_row0_col6 {
+  border-bottom: 3px double black;
+}
+#T_venlafaxine-comprimes_row0_col4 {
+  border-bottom: 3px double black;
+  background-color: lightgreen;
+}
+#T_venlafaxine-comprimes_row1_col4 {
   background-color: lightgreen;
 }
 </style>
 
-<table id="T_venlafaxine" class="display">
+<table id="T_venlafaxine-comprimes" class="display">
   <thead>
     <tr>
-      <th id="T_venlafaxine_level0_col0" class="col_heading level0 col0">Nom</th>
-      <th id="T_venlafaxine_level0_col1" class="col_heading level0 col1">Dosage</th>
-      <th id="T_venlafaxine_level0_col2" class="col_heading level0 col2">Forme</th>
-      <th id="T_venlafaxine_level0_col3" class="col_heading level0 col3">Présentation</th>
-      <th id="T_venlafaxine_level0_col4" class="col_heading level0 col4">Prix</th>
-      <th id="T_venlafaxine_level0_col5" class="col_heading level0 col5">Remboursés</th>
-      <th id="T_venlafaxine_level0_col6" class="col_heading level0 col6">Pourcentage</th>
-      <th id="T_venlafaxine_level0_col7" class="col_heading level0 col7">DCI</th>
+      <th id="T_venlafaxine-comprimes_level0_col0" class="col_heading level0 col0">VENLAFAXINE</th>
+      <th id="T_venlafaxine-comprimes_level0_col1" class="col_heading level0 col1">Forme</th>
+      <th id="T_venlafaxine-comprimes_level0_col2" class="col_heading level0 col2">Dosage</th>
+      <th id="T_venlafaxine-comprimes_level0_col3" class="col_heading level0 col3">Présentation</th>
+      <th id="T_venlafaxine-comprimes_level0_col4" class="col_heading level0 col4">Prix</th>
+      <th id="T_venlafaxine-comprimes_level0_col5" class="col_heading level0 col5">Remboursés</th>
+      <th id="T_venlafaxine-comprimes_level0_col6" class="col_heading level0 col6">Pourcentage</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td id="T_venlafaxine_row0_col0" class="data row0 col0">TEDEMA</td>
-      <td id="T_venlafaxine_row0_col1" class="data row0 col1">25 mg</td>
-      <td id="T_venlafaxine_row0_col2" class="data row0 col2">Comprimés pelliculés</td>
-      <td id="T_venlafaxine_row0_col3" class="data row0 col3">B/30</td>
-      <td id="T_venlafaxine_row0_col4" class="data row0 col4">10,240</td>
-      <td id="T_venlafaxine_row0_col5" class="data row0 col5">8,696</td>
-      <td id="T_venlafaxine_row0_col6" class="data row0 col6">84,92%</td>
-      <td id="T_venlafaxine_row0_col7" class="data row0 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-comprimes_row0_col0" class="data row0 col0">TEDEMA</td>
+      <td id="T_venlafaxine-comprimes_row0_col1" class="data row0 col1">Comprimés pelliculés</td>
+      <td id="T_venlafaxine-comprimes_row0_col2" class="data row0 col2">25 mg</td>
+      <td id="T_venlafaxine-comprimes_row0_col3" class="data row0 col3">B/30</td>
+      <td id="T_venlafaxine-comprimes_row0_col4" class="data row0 col4">10,240</td>
+      <td id="T_venlafaxine-comprimes_row0_col5" class="data row0 col5">8,695</td>
+      <td id="T_venlafaxine-comprimes_row0_col6" class="data row0 col6">84,92%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row1_col0" class="data row1 col0">ZENEXOR LP</td>
-      <td id="T_venlafaxine_row1_col1" class="data row1 col1">37,5 mg</td>
-      <td id="T_venlafaxine_row1_col2" class="data row1 col2">Gélules à libération prolongée</td>
-      <td id="T_venlafaxine_row1_col3" class="data row1 col3">B/30</td>
-      <td id="T_venlafaxine_row1_col4" class="data row1 col4">15,680</td>
-      <td id="T_venlafaxine_row1_col5" class="data row1 col5">13,311</td>
-      <td id="T_venlafaxine_row1_col6" class="data row1 col6">84,89%</td>
-      <td id="T_venlafaxine_row1_col7" class="data row1 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-comprimes_row1_col0" class="data row1 col0">TEDEMA</td>
+      <td id="T_venlafaxine-comprimes_row1_col1" class="data row1 col1">Comprimés pelliculés</td>
+      <td id="T_venlafaxine-comprimes_row1_col2" class="data row1 col2">50 mg</td>
+      <td id="T_venlafaxine-comprimes_row1_col3" class="data row1 col3">B/30</td>
+      <td id="T_venlafaxine-comprimes_row1_col4" class="data row1 col4">14,930</td>
+      <td id="T_venlafaxine-comprimes_row1_col5" class="data row1 col5">12,674</td>
+      <td id="T_venlafaxine-comprimes_row1_col6" class="data row1 col6">84,89%</td>
+    </tr>
+  </tbody>
+</table>
+
+<style type="text/css">
+#T_venlafaxine-gelules_row0_col4, #T_venlafaxine-gelules_row1_col4, #T_venlafaxine-gelules_row3_col4, #T_venlafaxine-gelules_row4_col4 {
+  background-color: lightgreen;
+}
+#T_venlafaxine-gelules_row2_col0, #T_venlafaxine-gelules_row2_col1, #T_venlafaxine-gelules_row2_col2, #T_venlafaxine-gelules_row2_col3, #T_venlafaxine-gelules_row2_col5, #T_venlafaxine-gelules_row2_col6, #T_venlafaxine-gelules_row6_col0, #T_venlafaxine-gelules_row6_col1, #T_venlafaxine-gelules_row6_col2, #T_venlafaxine-gelules_row6_col3, #T_venlafaxine-gelules_row6_col5, #T_venlafaxine-gelules_row6_col6 {
+  border-bottom: 3px double black;
+}
+#T_venlafaxine-gelules_row2_col4 {
+  border-bottom: 3px double black;
+  background-color: lightgreen;
+}
+#T_venlafaxine-gelules_row5_col0, #T_venlafaxine-gelules_row5_col1, #T_venlafaxine-gelules_row5_col2, #T_venlafaxine-gelules_row5_col3, #T_venlafaxine-gelules_row5_col5, #T_venlafaxine-gelules_row5_col6 {
+  border-bottom: 1px solid black;
+}
+#T_venlafaxine-gelules_row5_col4 {
+  border-bottom: 1px solid black;
+  background-color: #ffd380;
+}
+#T_venlafaxine-gelules_row6_col4 {
+  border-bottom: 3px double black;
+  background-color: #e4d2e4;
+}
+#T_venlafaxine-gelules_row7_col4 {
+  background-color: #e4d2e4;
+}
+</style>
+
+<table id="T_venlafaxine-gelules" class="display">
+  <thead>
+    <tr>
+      <th id="T_venlafaxine-gelules_level0_col0" class="col_heading level0 col0">VENLAFAXINE</th>
+      <th id="T_venlafaxine-gelules_level0_col1" class="col_heading level0 col1">Forme</th>
+      <th id="T_venlafaxine-gelules_level0_col2" class="col_heading level0 col2">Dosage</th>
+      <th id="T_venlafaxine-gelules_level0_col3" class="col_heading level0 col3">Présentation</th>
+      <th id="T_venlafaxine-gelules_level0_col4" class="col_heading level0 col4">Prix</th>
+      <th id="T_venlafaxine-gelules_level0_col5" class="col_heading level0 col5">Remboursés</th>
+      <th id="T_venlafaxine-gelules_level0_col6" class="col_heading level0 col6">Pourcentage</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_venlafaxine-gelules_row0_col0" class="data row0 col0">ZENEXOR LP</td>
+      <td id="T_venlafaxine-gelules_row0_col1" class="data row0 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row0_col2" class="data row0 col2">37,5 mg</td>
+      <td id="T_venlafaxine-gelules_row0_col3" class="data row0 col3">B/30</td>
+      <td id="T_venlafaxine-gelules_row0_col4" class="data row0 col4">15,680</td>
+      <td id="T_venlafaxine-gelules_row0_col5" class="data row0 col5">13,311</td>
+      <td id="T_venlafaxine-gelules_row0_col6" class="data row0 col6">84,89%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row2_col0" class="data row2 col0">TEDEMA LP</td>
-      <td id="T_venlafaxine_row2_col1" class="data row2 col1">37,5 mg</td>
-      <td id="T_venlafaxine_row2_col2" class="data row2 col2">Gélules à libération prolongée</td>
-      <td id="T_venlafaxine_row2_col3" class="data row2 col3">B/30</td>
-      <td id="T_venlafaxine_row2_col4" class="data row2 col4">15,950</td>
-      <td id="T_venlafaxine_row2_col5" class="data row2 col5">13,311</td>
-      <td id="T_venlafaxine_row2_col6" class="data row2 col6">83,45%</td>
-      <td id="T_venlafaxine_row2_col7" class="data row2 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-gelules_row1_col0" class="data row1 col0">TEDEMA LP</td>
+      <td id="T_venlafaxine-gelules_row1_col1" class="data row1 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row1_col2" class="data row1 col2">37,5 mg</td>
+      <td id="T_venlafaxine-gelules_row1_col3" class="data row1 col3">B/30</td>
+      <td id="T_venlafaxine-gelules_row1_col4" class="data row1 col4">15,950</td>
+      <td id="T_venlafaxine-gelules_row1_col5" class="data row1 col5">13,311</td>
+      <td id="T_venlafaxine-gelules_row1_col6" class="data row1 col6">83,45%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row3_col0" class="data row3 col0">EFFEXOR LP</td>
-      <td id="T_venlafaxine_row3_col1" class="data row3 col1">37,5 mg</td>
-      <td id="T_venlafaxine_row3_col2" class="data row3 col2">Gélules à libération prolongée</td>
-      <td id="T_venlafaxine_row3_col3" class="data row3 col3">B/30</td>
-      <td id="T_venlafaxine_row3_col4" class="data row3 col4">19,570</td>
-      <td id="T_venlafaxine_row3_col5" class="data row3 col5">13,311</td>
-      <td id="T_venlafaxine_row3_col6" class="data row3 col6">68,02%</td>
-      <td id="T_venlafaxine_row3_col7" class="data row3 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-gelules_row2_col0" class="data row2 col0">EFFEXOR LP</td>
+      <td id="T_venlafaxine-gelules_row2_col1" class="data row2 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row2_col2" class="data row2 col2">37,5 mg</td>
+      <td id="T_venlafaxine-gelules_row2_col3" class="data row2 col3">B/30</td>
+      <td id="T_venlafaxine-gelules_row2_col4" class="data row2 col4">19,570</td>
+      <td id="T_venlafaxine-gelules_row2_col5" class="data row2 col5">13,311</td>
+      <td id="T_venlafaxine-gelules_row2_col6" class="data row2 col6">68,02%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row4_col0" class="data row4 col0">TEDEMA</td>
-      <td id="T_venlafaxine_row4_col1" class="data row4 col1">50 mg</td>
-      <td id="T_venlafaxine_row4_col2" class="data row4 col2">Comprimés pelliculés</td>
-      <td id="T_venlafaxine_row4_col3" class="data row4 col3">B/30</td>
-      <td id="T_venlafaxine_row4_col4" class="data row4 col4">14,930</td>
-      <td id="T_venlafaxine_row4_col5" class="data row4 col5">12,674</td>
-      <td id="T_venlafaxine_row4_col6" class="data row4 col6">84,89%</td>
-      <td id="T_venlafaxine_row4_col7" class="data row4 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-gelules_row3_col0" class="data row3 col0">EFFEXOR LP</td>
+      <td id="T_venlafaxine-gelules_row3_col1" class="data row3 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row3_col2" class="data row3 col2">75 mg</td>
+      <td id="T_venlafaxine-gelules_row3_col3" class="data row3 col3">B/30</td>
+      <td id="T_venlafaxine-gelules_row3_col4" class="data row3 col4">23,560</td>
+      <td id="T_venlafaxine-gelules_row3_col5" class="data row3 col5">19,456</td>
+      <td id="T_venlafaxine-gelules_row3_col6" class="data row3 col6">82,58%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row5_col0" class="data row5 col0">EFFEXOR LP</td>
-      <td id="T_venlafaxine_row5_col1" class="data row5 col1">75 mg</td>
-      <td id="T_venlafaxine_row5_col2" class="data row5 col2">Gélules à libération prolongée</td>
-      <td id="T_venlafaxine_row5_col3" class="data row5 col3">B/30</td>
-      <td id="T_venlafaxine_row5_col4" class="data row5 col4">23,560</td>
-      <td id="T_venlafaxine_row5_col5" class="data row5 col5">19,456</td>
-      <td id="T_venlafaxine_row5_col6" class="data row5 col6">82,58%</td>
-      <td id="T_venlafaxine_row5_col7" class="data row5 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-gelules_row4_col0" class="data row4 col0">TEDEMA LP</td>
+      <td id="T_venlafaxine-gelules_row4_col1" class="data row4 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row4_col2" class="data row4 col2">75 mg</td>
+      <td id="T_venlafaxine-gelules_row4_col3" class="data row4 col3">B/30</td>
+      <td id="T_venlafaxine-gelules_row4_col4" class="data row4 col4">30,240</td>
+      <td id="T_venlafaxine-gelules_row4_col5" class="data row4 col5">19,456</td>
+      <td id="T_venlafaxine-gelules_row4_col6" class="data row4 col6">64,34%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row6_col0" class="data row6 col0">TEDEMA LP</td>
-      <td id="T_venlafaxine_row6_col1" class="data row6 col1">75 mg</td>
-      <td id="T_venlafaxine_row6_col2" class="data row6 col2">Gélules à libération prolongée</td>
-      <td id="T_venlafaxine_row6_col3" class="data row6 col3">B/30</td>
-      <td id="T_venlafaxine_row6_col4" class="data row6 col4">30,240</td>
-      <td id="T_venlafaxine_row6_col5" class="data row6 col5">19,456</td>
-      <td id="T_venlafaxine_row6_col6" class="data row6 col6">64,34%</td>
-      <td id="T_venlafaxine_row6_col7" class="data row6 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-gelules_row5_col0" class="data row5 col0">ZENEXOR LP</td>
+      <td id="T_venlafaxine-gelules_row5_col1" class="data row5 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row5_col2" class="data row5 col2">75 mg</td>
+      <td id="T_venlafaxine-gelules_row5_col3" class="data row5 col3">B/30</td>
+      <td id="T_venlafaxine-gelules_row5_col4" class="data row5 col4">31,225</td>
+      <td id="T_venlafaxine-gelules_row5_col5" class="data row5 col5">19,456</td>
+      <td id="T_venlafaxine-gelules_row5_col6" class="data row5 col6">62,31%</td>
     </tr>
     <tr>
-      <td id="T_venlafaxine_row7_col0" class="data row7 col0">ZENEXOR LP</td>
-      <td id="T_venlafaxine_row7_col1" class="data row7 col1">75 mg</td>
-      <td id="T_venlafaxine_row7_col2" class="data row7 col2">Gélules à libération prolongée</td>
-      <td id="T_venlafaxine_row7_col3" class="data row7 col3">B/30</td>
-      <td id="T_venlafaxine_row7_col4" class="data row7 col4">31,225</td>
-      <td id="T_venlafaxine_row7_col5" class="data row7 col5">19,456</td>
-      <td id="T_venlafaxine_row7_col6" class="data row7 col6">62,31%</td>
-      <td id="T_venlafaxine_row7_col7" class="data row7 col7">VENLAFAXINE</td>
+      <td id="T_venlafaxine-gelules_row6_col0" class="data row6 col0">ZENEXOR LP</td>
+      <td id="T_venlafaxine-gelules_row6_col1" class="data row6 col1">Gélules à Libération Prolongée</td>
+      <td id="T_venlafaxine-gelules_row6_col2" class="data row6 col2">75 mg</td>
+      <td id="T_venlafaxine-gelules_row6_col3" class="data row6 col3">B/60</td>
+      <td id="T_venlafaxine-gelules_row6_col4" class="data row6 col4">45,545</td>
+      <td id="T_venlafaxine-gelules_row6_col5" class="data row6 col5">0,000</td>
+      <td id="T_venlafaxine-gelules_row6_col6" class="data row6 col6">0,00%</td>
+    </tr>
+    <tr>
+      <td id="T_venlafaxine-gelules_row7_col0" class="data row7 col0">EFEXOR</td>
+      <td id="T_venlafaxine-gelules_row7_col1" class="data row7 col1">Gélules à libération prolongée</td>
+      <td id="T_venlafaxine-gelules_row7_col2" class="data row7 col2">150 mg</td>
+      <td id="T_venlafaxine-gelules_row7_col3" class="data row7 col3">B/28</td>
+      <td id="T_venlafaxine-gelules_row7_col4" class="data row7 col4">55,265</td>
+      <td id="T_venlafaxine-gelules_row7_col5" class="data row7 col5">0,000</td>
+      <td id="T_venlafaxine-gelules_row7_col6" class="data row7 col6">0,00%</td>
     </tr>
   </tbody>
 </table>
@@ -1553,7 +1625,7 @@
 
 				
 				
-					<div class="bs-callout bs-callout-default">Page mise à jour le 3/09/2025</div>
+					<div class="bs-callout bs-callout-default">Page mise à jour le 22/05/2026</div>
 				
  
 	        </div>
@@ -1633,7 +1705,7 @@
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 14/04/2026</li>
+          <li>Prix Publiés le 21/05/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->

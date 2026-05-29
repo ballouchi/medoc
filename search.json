@@ -68,8 +68,238 @@
 
 
 {
+"title": "CNAM: Mises à Jour de Mai 2026",
+"tags": "changementscnam",
+"keywords": "cnam",
+"url": "cnam-2026-05.html",
+"summary": "Changements de Mai 2026 CNAM"
+}
+,
+
+
+{
+"title": "Ozempic (Semaglutide) Injectable",
+"tags": "diabeteautres-diabete",
+"keywords": "ozempic, semaglutide",
+"url": "semaglutide-injectable.html",
+"summary": "Taitement du Diabète de Type 2 chez l'adulte"
+}
+,
+
+
+{
+"title": "Retrait De Lots 2026",
+"tags": "circulaires",
+"keywords": "pct",
+"url": "retrait-de-lots-2026.html",
+"summary": "Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.<br>Le retrait du commerce de ces lots doit se faire immédiatement et sans délai.<br>Le retour à la PCT doit se faire dans un délai ne dépassant pas les 45 jours à partir de la date de la circulaire correspondante."
+}
+,
+
+
+{
+"title": "Circulaires de la Pharmacie Centrale de Mai 2026",
+"tags": "changementscirculaires",
+"keywords": "pct",
+"url": "pct-2026-05.html",
+"summary": "Changements de Mai 2026"
+}
+,
+
+
+{
+"title": "Retrait De Lots 2025",
+"tags": "circulaires",
+"keywords": "pct",
+"url": "retrait-de-lots-2025.html",
+"summary": "Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.<br>Le retrait du commerce de ces lots doit se faire immédiatement et sans délai.<br>Le retour à la PCT doit se faire dans un délai ne dépassant pas les 45 jours à partir de la date de la circulaire correspondante."
+}
+,
+
+
+{
+"title": "Dextromethorphane Sirop",
+"tags": "antitussifs",
+"keywords": "pectolyse, novatoux, rhuvex, drill, tussidane, tussipax, dextromethorphane, guaifenesine",
+"url": "dextromethorphane-sirop.html",
+"summary": "Traitement symptomatique de courte durée des toux sèches et des toux d'irritation"
+}
+,
+
+
+{
+"title": "Carbocisteine Sirop",
+"tags": "expectorantsmucolyse",
+"keywords": "mucolare, bronchokod, bronchothiol, rhinathiol, carbostine, mucosol, bronchotux,  drill, carbogam, carbocisteine",
+"url": "carbocisteine-sirop.html",
+"summary": "Modificateur des sécrétions bronchiques préconisé en cas d'affection respiratoire récente avec difficulté d'expectoration."
+}
+,
+
+
+{
+"title": "Bromhexine",
+"tags": "expectorantsmucolyse",
+"keywords": "bromhexine, bromisol, mucolyte",
+"url": "bromhexine.html",
+"summary": "Traitement des troubles de sécrétion bronchique, notamment au cours des affections bronchiques aigues: bronchite aigue et épisode aigu des bronchopneumopathies chroniques."
+}
+,
+
+
+{
+"title": "Antitussifs Divers",
+"tags": "antitussifs",
+"keywords": "liblab, prospan, ivex,feuille de lierre, dricod, butamirate, paxeladine, oxeladine, polery, pholcodine, erysimum, calmatux, vitamine c, especes pectorales, sodium benzoate, pecto 6, sodium bromure, thiocolor, toplexil, oxomemazine",
+"url": "antitussifs-divers.html",
+"summary": "Traitement symptomatique de la toux"
+}
+,
+
+
+{
+"title": "Ambroxol",
+"tags": "expectorantsmucolyse",
+"keywords": "acticil, ambrogam, surbronc, muxol, flumax, ambroxol",
+"url": "ambroxol.html",
+"summary": "Traitement des troubles de la sécrétion bronchique de l'adulte, notamment au cours des affections bronchiques aigues et des épisodes aigus des bronchopneumopathies chroniques."
+}
+,
+
+
+{
+"title": "Acétylcysteine",
+"tags": "expectorantsmucolyse",
+"keywords": "brunac, mucolyse, mucare, muculator, mucolator, acetylcysteine",
+"url": "acetylcysteine.html",
+"summary": "Traitement des troubles de sécrétion bronchique, notamment au cours des affections bronchiques aigues: bronchite aigue et épisode aigu des bronchopneumopathies chroniques."
+}
+,
+
+
+{
+"title": "Zolpidem Comprimés",
+"tags": "sedatif",
+"keywords": "zolpidem viatris, stilnox, somex, zolpinox, zolpidem",
+"url": "zolpidem-comprimes.html",
+"summary": "Les indications sont limitées au traitement à court terme des troubles sévères du sommeil chez l'adulte: insomnie occasionnelle et insomnie transitoire."
+}
+,
+
+
+{
+"title": "Pregabaline",
+"tags": "antiepileptique",
+"keywords": "nergesic, adontag, neuryl, gabamim, lydol, nervica, pregab, prerica, lyrica, aciryl, neuromed, dolicasaiph, edgar, pregabaline",
+"url": "pregabaline.html",
+"summary": "Traitement de l'epilepsie"
+}
+,
+
+
+{
+"title": "Nicotine",
+"tags": "nicotine",
+"keywords": "niquitinclear, niquitin, nicopatchlib, nicotinell, nicopass, nicotine",
+"url": "nicotine.html",
+"summary": "Traitement de la dépendance tabagique"
+}
+,
+
+
+{
+"title": "Memantine Comprimés",
+"tags": "demence",
+"keywords": "ebixa, appelom, memixa, memantine",
+"url": "memantine-comprimes.html",
+"summary": "Traitement des formes modérées à sévères de la maladie d'ALZHEIMER."
+}
+,
+
+
+{
+"title": "Fluphenazine Comprimés",
+"tags": "neuroleptiques",
+"keywords": "fluphenazine, fluphenazine",
+"url": "fluphenazine-comprimes.html",
+"summary": "Antipsychotique"
+}
+,
+
+
+{
+"title": "Stresam (ETIFOXINE) Gélules",
+"tags": "neuroleptiques",
+"keywords": "stresam, etifoxine",
+"url": "etifoxine-gelules.html",
+"summary": "Traitement des manifestations psycho-somatiques de l'anxiété"
+}
+,
+
+
+{
+"title": "Donepezil Comprimés",
+"tags": "demence",
+"keywords": "aricept, alzhecept, norocept, arizil, braval 5, donecept, dopezil, nozil 5, braval 10, nozil 10, donepezil",
+"url": "donepezil-comprimes.html",
+"summary": "Traitement symptomatique des formes légères à modérément sévères de la démence de type ALZHEIMER."
+}
+,
+
+
+{
+"title": "Reagila (CARIPRAZINE) Gélules",
+"tags": "neuroleptiques",
+"keywords": "reagila, cariprazine",
+"url": "cariprazine-gelules.html",
+"summary": "Traitement de la schizophrénie chez l'adulte."
+}
+,
+
+
+{
+"title": "Calcibronat Comprimés Effervescents",
+"tags": "sedatif",
+"keywords": "calcibronat, calciumbromolactobionate",
+"url": "calciumbrmolactobionate-comprimes-effervescents.html",
+"summary": "Traitement d'appoint des troubles légers du sommeil, irritabilité."
+}
+,
+
+
+{
+"title": "Betahistine Comprimés",
+"tags": "vertiges",
+"keywords": "serc, betagam, betaserc, betahistine",
+"url": "betahistine-comprimes.html",
+"summary": "Traitement symptomatique du vertige iteratif avec ou sans signes cochléaires."
+}
+,
+
+
+{
+"title": "TANGANIL (Acetyl-D-Leucine) Comprimés",
+"tags": "vertiges",
+"keywords": "tanganil, acetyl-d-leucine",
+"url": "acetyl-d-leucine-comprimes.html",
+"summary": "Traitement symptomatique de la crise vertigineuse."
+}
+,
+
+
+{
+"title": "Chlorohistol (CHLORPHENIRAMINE) Comprimés",
+"tags": "antihistaminiques-h1",
+"keywords": "chlorohistol, chlorpheniramine",
+"url": "chlorpheniramine-comprimes.html",
+"summary": "Traitement symptomatique des manifestations allergiques"
+}
+,
+
+
+{
 "title": "Empagliflozine + Metformine Comprimés",
-"tags": "autres-diabetediabete",
+"tags": "autres-diabetediabetemetformine",
 "keywords": "emperial plus, empagliflozine, metformine",
 "url": "empagliflozine-metformine.html",
 "summary": "Traitement du Diabète de Type 2"
@@ -79,7 +309,7 @@
 
 {
 "title": "CNAM: Mises à Jour d&#39;Avril 2026",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2026-04.html",
 "summary": "Changements d'Avril 2026 CNAM"
@@ -89,7 +319,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale d&#39;Avril 2026",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2026-04.html",
 "summary": "Changements d'Avril 2026"
@@ -109,7 +339,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Mars 2026",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2026-03.html",
 "summary": "Changements de Mars 2026"
@@ -119,7 +349,7 @@
 
 {
 "title": "CNAM: Mises à Jour de Mars 2026",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2026-03-17.html",
 "summary": "Changements de Mars 2026 CNAM"
@@ -129,7 +359,7 @@
 
 {
 "title": "Association Dapagliflozine 5 ou 10 mg et Metformine 1000 mg Comprimés",
-"tags": "autres-diabetediabete",
+"tags": "autres-diabetediabetemetformine",
 "keywords": "divinus-met, dapagliflozine, metformine",
 "url": "dapagliflozine-metformine.html",
 "summary": "Traitement du diabète de type 2"
@@ -149,7 +379,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Février 2026",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2026-02.html",
 "summary": "Changements de Février 2026"
@@ -169,7 +399,7 @@
 
 {
 "title": "CNAM: Mises à Jour de Janvier et Février 2026",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2026-02-11.html",
 "summary": "Changements de Février 2026 CNAM"
@@ -179,7 +409,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Janvier 2026",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2026-01.html",
 "summary": "Changements de Janvier 2026"
@@ -310,7 +540,7 @@
 {
 "title": "Ticagrelor Comprimés",
 "tags": "antiagregant",
-"keywords": "iniplac, theraglor, brilique, ticagrelor, ticagrel",
+"keywords": "iniplac, theraglor, brilique, ticagrelor, ticagrel, brilor",
 "url": "ticagrelor-comprimes.html",
 "summary": "Antiagrégant plaquettaire utilisé en association avec l'acide acétylsalicylique en prévention des événements athéro-thrombotiques."
 }
@@ -699,7 +929,7 @@
 
 {
 "title": "Association Sitagliptine + Metformine Comprimés",
-"tags": "diabeteautres-diabete",
+"tags": "diabeteautres-diabetemetformine",
 "keywords": "sitavia plus, sitaglimet, sitagliptine, metformine",
 "url": "sitagliptine---metformine-comprimes.html",
 "summary": "Traitement du Diabète de type 2"
@@ -709,7 +939,7 @@
 
 {
 "title": "Association Metformine + Glibenclamide Comprimés",
-"tags": "diabete",
+"tags": "diabetemetformine",
 "keywords": "glucovance, metformine, glibenclamide",
 "url": "metformine-glibenclamide-comprimes.html",
 "summary": "Traitement du Diabète de type 2"
@@ -719,7 +949,7 @@
 
 {
 "title": "Association Linagliptine + Metformine Comprimés",
-"tags": "diabeteautres-diabete",
+"tags": "diabeteautres-diabetemetformine",
 "keywords": "jentadueto, linagliptine, metformine",
 "url": "linagliptine-metformine-comprimes.html",
 "summary": "Traitement du Diabète de type 2"
@@ -849,7 +1079,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Décembre 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2025-12.html",
 "summary": "Changements de Décembre 2025"
@@ -859,7 +1089,7 @@
 
 {
 "title": "CNAM: Mise à Jour du 03-12-2025",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2025-12-03.html",
 "summary": "Changements du 3 décembre 2025 CNAM"
@@ -869,7 +1099,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Novembre 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2025-11.html",
 "summary": "Changements de Novembre 2025"
@@ -879,7 +1109,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale d&#39;Octobre 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "changements-2025-10.html",
 "summary": "Changements d'Octobre 2025"
@@ -889,7 +1119,7 @@
 
 {
 "title": "CNAM: Mise à Jour du 14-10-2025",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2025-10-14.html",
 "summary": "Changements du 14 octobre 2025 CNAM"
@@ -899,7 +1129,7 @@
 
 {
 "title": "CNAM: Mise à Jour du 09-10-2025",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2025-10-09.html",
 "summary": "Changements du 9 octobre 2025 CNAM"
@@ -909,7 +1139,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale d&#39;Août et Septembre 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "changements-2025-09.html",
 "summary": "Changements d'Août et de Septembre 2025"
@@ -919,7 +1149,7 @@
 
 {
 "title": "CNAM: Mise à jour du 03-09-2025",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2025-09.html",
 "summary": "Changements de Septembre 2025 CNAM"
@@ -939,7 +1169,7 @@
 
 {
 "title": "CNAM: Mise à jour du 30-07-2025",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2025-08.html",
 "summary": "Changements CNAM de Juillet 2025"
@@ -949,7 +1179,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Juillet 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "changements-2025-07.html",
 "summary": "Changements de Juillet 2025"
@@ -959,7 +1189,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Juin 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "changements-2025-06.html",
 "summary": "Changements de Juin 2025"
@@ -969,7 +1199,7 @@
 
 {
 "title": "Changements de Mai 2025",
-"tags": "changements",
+"tags": "changementscirculairescnam",
 "keywords": "pct, cnam",
 "url": "changements-2025-05.html",
 "summary": ""
@@ -979,7 +1209,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale d&#39; Avril 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "changements-2025-04.html",
 "summary": "Changements d'Avril 2025"
@@ -989,7 +1219,7 @@
 
 {
 "title": "CNAM: Mise à jour de Mars 2025",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2025-03.html",
 "summary": "Changements CNAM de Mars 2025"
@@ -999,7 +1229,7 @@
 
 {
 "title": "Circulaires de la Pharmacie Centrale de Février 2025",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "changements-2025-02.html",
 "summary": "Changements de Février 2025"
@@ -1019,7 +1249,7 @@
 
 {
 "title": "Association Vildagliptine 50 mg et Metformine 1000 mg Comprimés",
-"tags": "autres-diabetediabete",
+"tags": "autres-diabetediabetemetformine",
 "keywords": "bi-galvine, vildamet, galvumet, vildagliptine + metformine",
 "url": "vildagliptine-metformine.html",
 "summary": "Traitement du diabète de type 2"
@@ -1049,7 +1279,7 @@
 
 {
 "title": "Changements de Janvier 2025",
-"tags": "changements",
+"tags": "changementscirculairescnam",
 "keywords": "pct, cnam",
 "url": "changements-2025-01.html",
 "summary": ""
@@ -1059,7 +1289,7 @@
 
 {
 "title": "CNAM: Mise à jour du 26 Décembre 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-12-26.html",
 "summary": "Changements CNAM du 26 Décembre 2024"
@@ -1069,7 +1299,7 @@
 
 {
 "title": "CNAM: Mise à jour du 2 Décembre 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-12-02.html",
 "summary": "Changements du 2 Décembre 2024"
@@ -1079,7 +1309,7 @@
 
 {
 "title": "CNAM: Mise à jour du 7 Novembre 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-11-07.html",
 "summary": "Changements du 7 Novembre 2024"
@@ -1089,7 +1319,7 @@
 
 {
 "title": "CNAM: Mise à jour du 3 Octobre 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-10-03.html",
 "summary": "Changements du 3 Octobre 2024"
@@ -1788,7 +2018,7 @@
 
 
 {
-"title": "Xanax retard (Alprazolam)",
+"title": "Xanax (Alprazolam)",
 "tags": "sedatifbzd",
 "keywords": "xanax retard, alprazolam",
 "url": "alprazolam.html",
@@ -1880,7 +2110,7 @@
 {
 "title": "Venlafaxine",
 "tags": "antidepresseurs",
-"keywords": "tedema, zenexor lp, tedema lp, effexor lp, venlafaxine",
+"keywords": "tedema, zenexor lp, tedema lp, effexor lp, venlafaxine, efexor",
 "url": "venlafaxine.html",
 "summary": "Antidépresseurs"
 }
@@ -1959,7 +2189,7 @@
 
 {
 "title": "CNAM: Mise à jour du 15 Août 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-08-15.html",
 "summary": "Changements du 15 Août 2024"
@@ -1992,26 +2222,6 @@
 "tags": "antiepileptique",
 "keywords": "sabril, vigabatrin",
 "url": "vigabatrin.html",
-"summary": "Traitement de l'epilepsie"
-}
-,
-
-
-{
-"title": "Pregabaline 75 mg",
-"tags": "antiepileptique",
-"keywords": "nergesic, adontag, neuryl, gabamim, lydol, nervica, pregab, prerica, lyrica, aciryl, neuromed, dolicasaiph, edgar, pregabaline",
-"url": "pregabaline-75-mg.html",
-"summary": "Traitement de l'epilepsie"
-}
-,
-
-
-{
-"title": "Pregabaline 150 mg",
-"tags": "antiepileptique",
-"keywords": "lydol, adontag, neuryl, nergesic, aciryl, neuromed, edgar, pregab, prerica,  nervica, lyrica, dolicasaiph, gabamim, pregabaline",
-"url": "pregabaline-150-mg.html",
 "summary": "Traitement de l'epilepsie"
 }
 ,
@@ -2210,7 +2420,7 @@
 {
 "title": "Levocetirizine",
 "tags": "antihistaminiques-h1",
-"keywords": "alezine, levorgica, xyzall, levofast, levostamine, allergy-stop, xylix, levocetirizine",
+"keywords": "alezine, levorgica, xyzall, levofast, levostamine, allergy-stop, xylix, levocetirizine, levoca, xylix",
 "url": "levocetirizine.html",
 "summary": "Traitement symptomatique  de la rhinite allergique et de l'urticaire"
 }
@@ -2440,7 +2650,7 @@
 {
 "title": "Beclometasone",
 "tags": "corticoides-a-inhalersympathicomimetique-corticosteroide",
-"keywords": "cortis, beclo-asma, beclonil, clenil 250 µg, beclojet 250, miflasone, beclometasone, beclomethasone",
+"keywords": "cortis, beclo-asma, beclonil, clenil 250 µg, beclojet 250, miflasone, beclometasone, beclomethasone, beclospin",
 "url": "beclometasone.html",
 "summary": "Traitement d'entretien de l'asthme"
 }
@@ -2629,7 +2839,7 @@
 
 {
 "title": "CNAM: Mise à jour du 15 Juillet 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-07-15.html",
 "summary": "Changements du 15 Juillet 2024"
@@ -3759,7 +3969,7 @@
 
 {
 "title": "CNAM: Mise à jour du 7 Mai 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-05-07.html",
 "summary": "Changements du 7 Mai 2024"
@@ -3909,7 +4119,7 @@
 
 {
 "title": "CNAM: Mise à jour du 30 Avril 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-04-30.html",
 "summary": "Changements du 30 Avril 2024"
@@ -3919,7 +4129,7 @@
 
 {
 "title": "Révision des Prix des Médicaments Officinaux: Circulaire 2024/18 du 26/04/2024",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2024-04-26.html",
 "summary": "Révision des Prix 26/06/2024"
@@ -4790,7 +5000,7 @@
 {
 "title": "Association Amoxicilline 1 g + Acide Clavulanique 125 mg",
 "tags": "penicillineantibiotique",
-"keywords": "mediclav, clavor (8/1), amoclan, amoxi-clav sanofi, novaclav adulte, ciblor, augmentin adulte, amoxicilline + acide clavulanique, pénicilline",
+"keywords": "mediclav, clavor (8/1), amoclan, amoxi-clav sanofi, novaclav adulte, ciblor, augmentin adulte, amoxicilline + acide clavulanique, pénicilline, clavumox",
 "url": "amoxi-clav-1-125.html",
 "summary": "Traitement de certaines infections bactériennes dues à des germes résistants aux aminopénicillines"
 }
@@ -4799,7 +5009,7 @@
 
 {
 "title": "CNAM: Mise à jour du 4 Mars 2024",
-"tags": "changements",
+"tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2024-03-04.html",
 "summary": "Changements du 4 Mars 2024"
@@ -4839,7 +5049,7 @@
 
 {
 "title": "Révision des Prix des Médicaments Officinaux: Circulaire 2024/07 du 20/02/2024",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2024-02-20.html",
 "summary": "Révision des Prix 20/02/2024"
@@ -4869,7 +5079,7 @@
 
 {
 "title": "Révision des Prix des Médicaments Officinaux: Circulaire 2024/06 du 16/02/2024",
-"tags": "changements",
+"tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2024-02-16.html",
 "summary": "Révision des Prix 16/02/2024"
