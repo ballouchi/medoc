@@ -45,7 +45,7 @@
         "Pdre p.prep.injectable",
         "0,5 g",
         "B\/1 FL + S\/5 ml",
-        "0,000",
+        null,
         "CEFTRIAXONE",
         "UNIMED",
         9093504
@@ -55,7 +55,7 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + S\/4 ml",
-        "0,000",
+        null,
         "CEFTRIAXONE",
         "UNIMED",
         9093502
@@ -475,7 +475,7 @@
         "Solution buvable",
         null,
         "FL\/200 ml",
-        "0,000",
+        null,
         "LACTULOSE",
         "PHARMADERM",
         9053261
@@ -905,7 +905,7 @@
         "Collutoire",
         null,
         "FL\/30 ml",
-        "0,000",
+        null,
         "BENZYDAMINE",
         "OPALIA PHARMA S.A.",
         null
@@ -945,7 +945,7 @@
         "Solut\u00e9 buccal",
         "0,12\u00a0%",
         "FL\/120 ml",
-        "0,000",
+        null,
         "CHLORHEXIDINE",
         "PHARMADERM",
         null
@@ -1985,7 +1985,7 @@
         "Pommade dermique",
         null,
         "T\/50 gr",
-        "0,000",
+        null,
         "OXYDE DE ZINC",
         "PHARMADERM",
         9053021
@@ -2445,7 +2445,7 @@
         "Baume",
         null,
         "T\/60 gr",
-        "0,000",
+        null,
         "CAMPHRE+EUCALYPTOL+MENTHOL PUR",
         "PHARMADERM",
         9053011
@@ -3725,7 +3725,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "0,03 mg\/3 mg",
         "B\/21",
-        "0,000",
+        null,
         "DROSPIRENONE+ETHINYLESTRADIOL",
         "STRAGEN PHARMA S.A",
         1533041
@@ -4005,7 +4005,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "50 mg",
         "B\/8",
-        "0,000",
+        null,
         "SILDENAFIL",
         "GALPHARMA",
         9223443
@@ -4075,7 +4075,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/4",
-        "0,000",
+        null,
         "SILDENAFIL",
         "GALPHARMA",
         9223442
@@ -4085,7 +4085,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
         "B\/8",
-        "0,000",
+        null,
         "SILDENAFIL",
         "GALPHARMA",
         9223444
@@ -4145,7 +4145,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
         "B\/30",
-        "0,000",
+        null,
         "TADALAFIL",
         "SAIPH",
         9164121
@@ -4195,7 +4195,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/4",
-        "0,000",
+        null,
         "TADALAFIL",
         "SAIPH",
         9164122
@@ -4225,7 +4225,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
         "B\/8",
-        "0,000",
+        null,
         "TADALAFIL",
         "SAIPH",
         9164123
@@ -4265,7 +4265,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        "0,000",
+        null,
         "TADALAFIL",
         "PHILADELPHIA PHARMA",
         9353113
@@ -4275,7 +4275,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/4",
-        "0,000",
+        null,
         "TADALAFIL",
         "SAIPH",
         9164124
@@ -4325,7 +4325,7 @@
         "Comprim\u00e9s pellicul\u00e9s",
         "20 mg",
         "B\/8",
-        "0,000",
+        null,
         "TADALAFIL",
         "SAIPH",
         9164125
@@ -4945,7 +4945,7 @@
         null,
         null,
         null,
-        "0,000",
+        null,
         "RISPERIDONE",
         "PHARMACARE",
         9343431
@@ -4955,7 +4955,7 @@
         null,
         null,
         null,
-        "0,000",
+        null,
         "RISPERIDONE",
         "PHARMACARE",
         9343433
@@ -4995,7 +4995,7 @@
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
         "B\/15",
-        "0,000",
+        null,
         "ZOLPIDEM",
         "ADWYA",
         9044071
@@ -5125,7 +5125,7 @@
         "Pommade dermique",
         null,
         "Pot\/50 gr",
-        "0,000",
+        null,
         "LEVOMENTHOL+CAMPHRE+THYMOL",
         "OPALIA PHARMA S.A.",
         9023621
@@ -5165,7 +5165,7 @@
         "Solution buvable",
         "0,3\u00a0%",
         "FL\/150 ml",
-        "0,000",
+        null,
         "AMBROXOL",
         "PHARMAGHREB",
         9013491
@@ -5225,7 +5225,7 @@
         "Solution buvable",
         "0,2 %",
         "FL\/60 ml",
-        "0,000",
+        null,
         "BROMHEXINE",
         "OPALIA PHARMA",
         9023461
@@ -5305,7 +5305,7 @@
         "Sirop",
         "2%",
         "FL\/200 gr",
-        "0,000",
+        null,
         "CARBOCISTEINE",
         "OPALIA PHARMA S.A.",
         9023191
@@ -5325,7 +5325,7 @@
         "Sirop",
         "5%",
         "FL\/125 ml",
-        "0,000",
+        null,
         "CARBOCISTEINE",
         "PHARMADERM",
         9053101
@@ -5375,7 +5375,7 @@
         "Solution buvable",
         "5%",
         "FL\/200 ml",
-        "0,000",
+        null,
         "CARBOCISTEINE",
         "PHARMADERM",
         9053102
@@ -5385,7 +5385,7 @@
         "Sirop",
         "5%",
         "FL\/200 gr",
-        "0,000",
+        null,
         "CARBOCISTEINE",
         "OPALIA PHARMA S.A.",
         9023192
@@ -5435,7 +5435,7 @@
         "Sirop",
         "5%",
         "B\/12 Sachets\/15 gr",
-        "0,000",
+        null,
         "CARBOCISTEINE",
         "OPALIA PHARMA S.A.",
         9023195

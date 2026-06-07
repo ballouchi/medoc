@@ -68,6 +68,26 @@
 
 
 {
+"title": "Liste des Médicaments Remboursés",
+"tags": "changements",
+"keywords": "",
+"url": "liste-vei.html",
+"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d' Assurance Maladie Tunisienne"
+}
+,
+
+
+{
+"title": "Liste des Médicaments Non Remboursés",
+"tags": "changements",
+"keywords": "",
+"url": "liste-non-vei.html",
+"summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
+}
+,
+
+
+{
 "title": "CNAM: Mises à Jour de Mai 2026",
 "tags": "changementscnam",
 "keywords": "cnam",
@@ -368,31 +388,11 @@
 
 
 {
-"title": "Liste des Médicaments Remboursés",
-"tags": "changements",
-"keywords": "",
-"url": "liste-vei.html",
-"summary": "Médicaments à usage Humain remboursés par la Caisse Nationale d' Assurance Maladie Tunisienne"
-}
-,
-
-
-{
 "title": "Circulaires de la Pharmacie Centrale de Février 2026",
 "tags": "changementscirculaires",
 "keywords": "pct",
 "url": "pct-2026-02.html",
 "summary": "Changements de Février 2026"
-}
-,
-
-
-{
-"title": "Liste des Médicaments Non Remboursés",
-"tags": "changements",
-"keywords": "",
-"url": "liste-non-vei.html",
-"summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
 }
 ,
 
