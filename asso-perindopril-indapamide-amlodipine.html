@@ -118,6 +118,9 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          //DataTable.ext.buttons.explication = {
+			  //className: 'buttons-alert',
+			  //};
           $('table.display').each(function(i) {
 			    var thisTable = $(this);
 			    var thisName = thisTable.attr('id');
@@ -162,6 +165,26 @@
 										  }
 								  },
 								  //'copyHtml5', 'csvHtml5', 'print'
+		                          //{
+									  //extend: 'explication',
+									  //text: 'Prix < 133% Du Tarif Référence',
+									  //className: 'explication-vert'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: 'entre 133% et 166%',
+									  //className: 'explication-orange'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: '> 166% Du Tarif Référence',
+									  //className: 'explication-rouge'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: 'Non Remboursé',
+									  //className: 'explication-violet'
+								  //},
 							  ]
 		                  }
 		              },
@@ -1512,6 +1535,17 @@
 
 
 				
+				            <div class="tags">
+                
+                <b>Prix: </b>
+                <div class="btn btn-default navbar-btn cursorNorm explication-vert" role="button">Inférieur à 133% du Tarif Référence</div>
+                <div class="btn btn-default navbar-btn cursorNorm explication-orange" role="button">Entre à 133% et 166%</div>
+                <div class="btn btn-default navbar-btn cursorNorm explication-rouge" role="button">Supérieur à 166% du Tarif Référence</div>
+                <div class="btn btn-default navbar-btn cursorNorm explication-violet" role="button">Non Remboursé</div>
+                
+            </div>
+    
+
 							<div class="tags">
 			    
 			        <b>Tags: </b>
@@ -1610,7 +1644,7 @@
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 1/06/2026</li>
+          <li>Prix Publiés le 26/06/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->

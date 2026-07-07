@@ -1,3 +1,8 @@
+.explication-vert, .explication-vert:hover { background-color: lightgreen; }
+.explication-orange, .explication-orange:hover { background-color: #ffd380; }
+.explication-rouge, .explication-rouge:hover { background-color: lightcoral; }
+.explication-violet, .explication-violet:hover { background-color: #e4d2e4; }
+
 /* mephenesine
 #T_25f34 .row0 { text-decoration-line: line-through; }
  */
@@ -1337,13 +1342,17 @@
 #T_diltiazem .row2,
 #T_diltiazem .row5 { border-bottom: 1px solid black; }
 
-#T_mesalazine-cp :is(.row0, .row1),
-#T_mesalazine-suppo .row1 { border-bottom: 1px solid black; }
-#T_mesalazine-cp .row2,
-#T_mesalazine-suppo .row2 { border-bottom: 3px solid black; }
+/*
+#T_mesalazine-suppo .row1
+*/
+#T_mesalazine-cp :is(.row0, .row1) { border-bottom: 1px solid black; }
+/*
+#T_mesalazine-suppo .row3
+*/
+#T_mesalazine-cp .row2 { border-bottom: 3px double black; }
 #T_mesalazine-cp .row3.col2 { background-color: lightblue; }
-#T_mesalazine-suppo :is(.row0, .row1, .row2).col2 { background-color: khaki; }
-#T_mesalazine-suppo .row3.col2 { background-color: thistle; }
+#T_mesalazine-suppo :is(.row0, .row1, .row2, .row3).col1 { background-color: khaki; }
+#T_mesalazine-suppo .row4.col1 { background-color: thistle; }
 
 #T_piroxicam-cp .row11 { border-bottom: 3px solid black; }
 #T_piroxicam-cp :is(.row0, .row1, .row2, .row3, .row6, .row9)  { border-bottom: 1px solid black; }

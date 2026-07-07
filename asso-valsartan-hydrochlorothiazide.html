@@ -118,6 +118,9 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          //DataTable.ext.buttons.explication = {
+			  //className: 'buttons-alert',
+			  //};
           $('table.display').each(function(i) {
 			    var thisTable = $(this);
 			    var thisName = thisTable.attr('id');
@@ -162,6 +165,26 @@
 										  }
 								  },
 								  //'copyHtml5', 'csvHtml5', 'print'
+		                          //{
+									  //extend: 'explication',
+									  //text: 'Prix < 133% Du Tarif Référence',
+									  //className: 'explication-vert'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: 'entre 133% et 166%',
+									  //className: 'explication-orange'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: '> 166% Du Tarif Référence',
+									  //className: 'explication-rouge'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: 'Non Remboursé',
+									  //className: 'explication-violet'
+								  //},
 							  ]
 		                  }
 		              },
@@ -1458,26 +1481,26 @@
 </div>
 
 <style type="text/css">
-#T_valsartan---hydrochlorothiazide-comprimes_row0_col4, #T_valsartan---hydrochlorothiazide-comprimes_row1_col4, #T_valsartan---hydrochlorothiazide-comprimes_row2_col4, #T_valsartan---hydrochlorothiazide-comprimes_row6_col4, #T_valsartan---hydrochlorothiazide-comprimes_row10_col4, #T_valsartan---hydrochlorothiazide-comprimes_row11_col4, #T_valsartan---hydrochlorothiazide-comprimes_row15_col4 {
+#T_valsartan---hydrochlorothiazide-comprimes_row0_col4, #T_valsartan---hydrochlorothiazide-comprimes_row1_col4, #T_valsartan---hydrochlorothiazide-comprimes_row2_col4, #T_valsartan---hydrochlorothiazide-comprimes_row6_col4, #T_valsartan---hydrochlorothiazide-comprimes_row10_col4, #T_valsartan---hydrochlorothiazide-comprimes_row11_col4, #T_valsartan---hydrochlorothiazide-comprimes_row12_col4, #T_valsartan---hydrochlorothiazide-comprimes_row16_col4 {
   background-color: lightgreen;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row3_col4, #T_valsartan---hydrochlorothiazide-comprimes_row12_col4 {
+#T_valsartan---hydrochlorothiazide-comprimes_row3_col4, #T_valsartan---hydrochlorothiazide-comprimes_row13_col4 {
   background-color: #ffd380;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row4_col4, #T_valsartan---hydrochlorothiazide-comprimes_row13_col4 {
+#T_valsartan---hydrochlorothiazide-comprimes_row4_col4, #T_valsartan---hydrochlorothiazide-comprimes_row14_col4 {
   background-color: lightcoral;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row5_col0, #T_valsartan---hydrochlorothiazide-comprimes_row5_col1, #T_valsartan---hydrochlorothiazide-comprimes_row5_col2, #T_valsartan---hydrochlorothiazide-comprimes_row5_col3, #T_valsartan---hydrochlorothiazide-comprimes_row5_col5, #T_valsartan---hydrochlorothiazide-comprimes_row5_col6, #T_valsartan---hydrochlorothiazide-comprimes_row8_col0, #T_valsartan---hydrochlorothiazide-comprimes_row8_col1, #T_valsartan---hydrochlorothiazide-comprimes_row8_col2, #T_valsartan---hydrochlorothiazide-comprimes_row8_col3, #T_valsartan---hydrochlorothiazide-comprimes_row8_col5, #T_valsartan---hydrochlorothiazide-comprimes_row8_col6, #T_valsartan---hydrochlorothiazide-comprimes_row14_col0, #T_valsartan---hydrochlorothiazide-comprimes_row14_col1, #T_valsartan---hydrochlorothiazide-comprimes_row14_col2, #T_valsartan---hydrochlorothiazide-comprimes_row14_col3, #T_valsartan---hydrochlorothiazide-comprimes_row14_col5, #T_valsartan---hydrochlorothiazide-comprimes_row14_col6 {
+#T_valsartan---hydrochlorothiazide-comprimes_row5_col0, #T_valsartan---hydrochlorothiazide-comprimes_row5_col1, #T_valsartan---hydrochlorothiazide-comprimes_row5_col2, #T_valsartan---hydrochlorothiazide-comprimes_row5_col3, #T_valsartan---hydrochlorothiazide-comprimes_row5_col5, #T_valsartan---hydrochlorothiazide-comprimes_row5_col6, #T_valsartan---hydrochlorothiazide-comprimes_row8_col0, #T_valsartan---hydrochlorothiazide-comprimes_row8_col1, #T_valsartan---hydrochlorothiazide-comprimes_row8_col2, #T_valsartan---hydrochlorothiazide-comprimes_row8_col3, #T_valsartan---hydrochlorothiazide-comprimes_row8_col5, #T_valsartan---hydrochlorothiazide-comprimes_row8_col6, #T_valsartan---hydrochlorothiazide-comprimes_row15_col0, #T_valsartan---hydrochlorothiazide-comprimes_row15_col1, #T_valsartan---hydrochlorothiazide-comprimes_row15_col2, #T_valsartan---hydrochlorothiazide-comprimes_row15_col3, #T_valsartan---hydrochlorothiazide-comprimes_row15_col5, #T_valsartan---hydrochlorothiazide-comprimes_row15_col6 {
   border-bottom: 1px solid black;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row5_col4, #T_valsartan---hydrochlorothiazide-comprimes_row14_col4 {
+#T_valsartan---hydrochlorothiazide-comprimes_row5_col4, #T_valsartan---hydrochlorothiazide-comprimes_row15_col4 {
   border-bottom: 1px solid black;
   background-color: #e4d2e4;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row7_col0, #T_valsartan---hydrochlorothiazide-comprimes_row7_col1, #T_valsartan---hydrochlorothiazide-comprimes_row7_col2, #T_valsartan---hydrochlorothiazide-comprimes_row7_col3, #T_valsartan---hydrochlorothiazide-comprimes_row7_col5, #T_valsartan---hydrochlorothiazide-comprimes_row7_col6, #T_valsartan---hydrochlorothiazide-comprimes_row9_col0, #T_valsartan---hydrochlorothiazide-comprimes_row9_col1, #T_valsartan---hydrochlorothiazide-comprimes_row9_col2, #T_valsartan---hydrochlorothiazide-comprimes_row9_col3, #T_valsartan---hydrochlorothiazide-comprimes_row9_col5, #T_valsartan---hydrochlorothiazide-comprimes_row9_col6, #T_valsartan---hydrochlorothiazide-comprimes_row16_col0, #T_valsartan---hydrochlorothiazide-comprimes_row16_col1, #T_valsartan---hydrochlorothiazide-comprimes_row16_col2, #T_valsartan---hydrochlorothiazide-comprimes_row16_col3, #T_valsartan---hydrochlorothiazide-comprimes_row16_col5, #T_valsartan---hydrochlorothiazide-comprimes_row16_col6 {
+#T_valsartan---hydrochlorothiazide-comprimes_row7_col0, #T_valsartan---hydrochlorothiazide-comprimes_row7_col1, #T_valsartan---hydrochlorothiazide-comprimes_row7_col2, #T_valsartan---hydrochlorothiazide-comprimes_row7_col3, #T_valsartan---hydrochlorothiazide-comprimes_row7_col5, #T_valsartan---hydrochlorothiazide-comprimes_row7_col6, #T_valsartan---hydrochlorothiazide-comprimes_row9_col0, #T_valsartan---hydrochlorothiazide-comprimes_row9_col1, #T_valsartan---hydrochlorothiazide-comprimes_row9_col2, #T_valsartan---hydrochlorothiazide-comprimes_row9_col3, #T_valsartan---hydrochlorothiazide-comprimes_row9_col5, #T_valsartan---hydrochlorothiazide-comprimes_row9_col6, #T_valsartan---hydrochlorothiazide-comprimes_row17_col0, #T_valsartan---hydrochlorothiazide-comprimes_row17_col1, #T_valsartan---hydrochlorothiazide-comprimes_row17_col2, #T_valsartan---hydrochlorothiazide-comprimes_row17_col3, #T_valsartan---hydrochlorothiazide-comprimes_row17_col5, #T_valsartan---hydrochlorothiazide-comprimes_row17_col6 {
   border-bottom: 3px double black;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row7_col4, #T_valsartan---hydrochlorothiazide-comprimes_row16_col4 {
+#T_valsartan---hydrochlorothiazide-comprimes_row7_col4, #T_valsartan---hydrochlorothiazide-comprimes_row17_col4 {
   border-bottom: 3px double black;
   background-color: #ffd380;
 }
@@ -1489,7 +1512,7 @@
   border-bottom: 3px double black;
   background-color: lightgreen;
 }
-#T_valsartan---hydrochlorothiazide-comprimes_row17_col4 {
+#T_valsartan---hydrochlorothiazide-comprimes_row18_col4 {
   background-color: #e4d2e4;
 }
 </style>
@@ -1620,60 +1643,80 @@
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col1" class="data row12 col1">Comprimés pelliculés</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col2" class="data row12 col2">160 mg/25 mg</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col3" class="data row12 col3">B/30</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col4" class="data row12 col4">46,570</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col4" class="data row12 col4">38,145</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col5" class="data row12 col5">27,413</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col6" class="data row12 col6">58,86%</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row12_col6" class="data row12 col6">71,86%</td>
     </tr>
     <tr>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col0" class="data row13 col0">COTAREG</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col0" class="data row13 col0">DIOSTAR-PLUS</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col1" class="data row13 col1">Comprimés pelliculés</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col2" class="data row13 col2">160 mg/25 mg</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col3" class="data row13 col3">B/30</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col4" class="data row13 col4">61,370</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col4" class="data row13 col4">46,570</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col5" class="data row13 col5">27,413</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col6" class="data row13 col6">44,67%</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row13_col6" class="data row13 col6">58,86%</td>
     </tr>
     <tr>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col0" class="data row14 col0">CO-VALSARTAN</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col0" class="data row14 col0">COTAREG</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col1" class="data row14 col1">Comprimés pelliculés</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col2" class="data row14 col2">160 mg/25 mg</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col3" class="data row14 col3">B/30</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col4" class="data row14 col4">47,310</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col5" class="data row14 col5">0,000</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col6" class="data row14 col6">0,00%</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col4" class="data row14 col4">61,370</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col5" class="data row14 col5">27,413</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row14_col6" class="data row14 col6">44,67%</td>
     </tr>
     <tr>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col0" class="data row15 col0">RETAZID</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col0" class="data row15 col0">CO-VALSARTAN</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col1" class="data row15 col1">Comprimés pelliculés</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col2" class="data row15 col2">160 mg/25 mg</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col3" class="data row15 col3">B/90</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col4" class="data row15 col4">96,820</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col5" class="data row15 col5">82,237</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col6" class="data row15 col6">84,94%</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col3" class="data row15 col3">B/30</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col4" class="data row15 col4">47,310</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col5" class="data row15 col5">0,000</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row15_col6" class="data row15 col6">0,00%</td>
     </tr>
     <tr>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col0" class="data row16 col0">COTAREG</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col0" class="data row16 col0">RETAZID</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col1" class="data row16 col1">Comprimés pelliculés</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col2" class="data row16 col2">160 mg/25 mg</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col3" class="data row16 col3">B/90</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col4" class="data row16 col4">152,140</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col4" class="data row16 col4">96,820</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col5" class="data row16 col5">82,237</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col6" class="data row16 col6">54,05%</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row16_col6" class="data row16 col6">84,94%</td>
     </tr>
     <tr>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col0" class="data row17 col0">BIVAL</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col0" class="data row17 col0">COTAREG</td>
       <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col1" class="data row17 col1">Comprimés pelliculés</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col2" class="data row17 col2">320 mg/25 mg</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col3" class="data row17 col3">B/28</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col4" class="data row17 col4">49,600</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col5" class="data row17 col5">0,000</td>
-      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col6" class="data row17 col6">0,00%</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col2" class="data row17 col2">160 mg/25 mg</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col3" class="data row17 col3">B/90</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col4" class="data row17 col4">152,140</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col5" class="data row17 col5">82,237</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row17_col6" class="data row17 col6">54,05%</td>
+    </tr>
+    <tr>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col0" class="data row18 col0">BIVAL</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col1" class="data row18 col1">Comprimés pelliculés</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col2" class="data row18 col2">320 mg/25 mg</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col3" class="data row18 col3">B/28</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col4" class="data row18 col4">49,600</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col5" class="data row18 col5">0,000</td>
+      <td id="T_valsartan---hydrochlorothiazide-comprimes_row18_col6" class="data row18 col6">0,00%</td>
     </tr>
   </tbody>
 </table>
 
 
 				
+				            <div class="tags">
+                
+                <b>Prix: </b>
+                <div class="btn btn-default navbar-btn cursorNorm explication-vert" role="button">Inférieur à 133% du Tarif Référence</div>
+                <div class="btn btn-default navbar-btn cursorNorm explication-orange" role="button">Entre à 133% et 166%</div>
+                <div class="btn btn-default navbar-btn cursorNorm explication-rouge" role="button">Supérieur à 166% du Tarif Référence</div>
+                <div class="btn btn-default navbar-btn cursorNorm explication-violet" role="button">Non Remboursé</div>
+                
+            </div>
+    
+
 							<div class="tags">
 			    
 			        <b>Tags: </b>
@@ -1692,7 +1735,7 @@
 
 				
 				
-					<div class="bs-callout bs-callout-default">Page mise à jour le 22/05/2026</div>
+					<div class="bs-callout bs-callout-default">Page mise à jour le 17/06/2026</div>
 				
  
 	        </div>
@@ -1772,7 +1815,7 @@
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 1/06/2026</li>
+          <li>Prix Publiés le 26/06/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->

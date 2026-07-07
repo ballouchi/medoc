@@ -4275,7 +4275,7 @@
         "Capsules molles",
         "250 ULS",
         "B\/60",
-        "40,200",
+        "44,200",
         "SULODEXIDE",
         "S.A.I.PH",
         9164432
@@ -4339,6 +4339,26 @@
         "TICAGRELOR",
         "ASTRA-ZENECA",
         8233041
+    ],
+    [
+        "TARDYFERON NOURISSONS",
+        "Solution buvable",
+        "20 mg\/ml",
+        "FL\/45 ml",
+        "13,663",
+        "FER",
+        "PIERRE FABRE PRODUCTION TUNISIE",
+        "ST9323028"
+    ],
+    [
+        "TARDYFERON ENFANTS ET ADULTES",
+        "Solution buvable",
+        "20 mg\/ml",
+        "FL\/90 ml",
+        "19,924",
+        "FER",
+        "PIERRE FABRE PRODUCTION TUNISIE",
+        "ST9323027"
     ],
     [
         "DICYNONE",
@@ -6579,16 +6599,6 @@
         "MEMANTINE",
         "TERIAK",
         9254163
-    ],
-    [
-        "ZENEXOR LP",
-        "G\u00e9lules \u00e0 Lib\u00e9ration Prolong\u00e9e",
-        "75 mg",
-        "B\/60",
-        "45,545",
-        "VENLAFAXINE",
-        "OPALIA PHARMA S.A.",
-        9023923
     ],
     [
         "EFEXOR",

@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name="description" content="Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.Le retrait du commerce de ces lots doit se f...">
-<meta name="keywords" content="circulaires,  pct">
+<meta name="keywords" content="circulaireschangements,  pct">
 <title>Retrait De Lots 2025 | Prix des médicaments en Tunisie</title>
 <link rel="stylesheet" href="css/syntax.css">
 
@@ -118,6 +118,9 @@
     <script>
       $(document).ready(function(){
           //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          //DataTable.ext.buttons.explication = {
+			  //className: 'buttons-alert',
+			  //};
           var table = $('table.display').DataTable({
             paging: false,
             info: true,
@@ -137,7 +140,7 @@
 							extend: 'colvis',
 							postfixButtons: ['colvisRestore']
 						},
-			            {
+						{
 							extend: 'pdfHtml5',
 							exportOptions: { 
 								columns: [0, ':visible']
@@ -198,10 +201,30 @@
 		                        });
 		                    }
 		                },
+						//{
+						  //extend: 'explication',
+						  //text: 'Prix < 133% Du Tarif Référence',
+						  //className: 'explication-vert'
+						//},
+						//{
+						  //extend: 'explication',
+						  //text: 'entre 133% et 166%',
+						  //className: 'explication-orange'
+						//},
+						//{
+						  //extend: 'explication',
+						  //text: '> 166% Du Tarif Référence',
+						  //className: 'explication-rouge'
+						//},
+						//{
+						  //extend: 'explication',
+						  //text: 'Non Remboursé',
+						  //className: 'explication-violet'
+						//},
 		                
 		            ]
-		         }
-		      }   
+		        }
+		    }   
             });
       });
     </script>
@@ -1694,11 +1717,18 @@
 
 
 				
+				            <div class="tags">
+                
+            </div>
+    
+
 							<div class="tags">
 			    
 			        <b>Tags: </b>
 			        
 			        <a href="tag_circulaires.html" class="btn btn-default navbar-btn cursorNorm" role="button">circulaires</a>
+			        
+			        <a href="tag_changements.html" class="btn btn-default navbar-btn cursorNorm" role="button">changements</a>
 			        
 			    
 			</div>
@@ -1784,7 +1814,7 @@
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 1/06/2026</li>
+          <li>Prix Publiés le 26/06/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->

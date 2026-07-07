@@ -4817,6 +4817,15 @@
     ],
     [
         "PENTASA",
+        "Suppositoires",
+        "1 g",
+        "B\/28",
+        "170,955",
+        "85,799",
+        "MESALAZINE"
+    ],
+    [
+        "PENTASA",
         "Suspension rectale",
         "1 g",
         "B\/7 FL\/100 ml",
@@ -18950,7 +18959,7 @@
         "Capsules molles",
         "250 ULS",
         "B\/60",
-        "40,200",
+        "44,200",
         "0,000",
         "SULODEXIDE"
     ],
@@ -19132,6 +19141,24 @@
         "B\/5\/5 ml",
         "29,624",
         "25,180",
+        "FER"
+    ],
+    [
+        "TARDYFERON NOURISSONS",
+        "Solution buvable",
+        "20 mg\/ml",
+        "FL\/45 ml",
+        "13,663",
+        "0,000",
+        "FER"
+    ],
+    [
+        "TARDYFERON ENFANTS ET ADULTES",
+        "Solution buvable",
+        "20 mg\/ml",
+        "FL\/90 ml",
+        "19,924",
+        "0,000",
         "FER"
     ],
     [
@@ -22569,6 +22596,15 @@
         "160 mg\/25 mg",
         "B\/30",
         "33,115",
+        "27,413",
+        "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
+    ],
+    [
+        "DIOSTAR-PLUS",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "160 mg\/25 mg",
+        "B\/30",
+        "38,145",
         "27,413",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
@@ -32842,7 +32878,7 @@
         "ARIPIPRAZOLE"
     ],
     [
-        "TROBIPOL",
+        "ABILIPRA (TROBIPOL)",
         "Comprim\u00e9s",
         "10 mg",
         "B\/30",
@@ -32869,7 +32905,7 @@
         "ARIPIPRAZOLE"
     ],
     [
-        "TROBIPOL",
+        "ABILIPRA (TROBIPOL)",
         "Comprim\u00e9s",
         "15 mg",
         "B\/30",
