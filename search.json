@@ -68,11 +68,21 @@
 
 
 {
-"title": "Circulaires de la Pharmacie Centrale de Juin 2026",
+"title": "Circulaires de la Pharmacie Centrale d&#39;Août 2026",
 "tags": "changementscirculaires",
 "keywords": "pct",
-"url": "pct-2026-06.html",
-"summary": "Changements de Juin 2026"
+"url": "pct-2026-08.html",
+"summary": "Changements d'Août 2026"
+}
+,
+
+
+{
+"title": "CNAM: Mises à Jour d&#39;Août 2026",
+"tags": "changementscnam",
+"keywords": "cnam",
+"url": "cnam-2026-08.html",
+"summary": "Changements d'Août 2026 CNAM"
 }
 ,
 
@@ -93,6 +103,36 @@
 "keywords": "",
 "url": "liste-non-vei.html",
 "summary": "Médicaments disponibles à la vente en Pharmacie et non remboursés par la CNAM"
+}
+,
+
+
+{
+"title": "CNAM: Mises à Jour de Juin et Juillet 2026",
+"tags": "changementscnam",
+"keywords": "cnam",
+"url": "cnam-2026-07.html",
+"summary": "Changements de Juin et Juillet 2026 CNAM"
+}
+,
+
+
+{
+"title": "Circulaires de la Pharmacie Centrale de Juillet 2026",
+"tags": "changementscirculaires",
+"keywords": "pct",
+"url": "pct-2026-07.html",
+"summary": "Changements de Juillet 2026"
+}
+,
+
+
+{
+"title": "Circulaires de la Pharmacie Centrale de Juin 2026",
+"tags": "changementscirculaires",
+"keywords": "pct",
+"url": "pct-2026-06.html",
+"summary": "Changements de Juin 2026"
 }
 ,
 

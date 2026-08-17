@@ -1,0 +1,3727 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="Changements d'Août 2026 CNAM">
+<meta name="keywords" content="changementscnam,  cnam">
+<title>CNAM: Mises à Jour d'Août 2026 | Prix des médicaments en Tunisie</title>
+<link rel="stylesheet" href="css/syntax.css">
+
+<link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
+<link rel="stylesheet" href="css/modern-business.css">
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/customstyles.css">
+<link rel="stylesheet" href="css/boxshadowproperties.css">
+<!-- most color styles are extracted out to here -->
+<link rel="stylesheet" href="css/theme-blue.css">
+<link rel="stylesheet" type="text/css" href="css/tableaux.css">
+
+<!-- pagefind search -->
+<link href="pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="pagefind/pagefind-ui.js"></script>
+
+<!--  <script src="js/jquery-3.3.1.min.js"></script>  -->
+<script type="text/javascript" charset="utf8" src="js/jquery-3.7.1.min.js"></script>
+
+<script src="js/jquery.cookie.min.js"></script>
+<script src="js/jquery.navgoco.min.js"></script>
+
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+<!-- Anchor.js -->
+<script src="js/anchor.min.js"></script>
+<script src="js/toc.js"></script>
+<script src="js/customscripts.js"></script>
+
+<link rel="shortcut icon" href="images/favicon.ico">
+
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="" href="https://ballouchi.github.io/medoc/feed.xml">
+
+
+
+        <script>
+        $(document).ready(function() {
+            // Initialize navgoco with default options
+            $("#mysidebar").navgoco({
+                caretHtml: '',
+                accordion: true,
+                openClass: 'active', // open
+                save: false, // leave false or nav highlighting doesn't work right
+                cookie: {
+                    name: 'navgoco',
+                    expires: false,
+                    path: '/'
+                },
+                slide: {
+                    duration: 400,
+                    easing: 'swing'
+                }
+            });
+
+            $("#collapseAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', false);
+            });
+
+            $("#expandAll").click(function(e) {
+                e.preventDefault();
+                $("#mysidebar").navgoco('toggle', true);
+            });
+
+        });
+
+    </script>
+    <script>
+        $(function () {
+            $('[data-toggle="tooltip"]').tooltip()
+        })
+    </script>
+    <script>
+        $(document).ready(function() {
+            $("#tg-sb-link").click(function() {
+                $("#tg-sb-sidebar").toggle();
+                $("#tg-sb-content").toggleClass('col-md-9');
+                $("#tg-sb-content").toggleClass('col-md-12');
+                $("#tg-sb-icon").toggleClass('fa-toggle-on');
+                $("#tg-sb-icon").toggleClass('fa-toggle-off');
+            });
+        });
+    </script>
+
+    
+	    
+	            <!-- Include  DataTables css and js in head -->
+    <link rel="stylesheet" type="text/css" href="css/dataTables.bootstrap.css">
+    <link rel="stylesheet" type="text/css" href="css/buttons.bootstrap.css">
+    <script type="text/javascript" charset="utf8" src="js/dataTables.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTables.bootstrap.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/dataTables.buttons.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.bootstrap.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.colVis.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.print.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/jszip.min.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/pdfmake.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/vfs_fonts.js"></script>
+    <script type="text/javascript" charset="utf8" src="js/buttons.html5.js"></script>
+    <!-- Initialize Datatables and Buttons -->
+    <script>
+      $(document).ready(function(){
+          //$('div.datatable-begin').nextUntil('div.datatable-end', 'table').addClass('display');
+          //DataTable.ext.buttons.explication = {
+			  //className: 'buttons-alert',
+			  //};
+          $('table.display').each(function(i) {
+			    var thisTable = $(this);
+			    var thisName = thisTable.attr('id');
+			    thisTable.DataTable({
+		              paging: false,
+		              stateSave: false,
+		              searching: true,
+		              order: [],
+		              language: {
+		                url: "js/fr-FR.json",
+		                buttons: {
+							colvis: "Colonnes Visibles"
+						},
+		              },
+					  layout: {
+		                  topStart: {
+		                      buttons: [
+		                          {
+									  extend: 'colvis',
+									  postfixButtons: ['colvisRestore']
+								  },
+		                          {
+									  extend: 'excelHtml5',
+									  title: null,
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  filename: function () { 
+										  filename = thisName;
+										  return filename;
+									  }
+								  },
+		                          {
+									  extend: 'pdfHtml5',
+									  exportOptions: { 
+										  columns: [0, ':visible']
+									  },
+									  //filename: function () { return $('h2').attr('id'); }
+									  title: function () { 
+										  filename = thisName;
+										  return filename;
+										  }
+								  },
+								  //'copyHtml5', 'csvHtml5', 'print'
+		                          //{
+									  //extend: 'explication',
+									  //text: 'Prix < 133% Du Tarif Référence',
+									  //className: 'explication-vert'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: 'entre 133% et 166%',
+									  //className: 'explication-orange'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: '> 166% Du Tarif Référence',
+									  //className: 'explication-rouge'
+								  //},
+		                          //{
+									  //extend: 'explication',
+									  //text: 'Non Remboursé',
+									  //className: 'explication-violet'
+								  //},
+							  ]
+		                  }
+		              },
+	            });
+          });
+      });
+    </script>
+
+		
+	
+</head>
+<body>
+	<!-- Navigation -->
+<nav class="navbar navbar-inverse navbar-static-top">
+    <div class="container topnavlinks">
+        <div class="navbar-header">
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="true">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+<!--
+            <div>
+-->
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> Pharma Tunisie</span></a>
+<!--
+            </div>
+	        <div>
+	            <a id="tg-sb-link" class="navbar-brand" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a>
+	        </div>
+-->
+        </div>
+        <div id="bs-example-navbar-collapse-1" class="navbar-collapse collapse in" aria-expanded="true">
+            <ul class="nav navbar-nav navbar-right">
+                <!-- toggle sidebar button -->
+                <li><a id="tg-sb-link" href="#"><i id="tg-sb-icon" class="fa fa-toggle-off"></i> Catégories</a></li>
+                <!-- entries without drop-downs appear here -->
+
+				
+				
+			
+                
+                
+                
+                <li><a href="changements.html">Mises à jour</a></li>
+                
+                
+                
+                <li><a href="tag_cnam.html">CNAM</a></li>
+                
+                
+                
+                <!-- entries with drop-downs appear here -->
+                <!-- conditional logic to control which topnav appears for the audience defined in the configuration file.-->
+                
+                
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Pharmacie Centrale<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        
+                        
+                        <li><a href="tag_circulaires.html">Circulaires Officinales</a></li>
+                        
+                        
+                        
+                        <li><a href="retrait-de-lots-2026.html">Retrait de Lots 2026</a></li>
+                        
+                        
+                        
+                        <li><a href="retrait-de-lots-2025.html">Retrait de Lots 2025</a></li>
+                        
+                        
+                    </ul>
+                </li>
+                
+                
+                
+                <!--comment out this block if you want to hide search-->
+                    <!--start search
+                <li>
+                    <div id="search-demo-container">
+                        <input type="text" id="search-input" placeholder="rechercher...">
+                        <ul id="results-container"></ul>
+                    </div>
+                    <script src="js/jekyll-search.js" type="text/javascript"></script>
+                    <script type="text/javascript">
+                            SimpleJekyllSearch.init({
+                                searchInput: document.getElementById('search-input'),
+                                resultsContainer: document.getElementById('results-container'),
+                                dataSource: 'search.json',
+                                searchResultTemplate: '<li><a href="{url}" title="CNAM: Mises à Jour d&#39;Août 2026">{title}</a></li>',
+                    noResultsText: 'Aucun resultat.',
+                            limit: 20,
+                            fuzzy: true,
+                    })
+                    </script>
+                </li>
+                    end search-->
+            </ul>
+        </div>
+	</div>
+        <!-- /.container -->
+</nav>
+
+<!-- pagefind searchbox -->
+<div class="container" style="margin-bottom: 40px;">
+	<!-- moved to head.html
+	<link href="/pagefind/pagefind-ui.css" rel="stylesheet">
+	<script src="/pagefind/pagefind-ui.js"></script>  -->
+	<div id="search" style="--pagefind-ui-scale: 0.8; --pagefind-ui-border: #428bca; --pagefind-ui-border-radius: 3px; --pagefind-ui-image-border-radius: 3px; width: 100%; "></div>
+	<script>
+	window.addEventListener('DOMContentLoaded', (event) => {
+		new PagefindUI({
+	        element: "#search",
+	        showSubResults: true,
+	        showImages: false,
+	        //excerptLength: 30,
+	        //sort: { date: "desc" },
+	        translations: {
+		        placeholder: "Rechercher sur le site",
+		        zero_results: "Pas de résultats pour [SEARCH_TERM]"
+	        }
+		});
+	});
+	</script>
+</div>
+
+
+	<!-- Page Content -->
+<div class="container flex-container">
+	<div id="main">
+	    <!-- Content Row -->
+	    <div class="row">
+	        
+	        
+            <!-- Sidebar Column -->
+	            <div class="col-md-3" id="tg-sb-sidebar" style="display: none;">
+	                
+
+<ul id="mysidebar" class="nav">
+  <li class="sidebarTitle">Catégories </li>
+  
+  
+  
+  <li>
+      <a title="Accueil" href="#">Accueil</a>
+      <ul>
+          
+          
+          
+          <li><a title="Page d'accueil" href="index.html">Page d'accueil</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Dernières pages" href="news.html">Dernières pages</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Toutes les pages" href="news_archive.html">Toutes les pages</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Tous les tags" href="all_tags.html">Tous les tags</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Mises à jour" href="changements.html">Mises à jour</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Antalgiques" href="#">Antalgiques</a>
+      <ul>
+          
+          
+          
+          <li><a title="Paracetamol" href="tag_paracetamol.html">Paracetamol</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Salicylés" href="tag_salicyles.html">Salicylés</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Opiacés" href="tag_opiace.html">Opiacés</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Anti-inflammatoires" href="#">Anti-inflammatoires</a>
+      <ul>
+          
+          
+          
+          <li><a title="Anti-inflammatoires et Anti-rhumatismaux" href="tag_anti-inflammatoire.html">Anti-inflammatoires et Anti-rhumatismaux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Cortico-steroides" href="tag_corticoides.html">Cortico-steroides</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Affections Ostéo-Articulaires Et Musculaires" href="tag_muscles-et-os.html">Affections Ostéo-Articulaires Et Musculaires</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments des Affections Inflammatoires de l'intestin" href="tag_anti-inflammatoire-intes.html">Médicaments des Affections Inflammatoires de l'intestin</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Troubles Fonctionnels Intestinaux" href="#">Troubles Fonctionnels Intestinaux</a>
+      <ul>
+          
+          
+          
+          <li><a title="Anti-spasmodiques" href="tag_antispasmodique.html">Anti-spasmodiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement de la Diarrhée" href="tag_diarrhee.html">Traitement de la Diarrhée</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement de la Constipation" href="tag_laxatif.html">Traitement de la Constipation</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement des Vomissements (Antiémétiques)" href="tag_anti-emetique.html">Traitement des Vomissements (Antiémétiques)</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Troubles Dyspeptiques" href="troubles-dyspeptiques.html">Troubles Dyspeptiques</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Medicaments Liés à des Problèmes d'acidité gastrique" href="#">Medicaments Liés à des Problèmes d'acidité gastrique</a>
+      <ul>
+          
+          
+          
+          <li><a title="Inhibiteurs de la pompe à Protons (IPP)" href="tag_ipp.html">Inhibiteurs de la pompe à Protons (IPP)</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antihistaminiques H2" href="tag_anti-h2.html">Antihistaminiques H2</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale" href="tag_acidité-autres.html">Antacides et Médicaments renforçant les défenses de la muqueuse gastroduodénale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Métabolisme" href="#">Métabolisme</a>
+      <ul>
+          
+          
+          
+          <li><a title="Minéraux" href="tag_mineraux.html">Minéraux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Vitamines" href="tag_vitamines.html">Vitamines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Enzymes" href="tag_enzyme.html">Enzymes</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Traitement du diabète" href="#">Traitement du diabète</a>
+      <ul>
+          
+          
+          
+          <li><a title="Insuline et Analogues" href="tag_insuline.html">Insuline et Analogues</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Sulfamidés hypoglycémiants" href="tag_sulfamides.html">Sulfamidés hypoglycémiants</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Biguanides" href="tag_metformine.html">Biguanides</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Inhibiteurs des alpha-glucosidases" href="tag_acarbose.html">Inhibiteurs des alpha-glucosidases</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Autres Antidiabètiques" href="tag_autres-diabete.html">Autres Antidiabètiques</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Antibiotiques" href="#">Antibiotiques</a>
+      <ul>
+          
+          
+          
+          <li><a title="Pénicillines" href="tag_penicilline.html">Pénicillines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Cephalosporines" href="tag_cephalosporine.html">Cephalosporines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Aminosides" href="tag_aminosides.html">Aminosides</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Macrolides" href="tag_macrolide.html">Macrolides</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Lincosamides" href="tag_lincomycine.html">Lincosamides</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Quinolones" href="tag_fluoroquinolones.html">Quinolones</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Tetracyclines" href="tag_cyclines.html">Tetracyclines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antibiotiques divers" href="tag_atb-autres.html">Antibiotiques divers</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antituberculeux" href="tag_antituberculeux.html">Antituberculeux</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Autres Anti-Infectieux" href="#">Autres Anti-Infectieux</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antimycosiques" href="tag_anti-mycosique.html">Antimycosiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiparasitaires" href="tag_anti-parasitaire.html">Antiparasitaires</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiviraux" href="tag_anti-viral.html">Antiviraux</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Immunité" href="#">Immunité</a>
+      <ul>
+          
+          
+          
+          <li><a title="Vaccins et Immunoglobulines" href="tag_vaccin.html">Vaccins et Immunoglobulines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Allergènes" href="tag_allergenes.html">Allergènes</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Antiseptiques" href="#">Antiseptiques</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antiseptiques de la peau et des muqueuses" href="tag_antiseptiques.html">Antiseptiques de la peau et des muqueuses</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiseptiques gynécologiques" href="tag_antiseptiques-gynecologiques.html">Antiseptiques gynécologiques</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments Urologiques" href="#">Médicaments Urologiques</a>
+      <ul>
+          
+          
+          
+          <li><a title="Médicaments de l'instabilité de la vessie" href="tag_instabilite-vessie.html">Médicaments de l'instabilité de la vessie</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Hypertrophie Bénigne de la Prostate" href="tag_hypertrophie-prostate.html">Hypertrophie Bénigne de la Prostate</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments de l'Impuissance" href="tag_impuissance.html">Médicaments de l'Impuissance</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Lithiases Urinaires" href="tag_lithiases-urinaires.html">Lithiases Urinaires</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Hypolipidémiants" href="#">Hypolipidémiants</a>
+      <ul>
+          
+          
+          
+          <li><a title="Statines" href="tag_statine.html">Statines</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Fibrates" href="tag_fibrate.html">Fibrates</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Antihypertenseurs" href="#">Antihypertenseurs</a>
+      <ul>
+          
+          
+          
+          <li><a title="Inhibiteurs de l’enzyme de conversion de l’angiotensine" href="tag_iec.html">Inhibiteurs de l’enzyme de conversion de l’angiotensine</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antagonistes des récepteurs de l'angiotensine II" href="tag_ara2.html">Antagonistes des récepteurs de l'angiotensine II</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antagonistes du calcium" href="tag_antagoniste-calcium.html">Antagonistes du calcium</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Bêta-bloquants" href="tag_beta-bloquant.html">Bêta-bloquants</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Diurétiques" href="tag_diuretique.html">Diurétiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Associations" href="tag_association-antihypertenseurs.html">Associations</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Alpha-bloquants" href="tag_alpha-bloquant.html">Alpha-bloquants</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antihypertenseurs à action centrale" href="tag_antihypertenseur-central.html">Antihypertenseurs à action centrale</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments des Troubles Cardiaques" href="#">Médicaments des Troubles Cardiaques</a>
+      <ul>
+          
+          
+          
+          <li><a title="Médicaments de l'Insuffisance Cardiaque" href="tag_insuf-cardiaque.html">Médicaments de l'Insuffisance Cardiaque</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiangoreux" href="tag_angor.html">Antiangoreux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Troubles du Rythme Cardiaque" href="tag_anti-arythmique.html">Troubles du Rythme Cardiaque</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments de l'hypotension" href="tag_hypotension.html">Médicaments de l'hypotension</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments des Troubles Vasculaires" href="#">Médicaments des Troubles Vasculaires</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antiagrégants" href="tag_antiagregant.html">Antiagrégants</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Anticoagulants" href="tag_anticoagulant.html">Anticoagulants</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antihémorragiques" href="tag_antihemorragique.html">Antihémorragiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Substituts Du Sang et Solutions De Perfusion" href="tag_perfusion.html">Substituts Du Sang et Solutions De Perfusion</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antianèmiants" href="tag_antianemiants.html">Antianèmiants</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Veinotoniques" href="tag_veinotonique.html">Veinotoniques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Autres Troubles Vasculaires" href="tag_vasodilatateur.html">Autres Troubles Vasculaires</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments De L'asthme Et De La Bronchopneumopathie Chronique Obstructive (BPCO)" href="#">Médicaments De L'asthme Et De La Bronchopneumopathie Chronique Obstructive (BPCO)</a>
+      <ul>
+          
+          
+          
+          <li><a title="Sympathicomimétiques" href="tag_sympathicomimetiques.html">Sympathicomimétiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Anticholinergiques" href="tag_anticholinergiques.html">Anticholinergiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Théophylline Et Dérivés" href="tag_theophylline.html">Théophylline Et Dérivés</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Corticostéroïdes À Inhaler" href="tag_corticoides-a-inhaler.html">Corticostéroïdes À Inhaler</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Sympathicomimétique + Corticostéroïde" href="tag_sympathicomimetique-corticosteroide.html">Sympathicomimétique + Corticostéroïde</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Antitussifs, Mucoregulateurs Et Expectorants" href="#">Antitussifs, Mucoregulateurs Et Expectorants</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antitussifs" href="tag_antitussifs.html">Antitussifs</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Mucolytiques et Expectorants" href="tag_expectorants.html">Mucolytiques et Expectorants</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments Des Rhinites Et Sinusites" href="#">Médicaments Des Rhinites Et Sinusites</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antihistaminiques H1" href="tag_antihistaminiques-h1.html">Antihistaminiques H1</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Préparations Nasales" href="tag_rhinites.html">Préparations Nasales</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Système Hormonal" href="#">Système Hormonal</a>
+      <ul>
+          
+          
+          
+          <li><a title="Hormones Thyroïdiennes" href="tag_hormones-thyroidiennes.html">Hormones Thyroïdiennes</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments antithyroïdiens" href="tag_antithyroidiens.html">Médicaments antithyroïdiens</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Hormones Sexuelles" href="tag_hormones-sexuelles.html">Hormones Sexuelles</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Autres Hormones" href="tag_hormones.html">Autres Hormones</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Traitement des Tumeurs" href="#">Traitement des Tumeurs</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antineoplasiques" href="tag_antineoplasiques.html">Antineoplasiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Immunosuppresseurs" href="tag_immunosuppresseurs.html">Immunosuppresseurs</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Systeme Nerveux" href="#">Systeme Nerveux</a>
+      <ul>
+          
+          
+          
+          <li><a title="Hypnotiques, Sedatifs, Anxiolytiques" href="tag_sedatif.html">Hypnotiques, Sedatifs, Anxiolytiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Neuroleptiques (Antipsychotiques)" href="tag_neuroleptiques.html">Neuroleptiques (Antipsychotiques)</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antidepresseurs" href="tag_antidepresseurs.html">Antidepresseurs</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiepileptiques" href="tag_antiepileptique.html">Antiepileptiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Anesthésiques" href="tag_anesthesique.html">Anesthésiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antimigraineux" href="tag_antimigraineux.html">Antimigraineux</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiparkinsoniens" href="tag_antiparkinsonien.html">Antiparkinsoniens</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement des Vertiges" href="tag_vertiges.html">Traitement des Vertiges</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments Des Etats Spastiques" href="tag_anti-spastiques.html">Médicaments Des Etats Spastiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement de la Myasthénie" href="tag_myasthenie.html">Traitement de la Myasthénie</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments De La Maladie D'Alzheimer" href="tag_demence.html">Médicaments De La Maladie D'Alzheimer</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Nicotine" href="nicotine.html">Nicotine</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments à Usage Dermatologique" href="#">Médicaments à Usage Dermatologique</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antibiotiques à Usage Dermatologique" href="antibiotiques-dermato.html">Antibiotiques à Usage Dermatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antimycosiques à Usage Dermatologique" href="antimycosiques-dermato.html">Antimycosiques à Usage Dermatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Aciclovir à Usage Dermatologique" href="aciclovir-dermato.html">Aciclovir à Usage Dermatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Corticostéroïdes à Usage Dermatologique" href="tag_corticoides-dermato.html">Corticostéroïdes à Usage Dermatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Chimiothérapie à Usage Dermatologique" href="tag_chimiotherapie-dermato.html">Chimiothérapie à Usage Dermatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Emollients et Protecteurs" href="emollients-et-protecteurs.html">Emollients et Protecteurs</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement des Plaies et Ulcérations" href="plaies.html">Traitement des Plaies et Ulcérations</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Autres Préparations Dermatologiques" href="tag_autres-dermato.html">Autres Préparations Dermatologiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments antiacnéiques" href="antiacneiques.html">Médicaments antiacnéiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Traitement du Psoriasis" href="tag_psoriasis.html">Traitement du Psoriasis</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments à Usage Ophtalmique" href="#">Médicaments à Usage Ophtalmique</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antiseptiques à Usage Ophtalmique" href="antiseptiques-ophtalmo.html">Antiseptiques à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antibiotiques à Usage Ophtalmique" href="antibiotiques-ophtalmo.html">Antibiotiques à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiviraux à Usage Ophtalmique" href="antiviral-ophtalmo.html">Antiviraux à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Association de Corticostéroïdes et d'Antibactériens à Usage Ophtalmique" href="asso-corticoides-ophtalmo.html">Association de Corticostéroïdes et d'Antibactériens à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Corticostéroïdes à Usage Ophtalmique" href="corticoides-ophtalmo.html">Corticostéroïdes à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Anti-inflammatoires Non Stéroïdiens à Usage Ophtalmique" href="ains-ophtalmo.html">Anti-inflammatoires Non Stéroïdiens à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antiallergiques à Usage Ophtalmique" href="antiallergiques-ophtalmo.html">Antiallergiques à Usage Ophtalmique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Mydriatiques" href="mydriatiques.html">Mydriatiques</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Médicaments du glaucome" href="tag_glaucome.html">Médicaments du glaucome</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Larmes artificielles" href="larmes-artificielles.html">Larmes artificielles</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Produits divers en ophtalmologie" href="tag_divers-ophtalmo.html">Produits divers en ophtalmologie</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments à Usage Auriculaire" href="#">Médicaments à Usage Auriculaire</a>
+      <ul>
+          
+          
+          
+          <li><a title="Traitement des Otites Externes" href="otites.html">Traitement des Otites Externes</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Préparations ramollissant le cérumen" href="cerumen.html">Préparations ramollissant le cérumen</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Antalgiques Locaux" href="antalgique-auriculaire.html">Antalgiques Locaux</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Médicaments des Affections Bucco-pharyngées" href="#">Médicaments des Affections Bucco-pharyngées</a>
+      <ul>
+          
+          
+          
+          <li><a title="Antifongique à usage stomatologique" href="antifongiques-stomato.html">Antifongique à usage stomatologique</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Bains de bouche, collutoires et gargarismes" href="bains-de-bouche.html">Bains de bouche, collutoires et gargarismes</a></li>
+          
+          
+          
+          
+          
+          
+          <li><a title="Préparations pour les dents et les gencives" href="dents-gencives.html">Préparations pour les dents et les gencives</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Produits à Visée Diagnostique" href="#">Produits à Visée Diagnostique</a>
+      <ul>
+          
+          
+          
+          <li><a title="Produits de Contraste" href="tag_produits-de-contraste.html">Produits de Contraste</a></li>
+          
+          
+          
+          
+      </ul>
+   </li>
+     
+      
+  
+  <li>
+      <a title="Produits Homéopathiques" href="#">Produits Homéopathiques</a>
+      <ul>
+          
+      </ul>
+   </li>
+     
+      
+      
+      <!-- if you aren't using the accordion, uncomment this block:
+         <p class="external">
+             <a href="#" id="collapseAll">Collapse All</a> | <a href="#" id="expandAll">Expand All</a>
+         </p>
+         -->
+</ul>
+
+<!-- this highlights the active parent class in the navgoco sidebar. this is critical so that the parent expands when you're viewing a page. This must appear below the sidebar code above. Otherwise, if placed inside customscripts.js, the script runs before the sidebar code runs and the class never gets inserted.-->
+<script>$("li.active").parents('li').toggleClass("active");</script>
+
+
+
+	            </div>
+	            
+	        
+	
+	        <!-- Content Column -->
+	        <div class="col-md-12" id="tg-sb-content" data-pagefind-body>
+	            <h1 id="cnam-mises-à-jour-daoût-2026">CNAM: Mises à Jour d’Août 2026</h1>
+
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+</script>
+
+<div id="toc"></div>
+
+<h3 id="liste-des-médicaments-classés-en-vei-couverts-par-le-régime-de-base">Liste des Médicaments Classés en VEI Couverts par le Régime de Base</h3>
+<p><a href="https://spot.tn/media/articles/LISTE%20DES%20MEDICAMENTS%20CLASSES%20EN%20VEI%20COUVERTS%20PAR%20LE%20REGIME%20DE%20BASE%2004-08-2026.xlsx">04/08/2026</a></p>
+
+<h3 id="changements-de-code-et-de-prix">Changements de Code et de Prix</h3>
+
+<style type="text/css">
+</style>
+
+<table id="T_b41ef" class="display">
+  <thead>
+    <tr>
+      <th id="T_b41ef_level0_col0" class="col_heading level0 col0">ANCIEN CODE PCT</th>
+      <th id="T_b41ef_level0_col1" class="col_heading level0 col1">NOUVEAU CODE PCT</th>
+      <th id="T_b41ef_level0_col2" class="col_heading level0 col2">NOM COMMERCIAL</th>
+      <th id="T_b41ef_level0_col3" class="col_heading level0 col3">PRIX PUBLIC</th>
+      <th id="T_b41ef_level0_col4" class="col_heading level0 col4"> ANCIEN PRIX PUBLIC</th>
+      <th id="T_b41ef_level0_col5" class="col_heading level0 col5">DIFFERENCE</th>
+      <th id="T_b41ef_level0_col6" class="col_heading level0 col6">TARIF REFERENCE</th>
+      <th id="T_b41ef_level0_col7" class="col_heading level0 col7">CATEGORIE</th>
+      <th id="T_b41ef_level0_col8" class="col_heading level0 col8">DCI</th>
+      <th id="T_b41ef_level0_col9" class="col_heading level0 col9">AP</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_b41ef_row0_col0" class="data row0 col0">101502</td>
+      <td id="T_b41ef_row0_col1" class="data row0 col1">105644</td>
+      <td id="T_b41ef_row0_col2" class="data row0 col2">DIPROSTENE 7 mg  Susp Inj Bt 1Ser/1ml</td>
+      <td id="T_b41ef_row0_col3" class="data row0 col3">10,240</td>
+      <td id="T_b41ef_row0_col4" class="data row0 col4">5,550</td>
+      <td id="T_b41ef_row0_col5" class="data row0 col5">4,690</td>
+      <td id="T_b41ef_row0_col6" class="data row0 col6">5,550</td>
+      <td id="T_b41ef_row0_col7" class="data row0 col7">E</td>
+      <td id="T_b41ef_row0_col8" class="data row0 col8">BETAMETHASONE</td>
+      <td id="T_b41ef_row0_col9" class="data row0 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row1_col0" class="data row1 col0">103604</td>
+      <td id="T_b41ef_row1_col1" class="data row1 col1">105703</td>
+      <td id="T_b41ef_row1_col2" class="data row1 col2">UN-ALFA 0.25 µg Caps Or Bt 30</td>
+      <td id="T_b41ef_row1_col3" class="data row1 col3">10,240</td>
+      <td id="T_b41ef_row1_col4" class="data row1 col4">5,696</td>
+      <td id="T_b41ef_row1_col5" class="data row1 col5">4,544</td>
+      <td id="T_b41ef_row1_col6" class="data row1 col6">5,670</td>
+      <td id="T_b41ef_row1_col7" class="data row1 col7">E</td>
+      <td id="T_b41ef_row1_col8" class="data row1 col8">ALFACALCIDOL</td>
+      <td id="T_b41ef_row1_col9" class="data row1 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row2_col0" class="data row2 col0">104185</td>
+      <td id="T_b41ef_row2_col1" class="data row2 col1">105763</td>
+      <td id="T_b41ef_row2_col2" class="data row2 col2">LEVOTHYROX 25 µg Comp Sec  BT 30</td>
+      <td id="T_b41ef_row2_col3" class="data row2 col3">2,398</td>
+      <td id="T_b41ef_row2_col4" class="data row2 col4">1,292</td>
+      <td id="T_b41ef_row2_col5" class="data row2 col5">1,106</td>
+      <td id="T_b41ef_row2_col6" class="data row2 col6">1,290</td>
+      <td id="T_b41ef_row2_col7" class="data row2 col7">E</td>
+      <td id="T_b41ef_row2_col8" class="data row2 col8">LEVOTHYROXINE</td>
+      <td id="T_b41ef_row2_col9" class="data row2 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row3_col0" class="data row3 col0">104463</td>
+      <td id="T_b41ef_row3_col1" class="data row3 col1">105765</td>
+      <td id="T_b41ef_row3_col2" class="data row3 col2">LEVOTHYROX 75µg Comp Sec BT 30</td>
+      <td id="T_b41ef_row3_col3" class="data row3 col3">4,370</td>
+      <td id="T_b41ef_row3_col4" class="data row3 col4">2,782</td>
+      <td id="T_b41ef_row3_col5" class="data row3 col5">1,588</td>
+      <td id="T_b41ef_row3_col6" class="data row3 col6">2,760</td>
+      <td id="T_b41ef_row3_col7" class="data row3 col7">E</td>
+      <td id="T_b41ef_row3_col8" class="data row3 col8">LEVOTHYROXINE</td>
+      <td id="T_b41ef_row3_col9" class="data row3 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row4_col0" class="data row4 col0">107335</td>
+      <td id="T_b41ef_row4_col1" class="data row4 col1">105785</td>
+      <td id="T_b41ef_row4_col2" class="data row4 col2">FORTRANS 64 gr  Pdre P Susp Or BT 4Sach/74gr</td>
+      <td id="T_b41ef_row4_col3" class="data row4 col3">17,581</td>
+      <td id="T_b41ef_row4_col4" class="data row4 col4">13,524</td>
+      <td id="T_b41ef_row4_col5" class="data row4 col5">4,057</td>
+      <td id="T_b41ef_row4_col6" class="data row4 col6">13,524</td>
+      <td id="T_b41ef_row4_col7" class="data row4 col7">E</td>
+      <td id="T_b41ef_row4_col8" class="data row4 col8">POLYETHYLENE GLYCOL</td>
+      <td id="T_b41ef_row4_col9" class="data row4 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row5_col0" class="data row5 col0">101682</td>
+      <td id="T_b41ef_row5_col1" class="data row5 col1">106616</td>
+      <td id="T_b41ef_row5_col2" class="data row5 col2">TERALITHE 250mg Comp Sec Bt 100</td>
+      <td id="T_b41ef_row5_col3" class="data row5 col3">5,240</td>
+      <td id="T_b41ef_row5_col4" class="data row5 col4">3,237</td>
+      <td id="T_b41ef_row5_col5" class="data row5 col5">2,003</td>
+      <td id="T_b41ef_row5_col6" class="data row5 col6">3,200</td>
+      <td id="T_b41ef_row5_col7" class="data row5 col7">E</td>
+      <td id="T_b41ef_row5_col8" class="data row5 col8">LITHIUM CARBONATE</td>
+      <td id="T_b41ef_row5_col9" class="data row5 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row6_col0" class="data row6 col0">102282</td>
+      <td id="T_b41ef_row6_col1" class="data row6 col1">106936</td>
+      <td id="T_b41ef_row6_col2" class="data row6 col2">LARGACTIL 100mg Comp Pell Sec Bt 30</td>
+      <td id="T_b41ef_row6_col3" class="data row6 col3">7,240</td>
+      <td id="T_b41ef_row6_col4" class="data row6 col4">2,480</td>
+      <td id="T_b41ef_row6_col5" class="data row6 col5">4,760</td>
+      <td id="T_b41ef_row6_col6" class="data row6 col6">2,460</td>
+      <td id="T_b41ef_row6_col7" class="data row6 col7">E</td>
+      <td id="T_b41ef_row6_col8" class="data row6 col8">CHLORPROMAZINE</td>
+      <td id="T_b41ef_row6_col9" class="data row6 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row7_col0" class="data row7 col0">102281</td>
+      <td id="T_b41ef_row7_col1" class="data row7 col1">106937</td>
+      <td id="T_b41ef_row7_col2" class="data row7 col2">LARGACTIL 25mg  Comp Pell sec Bt 50</td>
+      <td id="T_b41ef_row7_col3" class="data row7 col3">4,740</td>
+      <td id="T_b41ef_row7_col4" class="data row7 col4">1,115</td>
+      <td id="T_b41ef_row7_col5" class="data row7 col5">3,625</td>
+      <td id="T_b41ef_row7_col6" class="data row7 col6">1,100</td>
+      <td id="T_b41ef_row7_col7" class="data row7 col7">E</td>
+      <td id="T_b41ef_row7_col8" class="data row7 col8">CHLORPROMAZINE</td>
+      <td id="T_b41ef_row7_col9" class="data row7 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row8_col0" class="data row8 col0">100640</td>
+      <td id="T_b41ef_row8_col1" class="data row8 col1">107111</td>
+      <td id="T_b41ef_row8_col2" class="data row8 col2">LACTEOL 340 mg  Pdre P Susp Or Sachet Bt 10sach</td>
+      <td id="T_b41ef_row8_col3" class="data row8 col3">10,000</td>
+      <td id="T_b41ef_row8_col4" class="data row8 col4">5,203</td>
+      <td id="T_b41ef_row8_col5" class="data row8 col5">4,797</td>
+      <td id="T_b41ef_row8_col6" class="data row8 col6">5,200</td>
+      <td id="T_b41ef_row8_col7" class="data row8 col7">I</td>
+      <td id="T_b41ef_row8_col8" class="data row8 col8">LACTOBACILLUS ACIDOPHILUS</td>
+      <td id="T_b41ef_row8_col9" class="data row8 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row9_col0" class="data row9 col0">103696</td>
+      <td id="T_b41ef_row9_col1" class="data row9 col1">107312</td>
+      <td id="T_b41ef_row9_col2" class="data row9 col2">HALDOL DECANOAS 50mg Sol Inj Bt 1/1ml</td>
+      <td id="T_b41ef_row9_col3" class="data row9 col3">5,240</td>
+      <td id="T_b41ef_row9_col4" class="data row9 col4">5,015</td>
+      <td id="T_b41ef_row9_col5" class="data row9 col5">0,225</td>
+      <td id="T_b41ef_row9_col6" class="data row9 col6">3,894</td>
+      <td id="T_b41ef_row9_col7" class="data row9 col7">E</td>
+      <td id="T_b41ef_row9_col8" class="data row9 col8">HALOPERIDOL</td>
+      <td id="T_b41ef_row9_col9" class="data row9 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row10_col0" class="data row10 col0">104522</td>
+      <td id="T_b41ef_row10_col1" class="data row10 col1">107356</td>
+      <td id="T_b41ef_row10_col2" class="data row10 col2">CRESTOR 10mg Comp Pell  BT 30</td>
+      <td id="T_b41ef_row10_col3" class="data row10 col3">54,424</td>
+      <td id="T_b41ef_row10_col4" class="data row10 col4">53,200</td>
+      <td id="T_b41ef_row10_col5" class="data row10 col5">1,224</td>
+      <td id="T_b41ef_row10_col6" class="data row10 col6">16,080</td>
+      <td id="T_b41ef_row10_col7" class="data row10 col7">E</td>
+      <td id="T_b41ef_row10_col8" class="data row10 col8">ROSUVASTATINE</td>
+      <td id="T_b41ef_row10_col9" class="data row10 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row11_col0" class="data row11 col0">104521</td>
+      <td id="T_b41ef_row11_col1" class="data row11 col1">107357</td>
+      <td id="T_b41ef_row11_col2" class="data row11 col2">CRESTOR 20mg Comp Pell  BT 30</td>
+      <td id="T_b41ef_row11_col3" class="data row11 col3">75,815</td>
+      <td id="T_b41ef_row11_col4" class="data row11 col4">75,815</td>
+      <td id="T_b41ef_row11_col5" class="data row11 col5">0,000</td>
+      <td id="T_b41ef_row11_col6" class="data row11 col6">23,400</td>
+      <td id="T_b41ef_row11_col7" class="data row11 col7">E</td>
+      <td id="T_b41ef_row11_col8" class="data row11 col8">ROSUVASTATINE</td>
+      <td id="T_b41ef_row11_col9" class="data row11 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row12_col0" class="data row12 col0">104593</td>
+      <td id="T_b41ef_row12_col1" class="data row12 col1">107358</td>
+      <td id="T_b41ef_row12_col2" class="data row12 col2">CRESTOR 5mg Comp Pell BT 30</td>
+      <td id="T_b41ef_row12_col3" class="data row12 col3">45,392</td>
+      <td id="T_b41ef_row12_col4" class="data row12 col4">44,375</td>
+      <td id="T_b41ef_row12_col5" class="data row12 col5">1,017</td>
+      <td id="T_b41ef_row12_col6" class="data row12 col6">13,680</td>
+      <td id="T_b41ef_row12_col7" class="data row12 col7">E</td>
+      <td id="T_b41ef_row12_col8" class="data row12 col8">ROSUVASTATINE</td>
+      <td id="T_b41ef_row12_col9" class="data row12 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row13_col0" class="data row13 col0">102519</td>
+      <td id="T_b41ef_row13_col1" class="data row13 col1">107366</td>
+      <td id="T_b41ef_row13_col2" class="data row13 col2">SYMBICORT TURBUHALER 400 mcg / 12 mcg Pdre P Inhal  Bucc  FL 60 Doses</td>
+      <td id="T_b41ef_row13_col3" class="data row13 col3">132,180</td>
+      <td id="T_b41ef_row13_col4" class="data row13 col4">110,190</td>
+      <td id="T_b41ef_row13_col5" class="data row13 col5">21,990</td>
+      <td id="T_b41ef_row13_col6" class="data row13 col6">46,860</td>
+      <td id="T_b41ef_row13_col7" class="data row13 col7">E</td>
+      <td id="T_b41ef_row13_col8" class="data row13 col8">BUDESONIDE+FORMOTEROL</td>
+      <td id="T_b41ef_row13_col9" class="data row13 col9">N</td>
+    </tr>
+    <tr>
+      <td id="T_b41ef_row14_col0" class="data row14 col0">-</td>
+      <td id="T_b41ef_row14_col1" class="data row14 col1">107437</td>
+      <td id="T_b41ef_row14_col2" class="data row14 col2">LEVOTHYROX 50 µg Comp Sec Bt 30</td>
+      <td id="T_b41ef_row14_col3" class="data row14 col3">4,275</td>
+      <td id="T_b41ef_row14_col4" class="data row14 col4"></td>
+      <td id="T_b41ef_row14_col5" class="data row14 col5"></td>
+      <td id="T_b41ef_row14_col6" class="data row14 col6">2,040</td>
+      <td id="T_b41ef_row14_col7" class="data row14 col7">E</td>
+      <td id="T_b41ef_row14_col8" class="data row14 col8">LEVOTHYROXINE</td>
+      <td id="T_b41ef_row14_col9" class="data row14 col9">N</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="révision-des-prix">Révision des Prix</h3>
+
+<style type="text/css">
+</style>
+
+<table id="T_c90e8" class="display">
+  <thead>
+    <tr>
+      <th id="T_c90e8_level0_col0" class="col_heading level0 col0">CODE PCT</th>
+      <th id="T_c90e8_level0_col1" class="col_heading level0 col1">NOM COMMERCIAL</th>
+      <th id="T_c90e8_level0_col2" class="col_heading level0 col2">PRIX PUBLIC</th>
+      <th id="T_c90e8_level0_col3" class="col_heading level0 col3">ANCIEN PRIX PUBLIC</th>
+      <th id="T_c90e8_level0_col4" class="col_heading level0 col4">DIFFERENCE</th>
+      <th id="T_c90e8_level0_col5" class="col_heading level0 col5">TARIF REFERENCE</th>
+      <th id="T_c90e8_level0_col6" class="col_heading level0 col6">DCI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_c90e8_row0_col0" class="data row0 col0">105233</td>
+      <td id="T_c90e8_row0_col1" class="data row0 col1">SINTROM 4 mg COMP. SEC. Bt 20</td>
+      <td id="T_c90e8_row0_col2" class="data row0 col2">5,240</td>
+      <td id="T_c90e8_row0_col3" class="data row0 col3">1,803</td>
+      <td id="T_c90e8_row0_col4" class="data row0 col4">3,437</td>
+      <td id="T_c90e8_row0_col5" class="data row0 col5">1,800</td>
+      <td id="T_c90e8_row0_col6" class="data row0 col6">ACENOCOUMAROL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row1_col0" class="data row1 col0">105561</td>
+      <td id="T_c90e8_row1_col1" class="data row1 col1">DIAMOX  250mg Comp Sec Bt 24 (EX 101636)</td>
+      <td id="T_c90e8_row1_col2" class="data row1 col2">5,240</td>
+      <td id="T_c90e8_row1_col3" class="data row1 col3">2,512</td>
+      <td id="T_c90e8_row1_col4" class="data row1 col4">2,728</td>
+      <td id="T_c90e8_row1_col5" class="data row1 col5">2,496</td>
+      <td id="T_c90e8_row1_col6" class="data row1 col6">ACETAZOLAMIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row2_col0" class="data row2 col0">103608</td>
+      <td id="T_c90e8_row2_col1" class="data row2 col1">ZOVIRAX Comp  200 mg Bt 25</td>
+      <td id="T_c90e8_row2_col2" class="data row2 col2">55,629</td>
+      <td id="T_c90e8_row2_col3" class="data row2 col3">56,965</td>
+      <td id="T_c90e8_row2_col4" class="data row2 col4">-1,336</td>
+      <td id="T_c90e8_row2_col5" class="data row2 col5">25,675</td>
+      <td id="T_c90e8_row2_col6" class="data row2 col6">ACICLOVIR</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row3_col0" class="data row3 col0">100639</td>
+      <td id="T_c90e8_row3_col1" class="data row3 col1">FOLICUM 5mg Comp  Bt 20</td>
+      <td id="T_c90e8_row3_col2" class="data row3 col2">5,000</td>
+      <td id="T_c90e8_row3_col3" class="data row3 col3">4,636</td>
+      <td id="T_c90e8_row3_col4" class="data row3 col4">0,364</td>
+      <td id="T_c90e8_row3_col5" class="data row3 col5">4,620</td>
+      <td id="T_c90e8_row3_col6" class="data row3 col6">ACIDE FOLIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row4_col0" class="data row4 col0">107883</td>
+      <td id="T_c90e8_row4_col1" class="data row4 col1">FUCIDINE Comp pell 250mg Bt 10</td>
+      <td id="T_c90e8_row4_col2" class="data row4 col2">21,303</td>
+      <td id="T_c90e8_row4_col3" class="data row4 col3">20,830</td>
+      <td id="T_c90e8_row4_col4" class="data row4 col4">0,473</td>
+      <td id="T_c90e8_row4_col5" class="data row4 col5">15,930</td>
+      <td id="T_c90e8_row4_col6" class="data row4 col6">ACIDE FUSIDIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row5_col0" class="data row5 col0">103249</td>
+      <td id="T_c90e8_row5_col1" class="data row5 col1">NAABAK Collyre 4.9%Fl 10ml</td>
+      <td id="T_c90e8_row5_col2" class="data row5 col2">16,056</td>
+      <td id="T_c90e8_row5_col3" class="data row5 col3">12,351</td>
+      <td id="T_c90e8_row5_col4" class="data row5 col4">3,705</td>
+      <td id="T_c90e8_row5_col5" class="data row5 col5">12,350</td>
+      <td id="T_c90e8_row5_col6" class="data row5 col6">ACIDE N-ACETYL-ASPARTYL-GLUTAMIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row6_col0" class="data row6 col0">102804</td>
+      <td id="T_c90e8_row6_col1" class="data row6 col1">DEPAKINE Gttes  Buv 200mg/ml Fl 40ml</td>
+      <td id="T_c90e8_row6_col2" class="data row6 col2">8,436</td>
+      <td id="T_c90e8_row6_col3" class="data row6 col3">7,400</td>
+      <td id="T_c90e8_row6_col4" class="data row6 col4">1,036</td>
+      <td id="T_c90e8_row6_col5" class="data row6 col5">6,000</td>
+      <td id="T_c90e8_row6_col6" class="data row6 col6">ACIDE VALPROIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row7_col0" class="data row7 col0">105635</td>
+      <td id="T_c90e8_row7_col1" class="data row7 col1">FOSAVANCE 70mg/5600UI Comp Bt 4</td>
+      <td id="T_c90e8_row7_col2" class="data row7 col2">22,992</td>
+      <td id="T_c90e8_row7_col3" class="data row7 col3">19,200</td>
+      <td id="T_c90e8_row7_col4" class="data row7 col4">3,792</td>
+      <td id="T_c90e8_row7_col5" class="data row7 col5">19,200</td>
+      <td id="T_c90e8_row7_col6" class="data row7 col6">ALENDRONATE + COLECALCIFEROL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row8_col0" class="data row8 col0">103410</td>
+      <td id="T_c90e8_row8_col1" class="data row8 col1">GAVISCON  Sus Buv Bt 24Sachet /10ml</td>
+      <td id="T_c90e8_row8_col2" class="data row8 col2">8,648</td>
+      <td id="T_c90e8_row8_col3" class="data row8 col3">8,455</td>
+      <td id="T_c90e8_row8_col4" class="data row8 col4">0,193</td>
+      <td id="T_c90e8_row8_col5" class="data row8 col5">6,480</td>
+      <td id="T_c90e8_row8_col6" class="data row8 col6">ALGINATES</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row9_col0" class="data row9 col0">103104</td>
+      <td id="T_c90e8_row9_col1" class="data row9 col1">MOXAL Comp à croquer Bt 30</td>
+      <td id="T_c90e8_row9_col2" class="data row9 col2">4,400</td>
+      <td id="T_c90e8_row9_col3" class="data row9 col3">4,820</td>
+      <td id="T_c90e8_row9_col4" class="data row9 col4">-0,420</td>
+      <td id="T_c90e8_row9_col5" class="data row9 col5">4,400</td>
+      <td id="T_c90e8_row9_col6" class="data row9 col6">ALUMINIUM HYDROXYDE+MAGNESIUM HYDROXYDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row10_col0" class="data row10 col0">104837</td>
+      <td id="T_c90e8_row10_col1" class="data row10 col1">ROCGEL Susp Buv 1.2 GR BT  24 Sachets</td>
+      <td id="T_c90e8_row10_col2" class="data row10 col2">13,474</td>
+      <td id="T_c90e8_row10_col3" class="data row10 col3">12,775</td>
+      <td id="T_c90e8_row10_col4" class="data row10 col4">0,699</td>
+      <td id="T_c90e8_row10_col5" class="data row10 col5">12,768</td>
+      <td id="T_c90e8_row10_col6" class="data row10 col6">ALUMINIUM OXYDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row11_col0" class="data row11 col0">108521</td>
+      <td id="T_c90e8_row11_col1" class="data row11 col1">METEOSPASMYL Caps 60mg Bt 20</td>
+      <td id="T_c90e8_row11_col2" class="data row11 col2">9,723</td>
+      <td id="T_c90e8_row11_col3" class="data row11 col3">5,131</td>
+      <td id="T_c90e8_row11_col4" class="data row11 col4">4,592</td>
+      <td id="T_c90e8_row11_col5" class="data row11 col5">5,120</td>
+      <td id="T_c90e8_row11_col6" class="data row11 col6">ALVERINE CITRATE+SIMETICONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row12_col0" class="data row12 col0">103418</td>
+      <td id="T_c90e8_row12_col1" class="data row12 col1">EXFORGE  Comp Pell 5MG/160MG Bt 28</td>
+      <td id="T_c90e8_row12_col2" class="data row12 col2">51,232</td>
+      <td id="T_c90e8_row12_col3" class="data row12 col3">50,080</td>
+      <td id="T_c90e8_row12_col4" class="data row12 col4">1,152</td>
+      <td id="T_c90e8_row12_col5" class="data row12 col5">35,280</td>
+      <td id="T_c90e8_row12_col6" class="data row12 col6">AMLODIPINE + VALSARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row13_col0" class="data row13 col0">103469</td>
+      <td id="T_c90e8_row13_col1" class="data row13 col1">EXFORGE  Comp 5 mg /80mg   Bt 28</td>
+      <td id="T_c90e8_row13_col2" class="data row13 col2">47,079</td>
+      <td id="T_c90e8_row13_col3" class="data row13 col3">46,020</td>
+      <td id="T_c90e8_row13_col4" class="data row13 col4">1,059</td>
+      <td id="T_c90e8_row13_col5" class="data row13 col5">31,136</td>
+      <td id="T_c90e8_row13_col6" class="data row13 col6">AMLODIPINE + VALSARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row14_col0" class="data row14 col0">103419</td>
+      <td id="T_c90e8_row14_col1" class="data row14 col1">EXFORGE Comp Pell 10 MG/160MG  Bt 28</td>
+      <td id="T_c90e8_row14_col2" class="data row14 col2">51,232</td>
+      <td id="T_c90e8_row14_col3" class="data row14 col3">50,080</td>
+      <td id="T_c90e8_row14_col4" class="data row14 col4">1,152</td>
+      <td id="T_c90e8_row14_col5" class="data row14 col5">35,280</td>
+      <td id="T_c90e8_row14_col6" class="data row14 col6">AMLODIPINE + VALSARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row15_col0" class="data row15 col0">105529</td>
+      <td id="T_c90e8_row15_col1" class="data row15 col1">CADUET 5mg/10mg Comp Pell Bt 30 (ex 103487)</td>
+      <td id="T_c90e8_row15_col2" class="data row15 col2">42,985</td>
+      <td id="T_c90e8_row15_col3" class="data row15 col3">42,020</td>
+      <td id="T_c90e8_row15_col4" class="data row15 col4">0,965</td>
+      <td id="T_c90e8_row15_col5" class="data row15 col5">29,130</td>
+      <td id="T_c90e8_row15_col6" class="data row15 col6">AMLODIPINE+ATORVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row16_col0" class="data row16 col0">105528</td>
+      <td id="T_c90e8_row16_col1" class="data row16 col1">CADUET 10mg/10mg Com Pell Bt 30 (ex 103486)</td>
+      <td id="T_c90e8_row16_col2" class="data row16 col2">42,985</td>
+      <td id="T_c90e8_row16_col3" class="data row16 col3">42,020</td>
+      <td id="T_c90e8_row16_col4" class="data row16 col4">0,965</td>
+      <td id="T_c90e8_row16_col5" class="data row16 col5">29,130</td>
+      <td id="T_c90e8_row16_col6" class="data row16 col6">AMLODIPINE+ATORVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row17_col0" class="data row17 col0">104753</td>
+      <td id="T_c90e8_row17_col1" class="data row17 col1">EXFORGE HCT Comp Pell 10 MG/160MG/25MG BT 28</td>
+      <td id="T_c90e8_row17_col2" class="data row17 col2">42,924</td>
+      <td id="T_c90e8_row17_col3" class="data row17 col3">41,960</td>
+      <td id="T_c90e8_row17_col4" class="data row17 col4">0,964</td>
+      <td id="T_c90e8_row17_col5" class="data row17 col5">34,748</td>
+      <td id="T_c90e8_row17_col6" class="data row17 col6">AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row18_col0" class="data row18 col0">104752</td>
+      <td id="T_c90e8_row18_col1" class="data row18 col1">EXFORGE HCT Comp Pell 10 MG/160 MG /12.5 MG BT 28</td>
+      <td id="T_c90e8_row18_col2" class="data row18 col2">43,414</td>
+      <td id="T_c90e8_row18_col3" class="data row18 col3">42,440</td>
+      <td id="T_c90e8_row18_col4" class="data row18 col4">0,974</td>
+      <td id="T_c90e8_row18_col5" class="data row18 col5">34,748</td>
+      <td id="T_c90e8_row18_col6" class="data row18 col6">AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row19_col0" class="data row19 col0">104750</td>
+      <td id="T_c90e8_row19_col1" class="data row19 col1">EXFORGE HCT  Comp Pell 5 MG/160MG/12.5MG BT 28</td>
+      <td id="T_c90e8_row19_col2" class="data row19 col2">39,613</td>
+      <td id="T_c90e8_row19_col3" class="data row19 col3">38,725</td>
+      <td id="T_c90e8_row19_col4" class="data row19 col4">0,888</td>
+      <td id="T_c90e8_row19_col5" class="data row19 col5">34,748</td>
+      <td id="T_c90e8_row19_col6" class="data row19 col6">AMLODIPINE+VALSARTAN+HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row20_col0" class="data row20 col0">105535</td>
+      <td id="T_c90e8_row20_col1" class="data row20 col1">TAHOR 80mg Comp Pell Bt 28 (ex 103416)</td>
+      <td id="T_c90e8_row20_col2" class="data row20 col2">24,654</td>
+      <td id="T_c90e8_row20_col3" class="data row20 col3">24,105</td>
+      <td id="T_c90e8_row20_col4" class="data row20 col4">0,549</td>
+      <td id="T_c90e8_row20_col5" class="data row20 col5">24,080</td>
+      <td id="T_c90e8_row20_col6" class="data row20 col6">ATORVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row21_col0" class="data row21 col0">104652</td>
+      <td id="T_c90e8_row21_col1" class="data row21 col1">ZITHROMAX Pdre Susp Or  1500 MG/37.5 ML FL 37.5 ML</td>
+      <td id="T_c90e8_row21_col2" class="data row21 col2">28,176</td>
+      <td id="T_c90e8_row21_col3" class="data row21 col3">24,750</td>
+      <td id="T_c90e8_row21_col4" class="data row21 col4">3,426</td>
+      <td id="T_c90e8_row21_col5" class="data row21 col5">11,738</td>
+      <td id="T_c90e8_row21_col6" class="data row21 col6">AZITHROMYCINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row22_col0" class="data row22 col0">100761</td>
+      <td id="T_c90e8_row22_col1" class="data row22 col1">CLENIL FORTE Aérosol 250µg Fl 200doses</td>
+      <td id="T_c90e8_row22_col2" class="data row22 col2">20,636</td>
+      <td id="T_c90e8_row22_col3" class="data row22 col3">20,175</td>
+      <td id="T_c90e8_row22_col4" class="data row22 col4">0,461</td>
+      <td id="T_c90e8_row22_col5" class="data row22 col5">12,800</td>
+      <td id="T_c90e8_row22_col6" class="data row22 col6">BECLOMETASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row23_col0" class="data row23 col0">101902</td>
+      <td id="T_c90e8_row23_col1" class="data row23 col1">BECLOJET 250µg Sol/Inhl Fl 200doses</td>
+      <td id="T_c90e8_row23_col2" class="data row23 col2">33,053</td>
+      <td id="T_c90e8_row23_col3" class="data row23 col3">32,310</td>
+      <td id="T_c90e8_row23_col4" class="data row23 col4">0,743</td>
+      <td id="T_c90e8_row23_col5" class="data row23 col5">12,800</td>
+      <td id="T_c90e8_row23_col6" class="data row23 col6">BECLOMETASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row24_col0" class="data row24 col0">101621</td>
+      <td id="T_c90e8_row24_col1" class="data row24 col1">BASDENE Comp 25mg Bt 50</td>
+      <td id="T_c90e8_row24_col2" class="data row24 col2">5,000</td>
+      <td id="T_c90e8_row24_col3" class="data row24 col3">0,761</td>
+      <td id="T_c90e8_row24_col4" class="data row24 col4">4,239</td>
+      <td id="T_c90e8_row24_col5" class="data row24 col5">0,750</td>
+      <td id="T_c90e8_row24_col6" class="data row24 col6">BENZYLTHIOURACILE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row25_col0" class="data row25 col0">101633</td>
+      <td id="T_c90e8_row25_col1" class="data row25 col1">ABUFENE Comp 400mg Bt 30</td>
+      <td id="T_c90e8_row25_col2" class="data row25 col2">10,000</td>
+      <td id="T_c90e8_row25_col3" class="data row25 col3">5,705</td>
+      <td id="T_c90e8_row25_col4" class="data row25 col4">4,295</td>
+      <td id="T_c90e8_row25_col5" class="data row25 col5">5,700</td>
+      <td id="T_c90e8_row25_col6" class="data row25 col6">BETA-ALANINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row26_col0" class="data row26 col0">105641</td>
+      <td id="T_c90e8_row26_col1" class="data row26 col1">CELESTENE Comp soluble  2mg Bt 20</td>
+      <td id="T_c90e8_row26_col2" class="data row26 col2">9,978</td>
+      <td id="T_c90e8_row26_col3" class="data row26 col3">8,355</td>
+      <td id="T_c90e8_row26_col4" class="data row26 col4">1,623</td>
+      <td id="T_c90e8_row26_col5" class="data row26 col5">7,680</td>
+      <td id="T_c90e8_row26_col6" class="data row26 col6">BETAMETHASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row27_col0" class="data row27 col0">105760</td>
+      <td id="T_c90e8_row27_col1" class="data row27 col1">CARDENSIEL 5mg Comp Pell Séc Bt 30</td>
+      <td id="T_c90e8_row27_col2" class="data row27 col2">15,631</td>
+      <td id="T_c90e8_row27_col3" class="data row27 col3">15,280</td>
+      <td id="T_c90e8_row27_col4" class="data row27 col4">0,351</td>
+      <td id="T_c90e8_row27_col5" class="data row27 col5">6,420</td>
+      <td id="T_c90e8_row27_col6" class="data row27 col6">BISOPROLOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row28_col0" class="data row28 col0">105759</td>
+      <td id="T_c90e8_row28_col1" class="data row28 col1">CARDENSIEL 2.5mg Comp Pell Séc Bt 30</td>
+      <td id="T_c90e8_row28_col2" class="data row28 col2">15,631</td>
+      <td id="T_c90e8_row28_col3" class="data row28 col3">15,280</td>
+      <td id="T_c90e8_row28_col4" class="data row28 col4">0,351</td>
+      <td id="T_c90e8_row28_col5" class="data row28 col5">5,400</td>
+      <td id="T_c90e8_row28_col6" class="data row28 col6">BISOPROLOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row29_col0" class="data row29 col0">105761</td>
+      <td id="T_c90e8_row29_col1" class="data row29 col1">DETENSIEL 10mg Comp Pell Séc Bt 30</td>
+      <td id="T_c90e8_row29_col2" class="data row29 col2">17,096</td>
+      <td id="T_c90e8_row29_col3" class="data row29 col3">16,080</td>
+      <td id="T_c90e8_row29_col4" class="data row29 col4">1,016</td>
+      <td id="T_c90e8_row29_col5" class="data row29 col5">8,220</td>
+      <td id="T_c90e8_row29_col6" class="data row29 col6">BISOPROLOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row30_col0" class="data row30 col0">105752</td>
+      <td id="T_c90e8_row30_col1" class="data row30 col1">CONCOR AMLO 5mg/5mg Comp Bt 30</td>
+      <td id="T_c90e8_row30_col2" class="data row30 col2">30,712</td>
+      <td id="T_c90e8_row30_col3" class="data row30 col3">28,760</td>
+      <td id="T_c90e8_row30_col4" class="data row30 col4">1,952</td>
+      <td id="T_c90e8_row30_col5" class="data row30 col5">15,090</td>
+      <td id="T_c90e8_row30_col6" class="data row30 col6">BISOPROLOL+ AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row31_col0" class="data row31 col0">105751</td>
+      <td id="T_c90e8_row31_col1" class="data row31 col1">CONCOR AMLO 5mg/10mg Comp Bt 30</td>
+      <td id="T_c90e8_row31_col2" class="data row31 col2">35,642</td>
+      <td id="T_c90e8_row31_col3" class="data row31 col3">34,840</td>
+      <td id="T_c90e8_row31_col4" class="data row31 col4">0,802</td>
+      <td id="T_c90e8_row31_col5" class="data row31 col5">18,450</td>
+      <td id="T_c90e8_row31_col6" class="data row31 col6">BISOPROLOL+ AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row32_col0" class="data row32 col0">105749</td>
+      <td id="T_c90e8_row32_col1" class="data row32 col1">CONCOR AMLO 10mg/10mg Comp Bt 30</td>
+      <td id="T_c90e8_row32_col2" class="data row32 col2">41,299</td>
+      <td id="T_c90e8_row32_col3" class="data row32 col3">38,675</td>
+      <td id="T_c90e8_row32_col4" class="data row32 col4">2,624</td>
+      <td id="T_c90e8_row32_col5" class="data row32 col5">20,250</td>
+      <td id="T_c90e8_row32_col6" class="data row32 col6">BISOPROLOL+ AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row33_col0" class="data row33 col0">105750</td>
+      <td id="T_c90e8_row33_col1" class="data row33 col1">CONCOR AMLO 10mg/5mg Comp Bt 30</td>
+      <td id="T_c90e8_row33_col2" class="data row33 col2">35,642</td>
+      <td id="T_c90e8_row33_col3" class="data row33 col3">34,840</td>
+      <td id="T_c90e8_row33_col4" class="data row33 col4">0,802</td>
+      <td id="T_c90e8_row33_col5" class="data row33 col5">16,860</td>
+      <td id="T_c90e8_row33_col6" class="data row33 col6">BISOPROLOL+ AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row34_col0" class="data row34 col0">105310</td>
+      <td id="T_c90e8_row34_col1" class="data row34 col1">BUDENA 64 mcg Spray Nasal Fl 120 Doses</td>
+      <td id="T_c90e8_row34_col2" class="data row34 col2">20,020</td>
+      <td id="T_c90e8_row34_col3" class="data row34 col3">19,570</td>
+      <td id="T_c90e8_row34_col4" class="data row34 col4">0,450</td>
+      <td id="T_c90e8_row34_col5" class="data row34 col5">14,160</td>
+      <td id="T_c90e8_row34_col6" class="data row34 col6">BUDESONIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row35_col0" class="data row35 col0">102519</td>
+      <td id="T_c90e8_row35_col1" class="data row35 col1">SYMBICORT TURBUHALER 400 µg / 12 µg pdre/inhalation bucc. FL 60 Doses</td>
+      <td id="T_c90e8_row35_col2" class="data row35 col2">132,180</td>
+      <td id="T_c90e8_row35_col3" class="data row35 col3">110,190</td>
+      <td id="T_c90e8_row35_col4" class="data row35 col4">21,990</td>
+      <td id="T_c90e8_row35_col5" class="data row35 col5">46,860</td>
+      <td id="T_c90e8_row35_col6" class="data row35 col6">BUDESONIDE+FORMOTEROL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row36_col0" class="data row36 col0">104996</td>
+      <td id="T_c90e8_row36_col1" class="data row36 col1">DOSTINEX 0.5 mg Comp Sec FL 8</td>
+      <td id="T_c90e8_row36_col2" class="data row36 col2">108,610</td>
+      <td id="T_c90e8_row36_col3" class="data row36 col3">106,165</td>
+      <td id="T_c90e8_row36_col4" class="data row36 col4">2,445</td>
+      <td id="T_c90e8_row36_col5" class="data row36 col5">61,880</td>
+      <td id="T_c90e8_row36_col6" class="data row36 col6">Cabergoline</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row37_col0" class="data row37 col0">102971</td>
+      <td id="T_c90e8_row37_col1" class="data row37 col1">DOSTINEX 0.5 mg comp.séc.fl/2</td>
+      <td id="T_c90e8_row37_col2" class="data row37 col2">31,144</td>
+      <td id="T_c90e8_row37_col3" class="data row37 col3">30,445</td>
+      <td id="T_c90e8_row37_col4" class="data row37 col4">0,699</td>
+      <td id="T_c90e8_row37_col5" class="data row37 col5">15,470</td>
+      <td id="T_c90e8_row37_col6" class="data row37 col6">Cabergoline</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row38_col0" class="data row38 col0">103204</td>
+      <td id="T_c90e8_row38_col1" class="data row38 col1">DAIVOBET Pde Der 50µG/0.5MG Tbe 60</td>
+      <td id="T_c90e8_row38_col2" class="data row38 col2">158,826</td>
+      <td id="T_c90e8_row38_col3" class="data row38 col3">149,815</td>
+      <td id="T_c90e8_row38_col4" class="data row38 col4">9,011</td>
+      <td id="T_c90e8_row38_col5" class="data row38 col5">57,120</td>
+      <td id="T_c90e8_row38_col6" class="data row38 col6">CALCIPOTRIOL + BETAMETHASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row39_col0" class="data row39 col0">104627</td>
+      <td id="T_c90e8_row39_col1" class="data row39 col1">DAIVOBET  Gel Dermique 50 mcg/0.5mg/ gr TBE 60 GR</td>
+      <td id="T_c90e8_row39_col2" class="data row39 col2">187,359</td>
+      <td id="T_c90e8_row39_col3" class="data row39 col3">174,540</td>
+      <td id="T_c90e8_row39_col4" class="data row39 col4">12,819</td>
+      <td id="T_c90e8_row39_col5" class="data row39 col5">58,320</td>
+      <td id="T_c90e8_row39_col6" class="data row39 col6">CALCIPOTRIOL + BETAMETHASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row40_col0" class="data row40 col0">106248</td>
+      <td id="T_c90e8_row40_col1" class="data row40 col1">TAVER Comp 200mg Bt 50</td>
+      <td id="T_c90e8_row40_col2" class="data row40 col2">5,240</td>
+      <td id="T_c90e8_row40_col3" class="data row40 col3">2,489</td>
+      <td id="T_c90e8_row40_col4" class="data row40 col4">2,751</td>
+      <td id="T_c90e8_row40_col5" class="data row40 col5">2,450</td>
+      <td id="T_c90e8_row40_col6" class="data row40 col6">CARBAMAZEPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row41_col0" class="data row41 col0">103271</td>
+      <td id="T_c90e8_row41_col1" class="data row41 col1">LIPOSIC 0.2 % Gel Oph Tbe 10</td>
+      <td id="T_c90e8_row41_col2" class="data row41 col2">5,000</td>
+      <td id="T_c90e8_row41_col3" class="data row41 col3">4,884</td>
+      <td id="T_c90e8_row41_col4" class="data row41 col4">0,116</td>
+      <td id="T_c90e8_row41_col5" class="data row41 col5">4,880</td>
+      <td id="T_c90e8_row41_col6" class="data row41 col6">CARBOMERE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row42_col0" class="data row42 col0">100570</td>
+      <td id="T_c90e8_row42_col1" class="data row42 col1">GEL LARMES  Gel opht 0,3% Tb 10gr</td>
+      <td id="T_c90e8_row42_col2" class="data row42 col2">10,000</td>
+      <td id="T_c90e8_row42_col3" class="data row42 col3">5,888</td>
+      <td id="T_c90e8_row42_col4" class="data row42 col4">4,112</td>
+      <td id="T_c90e8_row42_col5" class="data row42 col5">5,880</td>
+      <td id="T_c90e8_row42_col6" class="data row42 col6">CARBOMERE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row43_col0" class="data row43 col0">104184</td>
+      <td id="T_c90e8_row43_col1" class="data row43 col1">CARVIDOL  Comp Sec 12.5 mg Bt 30</td>
+      <td id="T_c90e8_row43_col2" class="data row43 col2">19,176</td>
+      <td id="T_c90e8_row43_col3" class="data row43 col3">18,605</td>
+      <td id="T_c90e8_row43_col4" class="data row43 col4">0,571</td>
+      <td id="T_c90e8_row43_col5" class="data row43 col5">13,710</td>
+      <td id="T_c90e8_row43_col6" class="data row43 col6">CARVEDILOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row44_col0" class="data row44 col0">103534</td>
+      <td id="T_c90e8_row44_col1" class="data row44 col1">CARVIDOL Comp Sec 25 mg Bt  30</td>
+      <td id="T_c90e8_row44_col2" class="data row44 col2">27,147</td>
+      <td id="T_c90e8_row44_col3" class="data row44 col3">26,255</td>
+      <td id="T_c90e8_row44_col4" class="data row44 col4">0,892</td>
+      <td id="T_c90e8_row44_col5" class="data row44 col5">18,870</td>
+      <td id="T_c90e8_row44_col6" class="data row44 col6">CARVEDILOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row45_col0" class="data row45 col0">103533</td>
+      <td id="T_c90e8_row45_col1" class="data row45 col1">CARVIDOL Comp Sec 6.25 mg Bt 30</td>
+      <td id="T_c90e8_row45_col2" class="data row45 col2">11,955</td>
+      <td id="T_c90e8_row45_col3" class="data row45 col3">11,940</td>
+      <td id="T_c90e8_row45_col4" class="data row45 col4">0,015</td>
+      <td id="T_c90e8_row45_col5" class="data row45 col5">9,060</td>
+      <td id="T_c90e8_row45_col6" class="data row45 col6">CARVEDILOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row46_col0" class="data row46 col0">104286</td>
+      <td id="T_c90e8_row46_col1" class="data row46 col1">CEFODOX  P. Sus Buv 40 mg/5 ml Granulés Fl 100 ml</td>
+      <td id="T_c90e8_row46_col2" class="data row46 col2">19,873</td>
+      <td id="T_c90e8_row46_col3" class="data row46 col3">21,745</td>
+      <td id="T_c90e8_row46_col4" class="data row46 col4">-1,872</td>
+      <td id="T_c90e8_row46_col5" class="data row46 col5">19,873</td>
+      <td id="T_c90e8_row46_col6" class="data row46 col6">CEFPODOXIME</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row47_col0" class="data row47 col0">103363</td>
+      <td id="T_c90e8_row47_col1" class="data row47 col1">CEFODOX Comp 100 mg  Bt 10</td>
+      <td id="T_c90e8_row47_col2" class="data row47 col2">20,782</td>
+      <td id="T_c90e8_row47_col3" class="data row47 col3">22,755</td>
+      <td id="T_c90e8_row47_col4" class="data row47 col4">-1,973</td>
+      <td id="T_c90e8_row47_col5" class="data row47 col5">19,060</td>
+      <td id="T_c90e8_row47_col6" class="data row47 col6">CEFPODOXIME</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row48_col0" class="data row48 col0">102948</td>
+      <td id="T_c90e8_row48_col1" class="data row48 col1">CARBACTIVE 120 mg gelu Bt/30</td>
+      <td id="T_c90e8_row48_col2" class="data row48 col2">10,000</td>
+      <td id="T_c90e8_row48_col3" class="data row48 col3">5,991</td>
+      <td id="T_c90e8_row48_col4" class="data row48 col4">4,009</td>
+      <td id="T_c90e8_row48_col5" class="data row48 col5">5,970</td>
+      <td id="T_c90e8_row48_col6" class="data row48 col6">CHARBON ACTIVE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row49_col0" class="data row49 col0">102282</td>
+      <td id="T_c90e8_row49_col1" class="data row49 col1">LARGACTIL Comp sec 100mg Bt 30</td>
+      <td id="T_c90e8_row49_col2" class="data row49 col2">7,240</td>
+      <td id="T_c90e8_row49_col3" class="data row49 col3">2,480</td>
+      <td id="T_c90e8_row49_col4" class="data row49 col4">4,760</td>
+      <td id="T_c90e8_row49_col5" class="data row49 col5">2,460</td>
+      <td id="T_c90e8_row49_col6" class="data row49 col6">CHLORPROMAZINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row50_col0" class="data row50 col0">102281</td>
+      <td id="T_c90e8_row50_col1" class="data row50 col1">LARGACTIL Comp sec 25mg Bt 50</td>
+      <td id="T_c90e8_row50_col2" class="data row50 col2">4,740</td>
+      <td id="T_c90e8_row50_col3" class="data row50 col3">1,115</td>
+      <td id="T_c90e8_row50_col4" class="data row50 col4">3,625</td>
+      <td id="T_c90e8_row50_col5" class="data row50 col5">1,100</td>
+      <td id="T_c90e8_row50_col6" class="data row50 col6">CHLORPROMAZINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row51_col0" class="data row51 col0">101378</td>
+      <td id="T_c90e8_row51_col1" class="data row51 col1">LIBRAX Comp Enrobe  Bt30</td>
+      <td id="T_c90e8_row51_col2" class="data row51 col2">10,240</td>
+      <td id="T_c90e8_row51_col3" class="data row51 col3">5,956</td>
+      <td id="T_c90e8_row51_col4" class="data row51 col4">4,284</td>
+      <td id="T_c90e8_row51_col5" class="data row51 col5">5,940</td>
+      <td id="T_c90e8_row51_col6" class="data row51 col6">CLIDINIUM + CHLORDIAZEPOXIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row52_col0" class="data row52 col0">102556</td>
+      <td id="T_c90e8_row52_col1" class="data row52 col1">COLCHICINE OPOCALCIUM Comp 1mg Bt 20</td>
+      <td id="T_c90e8_row52_col2" class="data row52 col2">5,240</td>
+      <td id="T_c90e8_row52_col3" class="data row52 col3">3,360</td>
+      <td id="T_c90e8_row52_col4" class="data row52 col4">1,880</td>
+      <td id="T_c90e8_row52_col5" class="data row52 col5">3,360</td>
+      <td id="T_c90e8_row52_col6" class="data row52 col6">COLCHICINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row53_col0" class="data row53 col0">105650</td>
+      <td id="T_c90e8_row53_col1" class="data row53 col1">DESLORATADINE GENEPHARM 5mg Comp orodisp Bt 30</td>
+      <td id="T_c90e8_row53_col2" class="data row53 col2">9,837</td>
+      <td id="T_c90e8_row53_col3" class="data row53 col3">9,615</td>
+      <td id="T_c90e8_row53_col4" class="data row53 col4">0,222</td>
+      <td id="T_c90e8_row53_col5" class="data row53 col5">9,600</td>
+      <td id="T_c90e8_row53_col6" class="data row53 col6">DESLORATADINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row54_col0" class="data row54 col0">101831</td>
+      <td id="T_c90e8_row54_col1" class="data row54 col1">FRAKIDEX Collyre Fl 5ml</td>
+      <td id="T_c90e8_row54_col2" class="data row54 col2">5,240</td>
+      <td id="T_c90e8_row54_col3" class="data row54 col3">3,004</td>
+      <td id="T_c90e8_row54_col4" class="data row54 col4">2,236</td>
+      <td id="T_c90e8_row54_col5" class="data row54 col5">3,000</td>
+      <td id="T_c90e8_row54_col6" class="data row54 col6">DEXAMETHASONE+FRAMYCETINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row55_col0" class="data row55 col0">102885</td>
+      <td id="T_c90e8_row55_col1" class="data row55 col1">AURICULARUM pdre auric .fl/293 mg</td>
+      <td id="T_c90e8_row55_col2" class="data row55 col2">14,527</td>
+      <td id="T_c90e8_row55_col3" class="data row55 col3">11,230</td>
+      <td id="T_c90e8_row55_col4" class="data row55 col4">3,297</td>
+      <td id="T_c90e8_row55_col5" class="data row55 col5">11,134</td>
+      <td id="T_c90e8_row55_col6" class="data row55 col6">DEXAMETHASONE+NYSTATINE+POLYMYXINE B+OXYTETRACYCLINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row56_col0" class="data row56 col0">103567</td>
+      <td id="T_c90e8_row56_col1" class="data row56 col1">DICLOBAK Collyre  1 mg/1ml FL 10 ML (ex DICLOCED )</td>
+      <td id="T_c90e8_row56_col2" class="data row56 col2">17,725</td>
+      <td id="T_c90e8_row56_col3" class="data row56 col3">13,690</td>
+      <td id="T_c90e8_row56_col4" class="data row56 col4">4,035</td>
+      <td id="T_c90e8_row56_col5" class="data row56 col5">9,240</td>
+      <td id="T_c90e8_row56_col6" class="data row56 col6">DICLOFENAC</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row57_col0" class="data row57 col0">104055</td>
+      <td id="T_c90e8_row57_col1" class="data row57 col1">DIGOXINE NIHFI  Comp Sec 0.250 mg Bt 20</td>
+      <td id="T_c90e8_row57_col2" class="data row57 col2">5,240</td>
+      <td id="T_c90e8_row57_col3" class="data row57 col3">1,979</td>
+      <td id="T_c90e8_row57_col4" class="data row57 col4">3,261</td>
+      <td id="T_c90e8_row57_col5" class="data row57 col5">1,960</td>
+      <td id="T_c90e8_row57_col6" class="data row57 col6">DIGOXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row58_col0" class="data row58 col0">105786</td>
+      <td id="T_c90e8_row58_col1" class="data row58 col1">SMECTA 3g ORANGE-VANILLE Pdre P Susp Or Bt 30 Sach</td>
+      <td id="T_c90e8_row58_col2" class="data row58 col2">12,064</td>
+      <td id="T_c90e8_row58_col3" class="data row58 col3">9,280</td>
+      <td id="T_c90e8_row58_col4" class="data row58 col4">2,784</td>
+      <td id="T_c90e8_row58_col5" class="data row58 col5">7,710</td>
+      <td id="T_c90e8_row58_col6" class="data row58 col6">DIOSMECTITE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row59_col0" class="data row59 col0">106297</td>
+      <td id="T_c90e8_row59_col1" class="data row59 col1">PROCARDIN 75mg Comp B/120</td>
+      <td id="T_c90e8_row59_col2" class="data row59 col2">10,240</td>
+      <td id="T_c90e8_row59_col3" class="data row59 col3">7,741</td>
+      <td id="T_c90e8_row59_col4" class="data row59 col4">2,499</td>
+      <td id="T_c90e8_row59_col5" class="data row59 col5">7,680</td>
+      <td id="T_c90e8_row59_col6" class="data row59 col6">DIPYRIDAMOLE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row60_col0" class="data row60 col0">105572</td>
+      <td id="T_c90e8_row60_col1" class="data row60 col1">DUALKOPT 20mg + 5mg Collyre Fl 10ml</td>
+      <td id="T_c90e8_row60_col2" class="data row60 col2">86,937</td>
+      <td id="T_c90e8_row60_col3" class="data row60 col3">84,980</td>
+      <td id="T_c90e8_row60_col4" class="data row60 col4">1,957</td>
+      <td id="T_c90e8_row60_col5" class="data row60 col5">41,220</td>
+      <td id="T_c90e8_row60_col6" class="data row60 col6">DORZOLAMIDE+TIMOLOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row61_col0" class="data row61 col0">103574</td>
+      <td id="T_c90e8_row61_col1" class="data row61 col1">DUPHASTON 10 Comp sec 10mg Bt 10</td>
+      <td id="T_c90e8_row61_col2" class="data row61 col2">5,240</td>
+      <td id="T_c90e8_row61_col3" class="data row61 col3">4,892</td>
+      <td id="T_c90e8_row61_col4" class="data row61 col4">0,348</td>
+      <td id="T_c90e8_row61_col5" class="data row61 col5">4,890</td>
+      <td id="T_c90e8_row61_col6" class="data row61 col6">DYDROGESTERONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row62_col0" class="data row62 col0">108527</td>
+      <td id="T_c90e8_row62_col1" class="data row62 col1">LOVENOX 8000 UI Sol Inj Bt 2 Ser /08ml</td>
+      <td id="T_c90e8_row62_col2" class="data row62 col2">45,384</td>
+      <td id="T_c90e8_row62_col3" class="data row62 col3">37,860</td>
+      <td id="T_c90e8_row62_col4" class="data row62 col4">7,524</td>
+      <td id="T_c90e8_row62_col5" class="data row62 col5">17,326</td>
+      <td id="T_c90e8_row62_col6" class="data row62 col6">ENOXAPARINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row63_col0" class="data row63 col0">108487</td>
+      <td id="T_c90e8_row63_col1" class="data row63 col1">LOVENOX 4000 UI Sol Iinj Bt 2Ser /0.4ml</td>
+      <td id="T_c90e8_row63_col2" class="data row63 col2">32,166</td>
+      <td id="T_c90e8_row63_col3" class="data row63 col3">26,845</td>
+      <td id="T_c90e8_row63_col4" class="data row63 col4">5,321</td>
+      <td id="T_c90e8_row63_col5" class="data row63 col5">12,358</td>
+      <td id="T_c90e8_row63_col6" class="data row63 col6">ENOXAPARINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row64_col0" class="data row64 col0">100015</td>
+      <td id="T_c90e8_row64_col1" class="data row64 col1">LOVENOX 6000 UI Sol Inj Bt 2 Ser /0.6ml</td>
+      <td id="T_c90e8_row64_col2" class="data row64 col2">38,298</td>
+      <td id="T_c90e8_row64_col3" class="data row64 col3">31,955</td>
+      <td id="T_c90e8_row64_col4" class="data row64 col4">6,343</td>
+      <td id="T_c90e8_row64_col5" class="data row64 col5">14,688</td>
+      <td id="T_c90e8_row64_col6" class="data row64 col6">ENOXAPARINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row65_col0" class="data row65 col0">102485</td>
+      <td id="T_c90e8_row65_col1" class="data row65 col1">STEROGYL Gttes Buv 0.05% Fl 20ml</td>
+      <td id="T_c90e8_row65_col2" class="data row65 col2">5,000</td>
+      <td id="T_c90e8_row65_col3" class="data row65 col3">3,025</td>
+      <td id="T_c90e8_row65_col4" class="data row65 col4">1,975</td>
+      <td id="T_c90e8_row65_col5" class="data row65 col5">3,020</td>
+      <td id="T_c90e8_row65_col6" class="data row65 col6">ERGOCALCIFEROL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row66_col0" class="data row66 col0">107351</td>
+      <td id="T_c90e8_row66_col1" class="data row66 col1">SEROPLEX  10mg Comp Pell Sec Bt 28</td>
+      <td id="T_c90e8_row66_col2" class="data row66 col2">56,773</td>
+      <td id="T_c90e8_row66_col3" class="data row66 col3">55,500</td>
+      <td id="T_c90e8_row66_col4" class="data row66 col4">1,273</td>
+      <td id="T_c90e8_row66_col5" class="data row66 col5">13,132</td>
+      <td id="T_c90e8_row66_col6" class="data row66 col6">ESCITALOPRAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row67_col0" class="data row67 col0">103231</td>
+      <td id="T_c90e8_row67_col1" class="data row67 col1">SEROPLEX Comp Pell Sec 10mg Bt 28</td>
+      <td id="T_c90e8_row67_col2" class="data row67 col2">56,773</td>
+      <td id="T_c90e8_row67_col3" class="data row67 col3">55,500</td>
+      <td id="T_c90e8_row67_col4" class="data row67 col4">1,273</td>
+      <td id="T_c90e8_row67_col5" class="data row67 col5">13,132</td>
+      <td id="T_c90e8_row67_col6" class="data row67 col6">ESCITALOPRAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row68_col0" class="data row68 col0">105910</td>
+      <td id="T_c90e8_row68_col1" class="data row68 col1">NEXIUM 20mg 20mg Comp Gastro-résist Bt 28</td>
+      <td id="T_c90e8_row68_col2" class="data row68 col2">21,626</td>
+      <td id="T_c90e8_row68_col3" class="data row68 col3">21,145</td>
+      <td id="T_c90e8_row68_col4" class="data row68 col4">0,481</td>
+      <td id="T_c90e8_row68_col5" class="data row68 col5">17,136</td>
+      <td id="T_c90e8_row68_col6" class="data row68 col6">ESOMEPRAZOLE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row69_col0" class="data row69 col0">105917</td>
+      <td id="T_c90e8_row69_col1" class="data row69 col1">NEXIUM 40 40mg Comp Gastro-résist Bt 28</td>
+      <td id="T_c90e8_row69_col2" class="data row69 col2">21,626</td>
+      <td id="T_c90e8_row69_col3" class="data row69 col3">21,145</td>
+      <td id="T_c90e8_row69_col4" class="data row69 col4">0,481</td>
+      <td id="T_c90e8_row69_col5" class="data row69 col5">21,140</td>
+      <td id="T_c90e8_row69_col6" class="data row69 col6">ESOMEPRAZOLE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row70_col0" class="data row70 col0">101657</td>
+      <td id="T_c90e8_row70_col1" class="data row70 col1">OROMONE Comp pell 2mg Bt 28</td>
+      <td id="T_c90e8_row70_col2" class="data row70 col2">5,240</td>
+      <td id="T_c90e8_row70_col3" class="data row70 col3">3,038</td>
+      <td id="T_c90e8_row70_col4" class="data row70 col4">2,202</td>
+      <td id="T_c90e8_row70_col5" class="data row70 col5">3,024</td>
+      <td id="T_c90e8_row70_col6" class="data row70 col6">ESTRADIOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row71_col0" class="data row71 col0">107817</td>
+      <td id="T_c90e8_row71_col1" class="data row71 col1">MICROGYNON Comp 30µG Bt 3.21</td>
+      <td id="T_c90e8_row71_col2" class="data row71 col2">5,240</td>
+      <td id="T_c90e8_row71_col3" class="data row71 col3">3,032</td>
+      <td id="T_c90e8_row71_col4" class="data row71 col4">2,208</td>
+      <td id="T_c90e8_row71_col5" class="data row71 col5">3,024</td>
+      <td id="T_c90e8_row71_col6" class="data row71 col6">ETHINYLESTRADIOL + LEVONORGESTREL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row72_col0" class="data row72 col0">100429</td>
+      <td id="T_c90e8_row72_col1" class="data row72 col1">LIPANTHYL 160mg Comp Pell Bt 30</td>
+      <td id="T_c90e8_row72_col2" class="data row72 col2">28,764</td>
+      <td id="T_c90e8_row72_col3" class="data row72 col3">26,370</td>
+      <td id="T_c90e8_row72_col4" class="data row72 col4">2,394</td>
+      <td id="T_c90e8_row72_col5" class="data row72 col5">10,770</td>
+      <td id="T_c90e8_row72_col6" class="data row72 col6">FENOFIBRATE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row73_col0" class="data row73 col0">105740</td>
+      <td id="T_c90e8_row73_col1" class="data row73 col1">TELFAST 180mg Comp Pell Bt 15 (ex 101169)</td>
+      <td id="T_c90e8_row73_col2" class="data row73 col2">11,613</td>
+      <td id="T_c90e8_row73_col3" class="data row73 col3">11,355</td>
+      <td id="T_c90e8_row73_col4" class="data row73 col4">0,258</td>
+      <td id="T_c90e8_row73_col5" class="data row73 col5">7,995</td>
+      <td id="T_c90e8_row73_col6" class="data row73 col6">FEXOFENADINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row74_col0" class="data row74 col0">105739</td>
+      <td id="T_c90e8_row74_col1" class="data row74 col1">TELFAST 120mg Comp Pell Bt 15 (ex 101168)</td>
+      <td id="T_c90e8_row74_col2" class="data row74 col2">10,980</td>
+      <td id="T_c90e8_row74_col3" class="data row74 col3">10,735</td>
+      <td id="T_c90e8_row74_col4" class="data row74 col4">0,245</td>
+      <td id="T_c90e8_row74_col5" class="data row74 col5">7,650</td>
+      <td id="T_c90e8_row74_col6" class="data row74 col6">FEXOFENADINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row75_col0" class="data row75 col0">103153</td>
+      <td id="T_c90e8_row75_col1" class="data row75 col1">PANOTILE Gttes Auri Fl 8ml</td>
+      <td id="T_c90e8_row75_col2" class="data row75 col2">6,911</td>
+      <td id="T_c90e8_row75_col3" class="data row75 col3">5,345</td>
+      <td id="T_c90e8_row75_col4" class="data row75 col4">1,566</td>
+      <td id="T_c90e8_row75_col5" class="data row75 col5">5,344</td>
+      <td id="T_c90e8_row75_col6" class="data row75 col6">FLUDROCORTISONE + LIDOCAINE + NEOMYCINE + POLYMIXINE B</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row76_col0" class="data row76 col0">102453</td>
+      <td id="T_c90e8_row76_col1" class="data row76 col1">FLIXOTIDE Aérosol  50µg/Dose  Fl 120 Doses</td>
+      <td id="T_c90e8_row76_col2" class="data row76 col2">20,079</td>
+      <td id="T_c90e8_row76_col3" class="data row76 col3">19,630</td>
+      <td id="T_c90e8_row76_col4" class="data row76 col4">0,449</td>
+      <td id="T_c90e8_row76_col5" class="data row76 col5">11,880</td>
+      <td id="T_c90e8_row76_col6" class="data row76 col6">FLUTICASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row77_col0" class="data row77 col0">102437</td>
+      <td id="T_c90e8_row77_col1" class="data row77 col1">FLIXONASE Spray Nasal 50µG/Dose  Fl 120 doses</td>
+      <td id="T_c90e8_row77_col2" class="data row77 col2">24,593</td>
+      <td id="T_c90e8_row77_col3" class="data row77 col3">24,040</td>
+      <td id="T_c90e8_row77_col4" class="data row77 col4">0,553</td>
+      <td id="T_c90e8_row77_col5" class="data row77 col5">13,440</td>
+      <td id="T_c90e8_row77_col6" class="data row77 col6">FLUTICASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row78_col0" class="data row78 col0">102930</td>
+      <td id="T_c90e8_row78_col1" class="data row78 col1">FLIXOTIDE DISKUS 250 µg pdre/inhal.bucc Fl/60 doses</td>
+      <td id="T_c90e8_row78_col2" class="data row78 col2">37,024</td>
+      <td id="T_c90e8_row78_col3" class="data row78 col3">34,520</td>
+      <td id="T_c90e8_row78_col4" class="data row78 col4">2,504</td>
+      <td id="T_c90e8_row78_col5" class="data row78 col5">34,500</td>
+      <td id="T_c90e8_row78_col6" class="data row78 col6">FLUTICASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row79_col0" class="data row79 col0">102936</td>
+      <td id="T_c90e8_row79_col1" class="data row79 col1">MONURIL Ad Granule/Sus Buv 3gr Bt 1 Sachet</td>
+      <td id="T_c90e8_row79_col2" class="data row79 col2">19,028</td>
+      <td id="T_c90e8_row79_col3" class="data row79 col3">22,765</td>
+      <td id="T_c90e8_row79_col4" class="data row79 col4">-3,737</td>
+      <td id="T_c90e8_row79_col5" class="data row79 col5">15,140</td>
+      <td id="T_c90e8_row79_col6" class="data row79 col6">FOSFOMYCINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row80_col0" class="data row80 col0">108248</td>
+      <td id="T_c90e8_row80_col1" class="data row80 col1">GLURENOR Comp enr 30mg Bt 40</td>
+      <td id="T_c90e8_row80_col2" class="data row80 col2">10,240</td>
+      <td id="T_c90e8_row80_col3" class="data row80 col3">6,011</td>
+      <td id="T_c90e8_row80_col4" class="data row80 col4">4,229</td>
+      <td id="T_c90e8_row80_col5" class="data row80 col5">6,000</td>
+      <td id="T_c90e8_row80_col6" class="data row80 col6">GLIQUIDONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row81_col0" class="data row81 col0">103696</td>
+      <td id="T_c90e8_row81_col1" class="data row81 col1">HALDOL DECANOAS Inj IM 50mg 1ml Bt 1</td>
+      <td id="T_c90e8_row81_col2" class="data row81 col2">5,240</td>
+      <td id="T_c90e8_row81_col3" class="data row81 col3">5,015</td>
+      <td id="T_c90e8_row81_col4" class="data row81 col4">0,225</td>
+      <td id="T_c90e8_row81_col5" class="data row81 col5">3,894</td>
+      <td id="T_c90e8_row81_col6" class="data row81 col6">HALOPERIDOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row82_col0" class="data row82 col0">107964</td>
+      <td id="T_c90e8_row82_col1" class="data row82 col1">DESOMEDINE Collyre 0.1% Fl 10ml</td>
+      <td id="T_c90e8_row82_col2" class="data row82 col2">5,000</td>
+      <td id="T_c90e8_row82_col3" class="data row82 col3">4,760</td>
+      <td id="T_c90e8_row82_col4" class="data row82 col4">0,240</td>
+      <td id="T_c90e8_row82_col5" class="data row82 col5">4,760</td>
+      <td id="T_c90e8_row82_col6" class="data row82 col6">HEXAMIDINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row83_col0" class="data row83 col0">106161</td>
+      <td id="T_c90e8_row83_col1" class="data row83 col1">CORTEF Comp 10mg Bt 100</td>
+      <td id="T_c90e8_row83_col2" class="data row83 col2">20,240</td>
+      <td id="T_c90e8_row83_col3" class="data row83 col3">6,640</td>
+      <td id="T_c90e8_row83_col4" class="data row83 col4">13,600</td>
+      <td id="T_c90e8_row83_col5" class="data row83 col5">6,600</td>
+      <td id="T_c90e8_row83_col6" class="data row83 col6">HYDROCORTISONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row84_col0" class="data row84 col0">103916</td>
+      <td id="T_c90e8_row84_col1" class="data row84 col1">STER-DEX Pde Opth Bt 12 Recipients Unidoses</td>
+      <td id="T_c90e8_row84_col2" class="data row84 col2">5,240</td>
+      <td id="T_c90e8_row84_col3" class="data row84 col3">2,298</td>
+      <td id="T_c90e8_row84_col4" class="data row84 col4">2,942</td>
+      <td id="T_c90e8_row84_col5" class="data row84 col5">2,292</td>
+      <td id="T_c90e8_row84_col6" class="data row84 col6">HYDROCORTISONE+OXYTETRACYCLINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row85_col0" class="data row85 col0">101965</td>
+      <td id="T_c90e8_row85_col1" class="data row85 col1">DAKIN COOPER STABILISEE Sol Ext Fl 250ml</td>
+      <td id="T_c90e8_row85_col2" class="data row85 col2">8,274</td>
+      <td id="T_c90e8_row85_col3" class="data row85 col3">5,341</td>
+      <td id="T_c90e8_row85_col4" class="data row85 col4">2,933</td>
+      <td id="T_c90e8_row85_col5" class="data row85 col5">1,750</td>
+      <td id="T_c90e8_row85_col6" class="data row85 col6">HYPOCHLORITE DE SODIUM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row86_col0" class="data row86 col0">103523</td>
+      <td id="T_c90e8_row86_col1" class="data row86 col1">ARTELAC Collyre 3.2 mg Fl 10 ml</td>
+      <td id="T_c90e8_row86_col2" class="data row86 col2">9,786</td>
+      <td id="T_c90e8_row86_col3" class="data row86 col3">5,403</td>
+      <td id="T_c90e8_row86_col4" class="data row86 col4">4,383</td>
+      <td id="T_c90e8_row86_col5" class="data row86 col5">5,400</td>
+      <td id="T_c90e8_row86_col6" class="data row86 col6">HYPROMELLOSE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row87_col0" class="data row87 col0">105916</td>
+      <td id="T_c90e8_row87_col1" class="data row87 col1">BRUFEN 400mg Comp Pell Bt 30</td>
+      <td id="T_c90e8_row87_col2" class="data row87 col2">9,264</td>
+      <td id="T_c90e8_row87_col3" class="data row87 col3">9,060</td>
+      <td id="T_c90e8_row87_col4" class="data row87 col4">0,204</td>
+      <td id="T_c90e8_row87_col5" class="data row87 col5">7,500</td>
+      <td id="T_c90e8_row87_col6" class="data row87 col6">IBUPROFEN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row88_col0" class="data row88 col0">105038</td>
+      <td id="T_c90e8_row88_col1" class="data row88 col1">INDOCOLLYRE Collyre Fl 5ml</td>
+      <td id="T_c90e8_row88_col2" class="data row88 col2">5,240</td>
+      <td id="T_c90e8_row88_col3" class="data row88 col3">4,304</td>
+      <td id="T_c90e8_row88_col4" class="data row88 col4">0,936</td>
+      <td id="T_c90e8_row88_col5" class="data row88 col5">4,300</td>
+      <td id="T_c90e8_row88_col6" class="data row88 col6">INDOMETACINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row89_col0" class="data row89 col0">105157</td>
+      <td id="T_c90e8_row89_col1" class="data row89 col1">IRBEGEN 300 MG Comp Pell BT 28</td>
+      <td id="T_c90e8_row89_col2" class="data row89 col2">34,138</td>
+      <td id="T_c90e8_row89_col3" class="data row89 col3">33,370</td>
+      <td id="T_c90e8_row89_col4" class="data row89 col4">0,768</td>
+      <td id="T_c90e8_row89_col5" class="data row89 col5">22,624</td>
+      <td id="T_c90e8_row89_col6" class="data row89 col6">IRBESARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row90_col0" class="data row90 col0">105156</td>
+      <td id="T_c90e8_row90_col1" class="data row90 col1">IRBEGEN 150 MG Comp Pell BT 28</td>
+      <td id="T_c90e8_row90_col2" class="data row90 col2">23,727</td>
+      <td id="T_c90e8_row90_col3" class="data row90 col3">23,195</td>
+      <td id="T_c90e8_row90_col4" class="data row90 col4">0,532</td>
+      <td id="T_c90e8_row90_col5" class="data row90 col5">15,148</td>
+      <td id="T_c90e8_row90_col6" class="data row90 col6">IRBESARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row91_col0" class="data row91 col0">105160</td>
+      <td id="T_c90e8_row91_col1" class="data row91 col1">IRBEGEN PLUS  300/25 MG MG Comp Pell BT 30</td>
+      <td id="T_c90e8_row91_col2" class="data row91 col2">36,421</td>
+      <td id="T_c90e8_row91_col3" class="data row91 col3">35,610</td>
+      <td id="T_c90e8_row91_col4" class="data row91 col4">0,811</td>
+      <td id="T_c90e8_row91_col5" class="data row91 col5">24,240</td>
+      <td id="T_c90e8_row91_col6" class="data row91 col6">IRBESARTAN+HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row92_col0" class="data row92 col0">105158</td>
+      <td id="T_c90e8_row92_col1" class="data row92 col1">IRBEGEN PLUS  150/12.5 MG MG Comp Pell BT 30</td>
+      <td id="T_c90e8_row92_col2" class="data row92 col2">28,425</td>
+      <td id="T_c90e8_row92_col3" class="data row92 col3">27,785</td>
+      <td id="T_c90e8_row92_col4" class="data row92 col4">0,640</td>
+      <td id="T_c90e8_row92_col5" class="data row92 col5">20,070</td>
+      <td id="T_c90e8_row92_col6" class="data row92 col6">IRBESARTAN+HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row93_col0" class="data row93 col0">105159</td>
+      <td id="T_c90e8_row93_col1" class="data row93 col1">IRBEGEN PLUS  300/12.5 MG MG Comp Pell BT 30</td>
+      <td id="T_c90e8_row93_col2" class="data row93 col2">36,421</td>
+      <td id="T_c90e8_row93_col3" class="data row93 col3">35,610</td>
+      <td id="T_c90e8_row93_col4" class="data row93 col4">0,811</td>
+      <td id="T_c90e8_row93_col5" class="data row93 col5">24,240</td>
+      <td id="T_c90e8_row93_col6" class="data row93 col6">IRBESARTAN+HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row94_col0" class="data row94 col0">105571</td>
+      <td id="T_c90e8_row94_col1" class="data row94 col1">KETODERM 2% Gel En Sachet 2% Gel Derm Bt 8/6gr</td>
+      <td id="T_c90e8_row94_col2" class="data row94 col2">24,654</td>
+      <td id="T_c90e8_row94_col3" class="data row94 col3">24,105</td>
+      <td id="T_c90e8_row94_col4" class="data row94 col4">0,549</td>
+      <td id="T_c90e8_row94_col5" class="data row94 col5">24,104</td>
+      <td id="T_c90e8_row94_col6" class="data row94 col6">KETOCONAZOLE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row95_col0" class="data row95 col0">100640</td>
+      <td id="T_c90e8_row95_col1" class="data row95 col1">LACTEOL FORT Pdre/Susp Or Sachet Bt 10 sach</td>
+      <td id="T_c90e8_row95_col2" class="data row95 col2">10,000</td>
+      <td id="T_c90e8_row95_col3" class="data row95 col3">5,203</td>
+      <td id="T_c90e8_row95_col4" class="data row95 col4">4,797</td>
+      <td id="T_c90e8_row95_col5" class="data row95 col5">5,200</td>
+      <td id="T_c90e8_row95_col6" class="data row95 col6">LACTOBACILLUS ACIDOPHILUS</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row96_col0" class="data row96 col0">103392</td>
+      <td id="T_c90e8_row96_col1" class="data row96 col1">LAMICTAL  Comp Dis 50 mg Bt 30</td>
+      <td id="T_c90e8_row96_col2" class="data row96 col2">9,199</td>
+      <td id="T_c90e8_row96_col3" class="data row96 col3">9,000</td>
+      <td id="T_c90e8_row96_col4" class="data row96 col4">0,199</td>
+      <td id="T_c90e8_row96_col5" class="data row96 col5">5,580</td>
+      <td id="T_c90e8_row96_col6" class="data row96 col6">LAMOTRIGINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row97_col0" class="data row97 col0">103171</td>
+      <td id="T_c90e8_row97_col1" class="data row97 col1">LAMICTAL Comp Disp 25mg Bt 30</td>
+      <td id="T_c90e8_row97_col2" class="data row97 col2">7,292</td>
+      <td id="T_c90e8_row97_col3" class="data row97 col3">7,135</td>
+      <td id="T_c90e8_row97_col4" class="data row97 col4">0,157</td>
+      <td id="T_c90e8_row97_col5" class="data row97 col5">4,530</td>
+      <td id="T_c90e8_row97_col6" class="data row97 col6">LAMOTRIGINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row98_col0" class="data row98 col0">100923</td>
+      <td id="T_c90e8_row98_col1" class="data row98 col1">LAMICTAL Comp Disp 100mg Bt 30</td>
+      <td id="T_c90e8_row98_col2" class="data row98 col2">10,810</td>
+      <td id="T_c90e8_row98_col3" class="data row98 col3">10,860</td>
+      <td id="T_c90e8_row98_col4" class="data row98 col4">-0,050</td>
+      <td id="T_c90e8_row98_col5" class="data row98 col5">6,690</td>
+      <td id="T_c90e8_row98_col6" class="data row98 col6">LAMOTRIGINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row99_col0" class="data row99 col0">103174</td>
+      <td id="T_c90e8_row99_col1" class="data row99 col1">LAMICTAL Comp Disper 200mg Bt 30</td>
+      <td id="T_c90e8_row99_col2" class="data row99 col2">17,671</td>
+      <td id="T_c90e8_row99_col3" class="data row99 col3">17,275</td>
+      <td id="T_c90e8_row99_col4" class="data row99 col4">0,396</td>
+      <td id="T_c90e8_row99_col5" class="data row99 col5">10,200</td>
+      <td id="T_c90e8_row99_col6" class="data row99 col6">LAMOTRIGINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row100_col0" class="data row100 col0">104798</td>
+      <td id="T_c90e8_row100_col1" class="data row100 col1">LATANOPROST Collyre 0.005 %  FL 2.5 ML</td>
+      <td id="T_c90e8_row100_col2" class="data row100 col2">36,364</td>
+      <td id="T_c90e8_row100_col3" class="data row100 col3">35,545</td>
+      <td id="T_c90e8_row100_col4" class="data row100 col4">0,819</td>
+      <td id="T_c90e8_row100_col5" class="data row100 col5">24,260</td>
+      <td id="T_c90e8_row100_col6" class="data row100 col6">LATANOPROST</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row101_col0" class="data row101 col0">105527</td>
+      <td id="T_c90e8_row101_col1" class="data row101 col1">XALATAN 50mcg/ml Collyre Fl 2.5ml (F) (ex 103318)</td>
+      <td id="T_c90e8_row101_col2" class="data row101 col2">38,351</td>
+      <td id="T_c90e8_row101_col3" class="data row101 col3">37,490</td>
+      <td id="T_c90e8_row101_col4" class="data row101 col4">0,861</td>
+      <td id="T_c90e8_row101_col5" class="data row101 col5">24,260</td>
+      <td id="T_c90e8_row101_col6" class="data row101 col6">LATANOPROST</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row102_col0" class="data row102 col0">105101</td>
+      <td id="T_c90e8_row102_col1" class="data row102 col1">MONOPROST Collyre 50 µG/ML BT 30 Récipient Unidoses</td>
+      <td id="T_c90e8_row102_col2" class="data row102 col2">45,392</td>
+      <td id="T_c90e8_row102_col3" class="data row102 col3">44,375</td>
+      <td id="T_c90e8_row102_col4" class="data row102 col4">1,017</td>
+      <td id="T_c90e8_row102_col5" class="data row102 col5">24,260</td>
+      <td id="T_c90e8_row102_col6" class="data row102 col6">LATANOPROST</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row103_col0" class="data row103 col0">105533</td>
+      <td id="T_c90e8_row103_col1" class="data row103 col1">XALACOM colllyre Fl 2.5ml (F) (ex 102097)</td>
+      <td id="T_c90e8_row103_col2" class="data row103 col2">31,909</td>
+      <td id="T_c90e8_row103_col3" class="data row103 col3">32,015</td>
+      <td id="T_c90e8_row103_col4" class="data row103 col4">-0,106</td>
+      <td id="T_c90e8_row103_col5" class="data row103 col5">26,415</td>
+      <td id="T_c90e8_row103_col6" class="data row103 col6">LATANOPROST + TIMOLOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row104_col0" class="data row104 col0">102063</td>
+      <td id="T_c90e8_row104_col1" class="data row104 col1">ARAVA Comp pell 20mg Bt 30</td>
+      <td id="T_c90e8_row104_col2" class="data row104 col2">228,455</td>
+      <td id="T_c90e8_row104_col3" class="data row104 col3">175,790</td>
+      <td id="T_c90e8_row104_col4" class="data row104 col4">52,665</td>
+      <td id="T_c90e8_row104_col5" class="data row104 col5">175,770</td>
+      <td id="T_c90e8_row104_col6" class="data row104 col6">LEFLUNOMIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row105_col0" class="data row105 col0">104606</td>
+      <td id="T_c90e8_row105_col1" class="data row105 col1">ZANIDIP Comp Pell Sec 10 mg BT 30</td>
+      <td id="T_c90e8_row105_col2" class="data row105 col2">47,250</td>
+      <td id="T_c90e8_row105_col3" class="data row105 col3">39,415</td>
+      <td id="T_c90e8_row105_col4" class="data row105 col4">7,835</td>
+      <td id="T_c90e8_row105_col5" class="data row105 col5">25,650</td>
+      <td id="T_c90e8_row105_col6" class="data row105 col6">LERCANIDIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row106_col0" class="data row106 col0">105725</td>
+      <td id="T_c90e8_row106_col1" class="data row106 col1">EPIXX 250mg Comp Pell Bt 50</td>
+      <td id="T_c90e8_row106_col2" class="data row106 col2">11,983</td>
+      <td id="T_c90e8_row106_col3" class="data row106 col3">11,720</td>
+      <td id="T_c90e8_row106_col4" class="data row106 col4">0,263</td>
+      <td id="T_c90e8_row106_col5" class="data row106 col5">11,700</td>
+      <td id="T_c90e8_row106_col6" class="data row106 col6">LEVETIRACETAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row107_col0" class="data row107 col0">105727</td>
+      <td id="T_c90e8_row107_col1" class="data row107 col1">EPIXX 500mg Comp Pell Bt 50</td>
+      <td id="T_c90e8_row107_col2" class="data row107 col2">17,731</td>
+      <td id="T_c90e8_row107_col3" class="data row107 col3">17,335</td>
+      <td id="T_c90e8_row107_col4" class="data row107 col4">0,396</td>
+      <td id="T_c90e8_row107_col5" class="data row107 col5">17,300</td>
+      <td id="T_c90e8_row107_col6" class="data row107 col6">LEVETIRACETAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row108_col0" class="data row108 col0">105726</td>
+      <td id="T_c90e8_row108_col1" class="data row108 col1">EPIXX 100mg/ml Sol Buv Fl 300ml</td>
+      <td id="T_c90e8_row108_col2" class="data row108 col2">87,840</td>
+      <td id="T_c90e8_row108_col3" class="data row108 col3">85,860</td>
+      <td id="T_c90e8_row108_col4" class="data row108 col4">1,980</td>
+      <td id="T_c90e8_row108_col5" class="data row108 col5">85,800</td>
+      <td id="T_c90e8_row108_col6" class="data row108 col6">LEVETIRACETAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row109_col0" class="data row109 col0">100096</td>
+      <td id="T_c90e8_row109_col1" class="data row109 col1">MICROVAL Comp 30µG Bt3.28</td>
+      <td id="T_c90e8_row109_col2" class="data row109 col2">5,240</td>
+      <td id="T_c90e8_row109_col3" class="data row109 col3">4,190</td>
+      <td id="T_c90e8_row109_col4" class="data row109 col4">1,050</td>
+      <td id="T_c90e8_row109_col5" class="data row109 col5">4,116</td>
+      <td id="T_c90e8_row109_col6" class="data row109 col6">LEVONORGESTREL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row110_col0" class="data row110 col0">104769</td>
+      <td id="T_c90e8_row110_col1" class="data row110 col1">BERLTHYROX Comp Sec 150 µG BT 50</td>
+      <td id="T_c90e8_row110_col2" class="data row110 col2">10,240</td>
+      <td id="T_c90e8_row110_col3" class="data row110 col3">7,491</td>
+      <td id="T_c90e8_row110_col4" class="data row110 col4">2,749</td>
+      <td id="T_c90e8_row110_col5" class="data row110 col5">5,950</td>
+      <td id="T_c90e8_row110_col6" class="data row110 col6">LEVOTHYROXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row111_col0" class="data row111 col0">104742</td>
+      <td id="T_c90e8_row111_col1" class="data row111 col1">L-THYROXIN BC (ex BERLTHYROX ) 100 µg  Comp Sec Bt 100</td>
+      <td id="T_c90e8_row111_col2" class="data row111 col2">8,438</td>
+      <td id="T_c90e8_row111_col3" class="data row111 col3">7,716</td>
+      <td id="T_c90e8_row111_col4" class="data row111 col4">0,722</td>
+      <td id="T_c90e8_row111_col5" class="data row111 col5">7,500</td>
+      <td id="T_c90e8_row111_col6" class="data row111 col6">LEVOTHYROXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row112_col0" class="data row112 col0">104770</td>
+      <td id="T_c90e8_row112_col1" class="data row112 col1">BERLTHYROX  Comp Sec 50 µG BT 100</td>
+      <td id="T_c90e8_row112_col2" class="data row112 col2">8,342</td>
+      <td id="T_c90e8_row112_col3" class="data row112 col3">6,847</td>
+      <td id="T_c90e8_row112_col4" class="data row112 col4">1,495</td>
+      <td id="T_c90e8_row112_col5" class="data row112 col5">6,800</td>
+      <td id="T_c90e8_row112_col6" class="data row112 col6">LEVOTHYROXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row113_col0" class="data row113 col0">105764</td>
+      <td id="T_c90e8_row113_col1" class="data row113 col1">LEVOTHYROX Comp sec 125 µgr BT 30</td>
+      <td id="T_c90e8_row113_col2" class="data row113 col2">5,240</td>
+      <td id="T_c90e8_row113_col3" class="data row113 col3">3,368</td>
+      <td id="T_c90e8_row113_col4" class="data row113 col4">1,872</td>
+      <td id="T_c90e8_row113_col5" class="data row113 col5">3,360</td>
+      <td id="T_c90e8_row113_col6" class="data row113 col6">LEVOTHYROXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row114_col0" class="data row114 col0">107740</td>
+      <td id="T_c90e8_row114_col1" class="data row114 col1">NEO HEALAR Pde Rect Tb 30gr</td>
+      <td id="T_c90e8_row114_col2" class="data row114 col2">10,000</td>
+      <td id="T_c90e8_row114_col3" class="data row114 col3">5,971</td>
+      <td id="T_c90e8_row114_col4" class="data row114 col4">4,029</td>
+      <td id="T_c90e8_row114_col5" class="data row114 col5">5,970</td>
+      <td id="T_c90e8_row114_col6" class="data row114 col6">LIPINUS ALBUS+VATERIA INDICA+MENTHA PIPERITA</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row115_col0" class="data row115 col0">107741</td>
+      <td id="T_c90e8_row115_col1" class="data row115 col1">NEO HEALAR Suppo Bt 10</td>
+      <td id="T_c90e8_row115_col2" class="data row115 col2">10,000</td>
+      <td id="T_c90e8_row115_col3" class="data row115 col3">6,394</td>
+      <td id="T_c90e8_row115_col4" class="data row115 col4">3,606</td>
+      <td id="T_c90e8_row115_col5" class="data row115 col5">6,390</td>
+      <td id="T_c90e8_row115_col6" class="data row115 col6">LIPINUS ALBUS+VATERIA INDICA+MENTHA PIPERITA</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row116_col0" class="data row116 col0">102717</td>
+      <td id="T_c90e8_row116_col1" class="data row116 col1">TEMESTA 2.5 mg comp B/30</td>
+      <td id="T_c90e8_row116_col2" class="data row116 col2">5,240</td>
+      <td id="T_c90e8_row116_col3" class="data row116 col3">4,610</td>
+      <td id="T_c90e8_row116_col4" class="data row116 col4">0,630</td>
+      <td id="T_c90e8_row116_col5" class="data row116 col5">4,590</td>
+      <td id="T_c90e8_row116_col6" class="data row116 col6">LORAZEPAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row117_col0" class="data row117 col0">105234</td>
+      <td id="T_c90e8_row117_col1" class="data row117 col1">PENTASA 1GR SUSP.RECT.BT 7FL/100ML</td>
+      <td id="T_c90e8_row117_col2" class="data row117 col2">122,349</td>
+      <td id="T_c90e8_row117_col3" class="data row117 col3">119,590</td>
+      <td id="T_c90e8_row117_col4" class="data row117 col4">2,759</td>
+      <td id="T_c90e8_row117_col5" class="data row117 col5">119,588</td>
+      <td id="T_c90e8_row117_col6" class="data row117 col6">MESALAZINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row118_col0" class="data row118 col0">106909</td>
+      <td id="T_c90e8_row118_col1" class="data row118 col1">PENTASA Comp sec 500mg Bt 100</td>
+      <td id="T_c90e8_row118_col2" class="data row118 col2">156,903</td>
+      <td id="T_c90e8_row118_col3" class="data row118 col3">120,750</td>
+      <td id="T_c90e8_row118_col4" class="data row118 col4">36,153</td>
+      <td id="T_c90e8_row118_col5" class="data row118 col5">120,700</td>
+      <td id="T_c90e8_row118_col6" class="data row118 col6">MESALAZINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row119_col0" class="data row119 col0">104218</td>
+      <td id="T_c90e8_row119_col1" class="data row119 col1">DIALON Comp Pell 850 MG BT 30</td>
+      <td id="T_c90e8_row119_col2" class="data row119 col2">4,308</td>
+      <td id="T_c90e8_row119_col3" class="data row119 col3">3,925</td>
+      <td id="T_c90e8_row119_col4" class="data row119 col4">0,383</td>
+      <td id="T_c90e8_row119_col5" class="data row119 col5">2,610</td>
+      <td id="T_c90e8_row119_col6" class="data row119 col6">METFORMINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row120_col0" class="data row120 col0">101722</td>
+      <td id="T_c90e8_row120_col1" class="data row120 col1">MEDROL Comp sec 4mg Bt 30</td>
+      <td id="T_c90e8_row120_col2" class="data row120 col2">5,240</td>
+      <td id="T_c90e8_row120_col3" class="data row120 col3">3,627</td>
+      <td id="T_c90e8_row120_col4" class="data row120 col4">1,613</td>
+      <td id="T_c90e8_row120_col5" class="data row120 col5">3,600</td>
+      <td id="T_c90e8_row120_col6" class="data row120 col6">METHYLPREDNISOLONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row121_col0" class="data row121 col0">103683</td>
+      <td id="T_c90e8_row121_col1" class="data row121 col1">DEPO-MEDROL 80mg Susp Inj Ser/2ml</td>
+      <td id="T_c90e8_row121_col2" class="data row121 col2">20,940</td>
+      <td id="T_c90e8_row121_col3" class="data row121 col3">16,163</td>
+      <td id="T_c90e8_row121_col4" class="data row121 col4">4,777</td>
+      <td id="T_c90e8_row121_col5" class="data row121 col5">16,163</td>
+      <td id="T_c90e8_row121_col6" class="data row121 col6">METHYLPREDNISOLONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row122_col0" class="data row122 col0">102716</td>
+      <td id="T_c90e8_row122_col1" class="data row122 col1">TERGYNAN Comp Gyn. Bt 10</td>
+      <td id="T_c90e8_row122_col2" class="data row122 col2">10,240</td>
+      <td id="T_c90e8_row122_col3" class="data row122 col3">5,414</td>
+      <td id="T_c90e8_row122_col4" class="data row122 col4">4,826</td>
+      <td id="T_c90e8_row122_col5" class="data row122 col5">5,410</td>
+      <td id="T_c90e8_row122_col6" class="data row122 col6">METRONIDAZOLE+NEOMYCINE+NYSTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row123_col0" class="data row123 col0">105687</td>
+      <td id="T_c90e8_row123_col1" class="data row123 col1">SINOCORT 50mcg/Dose (0.05%) Susp Nasale Fl 12ml</td>
+      <td id="T_c90e8_row123_col2" class="data row123 col2">14,150</td>
+      <td id="T_c90e8_row123_col3" class="data row123 col3">15,465</td>
+      <td id="T_c90e8_row123_col4" class="data row123 col4">-1,315</td>
+      <td id="T_c90e8_row123_col5" class="data row123 col5">13,680</td>
+      <td id="T_c90e8_row123_col6" class="data row123 col6">MOMETASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row124_col0" class="data row124 col0">105930</td>
+      <td id="T_c90e8_row124_col1" class="data row124 col1">MONCAS 5mg Comp à Croquer Bt 28</td>
+      <td id="T_c90e8_row124_col2" class="data row124 col2">37,566</td>
+      <td id="T_c90e8_row124_col3" class="data row124 col3">36,725</td>
+      <td id="T_c90e8_row124_col4" class="data row124 col4">0,841</td>
+      <td id="T_c90e8_row124_col5" class="data row124 col5">36,708</td>
+      <td id="T_c90e8_row124_col6" class="data row124 col6">MONTELUKAST</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row125_col0" class="data row125 col0">105931</td>
+      <td id="T_c90e8_row125_col1" class="data row125 col1">MONCAS 10mg Comp Pell Bt 28</td>
+      <td id="T_c90e8_row125_col2" class="data row125 col2">37,566</td>
+      <td id="T_c90e8_row125_col3" class="data row125 col3">36,725</td>
+      <td id="T_c90e8_row125_col4" class="data row125 col4">0,841</td>
+      <td id="T_c90e8_row125_col5" class="data row125 col5">36,708</td>
+      <td id="T_c90e8_row125_col6" class="data row125 col6">MONTELUKAST</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row126_col0" class="data row126 col0">105411</td>
+      <td id="T_c90e8_row126_col1" class="data row126 col1">MONTELUKAST MYLAN 5 mg Comp. à Croquer Bt 28</td>
+      <td id="T_c90e8_row126_col2" class="data row126 col2">41,780</td>
+      <td id="T_c90e8_row126_col3" class="data row126 col3">40,845</td>
+      <td id="T_c90e8_row126_col4" class="data row126 col4">0,935</td>
+      <td id="T_c90e8_row126_col5" class="data row126 col5">36,708</td>
+      <td id="T_c90e8_row126_col6" class="data row126 col6">MONTELUKAST</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row127_col0" class="data row127 col0">103316</td>
+      <td id="T_c90e8_row127_col1" class="data row127 col1">PHYSIOTENS Comp Pell 0.2mg Bt 30</td>
+      <td id="T_c90e8_row127_col2" class="data row127 col2">28,553</td>
+      <td id="T_c90e8_row127_col3" class="data row127 col3">27,915</td>
+      <td id="T_c90e8_row127_col4" class="data row127 col4">0,638</td>
+      <td id="T_c90e8_row127_col5" class="data row127 col5">14,220</td>
+      <td id="T_c90e8_row127_col6" class="data row127 col6">MOXONIDINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row128_col0" class="data row128 col0">103452</td>
+      <td id="T_c90e8_row128_col1" class="data row128 col1">NEBILET Comp Sec 5 mg Bt 30</td>
+      <td id="T_c90e8_row128_col2" class="data row128 col2">36,364</td>
+      <td id="T_c90e8_row128_col3" class="data row128 col3">35,545</td>
+      <td id="T_c90e8_row128_col4" class="data row128 col4">0,819</td>
+      <td id="T_c90e8_row128_col5" class="data row128 col5">15,180</td>
+      <td id="T_c90e8_row128_col6" class="data row128 col6">NEBIVOLOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row129_col0" class="data row129 col0">101896</td>
+      <td id="T_c90e8_row129_col1" class="data row129 col1">ACUPAN Amp inj 20mg Bt 5</td>
+      <td id="T_c90e8_row129_col2" class="data row129 col2">8,818</td>
+      <td id="T_c90e8_row129_col3" class="data row129 col3">7,200</td>
+      <td id="T_c90e8_row129_col4" class="data row129 col4">1,618</td>
+      <td id="T_c90e8_row129_col5" class="data row129 col5">6,055</td>
+      <td id="T_c90e8_row129_col6" class="data row129 col6">NEFOPAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row130_col0" class="data row130 col0">100716</td>
+      <td id="T_c90e8_row130_col1" class="data row130 col1">POLYGINAX Caps Gyn Bt 6</td>
+      <td id="T_c90e8_row130_col2" class="data row130 col2">5,240</td>
+      <td id="T_c90e8_row130_col3" class="data row130 col3">5,108</td>
+      <td id="T_c90e8_row130_col4" class="data row130 col4">0,132</td>
+      <td id="T_c90e8_row130_col5" class="data row130 col5">5,106</td>
+      <td id="T_c90e8_row130_col6" class="data row130 col6">NEOMYCINE+NYSTATINE+POLYMYXINE B</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row131_col0" class="data row131 col0">105521</td>
+      <td id="T_c90e8_row131_col1" class="data row131 col1">LOXEN 20mg Com Séc Bt 30 (ex 105094)</td>
+      <td id="T_c90e8_row131_col2" class="data row131 col2">10,240</td>
+      <td id="T_c90e8_row131_col3" class="data row131 col3">6,218</td>
+      <td id="T_c90e8_row131_col4" class="data row131 col4">4,022</td>
+      <td id="T_c90e8_row131_col5" class="data row131 col5">6,210</td>
+      <td id="T_c90e8_row131_col6" class="data row131 col6">NICARDIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row132_col0" class="data row132 col0">101405</td>
+      <td id="T_c90e8_row132_col1" class="data row132 col1">PRIMOLUT-NOR Comp sec 10mg Bt 30</td>
+      <td id="T_c90e8_row132_col2" class="data row132 col2">5,240</td>
+      <td id="T_c90e8_row132_col3" class="data row132 col3">4,238</td>
+      <td id="T_c90e8_row132_col4" class="data row132 col4">1,002</td>
+      <td id="T_c90e8_row132_col5" class="data row132 col5">4,230</td>
+      <td id="T_c90e8_row132_col6" class="data row132 col6">NORETHISTERONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row133_col0" class="data row133 col0">103294</td>
+      <td id="T_c90e8_row133_col1" class="data row133 col1">OLMETEC Comp Pell 40mg Bt 30</td>
+      <td id="T_c90e8_row133_col2" class="data row133 col2">59,982</td>
+      <td id="T_c90e8_row133_col3" class="data row133 col3">50,025</td>
+      <td id="T_c90e8_row133_col4" class="data row133 col4">9,957</td>
+      <td id="T_c90e8_row133_col5" class="data row133 col5">29,280</td>
+      <td id="T_c90e8_row133_col6" class="data row133 col6">OLMESARTAN MEDOXOMIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row134_col0" class="data row134 col0">103293</td>
+      <td id="T_c90e8_row134_col1" class="data row134 col1">OLMETEC Comp Pell 20mg Bt 30</td>
+      <td id="T_c90e8_row134_col2" class="data row134 col2">49,152</td>
+      <td id="T_c90e8_row134_col3" class="data row134 col3">41,000</td>
+      <td id="T_c90e8_row134_col4" class="data row134 col4">8,152</td>
+      <td id="T_c90e8_row134_col5" class="data row134 col5">24,000</td>
+      <td id="T_c90e8_row134_col6" class="data row134 col6">OLMESARTAN MEDOXOMIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row135_col0" class="data row135 col0">103292</td>
+      <td id="T_c90e8_row135_col1" class="data row135 col1">OLMETEC Comp Pell 10mg Bt 30</td>
+      <td id="T_c90e8_row135_col2" class="data row135 col2">33,642</td>
+      <td id="T_c90e8_row135_col3" class="data row135 col3">28,075</td>
+      <td id="T_c90e8_row135_col4" class="data row135 col4">5,567</td>
+      <td id="T_c90e8_row135_col5" class="data row135 col5">16,050</td>
+      <td id="T_c90e8_row135_col6" class="data row135 col6">OLMESARTAN MEDOXOMIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row136_col0" class="data row136 col0">104643</td>
+      <td id="T_c90e8_row136_col1" class="data row136 col1">CO-OLMETEC Comp Pell  40 MG/25MG BT 30</td>
+      <td id="T_c90e8_row136_col2" class="data row136 col2">67,308</td>
+      <td id="T_c90e8_row136_col3" class="data row136 col3">56,130</td>
+      <td id="T_c90e8_row136_col4" class="data row136 col4">11,178</td>
+      <td id="T_c90e8_row136_col5" class="data row136 col5">32,820</td>
+      <td id="T_c90e8_row136_col6" class="data row136 col6">OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row137_col0" class="data row137 col0">103296</td>
+      <td id="T_c90e8_row137_col1" class="data row137 col1">CO-OLMETEC Comp Pell 20mg/12.5mg Bt 30</td>
+      <td id="T_c90e8_row137_col2" class="data row137 col2">57,144</td>
+      <td id="T_c90e8_row137_col3" class="data row137 col3">47,660</td>
+      <td id="T_c90e8_row137_col4" class="data row137 col4">9,484</td>
+      <td id="T_c90e8_row137_col5" class="data row137 col5">27,900</td>
+      <td id="T_c90e8_row137_col6" class="data row137 col6">OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row138_col0" class="data row138 col0">103295</td>
+      <td id="T_c90e8_row138_col1" class="data row138 col1">CO-OLMETEC Comp Pell 20mg/25mg  Bt 30</td>
+      <td id="T_c90e8_row138_col2" class="data row138 col2">58,896</td>
+      <td id="T_c90e8_row138_col3" class="data row138 col3">49,120</td>
+      <td id="T_c90e8_row138_col4" class="data row138 col4">9,776</td>
+      <td id="T_c90e8_row138_col5" class="data row138 col5">28,740</td>
+      <td id="T_c90e8_row138_col6" class="data row138 col6">OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row139_col0" class="data row139 col0">104644</td>
+      <td id="T_c90e8_row139_col1" class="data row139 col1">CO-OLMETEC Comp Pell 40 MG/12.5 MG BT 30</td>
+      <td id="T_c90e8_row139_col2" class="data row139 col2">67,308</td>
+      <td id="T_c90e8_row139_col3" class="data row139 col3">56,130</td>
+      <td id="T_c90e8_row139_col4" class="data row139 col4">11,178</td>
+      <td id="T_c90e8_row139_col5" class="data row139 col5">32,820</td>
+      <td id="T_c90e8_row139_col6" class="data row139 col6">OLMESARTAN MEDOXOMIL + HYDROCHLORTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row140_col0" class="data row140 col0">104399</td>
+      <td id="T_c90e8_row140_col1" class="data row140 col1">RISEK Pdre P Pre Inj 40  MG BT 1 Fl SS</td>
+      <td id="T_c90e8_row140_col2" class="data row140 col2">21,906</td>
+      <td id="T_c90e8_row140_col3" class="data row140 col3">23,960</td>
+      <td id="T_c90e8_row140_col4" class="data row140 col4">-2,054</td>
+      <td id="T_c90e8_row140_col5" class="data row140 col5">16,880</td>
+      <td id="T_c90e8_row140_col6" class="data row140 col6">OMEPRAZOLE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row141_col0" class="data row141 col0">103451</td>
+      <td id="T_c90e8_row141_col1" class="data row141 col1">SPASMOMEN Comp Dra 40 mg Bt 30</td>
+      <td id="T_c90e8_row141_col2" class="data row141 col2">15,694</td>
+      <td id="T_c90e8_row141_col3" class="data row141 col3">14,210</td>
+      <td id="T_c90e8_row141_col4" class="data row141 col4">1,484</td>
+      <td id="T_c90e8_row141_col5" class="data row141 col5">9,630</td>
+      <td id="T_c90e8_row141_col6" class="data row141 col6">OTYLONIUM BROMURE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row142_col0" class="data row142 col0">103139</td>
+      <td id="T_c90e8_row142_col1" class="data row142 col1">DIVARIUS Comp PELL Sec 20mg Bt 28</td>
+      <td id="T_c90e8_row142_col2" class="data row142 col2">39,733</td>
+      <td id="T_c90e8_row142_col3" class="data row142 col3">38,840</td>
+      <td id="T_c90e8_row142_col4" class="data row142 col4">0,893</td>
+      <td id="T_c90e8_row142_col5" class="data row142 col5">18,704</td>
+      <td id="T_c90e8_row142_col6" class="data row142 col6">PAROXETINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row143_col0" class="data row143 col0">104533</td>
+      <td id="T_c90e8_row143_col1" class="data row143 col1">COVERSYL Comp Pell  5 MG FL 30</td>
+      <td id="T_c90e8_row143_col2" class="data row143 col2">40,398</td>
+      <td id="T_c90e8_row143_col3" class="data row143 col3">39,490</td>
+      <td id="T_c90e8_row143_col4" class="data row143 col4">0,908</td>
+      <td id="T_c90e8_row143_col5" class="data row143 col5">19,020</td>
+      <td id="T_c90e8_row143_col6" class="data row143 col6">PERINDOPRIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row144_col0" class="data row144 col0">104577</td>
+      <td id="T_c90e8_row144_col1" class="data row144 col1">COVERSYL Comp Pell 10 MG FL 30</td>
+      <td id="T_c90e8_row144_col2" class="data row144 col2">60,805</td>
+      <td id="T_c90e8_row144_col3" class="data row144 col3">59,440</td>
+      <td id="T_c90e8_row144_col4" class="data row144 col4">1,365</td>
+      <td id="T_c90e8_row144_col5" class="data row144 col5">33,150</td>
+      <td id="T_c90e8_row144_col6" class="data row144 col6">PERINDOPRIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row145_col0" class="data row145 col0">104556</td>
+      <td id="T_c90e8_row145_col1" class="data row145 col1">BIPRETERAX Comp Pell 10 MG/2.5MG BT 30</td>
+      <td id="T_c90e8_row145_col2" class="data row145 col2">62,371</td>
+      <td id="T_c90e8_row145_col3" class="data row145 col3">60,970</td>
+      <td id="T_c90e8_row145_col4" class="data row145 col4">1,401</td>
+      <td id="T_c90e8_row145_col5" class="data row145 col5">34,950</td>
+      <td id="T_c90e8_row145_col6" class="data row145 col6">PERINDOPRIL+ INDAPAMIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row146_col0" class="data row146 col0">104534</td>
+      <td id="T_c90e8_row146_col1" class="data row146 col1">BIPRETERAX 5 MG/1.25MG Comp Pell FL 30</td>
+      <td id="T_c90e8_row146_col2" class="data row146 col2">49,910</td>
+      <td id="T_c90e8_row146_col3" class="data row146 col3">48,790</td>
+      <td id="T_c90e8_row146_col4" class="data row146 col4">1,120</td>
+      <td id="T_c90e8_row146_col5" class="data row146 col5">32,460</td>
+      <td id="T_c90e8_row146_col6" class="data row146 col6">PERINDOPRIL+ INDAPAMIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row147_col0" class="data row147 col0">104434</td>
+      <td id="T_c90e8_row147_col1" class="data row147 col1">COVERAM Comp 10 MG/5 MG Fl 30</td>
+      <td id="T_c90e8_row147_col2" class="data row147 col2">67,742</td>
+      <td id="T_c90e8_row147_col3" class="data row147 col3">66,220</td>
+      <td id="T_c90e8_row147_col4" class="data row147 col4">1,522</td>
+      <td id="T_c90e8_row147_col5" class="data row147 col5">34,290</td>
+      <td id="T_c90e8_row147_col6" class="data row147 col6">PERINDOPRIL+AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row148_col0" class="data row148 col0">104436</td>
+      <td id="T_c90e8_row148_col1" class="data row148 col1">COVERAM Comp 10 MG/10 MG  Fl 30</td>
+      <td id="T_c90e8_row148_col2" class="data row148 col2">65,725</td>
+      <td id="T_c90e8_row148_col3" class="data row148 col3">64,250</td>
+      <td id="T_c90e8_row148_col4" class="data row148 col4">1,475</td>
+      <td id="T_c90e8_row148_col5" class="data row148 col5">36,840</td>
+      <td id="T_c90e8_row148_col6" class="data row148 col6">PERINDOPRIL+AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row149_col0" class="data row149 col0">104435</td>
+      <td id="T_c90e8_row149_col1" class="data row149 col1">COVERAM Comp 5 MG/10 MG Fl 30</td>
+      <td id="T_c90e8_row149_col2" class="data row149 col2">57,744</td>
+      <td id="T_c90e8_row149_col3" class="data row149 col3">48,160</td>
+      <td id="T_c90e8_row149_col4" class="data row149 col4">9,584</td>
+      <td id="T_c90e8_row149_col5" class="data row149 col5">48,150</td>
+      <td id="T_c90e8_row149_col6" class="data row149 col6">PERINDOPRIL+AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row150_col0" class="data row150 col0">104433</td>
+      <td id="T_c90e8_row150_col1" class="data row150 col1">COVERAM Comp  5 MG/5MG Fl 30</td>
+      <td id="T_c90e8_row150_col2" class="data row150 col2">54,484</td>
+      <td id="T_c90e8_row150_col3" class="data row150 col3">53,260</td>
+      <td id="T_c90e8_row150_col4" class="data row150 col4">1,224</td>
+      <td id="T_c90e8_row150_col5" class="data row150 col5">27,120</td>
+      <td id="T_c90e8_row150_col6" class="data row150 col6">PERINDOPRIL+AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row151_col0" class="data row151 col0">104210</td>
+      <td id="T_c90e8_row151_col1" class="data row151 col1">SPASMOCALM Comp Orodispersible 80 mg Bt 20</td>
+      <td id="T_c90e8_row151_col2" class="data row151 col2">10,507</td>
+      <td id="T_c90e8_row151_col3" class="data row151 col3">10,560</td>
+      <td id="T_c90e8_row151_col4" class="data row151 col4">-0,053</td>
+      <td id="T_c90e8_row151_col5" class="data row151 col5">4,920</td>
+      <td id="T_c90e8_row151_col6" class="data row151 col6">PHLOROGLUCINOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row152_col0" class="data row152 col0">104550</td>
+      <td id="T_c90e8_row152_col1" class="data row152 col1">PHLOROGLUCINOL Comp Orodisp  80 MG BT  10</td>
+      <td id="T_c90e8_row152_col2" class="data row152 col2">5,400</td>
+      <td id="T_c90e8_row152_col3" class="data row152 col3">5,280</td>
+      <td id="T_c90e8_row152_col4" class="data row152 col4">0,120</td>
+      <td id="T_c90e8_row152_col5" class="data row152 col5">2,460</td>
+      <td id="T_c90e8_row152_col6" class="data row152 col6">PHLOROGLUCINOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row153_col0" class="data row153 col0">103343</td>
+      <td id="T_c90e8_row153_col1" class="data row153 col1">METEOXANE Gelule Bt 60</td>
+      <td id="T_c90e8_row153_col2" class="data row153 col2">10,000</td>
+      <td id="T_c90e8_row153_col3" class="data row153 col3">6,914</td>
+      <td id="T_c90e8_row153_col4" class="data row153 col4">3,086</td>
+      <td id="T_c90e8_row153_col5" class="data row153 col5">6,900</td>
+      <td id="T_c90e8_row153_col6" class="data row153 col6">PHLOROGLUCINOL + SIMETHICONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row154_col0" class="data row154 col0">108506</td>
+      <td id="T_c90e8_row154_col1" class="data row154 col1">PHYTOMENADIONE 10mg Sol Inj Bt 6/1ml</td>
+      <td id="T_c90e8_row154_col2" class="data row154 col2">5,000</td>
+      <td id="T_c90e8_row154_col3" class="data row154 col3">4,755</td>
+      <td id="T_c90e8_row154_col4" class="data row154 col4">0,245</td>
+      <td id="T_c90e8_row154_col5" class="data row154 col5">4,752</td>
+      <td id="T_c90e8_row154_col6" class="data row154 col6">PHYTOMENADIONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row155_col0" class="data row155 col0">104848</td>
+      <td id="T_c90e8_row155_col1" class="data row155 col1">DIPIPERON Comp  40 MG BT 20</td>
+      <td id="T_c90e8_row155_col2" class="data row155 col2">5,240</td>
+      <td id="T_c90e8_row155_col3" class="data row155 col3">3,841</td>
+      <td id="T_c90e8_row155_col4" class="data row155 col4">1,399</td>
+      <td id="T_c90e8_row155_col5" class="data row155 col5">3,840</td>
+      <td id="T_c90e8_row155_col6" class="data row155 col6">PIPAMPERONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row156_col0" class="data row156 col0">101903</td>
+      <td id="T_c90e8_row156_col1" class="data row156 col1">CYCLADOL Comp eff. 20mg Bt 14</td>
+      <td id="T_c90e8_row156_col2" class="data row156 col2">15,876</td>
+      <td id="T_c90e8_row156_col3" class="data row156 col3">15,525</td>
+      <td id="T_c90e8_row156_col4" class="data row156 col4">0,351</td>
+      <td id="T_c90e8_row156_col5" class="data row156 col5">7,616</td>
+      <td id="T_c90e8_row156_col6" class="data row156 col6">PIROXICAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row157_col0" class="data row157 col0">100574</td>
+      <td id="T_c90e8_row157_col1" class="data row157 col1">CYCLADOL Comp 20mg Bt 14</td>
+      <td id="T_c90e8_row157_col2" class="data row157 col2">15,012</td>
+      <td id="T_c90e8_row157_col3" class="data row157 col3">14,680</td>
+      <td id="T_c90e8_row157_col4" class="data row157 col4">0,332</td>
+      <td id="T_c90e8_row157_col5" class="data row157 col5">5,922</td>
+      <td id="T_c90e8_row157_col6" class="data row157 col6">PIROXICAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row158_col0" class="data row158 col0">102488</td>
+      <td id="T_c90e8_row158_col1" class="data row158 col1">LYSANXIA Comp 10mg Bt 40</td>
+      <td id="T_c90e8_row158_col2" class="data row158 col2">10,240</td>
+      <td id="T_c90e8_row158_col3" class="data row158 col3">5,602</td>
+      <td id="T_c90e8_row158_col4" class="data row158 col4">4,638</td>
+      <td id="T_c90e8_row158_col5" class="data row158 col5">5,600</td>
+      <td id="T_c90e8_row158_col6" class="data row158 col6">PRAZEPAM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row159_col0" class="data row159 col0">105532</td>
+      <td id="T_c90e8_row159_col1" class="data row159 col1">LYRICA 75mg Gél Bt 14 (ex 103291)</td>
+      <td id="T_c90e8_row159_col2" class="data row159 col2">21,874</td>
+      <td id="T_c90e8_row159_col3" class="data row159 col3">21,385</td>
+      <td id="T_c90e8_row159_col4" class="data row159 col4">0,489</td>
+      <td id="T_c90e8_row159_col5" class="data row159 col5">12,558</td>
+      <td id="T_c90e8_row159_col6" class="data row159 col6">PREGABALINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row160_col0" class="data row160 col0">105531</td>
+      <td id="T_c90e8_row160_col1" class="data row160 col1">LYRICA 150mg Gél Bt 56 (ex 103290)</td>
+      <td id="T_c90e8_row160_col2" class="data row160 col2">86,274</td>
+      <td id="T_c90e8_row160_col3" class="data row160 col3">84,330</td>
+      <td id="T_c90e8_row160_col4" class="data row160 col4">1,944</td>
+      <td id="T_c90e8_row160_col5" class="data row160 col5">53,200</td>
+      <td id="T_c90e8_row160_col6" class="data row160 col6">PREGABALINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row161_col0" class="data row161 col0">105523</td>
+      <td id="T_c90e8_row161_col1" class="data row161 col1">LYRICA 75mg Gél Bt 56 (ex 104781)</td>
+      <td id="T_c90e8_row161_col2" class="data row161 col2">86,274</td>
+      <td id="T_c90e8_row161_col3" class="data row161 col3">84,330</td>
+      <td id="T_c90e8_row161_col4" class="data row161 col4">1,944</td>
+      <td id="T_c90e8_row161_col5" class="data row161 col5">50,232</td>
+      <td id="T_c90e8_row161_col6" class="data row161 col6">PREGABALINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row162_col0" class="data row162 col0">101512</td>
+      <td id="T_c90e8_row162_col1" class="data row162 col1">PYOSTACINE 500 500mg Comp pell sec  Bt 16</td>
+      <td id="T_c90e8_row162_col2" class="data row162 col2">30,240</td>
+      <td id="T_c90e8_row162_col3" class="data row162 col3">16,009</td>
+      <td id="T_c90e8_row162_col4" class="data row162 col4">14,231</td>
+      <td id="T_c90e8_row162_col5" class="data row162 col5">16,000</td>
+      <td id="T_c90e8_row162_col6" class="data row162 col6">PRISTINAMYCINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row163_col0" class="data row163 col0">102754</td>
+      <td id="T_c90e8_row163_col1" class="data row163 col1">PROGESTOGEL Gel derm 1% Tb 80gr</td>
+      <td id="T_c90e8_row163_col2" class="data row163 col2">5,000</td>
+      <td id="T_c90e8_row163_col3" class="data row163 col3">4,745</td>
+      <td id="T_c90e8_row163_col4" class="data row163 col4">0,255</td>
+      <td id="T_c90e8_row163_col5" class="data row163 col5">4,720</td>
+      <td id="T_c90e8_row163_col6" class="data row163 col6">PROGESTERONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row164_col0" class="data row164 col0">102474</td>
+      <td id="T_c90e8_row164_col1" class="data row164 col1">TIORFAN Enf Pdre oral Sachet  30 mg Bt 30</td>
+      <td id="T_c90e8_row164_col2" class="data row164 col2">26,880</td>
+      <td id="T_c90e8_row164_col3" class="data row164 col3">22,440</td>
+      <td id="T_c90e8_row164_col4" class="data row164 col4">4,440</td>
+      <td id="T_c90e8_row164_col5" class="data row164 col5">12,030</td>
+      <td id="T_c90e8_row164_col6" class="data row164 col6">RACECADOTRIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row165_col0" class="data row165 col0">102473</td>
+      <td id="T_c90e8_row165_col1" class="data row165 col1">TIORFAN Nour Pdre oral Sachet  10mg Bt 16</td>
+      <td id="T_c90e8_row165_col2" class="data row165 col2">26,880</td>
+      <td id="T_c90e8_row165_col3" class="data row165 col3">22,440</td>
+      <td id="T_c90e8_row165_col4" class="data row165 col4">4,440</td>
+      <td id="T_c90e8_row165_col5" class="data row165 col5">11,648</td>
+      <td id="T_c90e8_row165_col6" class="data row165 col6">RACECADOTRIL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row166_col0" class="data row166 col0">100027</td>
+      <td id="T_c90e8_row166_col1" class="data row166 col1">TRITAZIDE 5MG/25MG  Comp Bt 28</td>
+      <td id="T_c90e8_row166_col2" class="data row166 col2">44,792</td>
+      <td id="T_c90e8_row166_col3" class="data row166 col3">43,785</td>
+      <td id="T_c90e8_row166_col4" class="data row166 col4">1,007</td>
+      <td id="T_c90e8_row166_col5" class="data row166 col5">18,620</td>
+      <td id="T_c90e8_row166_col6" class="data row166 col6">RAMIPRIL+HYDROCHLOROTHIZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row167_col0" class="data row167 col0">104686</td>
+      <td id="T_c90e8_row167_col1" class="data row167 col1">NOVONORM Comp 1  MG BT 90</td>
+      <td id="T_c90e8_row167_col2" class="data row167 col2">65,172</td>
+      <td id="T_c90e8_row167_col3" class="data row167 col3">54,350</td>
+      <td id="T_c90e8_row167_col4" class="data row167 col4">10,822</td>
+      <td id="T_c90e8_row167_col5" class="data row167 col5">31,590</td>
+      <td id="T_c90e8_row167_col6" class="data row167 col6">REPAGLINIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row168_col0" class="data row168 col0">104687</td>
+      <td id="T_c90e8_row168_col1" class="data row168 col1">NOVONORM Comp 2 MG BT 90</td>
+      <td id="T_c90e8_row168_col2" class="data row168 col2">78,972</td>
+      <td id="T_c90e8_row168_col3" class="data row168 col3">65,850</td>
+      <td id="T_c90e8_row168_col4" class="data row168 col4">13,122</td>
+      <td id="T_c90e8_row168_col5" class="data row168 col5">37,260</td>
+      <td id="T_c90e8_row168_col6" class="data row168 col6">REPAGLINIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row169_col0" class="data row169 col0">102431</td>
+      <td id="T_c90e8_row169_col1" class="data row169 col1">RIFAMYCINE Collyre 1% Fl 10ml</td>
+      <td id="T_c90e8_row169_col2" class="data row169 col2">5,240</td>
+      <td id="T_c90e8_row169_col3" class="data row169 col3">4,772</td>
+      <td id="T_c90e8_row169_col4" class="data row169 col4">0,468</td>
+      <td id="T_c90e8_row169_col5" class="data row169 col5">4,770</td>
+      <td id="T_c90e8_row169_col6" class="data row169 col6">RIFAMYCINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row170_col0" class="data row170 col0">105007</td>
+      <td id="T_c90e8_row170_col1" class="data row170 col1">OTOFA Gttes Auric 2.6% Fl 10ml</td>
+      <td id="T_c90e8_row170_col2" class="data row170 col2">5,240</td>
+      <td id="T_c90e8_row170_col3" class="data row170 col3">4,713</td>
+      <td id="T_c90e8_row170_col4" class="data row170 col4">0,527</td>
+      <td id="T_c90e8_row170_col5" class="data row170 col5">4,710</td>
+      <td id="T_c90e8_row170_col6" class="data row170 col6">RIFAMYCINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row171_col0" class="data row171 col0">100877</td>
+      <td id="T_c90e8_row171_col1" class="data row171 col1">RIFOCINE 250 IM Amp inj 3ml Bt 1</td>
+      <td id="T_c90e8_row171_col2" class="data row171 col2">5,240</td>
+      <td id="T_c90e8_row171_col3" class="data row171 col3">2,489</td>
+      <td id="T_c90e8_row171_col4" class="data row171 col4">2,751</td>
+      <td id="T_c90e8_row171_col5" class="data row171 col5">2,489</td>
+      <td id="T_c90e8_row171_col6" class="data row171 col6">RIFAMYCINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row172_col0" class="data row172 col0">102081</td>
+      <td id="T_c90e8_row172_col1" class="data row172 col1">NORMIX 200mg Comp Enr Bt 12</td>
+      <td id="T_c90e8_row172_col2" class="data row172 col2">22,405</td>
+      <td id="T_c90e8_row172_col3" class="data row172 col3">20,000</td>
+      <td id="T_c90e8_row172_col4" class="data row172 col4">2,405</td>
+      <td id="T_c90e8_row172_col5" class="data row172 col5">9,960</td>
+      <td id="T_c90e8_row172_col6" class="data row172 col6">RIFAXIMINA</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row173_col0" class="data row173 col0">101346</td>
+      <td id="T_c90e8_row173_col1" class="data row173 col1">RISPERDAL Comp sec 2mg Bt 60</td>
+      <td id="T_c90e8_row173_col2" class="data row173 col2">170,519</td>
+      <td id="T_c90e8_row173_col3" class="data row173 col3">166,675</td>
+      <td id="T_c90e8_row173_col4" class="data row173 col4">3,844</td>
+      <td id="T_c90e8_row173_col5" class="data row173 col5">59,460</td>
+      <td id="T_c90e8_row173_col6" class="data row173 col6">RISPERIDONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row174_col0" class="data row174 col0">104432</td>
+      <td id="T_c90e8_row174_col1" class="data row174 col1">RISDONE Sol Buv 1 MG/ML  FL 100 ML</td>
+      <td id="T_c90e8_row174_col2" class="data row174 col2">125,927</td>
+      <td id="T_c90e8_row174_col3" class="data row174 col3">137,840</td>
+      <td id="T_c90e8_row174_col4" class="data row174 col4">-11,913</td>
+      <td id="T_c90e8_row174_col5" class="data row174 col5">68,600</td>
+      <td id="T_c90e8_row174_col6" class="data row174 col6">RISPERIDONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row175_col0" class="data row175 col0">104593</td>
+      <td id="T_c90e8_row175_col1" class="data row175 col1">CRESTOR Comp  Pell 5 MG BT 30</td>
+      <td id="T_c90e8_row175_col2" class="data row175 col2">45,392</td>
+      <td id="T_c90e8_row175_col3" class="data row175 col3">44,375</td>
+      <td id="T_c90e8_row175_col4" class="data row175 col4">1,017</td>
+      <td id="T_c90e8_row175_col5" class="data row175 col5">13,680</td>
+      <td id="T_c90e8_row175_col6" class="data row175 col6">ROSUVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row176_col0" class="data row176 col0">104522</td>
+      <td id="T_c90e8_row176_col1" class="data row176 col1">CRESTOR Comp Pell 10 MG BT 30</td>
+      <td id="T_c90e8_row176_col2" class="data row176 col2">54,424</td>
+      <td id="T_c90e8_row176_col3" class="data row176 col3">53,200</td>
+      <td id="T_c90e8_row176_col4" class="data row176 col4">1,224</td>
+      <td id="T_c90e8_row176_col5" class="data row176 col5">16,080</td>
+      <td id="T_c90e8_row176_col6" class="data row176 col6">ROSUVASTATINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row177_col0" class="data row177 col0">104915</td>
+      <td id="T_c90e8_row177_col1" class="data row177 col1">SERETIDE SusP Inh 50µG/25 µG /Dose FL120 Doses</td>
+      <td id="T_c90e8_row177_col2" class="data row177 col2">62,604</td>
+      <td id="T_c90e8_row177_col3" class="data row177 col3">52,210</td>
+      <td id="T_c90e8_row177_col4" class="data row177 col4">10,394</td>
+      <td id="T_c90e8_row177_col5" class="data row177 col5">17,160</td>
+      <td id="T_c90e8_row177_col6" class="data row177 col6">SALMETEROL+FLUTICASONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row178_col0" class="data row178 col0">102332</td>
+      <td id="T_c90e8_row178_col1" class="data row178 col1">ALDACTONE Comp 75mg Bt 30</td>
+      <td id="T_c90e8_row178_col2" class="data row178 col2">23,742</td>
+      <td id="T_c90e8_row178_col3" class="data row178 col3">19,825</td>
+      <td id="T_c90e8_row178_col4" class="data row178 col4">3,917</td>
+      <td id="T_c90e8_row178_col5" class="data row178 col5">19,800</td>
+      <td id="T_c90e8_row178_col6" class="data row178 col6">SPIRONOLACTONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row179_col0" class="data row179 col0">105054</td>
+      <td id="T_c90e8_row179_col1" class="data row179 col1">ALDACTONE 50 MG COMP. SEC. BT 30</td>
+      <td id="T_c90e8_row179_col2" class="data row179 col2">23,727</td>
+      <td id="T_c90e8_row179_col3" class="data row179 col3">23,195</td>
+      <td id="T_c90e8_row179_col4" class="data row179 col4">0,532</td>
+      <td id="T_c90e8_row179_col5" class="data row179 col5">13,440</td>
+      <td id="T_c90e8_row179_col6" class="data row179 col6">SPIRONOLACTONE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row180_col0" class="data row180 col0">106137</td>
+      <td id="T_c90e8_row180_col1" class="data row180 col1">MICARDIS 80mg Comp Bt 28</td>
+      <td id="T_c90e8_row180_col2" class="data row180 col2">68,448</td>
+      <td id="T_c90e8_row180_col3" class="data row180 col3">57,080</td>
+      <td id="T_c90e8_row180_col4" class="data row180 col4">11,368</td>
+      <td id="T_c90e8_row180_col5" class="data row180 col5">23,884</td>
+      <td id="T_c90e8_row180_col6" class="data row180 col6">TELMISARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row181_col0" class="data row181 col0">106136</td>
+      <td id="T_c90e8_row181_col1" class="data row181 col1">MICARDIS 40mg Comp Bt 28</td>
+      <td id="T_c90e8_row181_col2" class="data row181 col2">57,078</td>
+      <td id="T_c90e8_row181_col3" class="data row181 col3">47,605</td>
+      <td id="T_c90e8_row181_col4" class="data row181 col4">9,473</td>
+      <td id="T_c90e8_row181_col5" class="data row181 col5">15,036</td>
+      <td id="T_c90e8_row181_col6" class="data row181 col6">TELMISARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row182_col0" class="data row182 col0">105414</td>
+      <td id="T_c90e8_row182_col1" class="data row182 col1">TELMISARTAN MYLAN 80mg Comp Bt 30</td>
+      <td id="T_c90e8_row182_col2" class="data row182 col2">26,199</td>
+      <td id="T_c90e8_row182_col3" class="data row182 col3">25,615</td>
+      <td id="T_c90e8_row182_col4" class="data row182 col4">0,584</td>
+      <td id="T_c90e8_row182_col5" class="data row182 col5">25,590</td>
+      <td id="T_c90e8_row182_col6" class="data row182 col6">TELMISARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row183_col0" class="data row183 col0">105413</td>
+      <td id="T_c90e8_row183_col1" class="data row183 col1">TELMISARTAN MYLAN 40mg Comp Bt 30</td>
+      <td id="T_c90e8_row183_col2" class="data row183 col2">16,495</td>
+      <td id="T_c90e8_row183_col3" class="data row183 col3">16,130</td>
+      <td id="T_c90e8_row183_col4" class="data row183 col4">0,365</td>
+      <td id="T_c90e8_row183_col5" class="data row183 col5">16,110</td>
+      <td id="T_c90e8_row183_col6" class="data row183 col6">TELMISARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row184_col0" class="data row184 col0">106149</td>
+      <td id="T_c90e8_row184_col1" class="data row184 col1">TWYNSTA 40mg/10mg Comp Bt 28</td>
+      <td id="T_c90e8_row184_col2" class="data row184 col2">46,116</td>
+      <td id="T_c90e8_row184_col3" class="data row184 col3">45,080</td>
+      <td id="T_c90e8_row184_col4" class="data row184 col4">1,036</td>
+      <td id="T_c90e8_row184_col5" class="data row184 col5">27,328</td>
+      <td id="T_c90e8_row184_col6" class="data row184 col6">TELMISARTAN + AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row185_col0" class="data row185 col0">106153</td>
+      <td id="T_c90e8_row185_col1" class="data row185 col1">TWYNSTA 80mg/10mg Comp Bt 28</td>
+      <td id="T_c90e8_row185_col2" class="data row185 col2">52,619</td>
+      <td id="T_c90e8_row185_col3" class="data row185 col3">51,435</td>
+      <td id="T_c90e8_row185_col4" class="data row185 col4">1,184</td>
+      <td id="T_c90e8_row185_col5" class="data row185 col5">31,164</td>
+      <td id="T_c90e8_row185_col6" class="data row185 col6">TELMISARTAN + AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row186_col0" class="data row186 col0">106150</td>
+      <td id="T_c90e8_row186_col1" class="data row186 col1">TWYNSTA 80mg/5mg Comp Bt 28</td>
+      <td id="T_c90e8_row186_col2" class="data row186 col2">52,619</td>
+      <td id="T_c90e8_row186_col3" class="data row186 col3">51,435</td>
+      <td id="T_c90e8_row186_col4" class="data row186 col4">1,184</td>
+      <td id="T_c90e8_row186_col5" class="data row186 col5">31,164</td>
+      <td id="T_c90e8_row186_col6" class="data row186 col6">TELMISARTAN + AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row187_col0" class="data row187 col0">106148</td>
+      <td id="T_c90e8_row187_col1" class="data row187 col1">TWYNSTA 40mg/5mg Comp Bt 28</td>
+      <td id="T_c90e8_row187_col2" class="data row187 col2">46,116</td>
+      <td id="T_c90e8_row187_col3" class="data row187 col3">45,080</td>
+      <td id="T_c90e8_row187_col4" class="data row187 col4">1,036</td>
+      <td id="T_c90e8_row187_col5" class="data row187 col5">27,328</td>
+      <td id="T_c90e8_row187_col6" class="data row187 col6">TELMISARTAN + AMLODIPINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row188_col0" class="data row188 col0">106138</td>
+      <td id="T_c90e8_row188_col1" class="data row188 col1">MICARDIS PLUS 80mg/12.5mg Comp Bt 28</td>
+      <td id="T_c90e8_row188_col2" class="data row188 col2">68,376</td>
+      <td id="T_c90e8_row188_col3" class="data row188 col3">57,020</td>
+      <td id="T_c90e8_row188_col4" class="data row188 col4">11,356</td>
+      <td id="T_c90e8_row188_col5" class="data row188 col5">26,544</td>
+      <td id="T_c90e8_row188_col6" class="data row188 col6">TELMISARTAN + HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row189_col0" class="data row189 col0">106139</td>
+      <td id="T_c90e8_row189_col1" class="data row189 col1">MICARDIS PLUS 80mg/25mg Comp Bt 28</td>
+      <td id="T_c90e8_row189_col2" class="data row189 col2">72,486</td>
+      <td id="T_c90e8_row189_col3" class="data row189 col3">64,650</td>
+      <td id="T_c90e8_row189_col4" class="data row189 col4">7,836</td>
+      <td id="T_c90e8_row189_col5" class="data row189 col5">26,516</td>
+      <td id="T_c90e8_row189_col6" class="data row189 col6">TELMISARTAN + HYDROCHLOROTHIAZIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row190_col0" class="data row190 col0">105120</td>
+      <td id="T_c90e8_row190_col1" class="data row190 col1">TINASIL 250 MG COMP BT 10</td>
+      <td id="T_c90e8_row190_col2" class="data row190 col2">25,918</td>
+      <td id="T_c90e8_row190_col3" class="data row190 col3">25,020</td>
+      <td id="T_c90e8_row190_col4" class="data row190 col4">0,898</td>
+      <td id="T_c90e8_row190_col5" class="data row190 col5">15,520</td>
+      <td id="T_c90e8_row190_col6" class="data row190 col6">TERBINAFINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row191_col0" class="data row191 col0">105119</td>
+      <td id="T_c90e8_row191_col1" class="data row191 col1">TINASIL 1% CREME DERM TB 15 GR</td>
+      <td id="T_c90e8_row191_col2" class="data row191 col2">8,875</td>
+      <td id="T_c90e8_row191_col3" class="data row191 col3">8,575</td>
+      <td id="T_c90e8_row191_col4" class="data row191 col4">0,300</td>
+      <td id="T_c90e8_row191_col5" class="data row191 col5">6,405</td>
+      <td id="T_c90e8_row191_col6" class="data row191 col6">TERBINAFINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row192_col0" class="data row192 col0">106115</td>
+      <td id="T_c90e8_row192_col1" class="data row192 col1">SPIRIVA 18mcg Pdre P Inhalation Bucc Bt 30 Gél + Inhalateur</td>
+      <td id="T_c90e8_row192_col2" class="data row192 col2">103,553</td>
+      <td id="T_c90e8_row192_col3" class="data row192 col3">98,780</td>
+      <td id="T_c90e8_row192_col4" class="data row192 col4">4,773</td>
+      <td id="T_c90e8_row192_col5" class="data row192 col5">63,420</td>
+      <td id="T_c90e8_row192_col6" class="data row192 col6">TIOTROPIUM</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row193_col0" class="data row193 col0">100771</td>
+      <td id="T_c90e8_row193_col1" class="data row193 col1">PIVALONE  Susp Nasal 1% Fl 10ml</td>
+      <td id="T_c90e8_row193_col2" class="data row193 col2">5,240</td>
+      <td id="T_c90e8_row193_col3" class="data row193 col3">3,963</td>
+      <td id="T_c90e8_row193_col4" class="data row193 col4">1,277</td>
+      <td id="T_c90e8_row193_col5" class="data row193 col5">3,960</td>
+      <td id="T_c90e8_row193_col6" class="data row193 col6">TIXOCORTOL</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row194_col0" class="data row194 col0">104607</td>
+      <td id="T_c90e8_row194_col1" class="data row194 col1">VALPROATE DE SODIUM MYLAN Comp Pell Sec LP 500 MG  FL 30</td>
+      <td id="T_c90e8_row194_col2" class="data row194 col2">21,378</td>
+      <td id="T_c90e8_row194_col3" class="data row194 col3">19,465</td>
+      <td id="T_c90e8_row194_col4" class="data row194 col4">1,913</td>
+      <td id="T_c90e8_row194_col5" class="data row194 col5">15,570</td>
+      <td id="T_c90e8_row194_col6" class="data row194 col6">VALPROATE DE SODIUM + ACIDE VALPROIQUE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row195_col0" class="data row195 col0">100787</td>
+      <td id="T_c90e8_row195_col1" class="data row195 col1">DEPAMIDE Comp enr 300mg Bt 30</td>
+      <td id="T_c90e8_row195_col2" class="data row195 col2">5,240</td>
+      <td id="T_c90e8_row195_col3" class="data row195 col3">5,089</td>
+      <td id="T_c90e8_row195_col4" class="data row195 col4">0,151</td>
+      <td id="T_c90e8_row195_col5" class="data row195 col5">5,070</td>
+      <td id="T_c90e8_row195_col6" class="data row195 col6">VALPROMIDE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row196_col0" class="data row196 col0">103531</td>
+      <td id="T_c90e8_row196_col1" class="data row196 col1">DIOSTAR Comp Pell 160 mg Bt 30</td>
+      <td id="T_c90e8_row196_col2" class="data row196 col2">37,653</td>
+      <td id="T_c90e8_row196_col3" class="data row196 col3">41,220</td>
+      <td id="T_c90e8_row196_col4" class="data row196 col4">-3,567</td>
+      <td id="T_c90e8_row196_col5" class="data row196 col5">26,220</td>
+      <td id="T_c90e8_row196_col6" class="data row196 col6">VALSARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row197_col0" class="data row197 col0">103530</td>
+      <td id="T_c90e8_row197_col1" class="data row197 col1">DIOSTAR Comp Pell 80 mg Bt 30</td>
+      <td id="T_c90e8_row197_col2" class="data row197 col2">24,099</td>
+      <td id="T_c90e8_row197_col3" class="data row197 col3">26,345</td>
+      <td id="T_c90e8_row197_col4" class="data row197 col4">-2,246</td>
+      <td id="T_c90e8_row197_col5" class="data row197 col5">17,130</td>
+      <td id="T_c90e8_row197_col6" class="data row197 col6">VALSARTAN</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row198_col0" class="data row198 col0">105526</td>
+      <td id="T_c90e8_row198_col1" class="data row198 col1">EFFEXOR LP 75mg Gél LP Bt 30 (ex 103518)</td>
+      <td id="T_c90e8_row198_col2" class="data row198 col2">24,097</td>
+      <td id="T_c90e8_row198_col3" class="data row198 col3">23,560</td>
+      <td id="T_c90e8_row198_col4" class="data row198 col4">0,537</td>
+      <td id="T_c90e8_row198_col5" class="data row198 col5">22,770</td>
+      <td id="T_c90e8_row198_col6" class="data row198 col6">VENLAFAXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row199_col0" class="data row199 col0">105525</td>
+      <td id="T_c90e8_row199_col1" class="data row199 col1">EFFEXOR LP 37.5mg Gél LP Bt 30 ( ex 102316)</td>
+      <td id="T_c90e8_row199_col2" class="data row199 col2">20,020</td>
+      <td id="T_c90e8_row199_col3" class="data row199 col3">19,570</td>
+      <td id="T_c90e8_row199_col4" class="data row199 col4">0,450</td>
+      <td id="T_c90e8_row199_col5" class="data row199 col5">15,660</td>
+      <td id="T_c90e8_row199_col6" class="data row199 col6">VENLAFAXINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row200_col0" class="data row200 col0">104339</td>
+      <td id="T_c90e8_row200_col1" class="data row200 col1">GALVUS Comp 50 MG Bt 28</td>
+      <td id="T_c90e8_row200_col2" class="data row200 col2">60,892</td>
+      <td id="T_c90e8_row200_col3" class="data row200 col3">52,765</td>
+      <td id="T_c90e8_row200_col4" class="data row200 col4">8,127</td>
+      <td id="T_c90e8_row200_col5" class="data row200 col5">18,088</td>
+      <td id="T_c90e8_row200_col6" class="data row200 col6">VILDAGLIPTINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row201_col0" class="data row201 col0">104488</td>
+      <td id="T_c90e8_row201_col1" class="data row201 col1">GALVUMET Comp Pell 50 MG/1000 MG  BT 60</td>
+      <td id="T_c90e8_row201_col2" class="data row201 col2">100,548</td>
+      <td id="T_c90e8_row201_col3" class="data row201 col3">83,830</td>
+      <td id="T_c90e8_row201_col4" class="data row201 col4">16,718</td>
+      <td id="T_c90e8_row201_col5" class="data row201 col5">47,220</td>
+      <td id="T_c90e8_row201_col6" class="data row201 col6">VILDAGLIPTINE + METFORMINE</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row202_col0" class="data row202 col0">105805</td>
+      <td id="T_c90e8_row202_col1" class="data row202 col1">VITAMINE  D3 B.O.N Sol inj  Bt 1Amp/1ml</td>
+      <td id="T_c90e8_row202_col2" class="data row202 col2">4,803</td>
+      <td id="T_c90e8_row202_col3" class="data row202 col3">4,700</td>
+      <td id="T_c90e8_row202_col4" class="data row202 col4">0,103</td>
+      <td id="T_c90e8_row202_col5" class="data row202 col5">3,740</td>
+      <td id="T_c90e8_row202_col6" class="data row202 col6">VITAMINE D</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row203_col0" class="data row203 col0">104317</td>
+      <td id="T_c90e8_row203_col1" class="data row203 col1">VITAMINE E 100 Capsule Molle 100 mg  Bt 50</td>
+      <td id="T_c90e8_row203_col2" class="data row203 col2">10,000</td>
+      <td id="T_c90e8_row203_col3" class="data row203 col3">5,707</td>
+      <td id="T_c90e8_row203_col4" class="data row203 col4">4,293</td>
+      <td id="T_c90e8_row203_col5" class="data row203 col5">5,700</td>
+      <td id="T_c90e8_row203_col6" class="data row203 col6">VITAMINE E</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row204_col0" class="data row204 col0">104318</td>
+      <td id="T_c90e8_row204_col1" class="data row204 col1">VITAMINE E 200 Capsule Molle 200mg  Bt 60</td>
+      <td id="T_c90e8_row204_col2" class="data row204 col2">14,835</td>
+      <td id="T_c90e8_row204_col3" class="data row204 col3">8,562</td>
+      <td id="T_c90e8_row204_col4" class="data row204 col4">6,273</td>
+      <td id="T_c90e8_row204_col5" class="data row204 col5">8,520</td>
+      <td id="T_c90e8_row204_col6" class="data row204 col6">VITAMINE E</td>
+    </tr>
+    <tr>
+      <td id="T_c90e8_row205_col0" class="data row205 col0">100202</td>
+      <td id="T_c90e8_row205_col1" class="data row205 col1">CERULYSE Gttes Auric 5%  Fl 10ml</td>
+      <td id="T_c90e8_row205_col2" class="data row205 col2">5,000</td>
+      <td id="T_c90e8_row205_col3" class="data row205 col3">4,718</td>
+      <td id="T_c90e8_row205_col4" class="data row205 col4">0,282</td>
+      <td id="T_c90e8_row205_col5" class="data row205 col5">4,710</td>
+      <td id="T_c90e8_row205_col6" class="data row205 col6">XYLENE</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3 id="ajustement-du-tarif-référence">Ajustement du Tarif Référence</h3>
+
+<style type="text/css">
+</style>
+
+<table id="T_0a4fb" class="display">
+  <thead>
+    <tr>
+      <th id="T_0a4fb_level0_col0" class="col_heading level0 col0">CODE PCT</th>
+      <th id="T_0a4fb_level0_col1" class="col_heading level0 col1">NOM COMMERCIAL</th>
+      <th id="T_0a4fb_level0_col2" class="col_heading level0 col2">PRIX PUBLIC</th>
+      <th id="T_0a4fb_level0_col3" class="col_heading level0 col3">ANCIEN PRIX PUBLIC</th>
+      <th id="T_0a4fb_level0_col4" class="col_heading level0 col4">TARIF REFERENCE</th>
+      <th id="T_0a4fb_level0_col5" class="col_heading level0 col5">ANCIEN TARIF REFERENCE</th>
+      <th id="T_0a4fb_level0_col6" class="col_heading level0 col6">AJUSTEMENT</th>
+      <th id="T_0a4fb_level0_col7" class="col_heading level0 col7">DCI</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td id="T_0a4fb_row0_col0" class="data row0 col0">104286</td>
+      <td id="T_0a4fb_row0_col1" class="data row0 col1">CEFODOX  P. Sus Buv 40 mg/5 ml Granulés Fl 100 ml</td>
+      <td id="T_0a4fb_row0_col2" class="data row0 col2">19,873</td>
+      <td id="T_0a4fb_row0_col3" class="data row0 col3">21,745</td>
+      <td id="T_0a4fb_row0_col4" class="data row0 col4">19,873</td>
+      <td id="T_0a4fb_row0_col5" class="data row0 col5">21,700</td>
+      <td id="T_0a4fb_row0_col6" class="data row0 col6">-1,827</td>
+      <td id="T_0a4fb_row0_col7" class="data row0 col7">CEFPODOXIME</td>
+    </tr>
+    <tr>
+      <td id="T_0a4fb_row1_col0" class="data row1 col0">103104</td>
+      <td id="T_0a4fb_row1_col1" class="data row1 col1">MOXAL Comp à croquer Bt 30</td>
+      <td id="T_0a4fb_row1_col2" class="data row1 col2">4,400</td>
+      <td id="T_0a4fb_row1_col3" class="data row1 col3">4,820</td>
+      <td id="T_0a4fb_row1_col4" class="data row1 col4">4,400</td>
+      <td id="T_0a4fb_row1_col5" class="data row1 col5">4,800</td>
+      <td id="T_0a4fb_row1_col6" class="data row1 col6">-0,400</td>
+      <td id="T_0a4fb_row1_col7" class="data row1 col7">ALUMINIUM HYDROXYDE+MAGNESIUM HYDROXYDE</td>
+    </tr>
+  </tbody>
+</table>
+
+
+				
+				            <div class="tags">
+                
+            </div>
+    
+
+							<div class="tags">
+			    
+			        <b>Tags: </b>
+			        
+			        <a href="tag_changements.html" class="btn btn-default navbar-btn cursorNorm" role="button">changements</a>
+			        
+			        <a href="tag_cnam.html" class="btn btn-default navbar-btn cursorNorm" role="button">cnam</a>
+			        
+			    
+			</div>
+	
+
+				
+				
+ 
+	        </div>
+	    <!-- /.row -->
+		</div>
+	<!-- /.container -->
+	</div>
+<!-- /#main -->
+</div>
+
+	<footer>
+	      <!-- Footer main -->
+      <section class="ft-main">
+
+<!--
+        <div class="ft-main-item">
+          <h5 class="ft-title">About</h5>
+          <ul>
+            <li><a href="#">Services</a></li>
+            <li><a href="#">Portfolio</a></li>
+            <li><a href="#">Pricing</a></li>
+          </ul>
+        </div>
+-->
+
+        <div class="ft-main-item">
+          <h5 class="ft-title">Sources</h5>
+          <ul>
+            <li><a href="https://www.cnam.nat.tn/espace_assure.jsp">Liste des Médicaments Remboursés CNAM</a></li>
+            <li><a href="https://spot.tn/?mayor=articles&id=337">Liste des Médicaments Remboursés SPOT</a></li>
+            <li><a href="http://www.phct.com.tn/index.php/communiques/circulaires-de-la-pct">Circulaires de la Pharmacie Centrale de Tunisie</a></li>
+            <li><a href="https://spot.tn/?mayor=articles&type=cir">Circulaires de la Pharmacie Centrale de Tunisie SPOT</a></li>
+            <li><a href="https://dpm.tn/medicament/humain/liste-des-medicaments">Médicaments à usage Humain autorisés en Tunisie</a></li>
+          </ul>
+        </div>
+
+        <div class="ft-main-item">
+          <h5 class="ft-title">Liens</h5>
+          <ul>
+            <li><a href="http://www.phct.com.tn/index.php">PCT - Pharmacie Centrale de Tunisie</a></li>
+            <li><a href="https://dpm.tn">DPM - Direction de la Pharmacie et du Médicament</a></li>
+            <li><a href="https://www.cnam.nat.tn/index.jsp">CNAM - Caisse Nationale d'Assurance Maladie</a></li>
+            <li><a href="https://centre.e-cnam.tn/login">e-CNAM</a></li>
+            <li><a href="https://spot.tn">SPOT - Syndicat des Pharmaciens d'Officine de Tunisie</a></li>
+          </ul>
+        </div>
+
+<!--
+        <div class="ft-main-item">
+          <h5 class="ft-title">Stay Updated</h5>
+          <p>Subscribe to our newsletter to get our latest news.</p>
+          <form>
+            <input type="email" name="email" placeholder="Enter email address">
+            <input type="submit" value="Subscribe">
+          </form>
+        </div>
+-->
+
+      </section>
+
+      <!-- Footer social -->
+      <section class="ft-social">
+        <ul class="ft-social-list">
+<!--
+          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+          <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+-->
+          <li><a href="https://github.com/ballouchi/medoc"><i class="fa fa-github"></i></a></li>
+<!--
+          <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+          <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+-->
+        </ul>
+      </section>
+
+      <!-- Footer legal -->
+      <section class="ft-legal">
+        <ul class="ft-legal-list">
+          <li>Prix Publiés le 14/08/2026</li>
+<!--
+          <li><a href="#">Politique de Confidentialité</a></li>
+-->
+          <li>&copy; 2024-2026 </li>
+        </ul>
+      </section>
+</footer>
+
+</body>
+</html>
