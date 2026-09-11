@@ -4969,6 +4969,15 @@
         "O"
     ],
     [
+        303863,
+        "EMPAZINE 10mg Comp Pell Bt 30",
+        "41,840",
+        "41,840",
+        "E",
+        "EMPAGLIFLOZINE",
+        "O"
+    ],
+    [
         303649,
         "EMPERIAL 10 MG Comp Pell Bt 30",
         "52,640",
@@ -4982,6 +4991,15 @@
         "JARDIANCE 10mg Comp Pell Bt 30",
         "120,490",
         "52,620",
+        "E",
+        "EMPAGLIFLOZINE",
+        "O"
+    ],
+    [
+        303864,
+        "EMPAZINE 25mg Comp Pell Bt 30",
+        "41,840",
+        "41,840",
         "E",
         "EMPAGLIFLOZINE",
         "O"
@@ -8492,6 +8510,15 @@
         "PERISPASM 160 mg Comp Orodisp Bt 12",
         "5,800",
         "5,796",
+        "I",
+        "PHLOROGLUCINOL",
+        "N"
+    ],
+    [
+        303865,
+        "SPASMOPRO 160mg Comp Orodisp Bt 12",
+        "5,800",
+        "5,800",
         "I",
         "PHLOROGLUCINOL",
         "N"
@@ -23347,6 +23374,15 @@
         "N"
     ],
     [
+        303860,
+        "CODOLOPRO 300mg\/25mg Comp. Bt 15",
+        "4,940",
+        "2,565",
+        "E",
+        "CODEINE+PARACETAMOL",
+        "N"
+    ],
+    [
         301454,
         "ANALGAN CODEINE  Comp 300 mg\/25 mg Bt 16",
         "2,745",
@@ -24394,6 +24430,15 @@
         300577,
         "PANADOL EXTRA Comp  pell. Bt 16",
         "4,335",
+        "2,096",
+        "E",
+        "PARACETAMOL+CAFEINE",
+        "N"
+    ],
+    [
+        303856,
+        "DOLOPRO EXTRA 500mg\/65mg Comp.Pell. Bt 16",
+        "4,310",
         "2,096",
         "E",
         "PARACETAMOL+CAFEINE",

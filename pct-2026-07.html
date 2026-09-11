@@ -1470,6 +1470,27 @@
 	        <div class="col-md-12" id="tg-sb-content" data-pagefind-body>
 	            <h1 id="circulaires-de-la-pharmacie-centrale-de-juillet-2026">Circulaires de la Pharmacie Centrale de Juillet 2026</h1>
 
+<!-- this handles the automatic toc. use ## for subheads to auto-generate the on-page minitoc. if you use html tags, you must supply an ID for the heading element in order for it to appear in the minitoc. -->
+<script>
+$( document ).ready(function() {
+  // Handler for .ready() called.
+
+$('#toc').toc({ minimumHeaders: 0, listType: 'ul', showSpeed: 0, headers: 'h2,h3,h4' });
+
+/* this offset helps account for the space taken up by the floating toolbar. */
+$('#toc').on('click', 'a', function() {
+  var target = $(this.getAttribute('href'))
+    , scroll_target = target.offset().top
+
+  $(window).scrollTop(scroll_target - 10);
+  return false
+})
+
+});
+</script>
+
+<div id="toc"></div>
+
 <h2 id="circulaires-27-et-29">Circulaires 27 et 29</h2>
 <style type="text/css">
 </style>
@@ -4165,7 +4186,7 @@
         <div class="ft-main-item">
           <h5 class="ft-title">Sources</h5>
           <ul>
-            <li><a href="https://www.cnam.nat.tn/espace_assure.jsp">Liste des Médicaments Remboursés CNAM</a></li>
+            <li><a href="https://www.cnam.nat.tn/espace_ps.jsp">Liste des Médicaments Remboursés CNAM</a></li>
             <li><a href="https://spot.tn/?mayor=articles&id=337">Liste des Médicaments Remboursés SPOT</a></li>
             <li><a href="http://www.phct.com.tn/index.php/communiques/circulaires-de-la-pct">Circulaires de la Pharmacie Centrale de Tunisie</a></li>
             <li><a href="https://spot.tn/?mayor=articles&type=cir">Circulaires de la Pharmacie Centrale de Tunisie SPOT</a></li>
@@ -4216,7 +4237,7 @@
       <!-- Footer legal -->
       <section class="ft-legal">
         <ul class="ft-legal-list">
-          <li>Prix Publiés le 14/08/2026</li>
+          <li>Prix Publiés le 1/09/2026</li>
 <!--
           <li><a href="#">Politique de Confidentialité</a></li>
 -->
