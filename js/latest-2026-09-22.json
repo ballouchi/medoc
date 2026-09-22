@@ -5986,6 +5986,15 @@
         "DAPAGLIFLOZINE+METFORMINE"
     ],
     [
+        "EMPAZINE",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "10 mg",
+        "B\/30",
+        "41,840",
+        "35,564",
+        "EMPAGLIFLOZINE"
+    ],
+    [
         "EMPERIAL",
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
@@ -6001,6 +6010,15 @@
         "B\/30",
         "120,490",
         "44,727",
+        "EMPAGLIFLOZINE"
+    ],
+    [
+        "EMPAZINE",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "25 mg",
+        "B\/30",
+        "41,840",
+        "35,564",
         "EMPAGLIFLOZINE"
     ],
     [
@@ -9830,6 +9848,15 @@
     ],
     [
         "PERISPASM",
+        "Comprim\u00e9s orodispersibles",
+        "160 mg",
+        "B\/12",
+        "5,800",
+        "2,318",
+        "PHLOROGLUCINOL"
+    ],
+    [
+        "SPASMOPRO",
         "Comprim\u00e9s orodispersibles",
         "160 mg",
         "B\/12",
@@ -28788,7 +28815,7 @@
         "300 mg\/25 mg",
         "B\/15",
         "4,940",
-        "0,000",
+        "2,180",
         "CODEINE+PARACETAMOL"
     ],
     [
@@ -29868,7 +29895,7 @@
         "500 mg\/65 mg",
         "B\/16",
         "4,310",
-        "0,000",
+        "1,781",
         "PARACETAMOL+CAFEINE"
     ],
     [

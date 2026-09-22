@@ -141,36 +141,6 @@
         "7473141H"
     ],
     [
-        "CEFAXONE IM\/IV",
-        "Pdre p.prep.injectable",
-        "1 g",
-        "B\/10 Flacons sans solvant",
-        null,
-        "CEFTRIAXONE",
-        "UNIMED",
-        "9093505H"
-    ],
-    [
-        "CEFTRIAXONE PANPHARMA",
-        "Pdre p.prep.injectable",
-        "1 g",
-        "B\/25 FL sans solvant",
-        null,
-        "CEFTRIAXONE",
-        "PANPHARMA",
-        "7233111H"
-    ],
-    [
-        "CEFORT",
-        "Pdre p.prep.injectable",
-        "1 g",
-        "B\/50 FL sans solvant",
-        null,
-        "CEFTRIAXONE",
-        "ANTIBIOTICE S.A",
-        "4223021H"
-    ],
-    [
         "ANTIBACIN",
         "Pdre p.prep.injectable",
         "2 g",
@@ -239,26 +209,6 @@
         "METRONIDAZOLE",
         "TAHA PHARMA",
         9373602
-    ],
-    [
-        "SPIROGYL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "0,75 MUI\/125 mg",
-        "B\/500",
-        null,
-        "METRONIDAZOLE+SPIRAMYCINE",
-        "SIPHAT",
-        "9003802H"
-    ],
-    [
-        "BI-SPIROGYL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "1,5 MUI\/250 mg",
-        "B\/500",
-        null,
-        "METRONIDAZOLE+SPIRAMYCINE",
-        "SIPHAT",
-        "9003813H"
     ],
     [
         "ODYCIN",
@@ -809,26 +759,6 @@
         "GLYCERINE",
         "OPALIA PHARMA S.A.",
         9023305
-    ],
-    [
-        "GLYSS ADULTE",
-        "Suppositoires",
-        null,
-        "B\/100",
-        null,
-        "GLYCERINE",
-        "OPALIA PHARMA",
-        "9023306H"
-    ],
-    [
-        "GLYSS NOURRISSONS",
-        "Suppositoires",
-        null,
-        "B\/100",
-        null,
-        "GLYCERINE",
-        "OPALIA PHARMA",
-        "9023304H"
     ],
     [
         "NORMACOL LAVEMENT ENFANT",
@@ -1691,16 +1621,6 @@
         9000341
     ],
     [
-        "SORBITOCHOLINE",
-        "Ampoules buvables",
-        null,
-        "C\/100\/10 ml",
-        null,
-        "SORBITOL+CHOLINE",
-        "SIPHAT",
-        "9000342H"
-    ],
-    [
         "VITARGINE",
         "Comprim\u00e9s pellicul\u00e9s",
         "250 mg\/100 mg\/20 mg",
@@ -1801,16 +1721,6 @@
         "ST9000371"
     ],
     [
-        "VITAMINE B1",
-        "Solution injectable",
-        "100 mg",
-        "B\/50\/2 ml",
-        null,
-        "VITAMINE B1",
-        "SIPHAT",
-        "ST9000372H"
-    ],
-    [
         "TRI-B",
         "Comprim\u00e9s enrob\u00e9s",
         null,
@@ -1819,16 +1729,6 @@
         "VITAMINE B1+VITAMINE B12+VITAMINE B6",
         "S.I.PHA.T",
         9000501
-    ],
-    [
-        "TRI-B",
-        "Comprim\u00e9s enrob\u00e9s",
-        null,
-        "B\/500",
-        null,
-        "VITAMINE B1+VITAMINE B12+VITAMINE B6",
-        "SIPHAT",
-        "9000502H"
     ],
     [
         "VITAMINE C IPS",
@@ -1871,16 +1771,6 @@
         9073351
     ],
     [
-        "VITAMINE C",
-        "Comprim\u00e9s",
-        "500 mg",
-        "B\/500",
-        null,
-        "VITAMINE C",
-        "SIPHAT",
-        "9000451H"
-    ],
-    [
         "VITAMYL",
         "Comprim\u00e9s effervescents",
         "1 g",
@@ -1899,16 +1789,6 @@
         "VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         "9133011A"
-    ],
-    [
-        "ACIDE ASCORBIQUE A 10 POUR CENT RENAUDIN",
-        "Solution injectable",
-        "500 mg\/5 ml",
-        "B\/100\/5 ml",
-        null,
-        "VITAMINE C",
-        "RENAUDIN",
-        "7713011H"
     ],
     [
         "DIBASE",
@@ -2822,26 +2702,6 @@
     ],
     [
         "CONNETTIVINA",
-        "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
-        "2 mg",
-        "B\/10\/10x10 cm",
-        null,
-        "HYALURONATE DE SODIUM",
-        "FIDIA Farmaceutici SpA",
-        7883023
-    ],
-    [
-        "CONNETTIVINA",
-        "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
-        "4 mg",
-        "B\/10\/10x20 cm",
-        null,
-        "HYALURONATE DE SODIUM",
-        "FIDIA Farmaceutici SpA",
-        7883024
-    ],
-    [
-        "CONNETTIVINA",
         "Cr\u00e8me dermique",
         "0,2 %",
         "T\/15 gr",
@@ -3539,106 +3399,6 @@
         "CHLORURE DE SODIUM",
         "UNIMED",
         null
-    ],
-    [
-        "HEALON PRO",
-        "Solution intra-oculaire",
-        "10 mg\/ml",
-        "B\/1 Seringue\/0,85 ml",
-        null,
-        "HYALURONATE DE SODIUM",
-        "ABBOTT MEDICAL OPTICS (AMO) UPPSALA AB",
-        "15583011H"
-    ],
-    [
-        "PROVISC",
-        "Solution intra-oculaire",
-        "10 mg\/ml",
-        "B\/1 Seringue\/0,85 ml",
-        null,
-        "HYALURONATE DE SODIUM",
-        "ALCON FRANCE",
-        "6643171H"
-    ],
-    [
-        "OPHTALIN",
-        "Solution intra-oculaire",
-        "10 mg\/ml",
-        "B\/1 Seringue\/1 ml",
-        null,
-        "HYALURONATE DE SODIUM",
-        "HYALTECH LTD",
-        "4353011H"
-    ],
-    [
-        "HEALON GV",
-        "Solution intra-oculaire",
-        "14 mg\/ml",
-        "Seringue\/0,85 ml",
-        null,
-        "HYALURONATE DE SODIUM",
-        "ADVANCED MEDICAL OPTIC UPPSALA AB",
-        "11393012H"
-    ],
-    [
-        "OPHTALIN PLUS",
-        "Solution intra-oculaire",
-        "15 mg\/ml",
-        "B\/1 Seringue\/1 ml",
-        null,
-        "HYALURONATE DE SODIUM",
-        "HYALTECH LTD",
-        "4353012H"
-    ],
-    [
-        "AMVISC PLUS",
-        "Pr\u00e9paration Visco\u00e9lastique",
-        "16 mg\/ml",
-        "B\/1 Seringue\/0,8 ml",
-        null,
-        "HYALURONATE DE SODIUM",
-        "BAUSCH AND LOMB",
-        "11793021H"
-    ],
-    [
-        "EYEFILL C",
-        "Solution intra-oculaire",
-        null,
-        "B\/1 Seringue pr\u00e9-remplie",
-        null,
-        "HYALURONATE DE SODIUM",
-        "CROMA PHARMA GMBH",
-        14203022
-    ],
-    [
-        "EYEFILL C",
-        "Solution intra-oculaire",
-        null,
-        "B\/1 Seringue pr\u00e9-remplie",
-        null,
-        "HYALURONATE DE SODIUM",
-        "VALEANT MED SP Z.O.O",
-        "20383012H"
-    ],
-    [
-        "EYEFILL MB",
-        "Solution intra-oculaire",
-        null,
-        "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
-        "HYALURONATE DE SODIUM",
-        "CROMA PHARMA GMBH",
-        14203021
-    ],
-    [
-        "EYEFILL MB",
-        "Solution intra-oculaire",
-        null,
-        "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
-        "HYALURONATE DE SODIUM",
-        "VALEANT MED SP Z.O.O",
-        "20383011H"
     ],
     [
         "INDOCOLLYRE",
@@ -4401,26 +4161,6 @@
         20723013
     ],
     [
-        "CHLORURE DE POTASSIUM  UNIMED",
-        "Solution injectable",
-        "7,46 %",
-        "B\/100\/10 ml",
-        null,
-        "CHLORURE DE POTASSIUM",
-        "UNIMED",
-        "9093081BH"
-    ],
-    [
-        "SULFATE DE MAGNESIUM PROAMP",
-        "Solution injectable",
-        "15%",
-        "B\/50\/10ML",
-        null,
-        "MAGNESIUM",
-        "LABORATOIRE AGUETTANT",
-        "7093072H"
-    ],
-    [
         "CO-IRBESARTAN",
         "Comprim\u00e9s pellicul\u00e9s",
         "150 mg\/12,5 mg",
@@ -4649,6 +4389,26 @@
         "SPIRONOLACTONE",
         "PFIZER EXPORT B.V",
         10803231
+    ],
+    [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "375 mg",
+        "B\/60",
+        "115,431",
+        "RANOLAZINE",
+        "MENARINI INTERNATIONAL",
+        15463033
+    ],
+    [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "500 mg",
+        "B\/60",
+        "115,244",
+        "RANOLAZINE",
+        "MENARINI INTERNATIONAL",
+        15463031
     ],
     [
         "VASTAREL",
@@ -5801,16 +5561,6 @@
         9363123
     ],
     [
-        "ANALGAN CODEINE",
-        "Comprim\u00e9s",
-        "600 mg\/50 mg",
-        "B\/300",
-        null,
-        "CODEINE+PARACETAMOL",
-        "SIPHAT",
-        "9003019H"
-    ],
-    [
         "ALGESIC PLUS",
         "Comprim\u00e9s s\u00e9cables",
         "500 mg\/12,8 mg",
@@ -6691,6 +6441,26 @@
         null
     ],
     [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "7,5 mg",
+        "B\/30",
+        "45,240",
+        "OLANZAPINE",
+        "PHILADELPHIA PHARMA",
+        9353312
+    ],
+    [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "15 mg",
+        "B\/30",
+        "98,140",
+        "OLANZAPINE",
+        "PHILADELPHIA PHARMA",
+        9353314
+    ],
+    [
         "RESPIROX",
         "Comprim\u00e9s",
         "4 mg",
@@ -6699,26 +6469,6 @@
         "RISPERIDONE",
         "AL HIKMA",
         6653482
-    ],
-    [
-        "RISDONE 1",
-        null,
-        null,
-        null,
-        null,
-        "RISPERIDONE",
-        "PHARMACARE",
-        9343431
-    ],
-    [
-        "RISDONE 3",
-        null,
-        null,
-        null,
-        null,
-        "RISPERIDONE",
-        "PHARMACARE",
-        9343433
     ],
     [
         "ZOLPIDEM VIATRIS",
@@ -7069,26 +6819,6 @@
         "BROMHEXINE",
         "S.I.PHA.T",
         9003141
-    ],
-    [
-        "BROMHEXINE",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "4 mg",
-        "B\/500",
-        null,
-        "BROMHEXINE",
-        "SIPHAT",
-        "9003141H"
-    ],
-    [
-        "BROMHEXINE",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "4 mg",
-        "B\/1000",
-        null,
-        "BROMHEXINE",
-        "SIPHAT",
-        "9003142H"
     ],
     [
         "BROMISOL",
@@ -7685,7 +7415,7 @@
         "Comprim\u00e9s solubles",
         null,
         "B\/60",
-        "20,460",
+        "20,891",
         "L CYSTINE+SOUFRE+VITAMINE A+LEVURES",
         "GRIMBERG",
         1073032
@@ -8149,16 +7879,6 @@
         "CHLORHEXIDINE+LYSOZYME+TETRACAINE",
         "COOPER",
         7623071
-    ],
-    [
-        "THIOVALONE",
-        null,
-        null,
-        null,
-        "0,333",
-        "CHLORHEXIDINE+TIXOCORTOL",
-        "PFIZER EXPORT B.V.",
-        null
     ],
     [
         "DRILL",

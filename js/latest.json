@@ -1651,15 +1651,6 @@
         "ORELOX",
         "Comprim\u00e9s pellicul\u00e9s",
         "100 mg",
-        "B\/10",
-        "22,495",
-        "16,201",
-        "CEFPODOXIME"
-    ],
-    [
-        "ORELOX",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "100 mg",
         "B\/20",
         "38,135",
         "32,402",
@@ -1699,15 +1690,6 @@
         "FL\/100 ml",
         "22,260",
         "18,445",
-        "CEFPODOXIME"
-    ],
-    [
-        "ORELOX ENFANTS ET NOURRISSONS",
-        "Granul\u00e9s pour suspension buvable",
-        "40 mg\/5 ml",
-        "FL\/50 ml",
-        "12,660",
-        "9,223",
         "CEFPODOXIME"
     ],
     [
@@ -1805,33 +1787,6 @@
         "Pdre p.prep.injectable",
         "1 g",
         "B\/1 FL + Solvant\/10 ml",
-        null,
-        "0,000",
-        "CEFTRIAXONE"
-    ],
-    [
-        "CEFAXONE IM\/IV",
-        "Pdre p.prep.injectable",
-        "1 g",
-        "B\/10 Flacons sans solvant",
-        null,
-        "0,000",
-        "CEFTRIAXONE"
-    ],
-    [
-        "CEFTRIAXONE PANPHARMA",
-        "Pdre p.prep.injectable",
-        "1 g",
-        "B\/25 FL sans solvant",
-        null,
-        "0,000",
-        "CEFTRIAXONE"
-    ],
-    [
-        "CEFORT",
-        "Pdre p.prep.injectable",
-        "1 g",
-        "B\/50 FL sans solvant",
         null,
         "0,000",
         "CEFTRIAXONE"
@@ -3187,15 +3142,6 @@
         "METRONIDAZOLE+SPIRAMYCINE"
     ],
     [
-        "SPIROGYL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "0,75 MUI\/125 mg",
-        "B\/500",
-        null,
-        "0,000",
-        "METRONIDAZOLE+SPIRAMYCINE"
-    ],
-    [
         "SPIRAMIZOLE",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "1,5 MUI\/250 mg",
@@ -3274,15 +3220,6 @@
         "B\/20",
         "12,675",
         "9,078",
-        "METRONIDAZOLE+SPIRAMYCINE"
-    ],
-    [
-        "BI-SPIROGYL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "1,5 MUI\/250 mg",
-        "B\/500",
-        null,
-        "0,000",
         "METRONIDAZOLE+SPIRAMYCINE"
     ],
     [
@@ -4708,27 +4645,9 @@
         "DIOSMECTITE"
     ],
     [
-        "SMECTA",
-        "Sachets",
-        null,
-        "B\/30",
-        "7,735",
-        "3,084",
-        "DIOSMECTITE"
-    ],
-    [
         "LACTEOL",
         "Poudre pour suspension orale",
         "340 mg",
-        "B\/10 Sachets",
-        "10,000",
-        "2,080",
-        "LACTOBACILLUS ACIDOPHILUS"
-    ],
-    [
-        "LACTEOL FORT",
-        "Poudre pour suspension orale",
-        null,
         "B\/10 Sachets",
         "10,000",
         "2,080",
@@ -4750,24 +4669,6 @@
         "B\/10",
         "2,420",
         "0,788",
-        "LOPERAMIDE"
-    ],
-    [
-        "DIARETYL",
-        "G\u00e9lules",
-        "2 mg",
-        "B\/10",
-        "2,420",
-        "0,788",
-        "LOPERAMIDE"
-    ],
-    [
-        "DIARETYL",
-        "G\u00e9lules",
-        "2 mg",
-        "B\/20",
-        "3,940",
-        "1,576",
         "LOPERAMIDE"
     ],
     [
@@ -5320,15 +5221,6 @@
         "CHLORURE DE POTASSIUM"
     ],
     [
-        "KALINOR RETARD P",
-        "Comprim\u00e9s",
-        "600 mg",
-        "B\/50",
-        "19,161",
-        "0,000",
-        "CHLORURE DE POTASSIUM"
-    ],
-    [
         "FRUBIOSE CALCIQUE FAIBLE",
         "Solution buvable",
         null,
@@ -5541,24 +5433,6 @@
         null,
         "B\/20",
         "6,840",
-        "0,000",
-        "GLYCERINE"
-    ],
-    [
-        "GLYSS ADULTE",
-        "Suppositoires",
-        null,
-        "B\/100",
-        null,
-        "0,000",
-        "GLYCERINE"
-    ],
-    [
-        "GLYSS NOURRISSONS",
-        "Suppositoires",
-        null,
-        "B\/100",
-        null,
         "0,000",
         "GLYCERINE"
     ],
@@ -9370,15 +9244,6 @@
         "DOMPERIDONE"
     ],
     [
-        "DOMPYREX",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "10 mg",
-        "B\/40",
-        "6,395",
-        "2,064",
-        "DOMPERIDONE"
-    ],
-    [
         "DOPIDIUM",
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
@@ -10360,15 +10225,6 @@
         "SORBITOL+CHOLINE"
     ],
     [
-        "SORBITOCHOLINE",
-        "Ampoules buvables",
-        null,
-        "C\/100\/10 ml",
-        null,
-        "0,000",
-        "SORBITOL+CHOLINE"
-    ],
-    [
         "URSOLVAN",
         "G\u00e9lules",
         "200 mg",
@@ -10531,29 +10387,11 @@
         "VITAMINE B1"
     ],
     [
-        "VITAMINE B1",
-        "Solution injectable",
-        "100 mg",
-        "B\/50\/2 ml",
-        null,
-        "0,000",
-        "VITAMINE B1"
-    ],
-    [
         "TRI-B",
         "Comprim\u00e9s enrob\u00e9s",
         null,
         "B\/30",
         "10,000",
-        "0,000",
-        "VITAMINE B1+VITAMINE B12+VITAMINE B6"
-    ],
-    [
-        "TRI-B",
-        "Comprim\u00e9s enrob\u00e9s",
-        null,
-        "B\/500",
-        null,
         "0,000",
         "VITAMINE B1+VITAMINE B12+VITAMINE B6"
     ],
@@ -10594,15 +10432,6 @@
         "VITAMINE C"
     ],
     [
-        "VITAMINE C",
-        "Comprim\u00e9s",
-        "500 mg",
-        "B\/500",
-        null,
-        "0,000",
-        "VITAMINE C"
-    ],
-    [
         "VITAMYL",
         "Comprim\u00e9s effervescents",
         "1 g",
@@ -10617,15 +10446,6 @@
         "1000 mg",
         "B\/10",
         "3,430",
-        "0,000",
-        "VITAMINE C"
-    ],
-    [
-        "ACIDE ASCORBIQUE A 10 POUR CENT RENAUDIN",
-        "Solution injectable",
-        "500 mg\/5 ml",
-        "B\/100\/5 ml",
-        null,
         "0,000",
         "VITAMINE C"
     ],
@@ -12065,15 +11885,6 @@
         "Comprim\u00e9s s\u00e9cables",
         "125 \u00b5g",
         "B\/30",
-        "3,368",
-        "2,856",
-        "LEVOTHYROXINE"
-    ],
-    [
-        "LEVOTHYROX",
-        "Comprim\u00e9s s\u00e9cables",
-        "125 \u00b5g",
-        "B\/30",
         "5,240",
         "2,856",
         "LEVOTHYROXINE"
@@ -12795,15 +12606,6 @@
         "2,00%",
         "B\/8 sachets\/6 gr",
         "24,654",
-        "20,488",
-        "KETOCONAZOLE"
-    ],
-    [
-        "KETODERM",
-        "Gel dermique",
-        "2,00%",
-        "B\/8 sachets\/6gr",
-        "25,280",
         "20,488",
         "KETOCONAZOLE"
     ],
@@ -14345,24 +14147,6 @@
         "6,435",
         "0,000",
         "HUILE DE FOIE DE MORUE + OXYDE DE ZINC"
-    ],
-    [
-        "CONNETTIVINA",
-        "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
-        "2 mg",
-        "B\/10\/10x10 cm",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "CONNETTIVINA",
-        "Compresse impr\u00e9gn\u00e9e st\u00e9rile",
-        "4 mg",
-        "B\/10\/10x20 cm",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
     ],
     [
         "CONNETTIVINA",
@@ -16912,15 +16696,6 @@
         "ACIDE FUSIDIQUE"
     ],
     [
-        "NAAXIA",
-        "Collyre",
-        "0.049",
-        "FL\/5 ml",
-        "6,216",
-        "5,249",
-        "ACIDE N-ACETYL-ASPARTYL-GLUTAMIQUE"
-    ],
-    [
         "NAABAK",
         "Collyre",
         "4,90%",
@@ -16944,15 +16719,6 @@
         "0,05%",
         "FL\/6 ml",
         "8,690",
-        "7,385",
-        "AZELASTINE"
-    ],
-    [
-        "ALLERGODIL",
-        "Collyre",
-        "0.0005",
-        "FL\/6 ml",
-        "9,120",
         "7,385",
         "AZELASTINE"
     ],
@@ -17486,96 +17252,6 @@
         "2,940",
         "2,499",
         "GENTAMICINE"
-    ],
-    [
-        "HEALON PRO",
-        "Solution intra-oculaire",
-        "10 mg\/ml",
-        "B\/1 Seringue\/0,85 ml",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "PROVISC",
-        "Solution intra-oculaire",
-        "10 mg\/ml",
-        "B\/1 Seringue\/0,85 ml",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "OPHTALIN",
-        "Solution intra-oculaire",
-        "10 mg\/ml",
-        "B\/1 Seringue\/1 ml",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "HEALON GV",
-        "Solution intra-oculaire",
-        "14 mg\/ml",
-        "Seringue\/0,85 ml",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "OPHTALIN PLUS",
-        "Solution intra-oculaire",
-        "15 mg\/ml",
-        "B\/1 Seringue\/1 ml",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "AMVISC PLUS",
-        "Pr\u00e9paration Visco\u00e9lastique",
-        "16 mg\/ml",
-        "B\/1 Seringue\/0,8 ml",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "EYEFILL C",
-        "Solution intra-oculaire",
-        null,
-        "B\/1 Seringue pr\u00e9-remplie",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "EYEFILL C",
-        "Solution intra-oculaire",
-        null,
-        "B\/1 Seringue pr\u00e9-remplie",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "EYEFILL MB",
-        "Solution intra-oculaire",
-        null,
-        "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
-    ],
-    [
-        "EYEFILL MB",
-        "Solution intra-oculaire",
-        null,
-        "B\/2 Seringues pr\u00e9-remplies(Bio II+Mega I)",
-        null,
-        "0,000",
-        "HYALURONATE DE SODIUM"
     ],
     [
         "STER-DEX",
@@ -19504,15 +19180,6 @@
         "CHLORURE DE POTASSIUM"
     ],
     [
-        "CHLORURE DE POTASSIUM  UNIMED",
-        "Solution injectable",
-        "7,46 %",
-        "B\/100\/10 ml",
-        null,
-        "0,000",
-        "CHLORURE DE POTASSIUM"
-    ],
-    [
         "CHLORURE DE SODIUM 10% UNIMED",
         "Solution injectable",
         "10,00%",
@@ -19520,15 +19187,6 @@
         "3,810",
         "3,810",
         "CHLORURE DE SODIUM"
-    ],
-    [
-        "SULFATE DE MAGNESIUM PROAMP",
-        "Solution injectable",
-        "15%",
-        "B\/50\/10ML",
-        null,
-        "0,000",
-        "MAGNESIUM"
     ],
     [
         "EXFORGE",
@@ -22276,15 +21934,6 @@
         "TELMISARTAN"
     ],
     [
-        "MICARDIS",
-        "Comprim\u00e9s",
-        "40 mg",
-        "B\/28",
-        "39,710",
-        "12,782",
-        "TELMISARTAN"
-    ],
-    [
         "TELMISARTAN MYLAN",
         "Comprim\u00e9s",
         "40 mg",
@@ -22300,15 +21949,6 @@
         "B\/30",
         "25,565",
         "13,694",
-        "TELMISARTAN"
-    ],
-    [
-        "MICARDIS",
-        "Comprim\u00e9s",
-        "80 mg",
-        "B\/28",
-        "47,605",
-        "20,301",
         "TELMISARTAN"
     ],
     [
@@ -22343,15 +21983,6 @@
         "Comprim\u00e9s",
         "40 mg\/5 mg",
         "B\/28",
-        "41,730",
-        "23,229",
-        "TELMISARTAN + AMLODIPINE"
-    ],
-    [
-        "TWYNSTA",
-        "Comprim\u00e9s",
-        "40 mg\/5 mg",
-        "B\/28",
         "46,116",
         "23,229",
         "TELMISARTAN + AMLODIPINE"
@@ -22370,15 +22001,6 @@
         "Comprim\u00e9s",
         "40 mg\/10 mg",
         "B\/28",
-        "41,730",
-        "23,229",
-        "TELMISARTAN + AMLODIPINE"
-    ],
-    [
-        "TWYNSTA",
-        "Comprim\u00e9s",
-        "40 mg\/10 mg",
-        "B\/28",
         "46,116",
         "23,229",
         "TELMISARTAN + AMLODIPINE"
@@ -22390,15 +22012,6 @@
         "B\/30",
         "29,285",
         "24,888",
-        "TELMISARTAN + AMLODIPINE"
-    ],
-    [
-        "TWYNSTA",
-        "Comprim\u00e9s",
-        "80 mg\/5 mg",
-        "B\/28",
-        "47,605",
-        "26,489",
         "TELMISARTAN + AMLODIPINE"
     ],
     [
@@ -22417,15 +22030,6 @@
         "B\/30",
         "33,395",
         "28,382",
-        "TELMISARTAN + AMLODIPINE"
-    ],
-    [
-        "TWYNSTA",
-        "Comprim\u00e9s",
-        "80 mg\/10 mg",
-        "B\/28",
-        "47,605",
-        "26,489",
         "TELMISARTAN + AMLODIPINE"
     ],
     [
@@ -22460,15 +22064,6 @@
         "Comprim\u00e9s",
         "80 mg\/12,5 mg",
         "B\/28",
-        "47,555",
-        "22,562",
-        "TELMISARTAN + HYDROCHLOROTHIAZIDE"
-    ],
-    [
-        "MICARDIS PLUS",
-        "Comprim\u00e9s",
-        "80 mg\/12,5 mg",
-        "B\/28",
         "68,376",
         "22,562",
         "TELMISARTAN + HYDROCHLOROTHIAZIDE"
@@ -22480,15 +22075,6 @@
         "B\/30",
         "28,460",
         "24,174",
-        "TELMISARTAN + HYDROCHLOROTHIAZIDE"
-    ],
-    [
-        "MICARDIS PLUS",
-        "Comprim\u00e9s",
-        "80 mg\/25 mg",
-        "B\/28",
-        "53,915",
-        "22,539",
         "TELMISARTAN + HYDROCHLOROTHIAZIDE"
     ],
     [
@@ -22735,15 +22321,6 @@
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
     [
-        "DIOSTAR-PLUS",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "80 mg\/12,5 mg",
-        "B\/30",
-        "28,450",
-        "17,799",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
-    ],
-    [
         "COTAREG",
         "Comprim\u00e9s pellicul\u00e9s",
         "80 mg\/12,5 mg",
@@ -22821,15 +22398,6 @@
         "160 mg\/25 mg",
         "B\/30",
         "38,145",
-        "27,413",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
-    ],
-    [
-        "DIOSTAR-PLUS",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "160 mg\/25 mg",
-        "B\/30",
-        "46,570",
         "27,413",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE"
     ],
@@ -23914,15 +23482,6 @@
         "ROSUVASTATINE"
     ],
     [
-        "CRESTOR",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "5 mg",
-        "B\/30",
-        "45,392",
-        "11,628",
-        "ROSUVASTATINE"
-    ],
-    [
         "ROVASTINE",
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg",
@@ -24063,15 +23622,6 @@
         "10 mg",
         "B\/30",
         "35,370",
-        "13,668",
-        "ROSUVASTATINE"
-    ],
-    [
-        "CRESTOR",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "10 mg",
-        "B\/30",
-        "54,424",
         "13,668",
         "ROSUVASTATINE"
     ],
@@ -24243,15 +23793,6 @@
         "20 mg",
         "B\/30",
         "50,565",
-        "19,890",
-        "ROSUVASTATINE"
-    ],
-    [
-        "CRESTOR",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "20 mg",
-        "B\/30",
-        "75,815",
         "19,890",
         "ROSUVASTATINE"
     ],
@@ -24909,15 +24450,6 @@
         "10 mg",
         "B\/30",
         "11,840",
-        "6,987",
-        "BISOPROLOL"
-    ],
-    [
-        "DETENSIEL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "10 mg",
-        "B\/30",
-        "13,440",
         "6,987",
         "BISOPROLOL"
     ],
@@ -26567,6 +26099,24 @@
         "27,410",
         "19,508",
         "MOLSIDOMINE"
+    ],
+    [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "375 mg",
+        "B\/60",
+        "115,431",
+        "0,000",
+        "RANOLAZINE"
+    ],
+    [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "500 mg",
+        "B\/60",
+        "115,244",
+        "0,000",
+        "RANOLAZINE"
     ],
     [
         "VASTAREL",
@@ -28915,15 +28465,6 @@
         "B\/12",
         "6,890",
         "3,386",
-        "CODEINE+PARACETAMOL"
-    ],
-    [
-        "ANALGAN CODEINE",
-        "Comprim\u00e9s",
-        "600 mg\/50 mg",
-        "B\/300",
-        null,
-        "0,000",
         "CODEINE+PARACETAMOL"
     ],
     [
@@ -32239,15 +31780,6 @@
         "ESCITALOPRAM"
     ],
     [
-        "SEROPLEX",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
-        "10 mg",
-        "B\/28",
-        "56,773",
-        "11,162",
-        "ESCITALOPRAM"
-    ],
-    [
         "CIBRAMINE 10",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
@@ -32518,15 +32050,6 @@
         "MEMANTINE"
     ],
     [
-        "EBIXA",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "10 mg",
-        "B\/28",
-        "75,498",
-        "0,000",
-        "MEMANTINE"
-    ],
-    [
         "APPELOM",
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
@@ -32550,15 +32073,6 @@
         "10 mg",
         "B\/60",
         "50,240",
-        "0,000",
-        "MEMANTINE"
-    ],
-    [
-        "EBIXA",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "20 mg",
-        "B\/28",
-        "150,994",
         "0,000",
         "MEMANTINE"
     ],
@@ -32695,15 +32209,6 @@
         "B\/30",
         "25,345",
         "17,034",
-        "PAROXETINE"
-    ],
-    [
-        "DEROXAT",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
-        "20 mg",
-        "B\/50",
-        "70,930",
-        "28,390",
         "PAROXETINE"
     ],
     [
@@ -32992,15 +32497,6 @@
         "B\/30",
         "6,175",
         "2,460",
-        "ALPRAZOLAM"
-    ],
-    [
-        "XANAX RETARD",
-        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
-        "1 mg",
-        "B\/30",
-        "8,105",
-        "3,240",
         "ALPRAZOLAM"
     ],
     [
@@ -33302,24 +32798,6 @@
     ],
     [
         "LARGACTIL",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "25 mg",
-        "B\/50",
-        "4,740",
-        "0,935",
-        "CHLORPROMAZINE"
-    ],
-    [
-        "LARGACTIL",
-        "Comprim\u00e9s s\u00e9cables",
-        "100 mg",
-        "B\/30",
-        "7,240",
-        "2,091",
-        "CHLORPROMAZINE"
-    ],
-    [
-        "LARGACTIL",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "100 mg",
         "B\/30",
@@ -33520,15 +32998,6 @@
         "HALDOL DECANOAS",
         "Solution injectable",
         "50 mg",
-        "B\/1\/1 ml",
-        "5,240",
-        "3,310",
-        "HALOPERIDOL"
-    ],
-    [
-        "HALDOL DECANOAS",
-        "Solution injectable",
-        "50 mg",
         "B\/5\/1 ml",
         "19,470",
         "16,550",
@@ -33589,24 +33058,6 @@
         "LEVOMEPROMAZINE"
     ],
     [
-        "NOZINAN",
-        "Solution injectable",
-        "25 mg",
-        "B\/5\/1 ml",
-        "3,598",
-        "3,056",
-        "LEVOMEPROMAZINE"
-    ],
-    [
-        "TERALITHE",
-        "Comprim\u00e9s s\u00e9cables",
-        "250 mg",
-        "B\/100",
-        "3,237",
-        "2,720",
-        "LITHIUM CARBONATE"
-    ],
-    [
         "TERALITHE",
         "Comprim\u00e9s s\u00e9cables",
         "250 mg",
@@ -33663,6 +33114,15 @@
     [
         "POLAR",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "5 mg",
+        "B\/30",
+        "25,240",
+        "19,890",
+        "OLANZAPINE"
+    ],
+    [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
         "5 mg",
         "B\/30",
         "25,240",
@@ -33733,6 +33193,15 @@
         "OLANZAPINE"
     ],
     [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "7,5 mg",
+        "B\/30",
+        "45,240",
+        "0,000",
+        "OLANZAPINE"
+    ],
+    [
         "VAINCOR",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "10 mg",
@@ -33747,6 +33216,15 @@
         "10 mg",
         "B\/30",
         "57,240",
+        "48,654",
+        "OLANZAPINE"
+    ],
+    [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "10 mg",
+        "B\/30",
+        "57,480",
         "48,654",
         "OLANZAPINE"
     ],
@@ -33823,6 +33301,15 @@
         "OLANZAPINE"
     ],
     [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "15 mg",
+        "B\/30",
+        "98,140",
+        "0,000",
+        "OLANZAPINE"
+    ],
+    [
         "OROZA 20",
         "Comprim\u00e9s orodispersibles",
         "20 mg",
@@ -33833,6 +33320,15 @@
     ],
     [
         "OLANZIA ORO",
+        "Comprim\u00e9s orodispersibles",
+        "20 mg",
+        "B\/30",
+        "120,240",
+        "102,204",
+        "OLANZAPINE"
+    ],
+    [
+        "OLANZA ODT",
         "Comprim\u00e9s orodispersibles",
         "20 mg",
         "B\/30",
@@ -33909,15 +33405,6 @@
         "4,00 %",
         "FL\/30 ml",
         "10,240",
-        "3,800",
-        "PROPERICIAZINE"
-    ],
-    [
-        "NEULEPTIL",
-        "Gouttes buvables",
-        "4,00 %",
-        "FL\/30 ml",
-        "4,499",
         "3,800",
         "PROPERICIAZINE"
     ],
@@ -34108,24 +33595,6 @@
         "B\/30",
         "59,800",
         "48,272",
-        "RISPERIDONE"
-    ],
-    [
-        "RISDONE 1",
-        null,
-        null,
-        null,
-        null,
-        "0,000",
-        "RISPERIDONE"
-    ],
-    [
-        "RISDONE 3",
-        null,
-        null,
-        null,
-        null,
-        "0,000",
         "RISPERIDONE"
     ],
     [
@@ -35398,24 +34867,6 @@
         "BROMHEXINE"
     ],
     [
-        "BROMHEXINE",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "4 mg",
-        "B\/500",
-        null,
-        "0,000",
-        "BROMHEXINE"
-    ],
-    [
-        "BROMHEXINE",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "4 mg",
-        "B\/1000",
-        null,
-        "0,000",
-        "BROMHEXINE"
-    ],
-    [
         "BROMISOL",
         "Solution buvable",
         "0,2 %",
@@ -35951,7 +35402,7 @@
         "Comprim\u00e9s solubles",
         null,
         "B\/60",
-        "20,460",
+        "20,891",
         "0,000",
         "L CYSTINE+SOUFRE+VITAMINE A+LEVURES"
     ],
@@ -36226,15 +35677,6 @@
         "VITAMINE C+ESPECES PECTORALES+SODIUM BENZOATE"
     ],
     [
-        "MIFLASONE",
-        "G\u00e9lules",
-        "400 \u00b5g",
-        "B\/60",
-        "21,793",
-        "18,513",
-        "BECLOMETASONE"
-    ],
-    [
         "CORTIS",
         "Suspension pour inhalation",
         "50 \u00b5g",
@@ -36460,15 +35902,6 @@
         "BUDESONIDE+FORMOTEROL"
     ],
     [
-        "SYMBICORT TURBUHALER",
-        "Poudre pour inhalation buccale",
-        "400 \u00b5g\/12 \u00b5g",
-        "FL\/60 doses",
-        "132,180",
-        "39,831",
-        "BUDESONIDE+FORMOTEROL"
-    ],
-    [
         "NOTOS COMBI",
         "Poudre pour inhalation buccale",
         "400 \u00b5g\/12 \u00b5g",
@@ -36503,24 +35936,6 @@
         "40,240",
         "0,000",
         "CICLESONIDE"
-    ],
-    [
-        "OZOTHINE DIPROPHYLLINE",
-        "Suppositoires",
-        null,
-        "B\/10",
-        "2,895",
-        "2,457",
-        "ESSENCE DE TEREBENTHINE"
-    ],
-    [
-        "OZOTHINE DIPROPHYLLINE",
-        "Suppositoires",
-        null,
-        "B\/10",
-        "4,280",
-        "3,638",
-        "ESSENCE DE TEREBENTHINE"
     ],
     [
         "BRONCHODUAL",
@@ -37130,15 +36545,6 @@
         "Poudre pour inhalation buccale",
         "18 \u00b5g",
         "B\/30 g\u00e9lules + inhalateur",
-        "90,525",
-        "53,907",
-        "TIOTROPIUM"
-    ],
-    [
-        "SPIRIVA",
-        "Poudre pour inhalation buccale",
-        "18 \u00b5g",
-        "B\/30 g\u00e9lules + inhalateur",
         "103,553",
         "53,907",
         "TIOTROPIUM"
@@ -37241,15 +36647,6 @@
         "9,469",
         "0,000",
         "CHLORHEXIDINE+LYSOZYME+TETRACAINE"
-    ],
-    [
-        "THIOVALONE",
-        null,
-        null,
-        null,
-        "0,333",
-        "0,000",
-        "CHLORHEXIDINE+TIXOCORTOL"
     ],
     [
         "DRILL",
@@ -37392,15 +36789,6 @@
         "64 \u00b5g\/dose",
         "FL\/120 doses",
         "17,480",
-        "12,036",
-        "BUDESONIDE"
-    ],
-    [
-        "RHINOCORT",
-        "Suspension nasale",
-        "64 \u00b5g\/dose",
-        "FL\/120 doses",
-        "18,929",
         "12,036",
         "BUDESONIDE"
     ],

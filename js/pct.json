@@ -3601,6 +3601,26 @@
         10803231
     ],
     [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "375 mg",
+        "B\/60",
+        "115,431",
+        "RANOLAZINE",
+        "MENARINI INTERNATIONAL",
+        15463033
+    ],
+    [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "500 mg",
+        "B\/60",
+        "115,244",
+        "RANOLAZINE",
+        "MENARINI INTERNATIONAL",
+        15463031
+    ],
+    [
         "VASTAREL",
         "Comprim\u00e9s pellicul\u00e9s LM",
         "35 mg",
@@ -4441,16 +4461,6 @@
         9363123
     ],
     [
-        "CODOLOPRO",
-        "Comprim\u00e9s",
-        "300 mg\/25 mg",
-        "B\/15",
-        "4,940",
-        "CODEINE+PARACETAMOL",
-        "GALIEN PHARMACEUTICALS S.A",
-        9423071
-    ],
-    [
         "ALGESIC PLUS",
         "Comprim\u00e9s s\u00e9cables",
         "500 mg\/12,8 mg",
@@ -4459,16 +4469,6 @@
         "CODEINE+PARACETAMOL",
         "DAR ESSAYDALI",
         9213356
-    ],
-    [
-        "DOLOPRO EXTRA",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "500 mg\/65 mg",
-        "B\/16",
-        "4,310",
-        "PARACETAMOL+CAFEINE",
-        "GALIEN PHARMACEUTICALS S.A",
-        9423061
     ],
     [
         "MIGRAL",
@@ -4991,6 +4991,26 @@
         null
     ],
     [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "7,5 mg",
+        "B\/30",
+        "45,240",
+        "OLANZAPINE",
+        "PHILADELPHIA PHARMA",
+        9353312
+    ],
+    [
+        "OLANZA ODT",
+        "Comprim\u00e9s orodispersibles",
+        "15 mg",
+        "B\/30",
+        "98,140",
+        "OLANZAPINE",
+        "PHILADELPHIA PHARMA",
+        9353314
+    ],
+    [
         "RESPIROX",
         "Comprim\u00e9s",
         "4 mg",
@@ -4999,26 +5019,6 @@
         "RISPERIDONE",
         "AL HIKMA",
         6653482
-    ],
-    [
-        "RISDONE 1",
-        null,
-        null,
-        null,
-        null,
-        "RISPERIDONE",
-        "PHARMACARE",
-        9343431
-    ],
-    [
-        "RISDONE 3",
-        null,
-        null,
-        null,
-        null,
-        "RISPERIDONE",
-        "PHARMACARE",
-        9343433
     ],
     [
         "ZOLPIDEM VIATRIS",
@@ -5755,7 +5755,7 @@
         "Comprim\u00e9s solubles",
         null,
         "B\/60",
-        "20,460",
+        "20,891",
         "L CYSTINE+SOUFRE+VITAMINE A+LEVURES",
         "GRIMBERG",
         1073032
@@ -6139,16 +6139,6 @@
         "CHLORHEXIDINE+LYSOZYME+TETRACAINE",
         "COOPER",
         7623071
-    ],
-    [
-        "THIOVALONE",
-        null,
-        null,
-        null,
-        "0,333",
-        "CHLORHEXIDINE+TIXOCORTOL",
-        "PFIZER EXPORT B.V.",
-        null
     ],
     [
         "DRILL",

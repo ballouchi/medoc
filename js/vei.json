@@ -18496,15 +18496,6 @@
         "N"
     ],
     [
-        104557,
-        "DIOSTAR-PLUS Comp Pell 80 MG\/12.5MG BT 30",
-        "28,450",
-        "20,940",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
         302319,
         "COTAREG Comp Pell 80 MG\/12.5 MG Bt 30",
         "38,955",
@@ -18571,15 +18562,6 @@
         303820,
         "DIOSTAR-PLUS 160mg\/25mg Comp Pell Bt 30",
         "38,145",
-        "32,250",
-        "E",
-        "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
-        "N"
-    ],
-    [
-        104558,
-        "DIOSTAR-PLUS Comp Pell 160MG\/25 MG BT 30",
-        "46,570",
         "32,250",
         "E",
         "VALSARTAN \/ HYDROCHLOROTHIAZIDE",
@@ -27343,6 +27325,15 @@
         "O"
     ],
     [
+        303866,
+        "OLANZA ODT 5mg Comp Orodisp Bt 30",
+        "25,240",
+        "23,400",
+        "E",
+        "OLANZAPINE",
+        "O"
+    ],
+    [
         302737,
         "OROZA 5 5 MG Comp Orodisp BT 30",
         "33,240",
@@ -27418,6 +27409,15 @@
         303016,
         "OLANZIA ORO 10 mg Comp Orodisp Bt 30",
         "57,240",
+        "57,240",
+        "E",
+        "OLANZAPINE",
+        "O"
+    ],
+    [
+        303868,
+        "OLANZA ODT 10mg Comp Orodisp Bt 30",
+        "57,480",
         "57,240",
         "E",
         "OLANZAPINE",
@@ -27507,6 +27507,15 @@
     [
         303017,
         "OLANZIA ORO 20 mg Comp Orodisp Bt 30",
+        "120,240",
+        "120,240",
+        "E",
+        "OLANZAPINE",
+        "O"
+    ],
+    [
+        303870,
+        "OLANZA ODT 20mg Comp Orodisp Bt 30",
         "120,240",
         "120,240",
         "E",
