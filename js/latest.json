@@ -5869,6 +5869,15 @@
         "EMPAGLIFLOZINE"
     ],
     [
+        "GLIFLODIS",
+        "Comprim\u00e9s p\u00e9llicul\u00e9s",
+        "10 mg",
+        "B\/30",
+        "41,850",
+        "35,564",
+        "EMPAGLIFLOZINE"
+    ],
+    [
         "EMPERIAL",
         "Comprim\u00e9s pellicul\u00e9s",
         "10 mg",
@@ -5892,6 +5901,15 @@
         "25 mg",
         "B\/30",
         "41,840",
+        "35,564",
+        "EMPAGLIFLOZINE"
+    ],
+    [
+        "GLIFLODIS",
+        "Comprim\u00e9s p\u00e9llicul\u00e9s",
+        "25 mg",
+        "B\/30",
+        "41,850",
         "35,564",
         "EMPAGLIFLOZINE"
     ],
@@ -7351,6 +7369,24 @@
         "B\/60",
         "55,020",
         "32,946",
+        "VILDAGLIPTINE"
+    ],
+    [
+        "MONODIAB",
+        "Comprim\u00e9s",
+        "50 mg",
+        "B\/60",
+        "55,020",
+        "32,946",
+        "VILDAGLIPTINE"
+    ],
+    [
+        "MONODIAB",
+        "Comprim\u00e9s",
+        "50 mg",
+        "B\/180",
+        "159,54",
+        "98,838",
         "VILDAGLIPTINE"
     ],
     [
@@ -15256,29 +15292,20 @@
         "IBUPROFEN"
     ],
     [
-        "ADOFEN",
-        "Suspension buvable",
-        "20 mg\/ml",
-        "FL\/120 ml",
-        "5,421",
-        "3,366",
-        "IBUPROFEN"
-    ],
-    [
-        "NOVAFEN",
-        "Suspension buvable",
-        "20 mg\/ml",
-        "FL\/125 ml",
-        "5,110",
-        "3,506",
-        "IBUPROFEN"
-    ],
-    [
         "PAINOFEN ENFANT-NOURRISSONS",
         "Suspension buvable",
         "100 mg\/5 ml",
         "FL\/120 ml",
         "3,985",
+        "3,366",
+        "IBUPROFEN"
+    ],
+    [
+        "ADOFEN",
+        "Suspension buvable",
+        "20 mg\/ml",
+        "FL\/120 ml",
+        "5,421",
         "3,366",
         "IBUPROFEN"
     ],
@@ -15297,6 +15324,15 @@
         "100 mg\/5 ml",
         "FL\/125 ml",
         "4,760",
+        "3,506",
+        "IBUPROFEN"
+    ],
+    [
+        "NOVAFEN",
+        "Suspension buvable",
+        "20 mg\/ml",
+        "FL\/125 ml",
+        "5,110",
         "3,506",
         "IBUPROFEN"
     ],
@@ -15778,21 +15814,21 @@
         "PENICILLAMINE"
     ],
     [
+        "ARTHROSYL",
+        "G\u00e9lules",
+        "10 mg",
+        "B\/30",
+        "8,065",
+        "6,834",
+        "PIROXICAM"
+    ],
+    [
         "CYCLODEX",
         "Comprim\u00e9s s\u00e9cables",
         "20 mg",
         "B\/7",
         "4,445",
         "2,517",
-        "PIROXICAM"
-    ],
-    [
-        "FELDENE DISPERSIBLE",
-        "Comprim\u00e9s s\u00e9cables",
-        "20 mg",
-        "B\/10",
-        "6,985",
-        "4,624",
         "PIROXICAM"
     ],
     [
@@ -15805,39 +15841,12 @@
         "PIROXICAM"
     ],
     [
-        "FELDENE DISPERSIBLE",
+        "CYCLADOL",
         "Comprim\u00e9s s\u00e9cables",
         "20 mg",
-        "B\/20",
-        "10,890",
-        "9,248",
-        "PIROXICAM"
-    ],
-    [
-        "PIROXEN DISPERSIBLE",
-        "Comprim\u00e9s dispersibles",
-        "20 mg",
-        "B\/12",
-        "6,990",
-        "5,549",
-        "PIROXICAM"
-    ],
-    [
-        "FELDENE DISPERSIBLE",
-        "Comprim\u00e9s dispersibles",
-        "20 mg",
-        "B\/15",
-        "10,132",
-        "6,936",
-        "PIROXICAM"
-    ],
-    [
-        "ARTHROSYL",
-        "G\u00e9lules",
-        "10 mg",
-        "B\/30",
-        "8,065",
-        "6,834",
+        "B\/14",
+        "15,012",
+        "5,034",
         "PIROXICAM"
     ],
     [
@@ -15865,6 +15874,60 @@
         "B\/20",
         "8,460",
         "7,191",
+        "PIROXICAM"
+    ],
+    [
+        "ROXAM",
+        "Poudre pour solution orale",
+        "20 mg",
+        "B\/8 Sachets",
+        "6,085",
+        "5,168",
+        "PIROXICAM"
+    ],
+    [
+        "FELDENE DISPERSIBLE",
+        "Comprim\u00e9s dispersibles",
+        "20 mg",
+        "B\/10",
+        "6,985",
+        "4,624",
+        "PIROXICAM"
+    ],
+    [
+        "PIROXEN DISPERSIBLE",
+        "Comprim\u00e9s dispersibles",
+        "20 mg",
+        "B\/12",
+        "6,990",
+        "5,549",
+        "PIROXICAM"
+    ],
+    [
+        "CYCLADOL",
+        "Comprim\u00e9s effervescents",
+        "20 mg",
+        "B\/14",
+        "15,876",
+        "6,474",
+        "PIROXICAM"
+    ],
+    [
+        "FELDENE DISPERSIBLE",
+        "Comprim\u00e9s dispersibles",
+        "20 mg",
+        "B\/15",
+        "10,132",
+        "6,936",
+        "PIROXICAM"
+    ],
+    [
+        "FELDENE DISPERSIBLE",
+        "Comprim\u00e9s dispersibles",
+        "20 mg",
+        "B\/20",
+        "10,890",
+        "9,248",
         "PIROXICAM"
     ],
     [
@@ -15913,12 +15976,12 @@
         "PIROXICAM"
     ],
     [
-        "ROXAM",
-        "Poudre pour solution orale",
+        "CYCLADOL",
+        "Suppositoires",
         "20 mg",
-        "B\/8 Sachets",
-        "6,085",
-        "5,168",
+        "B\/10",
+        "7,505",
+        "5,644",
         "PIROXICAM"
     ],
     [
@@ -16561,20 +16624,20 @@
         "IBUPROFEN+MENTHOL"
     ],
     [
-        "RHUTAGEL",
-        "Gel dermique",
-        "2,50%",
-        "T\/50 gr",
-        "5,800",
-        "0,000",
-        "KETOPROFENE"
-    ],
-    [
         "KETOPROGEL",
         "Gel dermique",
         "2,5\u00a0%",
         "T\/50 gr",
         "4,804",
+        "0,000",
+        "KETOPROFENE"
+    ],
+    [
+        "RHUTAGEL",
+        "Gel dermique",
+        "2,5\u00a0%",
+        "T\/50 gr",
+        "5,800",
         "0,000",
         "KETOPROFENE"
     ],
@@ -16586,24 +16649,6 @@
         "7,100",
         "0,000",
         "KETOPROFENE"
-    ],
-    [
-        "CYCLADOL",
-        "Comprim\u00e9s s\u00e9cables",
-        "20 mg",
-        "B\/14",
-        "15,012",
-        "5,034",
-        "PIROXICAM"
-    ],
-    [
-        "CYCLADOL",
-        "Comprim\u00e9s effervescents",
-        "20 mg",
-        "B\/14",
-        "15,876",
-        "6,474",
-        "PIROXICAM"
     ],
     [
         "PIROXICAM",
@@ -16630,15 +16675,6 @@
         "T\/50 gr",
         "9,720",
         "0,000",
-        "PIROXICAM"
-    ],
-    [
-        "CYCLADOL",
-        "Suppositoires",
-        "20 mg",
-        "B\/10",
-        "7,505",
-        "5,644",
         "PIROXICAM"
     ],
     [
@@ -17642,20 +17678,20 @@
     ],
     [
         "RIFAMYCINE",
-        "Collyre",
-        "1,00%",
-        "FL\/10 ml",
-        "5,240",
-        "4,055",
-        "RIFAMYCINE"
-    ],
-    [
-        "RIFAMYCINE",
         "Pommade ophtalmique",
         "1,00%",
         "T\/5 gr",
         "3,885",
         "3,302",
+        "RIFAMYCINE"
+    ],
+    [
+        "RIFAMYCINE",
+        "Collyre",
+        "1,00%",
+        "FL\/10 ml",
+        "5,240",
+        "4,055",
         "RIFAMYCINE"
     ],
     [
@@ -25799,7 +25835,7 @@
         "Comprim\u00e9s s\u00e9cables",
         "200 mg",
         "B\/30",
-        "7,715",
+        "9,960",
         "6,554",
         "AMIODARONE"
     ],
@@ -28414,6 +28450,15 @@
         "CODEINE+PARACETAMOL"
     ],
     [
+        "ADOLINE FORT",
+        "Comprim\u00e9s",
+        "400 mg\/25 mg",
+        "B\/20",
+        "2,590",
+        "2,193",
+        "CODEINE+PARACETAMOL"
+    ],
+    [
         "CO-ALGIDOL",
         "Comprim\u00e9s",
         "500 mg\/30 mg",
@@ -28981,24 +29026,6 @@
         "PARACETAMOL"
     ],
     [
-        "STOPALGIC",
-        "Solution injectable pour perfusion",
-        "10 mg\/ml",
-        "B\/1 FL 50 ml",
-        "4,565",
-        "3,523",
-        "PARACETAMOL"
-    ],
-    [
-        "PARAC INFO",
-        "Solution injectable pour perfusion",
-        "10 mg\/ml",
-        "Poche de 100 ml",
-        "4,150",
-        "3,523",
-        "PARACETAMOL"
-    ],
-    [
         "PARAMED",
         "Solution injectable pour perfusion",
         "10 mg\/ml",
@@ -29017,10 +29044,28 @@
         "PARACETAMOL"
     ],
     [
+        "PARAC INFO",
+        "Solution injectable pour perfusion",
+        "10 mg\/ml",
+        "Poche de 100 ml",
+        "4,150",
+        "3,523",
+        "PARACETAMOL"
+    ],
+    [
+        "STOPALGIC",
+        "Solution injectable pour perfusion",
+        "10 mg\/ml",
+        "B\/1 FL 100 ml",
+        "4,565",
+        "3,523",
+        "PARACETAMOL"
+    ],
+    [
         "PARAMED",
         "Solution injectable pour perfusion",
         "10 mg\/ml",
-        "B\/6 poches pvc\/50 ml",
+        "B\/6 poches multicouches\/100 ml",
         "24,870",
         "21,140",
         "PARACETAMOL"
@@ -29071,21 +29116,21 @@
         "PARACETAMOL"
     ],
     [
-        "NOVADOL",
-        "Poudre pour solution orale",
-        "100 mg",
-        "B\/12",
-        "1,560",
-        "1,326",
-        "PARACETAMOL"
-    ],
-    [
         "DOLIPRANE",
         "Poudre pour solution orale",
         "150 mg",
         "B\/12",
         "1,630",
         "1,377",
+        "PARACETAMOL"
+    ],
+    [
+        "NOVADOL",
+        "Poudre pour solution orale",
+        "200 mg",
+        "B\/12",
+        "1,560",
+        "1,326",
         "PARACETAMOL"
     ],
     [
@@ -29152,15 +29197,6 @@
         "PARACETAMOL"
     ],
     [
-        "ALGESIC PEDIATRIQUE",
-        null,
-        "3,00%",
-        null,
-        "2,185",
-        "1,607",
-        "PARACETAMOL"
-    ],
-    [
         "DOLEL",
         "Sirop",
         "3,00%",
@@ -29193,6 +29229,15 @@
         "3,00%",
         "FL\/90 ml",
         "1,970",
+        "1,607",
+        "PARACETAMOL"
+    ],
+    [
+        "ALGESIC PEDIATRIQUE",
+        "Solution buvable",
+        "3,00%",
+        "FL\/90 ml",
+        "2,185",
         "1,607",
         "PARACETAMOL"
     ],
@@ -29359,15 +29404,6 @@
         "PARACETAMOL+BELLADONA+OPIUM"
     ],
     [
-        "ADOLINE FORT",
-        "Comprim\u00e9s",
-        "400 mg\/25 mg",
-        "B\/20",
-        "2,590",
-        "2,193",
-        "PARACETAMOL+CAFEINE"
-    ],
-    [
         "PANADOL EXTRA",
         "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
         "500 mg\/65 mg",
@@ -29422,21 +29458,21 @@
         "PARACETAMOL+CAFEINE"
     ],
     [
-        "PANADOL EXTRA",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "500 mg\/65 mg",
-        "B\/16",
-        "4,335",
-        "1,782",
-        "PARACETAMOL+CAFEINE"
-    ],
-    [
         "DOLOPRO EXTRA",
         "Comprim\u00e9s pellicul\u00e9s",
         "500 mg\/65 mg",
         "B\/16",
         "4,310",
         "1,781",
+        "PARACETAMOL+CAFEINE"
+    ],
+    [
+        "PANADOL EXTRA",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "500 mg\/65 mg",
+        "B\/16",
+        "4,335",
+        "1,782",
         "PARACETAMOL+CAFEINE"
     ],
     [

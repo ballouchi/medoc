@@ -68,26 +68,6 @@
 
 
 {
-"title": "Retrait De Lots 2026",
-"tags": "circulaireschangements",
-"keywords": "pct",
-"url": "retrait-de-lots-2026.html",
-"summary": "Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.<br>Le retrait du commerce de ces lots doit se faire immédiatement et sans délai.<br>Le retour à la PCT doit se faire dans un délai ne dépassant pas les 45 jours à partir de la date de la circulaire correspondante."
-}
-,
-
-
-{
-"title": "Circulaires de la Pharmacie Centrale de Septembre 2026",
-"tags": "changementscirculaires",
-"keywords": "pct",
-"url": "pct-2026-09.html",
-"summary": "Changements de Septembre 2026"
-}
-,
-
-
-{
 "title": "Liste des Médicaments Remboursés",
 "tags": "changements",
 "keywords": "",
@@ -113,6 +93,26 @@
 "keywords": "cnam",
 "url": "cnam-2026-09.html",
 "summary": "Changements de Septembre 2026 CNAM"
+}
+,
+
+
+{
+"title": "Circulaires de la Pharmacie Centrale de Septembre 2026",
+"tags": "changementscirculaires",
+"keywords": "pct",
+"url": "pct-2026-09.html",
+"summary": "Changements de Septembre 2026"
+}
+,
+
+
+{
+"title": "Retrait De Lots 2026",
+"tags": "circulaireschangements",
+"keywords": "pct",
+"url": "retrait-de-lots-2026.html",
+"summary": "Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.<br>Le retrait du commerce de ces lots doit se faire immédiatement et sans délai.<br>Le retour à la PCT doit se faire dans un délai ne dépassant pas les 45 jours à partir de la date de la circulaire correspondante."
 }
 ,
 

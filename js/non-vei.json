@@ -3321,16 +3321,6 @@
         6063301
     ],
     [
-        "RHUTAGEL",
-        "Gel dermique",
-        "2,50%",
-        "T\/50 gr",
-        "5,800",
-        "KETOPROFENE",
-        "WEST PHARMA",
-        null
-    ],
-    [
         "KETOPROGEL",
         "Gel dermique",
         "2,5\u00a0%",
@@ -3339,6 +3329,16 @@
         "KETOPROFENE",
         "PHARMADERM",
         9053241
+    ],
+    [
+        "RHUTAGEL",
+        "Gel dermique",
+        "2,5\u00a0%",
+        "T\/50 gr",
+        "5,800",
+        "KETOPROFENE",
+        "WEST PHARMA",
+        null
     ],
     [
         "KETUM",
