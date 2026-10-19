@@ -613,6 +613,15 @@
         "AMOXICILLINE+ACIDE CLAVULANIQUE"
     ],
     [
+        "NOVACLAV",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "500 mg\/62,5 mg",
+        "B\/42",
+        "25,650",
+        "21,803",
+        "AMOXICILLINE+ACIDE CLAVULANIQUE"
+    ],
+    [
         "CLAVUMOX",
         "Comprim\u00e9s pellicul\u00e9s",
         "500 mg\/62,5 mg",
@@ -808,6 +817,15 @@
         "B\/12 Sachets-doses",
         "25,415",
         "11,914",
+        "AMOXICILLINE+ACIDE CLAVULANIQUE"
+    ],
+    [
+        "CLAVOR (8\/1)",
+        "Poudre pour suspension orale",
+        "1 g\/125 mg",
+        "B\/15 sachets",
+        "17,780",
+        "14,892",
         "AMOXICILLINE+ACIDE CLAVULANIQUE"
     ],
     [
@@ -3223,15 +3241,6 @@
         "METRONIDAZOLE+SPIRAMYCINE"
     ],
     [
-        "ODYCIN",
-        "Collyre",
-        "0,5\u00a0%",
-        "FL\/3 ml",
-        "6,910",
-        "0,000",
-        "MOXIFLOXACINE"
-    ],
-    [
         "NETROMICINE",
         "Solution injectable",
         "100 mg",
@@ -4467,7 +4476,16 @@
     [
         "ASCALOL",
         "Lotion",
-        "25,00%",
+        "10%",
+        "FL\/125 ml",
+        "3,555",
+        "0,000",
+        "BENZOATE DE BENZYLE"
+    ],
+    [
+        "ASCALOL",
+        "Lotion",
+        "25%",
         "FL\/125 ml",
         "4,620",
         "3,825",
@@ -5869,6 +5887,15 @@
         "EMPAGLIFLOZINE"
     ],
     [
+        "EMPA",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "10 mg",
+        "B\/30",
+        "41,840",
+        "35,564",
+        "EMPAGLIFLOZINE"
+    ],
+    [
         "GLIFLODIS",
         "Comprim\u00e9s p\u00e9llicul\u00e9s",
         "10 mg",
@@ -5897,6 +5924,15 @@
     ],
     [
         "EMPAZINE",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "25 mg",
+        "B\/30",
+        "41,840",
+        "35,564",
+        "EMPAGLIFLOZINE"
+    ],
+    [
+        "EMPA",
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
         "B\/30",
@@ -7458,6 +7494,15 @@
         "50 mg\/1000 mg",
         "B\/60",
         "47,250",
+        "40,137",
+        "VILDAGLIPTINE + METFORMINE"
+    ],
+    [
+        "COMBIDIAB",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "50 mg\/1000 mg",
+        "B\/60",
+        "47,280",
         "40,137",
         "VILDAGLIPTINE + METFORMINE"
     ],
@@ -17522,6 +17567,15 @@
         "4,055",
         "1,620",
         "METHYLTHIONINIUM+NAPHAZOLINE NITRATE"
+    ],
+    [
+        "ODYCIN",
+        "Collyre",
+        "0,5\u00a0%",
+        "FL\/3 ml",
+        "6,910",
+        "0,000",
+        "MOXIFLOXACINE"
     ],
     [
         "NEOMYCINE UNIMED",
@@ -31225,6 +31279,15 @@
         "PARKIZOL",
         "Comprim\u00e9s",
         "5 mg",
+        "B\/30",
+        "4,740",
+        "0,000",
+        "TRIHEXYPHENIDYLE"
+    ],
+    [
+        "PARKIZOL",
+        "Comprim\u00e9s",
+        "5 mg",
         "B\/50",
         "7,000",
         "5,950",
@@ -35195,15 +35258,6 @@
         "Sirop",
         null,
         "FL\/200 ml",
-        "5,570",
-        "0,000",
-        "CODEINE+ACIDE ASCORBIQUE+ESPECES PECTORALES"
-    ],
-    [
-        "CALMATUX ADULTE",
-        "Sirop",
-        null,
-        "FL\/200 ml",
         "6,300",
         "0,000",
         "CODEINE+ACIDE ASCORBIQUE+ESPECES PECTORALES"
@@ -35425,6 +35479,24 @@
         "EXTRAIT SEC DE FEUILLE DE LIERRE"
     ],
     [
+        "IBURHUME",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "200 mg\/30 mg",
+        "B\/15",
+        "3,085",
+        "0,000",
+        "IBUPROFENE+PSEUDOEPHEDRINE"
+    ],
+    [
+        "IBURHUME FORT",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "400 mg\/60 mg",
+        "B\/10",
+        "2,500",
+        "0,000",
+        "IBUPROFENE+PSEUDOEPHEDRINE"
+    ],
+    [
         "SOLACY ADULTE",
         "G\u00e9lules",
         null,
@@ -35488,51 +35560,6 @@
         "PARACETAMOL+CAFEINE+PSEUDOEPHEDRINE"
     ],
     [
-        "FIBREX ENFANT",
-        "Granul\u00e9s pour solution buvable",
-        "280 mg\/10 mg\/100 mg",
-        "B\/8 Sachets",
-        "3,840",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE"
-    ],
-    [
-        "FIBREX  ADULTE",
-        "Poudre pour solution orale",
-        "500 mg\/25 mg\/200 mg",
-        "B\/8 Sachets",
-        "3,030",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE"
-    ],
-    [
-        "FIBREX SANS SUCRE AD",
-        "Granul\u00e9s pour solution buvable",
-        "500 mg\/25 mg\/200 mg",
-        "B\/8 Sachets",
-        "4,825",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE"
-    ],
-    [
-        "FIBREX  ADULTE",
-        "Poudre pour solution orale",
-        "500 mg\/25 mg\/200 mg",
-        "B\/12 Sachets",
-        "5,550",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE"
-    ],
-    [
-        "FERVEX ADULTES",
-        "Granul\u00e9s pour solution buvable",
-        "500 mg\/25 mg\/200 mg",
-        "B\/12 Sachets",
-        "8,500",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE"
-    ],
-    [
         "RHINOFEBRAL",
         "G\u00e9lules",
         null,
@@ -35542,27 +35569,72 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
-        "GRIPEX ADULTES",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets",
-        "3,245",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
-    ],
-    [
         "GRIPEX ENFANTS",
         "Poudre pour solution orale",
-        null,
+        "280 mg\/10 mg\/100 mg",
         "B\/8 Sachets",
         "3,730",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
+        "FIBREX ENFANT",
+        "Granul\u00e9s pour solution buvable",
+        "280 mg\/10 mg\/100 mg",
+        "B\/8 Sachets",
+        "3,840",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
+        "RHUVEX ENFANT",
+        "Granul\u00e9s pour suspension buvable",
+        "280 mg\/10 mg\/100 mg",
+        "B\/8 Sachets",
+        null,
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
+        "GRIPEX ENFANTS",
+        "Poudre pour solution orale",
+        "280 mg\/10 mg\/100 mg",
+        "B\/12 Sachets",
+        "5,605",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
+        "FERVEX ENFANT",
+        "Poudre pour solution orale",
+        "280 mg\/10 mg\/100 mg",
+        "B\/8 Sachets\/3 gr",
+        "6,180",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
+        "FIBREX  ADULTE",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "3,030",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
+        "GRIPEX ADULTES",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "3,245",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
         "GRIPEX SANS SUCRE ADULTES",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets",
         "4,040",
         "0,000",
@@ -35571,16 +35643,25 @@
     [
         "RHUVEX ADULTE SANS SUCRE",
         "Granul\u00e9s pour suspension buvable",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets",
         "4,115",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
+        "FIBREX SANS SUCRE AD",
+        "Granul\u00e9s pour solution buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "4,825",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
         "NOVEX  ADULTE",
         "Poudre pour suspension orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets",
         "4,915",
         "0,000",
@@ -35589,7 +35670,7 @@
     [
         "RHUVEX ADULTE",
         "Granul\u00e9s pour suspension buvable",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets",
         "6,170",
         "0,000",
@@ -35598,7 +35679,7 @@
     [
         "FERVEX ADULTE",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets",
         "7,475",
         "0,000",
@@ -35607,34 +35688,25 @@
     [
         "ACTIVEX ADULTE",
         "Granul\u00e9s pour solution buvable",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets",
         null,
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
-        "RHUVEX ENFANT",
-        "Granul\u00e9s pour suspension buvable",
-        null,
-        "B\/8 Sachets",
-        null,
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
-    ],
-    [
-        "GRIPEX ENFANTS",
+        "FIBREX  ADULTE",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
-        "5,605",
+        "5,550",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
         "GRIPEX ADULTES",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         "5,995",
         "0,000",
@@ -35643,38 +35715,119 @@
     [
         "GRIPEX SANS SUCRE ADULTES",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         "6,810",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
+        "FERVEX ADULTES",
+        "Granul\u00e9s pour solution buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/12 Sachets",
+        "8,500",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
         "NOVEX  ADULTE",
         "Poudre pour suspension orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         null,
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
-        "FERVEX ENFANT",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets\/3 gr",
-        "6,180",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
-    ],
-    [
         "FERVEX ADULTE SANS SUCRE",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets\/5 gr",
         "8,270",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
+        "RHUVEX JOUR ET NUIT",
+        "Comprim\u00e9s et G\u00e9lules",
+        null,
+        "B\/12 comprim\u00e9s + 4 g\u00e9lules",
+        "6,535",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENAMINE"
+    ],
+    [
+        "RHINOSTOP",
+        "Comprim\u00e9s",
+        null,
+        "B\/20",
+        "3,070",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE"
+    ],
+    [
+        "RHINOSTOP",
+        "Sirop",
+        null,
+        "FL\/100 ml",
+        "2,425",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE"
+    ],
+    [
+        "ACTIFED RHUME ET FIEVRE",
+        "Comprim\u00e9s",
+        null,
+        "B\/16",
+        "3,000",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
+    ],
+    [
+        "RHUVEX RHUME ET FIEVRE",
+        "Comprim\u00e9s",
+        null,
+        "B\/16",
+        null,
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
+    ],
+    [
+        "TRIFED PLUS",
+        "Comprim\u00e9s s\u00e9cables",
+        null,
+        "B\/20",
+        "2,595",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
+    ],
+    [
+        "RHUVEX VITAMINE C",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "50 mg\/30 mg\/ 250 mg",
+        "B\/20",
+        null,
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
+    ],
+    [
+        "ACTIFED VITAMINE C",
+        "Comprim\u00e9s pellicul\u00e9s",
+        null,
+        "B\/20",
+        "3,020",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
+    ],
+    [
+        "DOLIPREX",
+        "Poudre pour solution orale",
+        null,
+        "B\/8 Sachets",
+        "5,260",
+        "0,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
     ],
     [
         "POLERY ENFANT",
@@ -35693,6 +35846,15 @@
         "5,540",
         "0,000",
         "PHOLCODINE+ERYSIMUM"
+    ],
+    [
+        "ACTIFED RHUME",
+        "Comprim\u00e9s",
+        null,
+        "B\/20",
+        "3,395",
+        "0,000",
+        "PSEUDOEPHEDRINE+TRIPROLIDINE"
     ],
     [
         "PECTO 6 NOURRISSON",
@@ -35801,6 +35963,60 @@
         "168,040",
         "0,000",
         "BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE"
+    ],
+    [
+        "IPRATROPIUM AGUETTANT",
+        "Solution pour inhalation",
+        "0,25 mg\/ml",
+        "B\/10 unidoses\/1 ml",
+        "11,384",
+        "8,934",
+        "BROMURE D'IPRATROPIUM"
+    ],
+    [
+        "IPROVENT ENFANT",
+        "Solution pour inhalation",
+        "0,25 mg\/2 ml",
+        "B\/10 unidoses\/2 ml",
+        "10,510",
+        "8,934",
+        "BROMURE D'IPRATROPIUM"
+    ],
+    [
+        "IPROVENT ADULTE",
+        "Solution pour inhalation",
+        "0,5 mg\/2 ml",
+        "B\/10 unidoses\/2 ml",
+        "14,890",
+        "12,657",
+        "BROMURE D'IPRATROPIUM"
+    ],
+    [
+        "IPRATROPIUM AGUETTANT",
+        "Solution pour inhalation",
+        "0,5 mg\/2 ml",
+        "B\/10",
+        "15,748",
+        "12,657",
+        "BROMURE D'IPRATROPIUM"
+    ],
+    [
+        "IPROL",
+        "Solution pour inhalation",
+        "20 \u00b5g\/dose",
+        "FL\/200 Doses",
+        "12,540",
+        "0,000",
+        "BROMURE D'IPRATROPIUM"
+    ],
+    [
+        "ATROALDO",
+        "Solution pour inhalation",
+        "20 \u00b5g\/dose",
+        "FL\/10 ml\/200 Doses",
+        "16,005",
+        "0,000",
+        "BROMURE D'IPRATROPIUM"
     ],
     [
         "PULMICORT",
@@ -36757,60 +36973,6 @@
         "BECLOMETASONE"
     ],
     [
-        "IPRATROPIUM AGUETTANT",
-        "Solution pour inhalation",
-        "0,25 mg\/ml",
-        "B\/10 unidoses\/1 ml",
-        "11,384",
-        "8,934",
-        "BROMURE D'IPRATROPIUM"
-    ],
-    [
-        "IPROVENT ENFANT",
-        "Solution pour inhalation",
-        "0,25 mg\/2 ml",
-        "B\/10 unidoses\/2 ml",
-        "10,510",
-        "8,934",
-        "BROMURE D'IPRATROPIUM"
-    ],
-    [
-        "IPRATROPIUM AGUETTANT",
-        "Solution pour inhalation",
-        "0,5 mg\/2 ml",
-        "B\/10",
-        "15,748",
-        "12,657",
-        "BROMURE D'IPRATROPIUM"
-    ],
-    [
-        "IPROVENT ADULTE",
-        "Solution pour inhalation",
-        "0,5 mg\/2 ml",
-        "B\/10 unidoses\/2 ml",
-        "14,890",
-        "12,657",
-        "BROMURE D'IPRATROPIUM"
-    ],
-    [
-        "IPROL",
-        "Solution pour inhalation",
-        "20 \u00b5g\/dose",
-        "FL\/200 Doses",
-        "12,540",
-        "0,000",
-        "BROMURE D'IPRATROPIUM"
-    ],
-    [
-        "ATROALDO",
-        "Solution pour inhalation",
-        "20 \u00b5g\/dose",
-        "FL\/10 ml\/200 Doses",
-        "16,005",
-        "0,000",
-        "BROMURE D'IPRATROPIUM"
-    ],
-    [
         "DESONID",
         "Suspension nasale",
         "64 \u00b5g\/dose",
@@ -36883,24 +37045,6 @@
         "FLUTICASONE"
     ],
     [
-        "IBURHUME",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "200 mg\/30 mg",
-        "B\/15",
-        "3,085",
-        "0,000",
-        "IBUPROFENE+PSEUDOEPHEDRINE"
-    ],
-    [
-        "IBURHUME FORT",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "400 mg\/60 mg",
-        "B\/10",
-        "2,500",
-        "0,000",
-        "IBUPROFENE+PSEUDOEPHEDRINE"
-    ],
-    [
         "NASOMET",
         "Suspension nasale",
         "50 \u00b5g\/dose",
@@ -36953,96 +37097,6 @@
         "9,000",
         "0,000",
         "OXYMETAZOLINE"
-    ],
-    [
-        "RHUVEX JOUR ET NUIT",
-        "Comprim\u00e9s et G\u00e9lules",
-        null,
-        "B\/12 comprim\u00e9s + 4 g\u00e9lules",
-        "6,535",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENAMINE"
-    ],
-    [
-        "RHINOSTOP",
-        "Comprim\u00e9s",
-        null,
-        "B\/20",
-        "3,070",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE"
-    ],
-    [
-        "RHINOSTOP",
-        "Sirop",
-        null,
-        "FL\/100 ml",
-        "2,425",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE"
-    ],
-    [
-        "ACTIFED RHUME ET FIEVRE",
-        "Comprim\u00e9s",
-        null,
-        "B\/16",
-        "3,000",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
-    ],
-    [
-        "RHUVEX RHUME ET FIEVRE",
-        "Comprim\u00e9s",
-        null,
-        "B\/16",
-        null,
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
-    ],
-    [
-        "TRIFED PLUS",
-        "Comprim\u00e9s s\u00e9cables",
-        null,
-        "B\/20",
-        "2,595",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE"
-    ],
-    [
-        "RHUVEX VITAMINE C",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "50 mg\/30 mg\/ 250 mg",
-        "B\/20",
-        null,
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
-    ],
-    [
-        "ACTIFED VITAMINE C",
-        "Comprim\u00e9s pellicul\u00e9s",
-        null,
-        "B\/20",
-        "3,020",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
-    ],
-    [
-        "DOLIPREX",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets",
-        "5,260",
-        "0,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C"
-    ],
-    [
-        "ACTIFED RHUME",
-        "Comprim\u00e9s",
-        null,
-        "B\/20",
-        "3,395",
-        "0,000",
-        "PSEUDOEPHEDRINE+TRIPROLIDINE"
     ],
     [
         "NASACORT",

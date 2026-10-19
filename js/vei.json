@@ -681,6 +681,16 @@
         "N"
     ],
     [
+        303878,
+        "NOVACLAV 500mg\/62.5mg Comp Pell Bt 42",
+        "25,650",
+        "25,650",
+        "E",
+        "AMOXICILLINE+ACIDE CLAVULANIQUE",
+        9043949,
+        "N"
+    ],
+    [
         303700,
         "CLAVUMOX 500mg\/62.5mg Comp Pell Bt 48",
         "29,300",
@@ -898,6 +908,16 @@
         "E",
         "AMOXICILLINE+ACIDE CLAVULANIQUE",
         9043564,
+        "N"
+    ],
+    [
+        303875,
+        "CLAVOR (8\/1) 1g\/125mg Pdre P Susp Or Bt 15Sach",
+        "17,780",
+        "17,520",
+        "E",
+        "AMOXICILLINE+ACIDE CLAVULANIQUE",
+        9163469,
         "N"
     ],
     [
@@ -5531,6 +5551,16 @@
         "O"
     ],
     [
+        303876,
+        "EMPA 10mg Comp Pell Bt 30",
+        "41,840",
+        "41,840",
+        "E",
+        "EMPAGLIFLOZINE",
+        9044591,
+        "O"
+    ],
+    [
         303871,
         "GLIFLODIS 10mg Comp.Pell. Bt 30",
         "41,850",
@@ -5568,6 +5598,16 @@
         "E",
         "EMPAGLIFLOZINE",
         9164462,
+        "O"
+    ],
+    [
+        303877,
+        "EMPA 25mg Comp Pell Bt 30",
+        "41,840",
+        "41,840",
+        "E",
+        "EMPAGLIFLOZINE",
+        9044592,
         "O"
     ],
     [
@@ -7008,6 +7048,16 @@
         "E",
         "VILDAGLIPTINE + METFORMINE",
         null,
+        "N"
+    ],
+    [
+        303879,
+        "COMBIDIAB 50mg\/1000mg Comp Pell Bt 60",
+        "47,280",
+        "47,220",
+        "E",
+        "VILDAGLIPTINE + METFORMINE",
+        9234201,
         "N"
     ],
     [
@@ -32031,6 +32081,46 @@
         "N"
     ],
     [
+        103606,
+        "IPRATROPIUM AGUETTANT Enf 0.25mg\/1ml Sol Inh Bt 10 \/1ml",
+        "11,384",
+        "10,510",
+        "E",
+        "BROMURE D'IPRATROPIUM",
+        null,
+        "N"
+    ],
+    [
+        301829,
+        "IPROVENT Enf Sol P Inh  0.250 MG\/2ML BT 10 Unidoses",
+        "10,510",
+        "10,510",
+        "E",
+        "BROMURE D'IPRATROPIUM",
+        9093781,
+        "N"
+    ],
+    [
+        301830,
+        "IPROVENT Ad Sol P Inh   0.500 MG \/2ML BT 10 Unidoses",
+        "14,890",
+        "14,890",
+        "E",
+        "BROMURE D'IPRATROPIUM",
+        9093782,
+        "N"
+    ],
+    [
+        103453,
+        "IPRATROPIUM AGUETTANT  Ad 0.5 mg\/2 ml  Sol inh Bt 10\/2 ml",
+        "15,748",
+        "14,890",
+        "E",
+        "BROMURE D'IPRATROPIUM",
+        null,
+        "N"
+    ],
+    [
         503898,
         "PULMICORT  0.5 mg\/2 ml  Sol Inh   1 Sachet de 5 unidoses (VRAC)",
         "26,316",
@@ -32908,46 +32998,6 @@
         "E",
         "BECLOMETASONE",
         7133031,
-        "N"
-    ],
-    [
-        103606,
-        "IPRATROPIUM AGUETTANT Enf 0.25mg\/1ml Sol Inh Bt 10 \/1ml",
-        "11,384",
-        "10,510",
-        "E",
-        "BROMURE D'IPRATROPIUM",
-        null,
-        "N"
-    ],
-    [
-        301829,
-        "IPROVENT Enf Sol P Inh  0.250 MG\/2ML BT 10 Unidoses",
-        "10,510",
-        "10,510",
-        "E",
-        "BROMURE D'IPRATROPIUM",
-        9093781,
-        "N"
-    ],
-    [
-        103453,
-        "IPRATROPIUM AGUETTANT  Ad 0.5 mg\/2 ml  Sol inh Bt 10\/2 ml",
-        "15,748",
-        "14,890",
-        "E",
-        "BROMURE D'IPRATROPIUM",
-        null,
-        "N"
-    ],
-    [
-        301830,
-        "IPROVENT Ad Sol P Inh   0.500 MG \/2ML BT 10 Unidoses",
-        "14,890",
-        "14,890",
-        "E",
-        "BROMURE D'IPRATROPIUM",
-        9093782,
         "N"
     ],
     [

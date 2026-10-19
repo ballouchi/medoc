@@ -211,16 +211,6 @@
         9373602
     ],
     [
-        "ODYCIN",
-        "Collyre",
-        "0,5\u00a0%",
-        "FL\/3 ml",
-        "6,910",
-        "MOXIFLOXACINE",
-        "ADWYA",
-        9044431
-    ],
-    [
         "ITRACIM",
         "G\u00e9lules",
         "100 mg",
@@ -409,6 +399,16 @@
         "TACROLIMUS",
         "LEO PHARMA",
         5823102
+    ],
+    [
+        "ASCALOL",
+        "Lotion",
+        "10%",
+        "FL\/125 ml",
+        "3,555",
+        "BENZOATE DE BENZYLE",
+        "PHARMAGHREB",
+        9013012
     ],
     [
         "ENTEROGERMINA",
@@ -3461,6 +3461,16 @@
         24063011
     ],
     [
+        "ODYCIN",
+        "Collyre",
+        "0,5\u00a0%",
+        "FL\/3 ml",
+        "6,910",
+        "MOXIFLOXACINE",
+        "ADWYA",
+        9044431
+    ],
+    [
         "FLUIDABAK",
         "Collyre",
         "1,50%",
@@ -5801,6 +5811,16 @@
         9343241
     ],
     [
+        "PARKIZOL",
+        "Comprim\u00e9s",
+        "5 mg",
+        "B\/30",
+        "4,740",
+        "TRIHEXYPHENIDYLE",
+        "IBN AL BAYTAR",
+        9073093
+    ],
+    [
         "TANGANIL",
         "Comprim\u00e9s",
         "500 mg",
@@ -7145,16 +7165,6 @@
         "Sirop",
         null,
         "FL\/200 ml",
-        "5,570",
-        "CODEINE+ACIDE ASCORBIQUE+ESPECES PECTORALES",
-        "S.I.PHA.T",
-        9000051
-    ],
-    [
-        "CALMATUX ADULTE",
-        "Sirop",
-        null,
-        "FL\/200 ml",
         "6,300",
         "CODEINE+ACIDE ASCORBIQUE+ESPECES PECTORALES",
         "S.I.PHA.T",
@@ -7401,6 +7411,26 @@
         9083831
     ],
     [
+        "IBURHUME",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "200 mg\/30 mg",
+        "B\/15",
+        "3,085",
+        "IBUPROFENE+PSEUDOEPHEDRINE",
+        "PHARMACARE",
+        9343261
+    ],
+    [
+        "IBURHUME FORT",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "400 mg\/60 mg",
+        "B\/10",
+        "2,500",
+        "IBUPROFENE+PSEUDOEPHEDRINE",
+        "PHARMACARE",
+        9343262
+    ],
+    [
         "SOLACY ADULTE",
         "G\u00e9lules",
         null,
@@ -7471,56 +7501,6 @@
         9213355
     ],
     [
-        "FIBREX ENFANT",
-        "Granul\u00e9s pour solution buvable",
-        "280 mg\/10 mg\/100 mg",
-        "B\/8 Sachets",
-        "3,840",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
-        "PHARMACARE",
-        9343231
-    ],
-    [
-        "FIBREX  ADULTE",
-        "Poudre pour solution orale",
-        "500 mg\/25 mg\/200 mg",
-        "B\/8 Sachets",
-        "3,030",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
-        "PHARMACARE",
-        9343232
-    ],
-    [
-        "FIBREX SANS SUCRE AD",
-        "Granul\u00e9s pour solution buvable",
-        "500 mg\/25 mg\/200 mg",
-        "B\/8 Sachets",
-        "4,825",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
-        "PHARMACARE",
-        9343233
-    ],
-    [
-        "FIBREX  ADULTE",
-        "Poudre pour solution orale",
-        "500 mg\/25 mg\/200 mg",
-        "B\/12 Sachets",
-        "5,550",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
-        "PHARMACARE",
-        9343234
-    ],
-    [
-        "FERVEX ADULTES",
-        "Granul\u00e9s pour solution buvable",
-        "500 mg\/25 mg\/200 mg",
-        "B\/12 Sachets",
-        "8,500",
-        "PARACETAMOL+PHENIRAMINE+ACIDE ASCORBIQUE",
-        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
-        9133185
-    ],
-    [
         "RHINOFEBRAL",
         "G\u00e9lules",
         null,
@@ -7531,19 +7511,9 @@
         7493081
     ],
     [
-        "GRIPEX ADULTES",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets",
-        "3,245",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
-        9223162
-    ],
-    [
         "GRIPEX ENFANTS",
         "Poudre pour solution orale",
-        null,
+        "280 mg\/10 mg\/100 mg",
         "B\/8 Sachets",
         "3,730",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
@@ -7551,69 +7521,19 @@
         9223161
     ],
     [
-        "GRIPEX SANS SUCRE ADULTES",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets",
-        "4,040",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "GALPHARMA",
-        9223163
-    ],
-    [
-        "RHUVEX ADULTE SANS SUCRE",
-        "Granul\u00e9s pour suspension buvable",
-        null,
-        "B\/8 Sachets",
-        "4,115",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "TERIAK",
-        9253491
-    ],
-    [
-        "NOVEX  ADULTE",
-        "Poudre pour suspension orale",
-        null,
-        "B\/8 Sachets",
-        "4,915",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "ADWYA",
-        9044141
-    ],
-    [
-        "RHUVEX ADULTE",
-        "Granul\u00e9s pour suspension buvable",
-        null,
-        "B\/8 Sachets",
-        "6,170",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "TERIAK",
-        9253331
-    ],
-    [
-        "FERVEX ADULTE",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets",
-        "7,475",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
-        9133181
-    ],
-    [
-        "ACTIVEX ADULTE",
+        "FIBREX ENFANT",
         "Granul\u00e9s pour solution buvable",
-        null,
+        "280 mg\/10 mg\/100 mg",
         "B\/8 Sachets",
-        null,
+        "3,840",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "TERIAK",
-        9253871
+        "PHARMACARE",
+        9343231
     ],
     [
         "RHUVEX ENFANT",
         "Granul\u00e9s pour suspension buvable",
-        null,
+        "280 mg\/10 mg\/100 mg",
         "B\/8 Sachets",
         null,
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
@@ -7623,7 +7543,7 @@
     [
         "GRIPEX ENFANTS",
         "Poudre pour solution orale",
-        null,
+        "280 mg\/10 mg\/100 mg",
         "B\/12 Sachets",
         "5,605",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
@@ -7631,9 +7551,119 @@
         9223164
     ],
     [
+        "FERVEX ENFANT",
+        "Poudre pour solution orale",
+        "280 mg\/10 mg\/100 mg",
+        "B\/8 Sachets\/3 gr",
+        "6,180",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
+        9133183
+    ],
+    [
+        "FIBREX  ADULTE",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "3,030",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "PHARMACARE",
+        9343232
+    ],
+    [
         "GRIPEX ADULTES",
         "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "3,245",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "GALPHARMA",
+        9223162
+    ],
+    [
+        "GRIPEX SANS SUCRE ADULTES",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "4,040",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "GALPHARMA",
+        9223163
+    ],
+    [
+        "RHUVEX ADULTE SANS SUCRE",
+        "Granul\u00e9s pour suspension buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "4,115",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "TERIAK",
+        9253491
+    ],
+    [
+        "FIBREX SANS SUCRE AD",
+        "Granul\u00e9s pour solution buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "4,825",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "PHARMACARE",
+        9343233
+    ],
+    [
+        "NOVEX  ADULTE",
+        "Poudre pour suspension orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "4,915",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "ADWYA",
+        9044141
+    ],
+    [
+        "RHUVEX ADULTE",
+        "Granul\u00e9s pour suspension buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "6,170",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "TERIAK",
+        9253331
+    ],
+    [
+        "FERVEX ADULTE",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
+        "7,475",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
+        9133181
+    ],
+    [
+        "ACTIVEX ADULTE",
+        "Granul\u00e9s pour solution buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets",
         null,
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "TERIAK",
+        9253871
+    ],
+    [
+        "FIBREX  ADULTE",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/12 Sachets",
+        "5,550",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "PHARMACARE",
+        9343234
+    ],
+    [
+        "GRIPEX ADULTES",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         "5,995",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
@@ -7643,7 +7673,7 @@
     [
         "GRIPEX SANS SUCRE ADULTES",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         "6,810",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
@@ -7651,9 +7681,19 @@
         9223166
     ],
     [
+        "FERVEX ADULTES",
+        "Granul\u00e9s pour solution buvable",
+        "500 mg\/25 mg\/200 mg",
+        "B\/12 Sachets",
+        "8,500",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
+        9133185
+    ],
+    [
         "NOVEX  ADULTE",
         "Poudre pour suspension orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         null,
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
@@ -7661,24 +7701,104 @@
         9044142
     ],
     [
-        "FERVEX ENFANT",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets\/3 gr",
-        "6,180",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
-        9133183
-    ],
-    [
         "FERVEX ADULTE SANS SUCRE",
         "Poudre pour solution orale",
-        null,
+        "500 mg\/25 mg\/200 mg",
         "B\/8 Sachets\/5 gr",
         "8,270",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
         9133182
+    ],
+    [
+        "RHUVEX JOUR ET NUIT",
+        "Comprim\u00e9s et G\u00e9lules",
+        null,
+        "B\/12 comprim\u00e9s + 4 g\u00e9lules",
+        "6,535",
+        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENAMINE",
+        "TERIAK",
+        9254111
+    ],
+    [
+        "RHINOSTOP",
+        "Comprim\u00e9s",
+        null,
+        "B\/20",
+        "3,070",
+        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE",
+        "S.A.I.PH",
+        9163231
+    ],
+    [
+        "RHINOSTOP",
+        "Sirop",
+        null,
+        "FL\/100 ml",
+        "2,425",
+        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE",
+        "SIMED",
+        9083311
+    ],
+    [
+        "ACTIFED RHUME ET FIEVRE",
+        "Comprim\u00e9s",
+        null,
+        "B\/16",
+        "3,000",
+        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
+        "TERIAK",
+        9253263
+    ],
+    [
+        "RHUVEX RHUME ET FIEVRE",
+        "Comprim\u00e9s",
+        null,
+        "B\/16",
+        null,
+        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
+        "TERIAK",
+        9254131
+    ],
+    [
+        "TRIFED PLUS",
+        "Comprim\u00e9s s\u00e9cables",
+        null,
+        "B\/20",
+        "2,595",
+        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
+        "IBN AL BAYTAR",
+        9073181
+    ],
+    [
+        "RHUVEX VITAMINE C",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "50 mg\/30 mg\/ 250 mg",
+        "B\/20",
+        null,
+        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
+        "TERIAK",
+        9254121
+    ],
+    [
+        "ACTIFED VITAMINE C",
+        "Comprim\u00e9s pellicul\u00e9s",
+        null,
+        "B\/20",
+        "3,020",
+        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
+        "TERIAK",
+        9253261
+    ],
+    [
+        "DOLIPREX",
+        "Poudre pour solution orale",
+        null,
+        "B\/8 Sachets",
+        "5,260",
+        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
+        "SANOFI-AVENTIS PHARMA TUNISIE",
+        9103971
     ],
     [
         "POLERY ENFANT",
@@ -7699,6 +7819,16 @@
         "PHOLCODINE+ERYSIMUM",
         "PIERRE FABRE PRODUCTION TUNISIE",
         null
+    ],
+    [
+        "ACTIFED RHUME",
+        "Comprim\u00e9s",
+        null,
+        "B\/20",
+        "3,395",
+        "PSEUDOEPHEDRINE+TRIPROLIDINE",
+        "TERIAK",
+        9253262
     ],
     [
         "PECTO 6 NOURRISSON",
@@ -7749,6 +7879,26 @@
         "BECLOMETASONE+FORMOTEROL FUMARATE+GLYCOPYRRONIUM BROMIDE",
         "CHIESI FARMACEUTICI SPA",
         7133091
+    ],
+    [
+        "IPROL",
+        "Solution pour inhalation",
+        "20 \u00b5g\/dose",
+        "FL\/200 Doses",
+        "12,540",
+        "BROMURE D'IPRATROPIUM",
+        "BERG LIFE SCIENCES",
+        9283091
+    ],
+    [
+        "ATROALDO",
+        "Solution pour inhalation",
+        "20 \u00b5g\/dose",
+        "FL\/10 ml\/200 Doses",
+        "16,005",
+        "BROMURE D'IPRATROPIUM",
+        "ALDO-UNION",
+        3013061
     ],
     [
         "ALVE-ONE",
@@ -7931,46 +8081,6 @@
         2983021
     ],
     [
-        "IPROL",
-        "Solution pour inhalation",
-        "20 \u00b5g\/dose",
-        "FL\/200 Doses",
-        "12,540",
-        "BROMURE D'IPRATROPIUM",
-        "BERG LIFE SCIENCES",
-        9283091
-    ],
-    [
-        "ATROALDO",
-        "Solution pour inhalation",
-        "20 \u00b5g\/dose",
-        "FL\/10 ml\/200 Doses",
-        "16,005",
-        "BROMURE D'IPRATROPIUM",
-        "ALDO-UNION",
-        3013061
-    ],
-    [
-        "IBURHUME",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "200 mg\/30 mg",
-        "B\/15",
-        "3,085",
-        "IBUPROFENE+PSEUDOEPHEDRINE",
-        "PHARMACARE",
-        9343261
-    ],
-    [
-        "IBURHUME FORT",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "400 mg\/60 mg",
-        "B\/10",
-        "2,500",
-        "IBUPROFENE+PSEUDOEPHEDRINE",
-        "PHARMACARE",
-        9343262
-    ],
-    [
         "OLOPAN",
         "Solution pour pulv\u00e9risation nasale",
         "600 \u00b5g\/dose",
@@ -7989,106 +8099,6 @@
         "OXYMETAZOLINE",
         "ADWYA",
         9044571
-    ],
-    [
-        "RHUVEX JOUR ET NUIT",
-        "Comprim\u00e9s et G\u00e9lules",
-        null,
-        "B\/12 comprim\u00e9s + 4 g\u00e9lules",
-        "6,535",
-        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENAMINE",
-        "TERIAK",
-        9254111
-    ],
-    [
-        "RHINOSTOP",
-        "Comprim\u00e9s",
-        null,
-        "B\/20",
-        "3,070",
-        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE",
-        "S.A.I.PH",
-        9163231
-    ],
-    [
-        "RHINOSTOP",
-        "Sirop",
-        null,
-        "FL\/100 ml",
-        "2,425",
-        "PARACETAMOL+PSEUDOEPHEDRINE+CHLORPHENIRAMINE",
-        "SIMED",
-        9083311
-    ],
-    [
-        "ACTIFED RHUME ET FIEVRE",
-        "Comprim\u00e9s",
-        null,
-        "B\/16",
-        "3,000",
-        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
-        "TERIAK",
-        9253263
-    ],
-    [
-        "RHUVEX RHUME ET FIEVRE",
-        "Comprim\u00e9s",
-        null,
-        "B\/16",
-        null,
-        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
-        "TERIAK",
-        9254131
-    ],
-    [
-        "TRIFED PLUS",
-        "Comprim\u00e9s s\u00e9cables",
-        null,
-        "B\/20",
-        "2,595",
-        "PARACETAMOL+PSEUDOEPHEDRINE+TRIPROLIDINE",
-        "IBN AL BAYTAR",
-        9073181
-    ],
-    [
-        "RHUVEX VITAMINE C",
-        "Comprim\u00e9s pellicul\u00e9s",
-        "50 mg\/30 mg\/ 250 mg",
-        "B\/20",
-        null,
-        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
-        "TERIAK",
-        9254121
-    ],
-    [
-        "ACTIFED VITAMINE C",
-        "Comprim\u00e9s pellicul\u00e9s",
-        null,
-        "B\/20",
-        "3,020",
-        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
-        "TERIAK",
-        9253261
-    ],
-    [
-        "DOLIPREX",
-        "Poudre pour solution orale",
-        null,
-        "B\/8 Sachets",
-        "5,260",
-        "PARACETAMOL+PSEUDOEPHEDRINE+VITAMINE C",
-        "SANOFI-AVENTIS PHARMA TUNISIE",
-        9103971
-    ],
-    [
-        "ACTIFED RHUME",
-        "Comprim\u00e9s",
-        null,
-        "B\/20",
-        "3,395",
-        "PSEUDOEPHEDRINE+TRIPROLIDINE",
-        "TERIAK",
-        9253262
     ],
     [
         "DECOZAL",
