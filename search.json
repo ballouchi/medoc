@@ -68,11 +68,11 @@
 
 
 {
-"title": "Retrait De Lots 2026",
-"tags": "circulaireschangements",
+"title": "Circulaires de la Pharmacie Centrale d&#39;Octobre 2026",
+"tags": "changementscirculaires",
 "keywords": "pct",
-"url": "retrait-de-lots-2026.html",
-"summary": "Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.<br>Le retrait du commerce de ces lots doit se faire immédiatement et sans délai.<br>Le retour à la PCT doit se faire dans un délai ne dépassant pas les 45 jours à partir de la date de la circulaire correspondante."
+"url": "pct-2026-10.html",
+"summary": "Changements d'Octobre 2026"
 }
 ,
 
@@ -98,21 +98,21 @@
 
 
 {
-"title": "Circulaires de la Pharmacie Centrale d&#39;Octobre 2026",
-"tags": "changementscirculaires",
-"keywords": "pct",
-"url": "pct-2026-10.html",
-"summary": "Changements d'Octobre 2026"
-}
-,
-
-
-{
 "title": "CNAM: Mises à Jour d&#39;Octobre 2026",
 "tags": "changementscnam",
 "keywords": "cnam",
 "url": "cnam-2026-10.html",
 "summary": "Changements d'Octobre 2026 CNAM"
+}
+,
+
+
+{
+"title": "Retrait De Lots 2026",
+"tags": "circulaireschangements",
+"keywords": "pct",
+"url": "retrait-de-lots-2026.html",
+"summary": "Par Décision du Ministère de la Santé, les lots des spécialités pharmaceutiques suivantes sont retirés du marché.<br>Le retrait du commerce de ces lots doit se faire immédiatement et sans délai.<br>Le retour à la PCT doit se faire dans un délai ne dépassant pas les 45 jours à partir de la date de la circulaire correspondante."
 }
 ,
 
@@ -5778,10 +5778,10 @@
 
 
 {
-"title": "Naproxene",
+"title": "Naproxène",
 "tags": "anti-inflammatoireantalgique",
-"keywords": "nipral275, apranax 275, nipral 550, apranax 550, apranax, noxen, naproxene",
-"url": "naproxène.html",
+"keywords": "nipral, apranax, noxen, naproxene",
+"url": "naproxene.html",
 "summary": "Traitement des états inflammatoires et des douleurs"
 }
 ,
@@ -5888,7 +5888,7 @@
 
 
 {
-"title": "Paracetamol perfusoin intraveineuse",
+"title": "Paracetamol Perfusoin Intraveineuse",
 "tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "parac info, paramed, paralgyl 500, stopalgic, paralgyl 1000, perfalgan",
 "url": "paracetamol-perfusion.html",
@@ -5898,7 +5898,7 @@
 
 
 {
-"title": "Paracetamol suppositoires",
+"title": "Paracetamol Suppositoires",
 "tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "analgan nourrissons, efferalgan, analgan jeune enfant, paralvit, paracetamol ips, paralvit adultes",
 "url": "paracetamol-suppo.html",
@@ -5908,7 +5908,7 @@
 
 
 {
-"title": "Paracetamol sirop",
+"title": "Paracetamol Sirop",
 "tags": "antalgiqueparacetamol",
 "keywords": "dolel, apyrex pediatrique, paralvit pediatrique, paracetyl pediatrique, efferalgan pediatrique, cetamol, novadol pediatrique, fresidol, paradol, paracetyl adultes, algesic",
 "url": "paracetamol-sirop.html",
@@ -5918,7 +5918,7 @@
 
 
 {
-"title": "Paracetamol sachets",
+"title": "Paracetamol Poudre Pour Solution Orale (Sachets)",
 "tags": "antalgiqueantipyretiqueparacetamol",
 "keywords": "novadol, doliprane, paracetamol",
 "url": "paracetamol-sachets.html",

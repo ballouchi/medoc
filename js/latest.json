@@ -5923,6 +5923,15 @@
         "EMPAGLIFLOZINE"
     ],
     [
+        "REMPAG",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "10 mg",
+        "B\/30",
+        "41,840",
+        "0,000",
+        "EMPAGLIFLOZINE"
+    ],
+    [
         "EMPAZINE",
         "Comprim\u00e9s pellicul\u00e9s",
         "25 mg",
@@ -5965,6 +5974,15 @@
         "B\/30",
         "120,490",
         "44,727",
+        "EMPAGLIFLOZINE"
+    ],
+    [
+        "REMPAG",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "25 mg",
+        "B\/30",
+        "41,840",
+        "0,000",
         "EMPAGLIFLOZINE"
     ],
     [
@@ -14311,24 +14329,6 @@
         "TROLAMINE"
     ],
     [
-        "FENDOL",
-        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
-        "500 mg",
-        "B\/20",
-        "5,315",
-        "4,505",
-        "ACIDE MEFENAMIQUE"
-    ],
-    [
-        "INFLAMYL FORT",
-        "Comprim\u00e9s s\u00e9cables",
-        "500 mg",
-        "B\/20",
-        "6,450",
-        "4,505",
-        "ACIDE MEFENAMIQUE"
-    ],
-    [
         "FENAMYL",
         "G\u00e9lules",
         "250 mg",
@@ -14362,6 +14362,24 @@
         "B\/20",
         "4,715",
         "2,125",
+        "ACIDE MEFENAMIQUE"
+    ],
+    [
+        "FENDOL",
+        "Comprim\u00e9s pellicul\u00e9s s\u00e9cables",
+        "500 mg",
+        "B\/20",
+        "5,315",
+        "4,505",
+        "ACIDE MEFENAMIQUE"
+    ],
+    [
+        "INFLAMYL FORT",
+        "Comprim\u00e9s s\u00e9cables",
+        "500 mg",
+        "B\/20",
+        "6,450",
+        "4,505",
         "ACIDE MEFENAMIQUE"
     ],
     [
@@ -15211,6 +15229,24 @@
         "IBUPROFEN"
     ],
     [
+        "BUPROFEN",
+        "Comprim\u00e9s effervescents",
+        "200 mg",
+        "B\/2 Tubes\/10",
+        "4,790",
+        "4,063",
+        "IBUPROFEN"
+    ],
+    [
+        "UPFEN",
+        "Comprim\u00e9s effervescents",
+        "200 mg",
+        "B\/2 Tubes\/10",
+        "6,280",
+        "4,063",
+        "IBUPROFEN"
+    ],
+    [
         "IBUPRANE",
         "Comprim\u00e9s pellicul\u00e9s",
         "400 mg",
@@ -15310,33 +15346,6 @@
         "IBUPROFEN"
     ],
     [
-        "BUPROFEN",
-        "Comprim\u00e9s effervescents",
-        "200 mg",
-        "B\/2 Tubes\/10",
-        "4,790",
-        "4,063",
-        "IBUPROFEN"
-    ],
-    [
-        "UPFEN",
-        "Comprim\u00e9s effervescents",
-        "200 mg",
-        "B\/2 Tubes\/10",
-        "6,280",
-        "4,063",
-        "IBUPROFEN"
-    ],
-    [
-        "MOMENT 200",
-        "Gouttes buvables",
-        "200 mg\/ml",
-        "FL\/12,5 ml",
-        "4,880",
-        "4,144",
-        "IBUPROFEN"
-    ],
-    [
         "PAINOFEN ENFANT-NOURRISSONS",
         "Suspension buvable",
         "100 mg\/5 ml",
@@ -15388,6 +15397,15 @@
         "FL\/125 ml",
         "6,065",
         "3,506",
+        "IBUPROFEN"
+    ],
+    [
+        "MOMENT 200",
+        "Gouttes buvables",
+        "200 mg\/ml",
+        "FL\/12,5 ml",
+        "4,880",
+        "4,144",
         "IBUPROFEN"
     ],
     [
@@ -26209,6 +26227,15 @@
         "RANOLAZINE"
     ],
     [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "750 mg",
+        "B\/60",
+        "115,170",
+        "0,000",
+        "RANOLAZINE"
+    ],
+    [
         "VASTAREL",
         "Comprim\u00e9s pellicul\u00e9s LM",
         "35 mg",
@@ -30136,8 +30163,8 @@
         "LAMICTAL",
         "Comprim\u00e9s dispersibles",
         "5 mg",
-        "B\/30",
-        "13,027",
+        "FL\/30",
+        "13,395",
         "13,020",
         "LAMOTRIGINE"
     ],
@@ -31281,7 +31308,7 @@
         "5 mg",
         "B\/30",
         "4,740",
-        "0,000",
+        "3,570",
         "TRIHEXYPHENIDYLE"
     ],
     [
@@ -35587,6 +35614,15 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
+        "FERVEX ENFANT",
+        "Poudre pour solution orale",
+        "280 mg\/10 mg\/100 mg",
+        "B\/8 Sachets\/3 gr",
+        "6,180",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
         "RHUVEX ENFANT",
         "Granul\u00e9s pour suspension buvable",
         "280 mg\/10 mg\/100 mg",
@@ -35601,15 +35637,6 @@
         "280 mg\/10 mg\/100 mg",
         "B\/12 Sachets",
         "5,605",
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
-    ],
-    [
-        "FERVEX ENFANT",
-        "Poudre pour solution orale",
-        "280 mg\/10 mg\/100 mg",
-        "B\/8 Sachets\/3 gr",
-        "6,180",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
@@ -35686,6 +35713,15 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],
     [
+        "FERVEX ADULTE SANS SUCRE",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets\/5 gr",
+        "8,270",
+        "0,000",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
+    ],
+    [
         "ACTIVEX ADULTE",
         "Granul\u00e9s pour solution buvable",
         "500 mg\/25 mg\/200 mg",
@@ -35736,15 +35772,6 @@
         "500 mg\/25 mg\/200 mg",
         "B\/12 Sachets",
         null,
-        "0,000",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C"
-    ],
-    [
-        "FERVEX ADULTE SANS SUCRE",
-        "Poudre pour solution orale",
-        "500 mg\/25 mg\/200 mg",
-        "B\/8 Sachets\/5 gr",
-        "8,270",
         "0,000",
         "PARACETAMOL+PHENIRAMINE+VITAMINE C"
     ],

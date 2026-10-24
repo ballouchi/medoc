@@ -53,7 +53,6 @@ Le champ de recherche en haut et à droite du site permet de trouver un médicam
   - **Forme** pharmaceutique: comprimés, gélules, sirop, suppositoires, pommade...
   - **Présentation**: nombre de comprimés dans une boite, volume d'un flacon de sirop...
   - **Prix**: prix public de vente du médicament en pharmacie   
-  - **unité**= **Prix** divisé par **Présentation**
   - **Remboursés**: Montant remboursé par la CNAM. Selon la catégorie, il est égal au:  
     
     1- **V**: **Tarif de référence**  

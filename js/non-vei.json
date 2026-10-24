@@ -991,6 +991,26 @@
         6653832
     ],
     [
+        "REMPAG",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "10 mg",
+        "B\/30",
+        "41,840",
+        "EMPAGLIFLOZINE",
+        "SOCIETE THERA SA",
+        9403201
+    ],
+    [
+        "REMPAG",
+        "Comprim\u00e9s pellicul\u00e9s",
+        "25 mg",
+        "B\/30",
+        "41,840",
+        "EMPAGLIFLOZINE",
+        "SOCIETE THERA SA",
+        9403202
+    ],
+    [
         "EMPAMET",
         "Comprim\u00e9s pellicul\u00e9s",
         "5 mg\/1000 mg",
@@ -4421,6 +4441,16 @@
         15463031
     ],
     [
+        "RANEXA",
+        "Comprim\u00e9s \u00e0 lib\u00e9ration prolong\u00e9e",
+        "750 mg",
+        "B\/60",
+        "115,170",
+        "RANOLAZINE",
+        "MENARINI INTERNATIONAL",
+        15463032
+    ],
+    [
         "VASTAREL",
         "Comprim\u00e9s pellicul\u00e9s LM",
         "35 mg",
@@ -5809,16 +5839,6 @@
         "BIPERIDENE",
         "PHARMACARE",
         9343241
-    ],
-    [
-        "PARKIZOL",
-        "Comprim\u00e9s",
-        "5 mg",
-        "B\/30",
-        "4,740",
-        "TRIHEXYPHENIDYLE",
-        "IBN AL BAYTAR",
-        9073093
     ],
     [
         "TANGANIL",
@@ -7531,6 +7551,16 @@
         9343231
     ],
     [
+        "FERVEX ENFANT",
+        "Poudre pour solution orale",
+        "280 mg\/10 mg\/100 mg",
+        "B\/8 Sachets\/3 gr",
+        "6,180",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
+        9133183
+    ],
+    [
         "RHUVEX ENFANT",
         "Granul\u00e9s pour suspension buvable",
         "280 mg\/10 mg\/100 mg",
@@ -7549,16 +7579,6 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "GALPHARMA",
         9223164
-    ],
-    [
-        "FERVEX ENFANT",
-        "Poudre pour solution orale",
-        "280 mg\/10 mg\/100 mg",
-        "B\/8 Sachets\/3 gr",
-        "6,180",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
-        9133183
     ],
     [
         "FIBREX  ADULTE",
@@ -7641,6 +7661,16 @@
         9133181
     ],
     [
+        "FERVEX ADULTE SANS SUCRE",
+        "Poudre pour solution orale",
+        "500 mg\/25 mg\/200 mg",
+        "B\/8 Sachets\/5 gr",
+        "8,270",
+        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
+        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
+        9133182
+    ],
+    [
         "ACTIVEX ADULTE",
         "Granul\u00e9s pour solution buvable",
         "500 mg\/25 mg\/200 mg",
@@ -7699,16 +7729,6 @@
         "PARACETAMOL+PHENIRAMINE+VITAMINE C",
         "ADWYA",
         9044142
-    ],
-    [
-        "FERVEX ADULTE SANS SUCRE",
-        "Poudre pour solution orale",
-        "500 mg\/25 mg\/200 mg",
-        "B\/8 Sachets\/5 gr",
-        "8,270",
-        "PARACETAMOL+PHENIRAMINE+VITAMINE C",
-        "INDUSTRIE PHARMACEUTIQUE SAID (IPS)",
-        9133182
     ],
     [
         "RHUVEX JOUR ET NUIT",

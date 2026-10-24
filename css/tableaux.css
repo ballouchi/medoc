@@ -7,43 +7,33 @@
 #T_25f34 .row0 { text-decoration-line: line-through; }
  */
 
-#T_paracetamol-500-mg-cp :is(.row0, .row1, .row2, .row3, .row14) { border-bottom: 1px solid black; }
-#T_paracetamol-500-mg-cp :is(.row4, .row5, .row12, .row17).col2 { background-color: thistle; }
-#T_paracetamol-500-mg-cp-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
-
-#T_paracetamol-1000-mg-comprimes-effervescents :is(.row0, .row1, .row2).col2 { background-color: lightblue; }
-/* #T_paracetamol-1000-mg :is(.row9, .row12) { border-bottom: 2px solid black; }
-#T_paracetamol-1000-mg :is(.row10, .row11, .row12).col2 { background-color: lightblue; }
-#T_paracetamol-1000-mg .row13.col2 { background-color: thistle; } */
+#T_paracetamol-comprimes-500 :is(.row4, .row5, .row12, .row17).col1 { background-color: thistle; }
+#T_paracetamol-comprimes-effervescents-500 :is(.row0, .row1, .row2).col1,
+#T_paracetamol-comprimes-effervescents-1000 :is(.row0, .row1, .row2).col1 { background-color: lightblue; }
 
 #T_paracetamol-3-solution-buvable .row4,
 #T_paracetamol-3-suspension-buvable .row6 { border-bottom: 1px solid black; }
 #T_paracetamol-3-solution-buvable .row5.col3,
 #T_paracetamol-3-suspension-buvable .row7.col3 { background-color: thistle; }
 
-/* amoxicilline 500mg-12 */
+#T_paracetamol-cafeine-codeine-comprimes .row0,
+#T_codeine-paracetamol-comprimes-40025 .row0 { border-bottom: 3px double black; }
+#T_codeine-paracetamol-comprimes-40025 .row0.col2 { background-color: khaki; }
+#T_paracetamol-cafeine-codeine-comprimes .row1.col2 { background-color: thistle; }
+
 #T_amoxicilline-500-12_row5_col1,
 #T_amoxicilline-500-12_row6_col1,
 #T_amoxicilline-500-12_row7_col1 { background-color: lightblue; }
 
-/* amoxicilline 500mg-24 */
-#T_amoxicilline-500-24 .row2 { border-bottom: 1px solid black; }
-
-#T_amoxicilline-500-24_row3_col1,
-#T_amoxicilline-500-24_row4_col1,
-#T_amoxicilline-500-24_row5_col1,
-#T_amoxicilline-500-24_row6_col1 { background-color: lightblue; }
-
+#T_amoxicilline-500-24 .row2,
 #T_amoxicilline-1g .row1 { border-bottom: 1px solid grey; }
+#T_amoxicilline-500-24 :is(.row3, .row4, .row5, .row6).col1,
 #T_amoxicilline-1g :is(.row2, .row3, .row4, .row5, .row6, .row7, .row8, .row9, .row10).col1 { background-color: lightblue; }
 
-/* amoxicilline sirop */
 #T_amoxicilline-sirop :is(.row8, .row9, .row16, .row17).col3 { background-color: thistle; }
 
-/* amoxicilline inj */
 #T_amoxicilline-injectable .row2.col2 { background-color: thistle; }
 
-/* amoxi-clav 500-62,5 */
 #T_amoxicilline-acide-clavulanique-500-625-12 :is(.row7, .row6, .row5, .row3, .row4).col1,
 #T_amoxicilline-acide-clavulanique-500-625-24 :is(.row6, .row7, .row8, .row9, .row10).col1 { background-color: lightblue; }
 #T_amoxicilline-acide-clavulanique-500-625-12 .row2.col2 { background-color: thistle; }
@@ -52,8 +42,6 @@
 #T_amoxicilline-acide-clavulanique-1-125-12 .row2.col3,
 #T_amoxicilline-acide-clavulanique-1-125-24 .row0.col3 { background-color: thistle; }
 
-
-/* amoxi-clav sirop */
 #T_amoxicilline-acide-clavulanique-sirop .row14.col2 { background-color: khaki; }
 #T_amoxicilline-acide-clavulanique-sirop .row15.col2 { background-color: thistle; }
 
@@ -175,31 +163,16 @@
 #T_cimetidine .row0 { border-bottom: 3px solid black; text-decoration-line: line-through }
 #T_cimetidine :is(.row1, .row2).col2 { background-color: lightsalmon; }
 
-#T_ibuprofen-cp-200-mg .row4,
-#T_ibuprofen-cp-400-mg .row5 { border-bottom: 1px solid black; }
-#T_ibuprofen-cp-200-mg :is(.row5, .row6).col2 { background-color: lightblue; }
-#T_ibuprofen-cp-400-mg :is(.row6, .row7).col3 { background-color: thistle; }
+#T_ibuprofen-comprimes-200 :is(.row5, .row6).col1 { background-color: lightblue; }
+#T_ibuprofen-gouttes-200 .row0.col1 { background-color: thistle; }
 
-#T_flurbiprofene .row1 { border-bottom: 1px solid black; }
+#T_diclofenac-suppo .row4.col3 { background-color: thistle; }
 
-#T_diclofenac-suppo .row0,
-#T_diclofenac-suppo .row1,
-#T_diclofenac-suppo .row2 { border-bottom: 3px solid black; }
-#T_diclofenac-suppo .row3 { border-bottom: 1px solid black; }
-#T_diclofenac-suppo .row3.col3 { background-color: thistle; }
+#T_meloxicam :is(.row0, .row1, .row2).col2 { background-color: thistle; }
+#T_meloxicam :is(.row8, .row9, .row7).col1 { background-color: lightsalmon; }
+#T_meloxicam .row6 { border-bottom: 4px double black; }
 
-#T_meloxicam .row0,
-#T_meloxicam .row2,
-#T_meloxicam .row3 { border-bottom: 1px solid black; }
-#T_meloxicam .row1 { border-bottom: 3px solid black; }
-#T_meloxicam .row4 { border-bottom: 5px solid black; }
-#T_meloxicam :is(.row0, .row1).col1 { background-color: thistle; }
-#T_meloxicam :is(.row6, .row7).col2 { background-color: lightsalmon; }
-
-#T_celecoxib .row0.col1 { background-color: thistle; }
-#T_celecoxib .row0 { border-bottom: 3px solid black; }
-#T_celecoxib .row10,
-#T_celecoxib .row20 { border-bottom: 1px solid black; }
+#T_celecoxib .row0.col2 { background-color: thistle; }
 
 #T_esomeprazole-20-mg-28 .row8,
 #T_esomeprazole-40-mg-7 .row5,
@@ -241,13 +214,6 @@
 #T_glimepiride-1-mg .row7 { border-top: 1px solid black; border-bottom: 1px solid black; }
 
 
-
-
-
-
-
-
-
 #T_tolterodine .row0 { border-bottom: 2px solid black; }
 #T_tolterodine .row1.col1 { background-color: thistle; }
 
@@ -255,7 +221,6 @@
 #T_a2009 .row3 { border-bottom: 2px solid black; }
 #T_a2009 :is(.row4, .row5, .row6, .row7).col1 { background-color: thistle; }
 
-/* alfuzosine */
 #T_alfuzosine .row0 { border-bottom: 2px solid black; }
 #T_alfuzosine_row0_col1 { background-color: thistle; }
 
@@ -271,7 +236,6 @@
 #T_terebenthine .row0 { border-bottom: 2px solid black; }
 #T_terebenthine .row1.col1 { background-color: thistle; }
 #T_terebenthine :is(.row0, .row1).col2 { background-color: khaki; }
-
 
 #T_montelukast .row1,
 #T_montelukast .row7 { border-bottom: 3px solid black; }
@@ -589,6 +553,7 @@
 #T_frovatriptan .row0 { border-bottom: 1px solid black; }
 #T_frovatriptan .row1.col3 { background-color: thistle; }
 
+/* ? */
 #T_4dcd4 .row0 { border-bottom: 2px solid black; }
 #T_4dcd4 .row1.col2 { background-color: lightblue; }
 
@@ -974,25 +939,10 @@
 #T_prednisone .row3.col1 { background-color: thistle; }
 #T_prednisone .row3.col3 { background-color: khaki; }
 
-#T_acetylsalicylate-de-lysine-100-mg .row0,
-#T_acetylsalicylate-de-lysine-250-mg .row0,
-#T_acetylsalicylate-de-lysine-500-mg .row0,
-#T_acetylsalicylate-de-lysine-160-mg .row0 { border-bottom: 1px solid black; }
-#T_acetylsalicylate-de-lysine-100-mg .row1.col3,
-#T_acetylsalicylate-de-lysine-250-mg .row1.col3,
-#T_acetylsalicylate-de-lysine-500-mg .row1.col3,
-#T_acetylsalicylate-de-lysine-160-mg .row1.col3 { background-color: thistle; }
-#T_asl-injectable .row2 { border-bottom: 3px solid black; }
-#T_asl-injectable .row1 { border-bottom: 1px solid black; }
-#T_asl-injectable .row2.col3,
-#T_asl-injectable .row0.col3,
-#T_asl-injectable .row0.col1 { background-color: thistle; } 
 /* aas */
 #T_d61bc .row1.col3 { background-color: khaki; }
 /* phenaspirine */
-#T_c8c9f .row1 { border-bottom: 3px solid black; }
-#T_c8c9f .row0.col1 { background-color: thistle; }
-#T_c8c9f :is(.row0, .row1).col2 { background-color: khaki; }
+#T_acide-acetylsalicylique-phenobarbital :is(.row0, .row1).col1 { background-color: khaki; }
 
 #T_ketotifene .row0 { border-bottom: 3px solid black; }
 #T_ketotifene :is(.row1, .row2).col2 { background-color: lightblue; }
@@ -1319,15 +1269,8 @@
 #T_mesalazine-suppo :is(.row0, .row1, .row2, .row3).col1 { background-color: khaki; }
 #T_mesalazine-suppo .row4.col1 { background-color: thistle; }
 
-#T_piroxicam-cp .row11 { border-bottom: 3px solid black; }
-#T_piroxicam-cp :is(.row0, .row1, .row2, .row3, .row6, .row9)  { border-bottom: 1px solid black; }
-#T_piroxicam-cp .row12.col1  { background-color: khaki; }
-#T_piroxicam-cp :is(.row3, .row6, .row9, .row11).col2  { background-color: lightblue; }
-#T_piroxicam-cp .row1.col2  { background-color: cyan; }
-#T_piroxicam-suppo .row0,
-#T_piroxicam-injectable .row3 { border-bottom: 1px solid black; }
-#T_piroxicam-suppo .row0.col3 { background-color: khaki; }
-#T_piroxicam-injectable .row4.col3 { background-color: thistle; }
+#T_piroxicam-comprimes .row0.col2 { background-color: khaki; }
+#T_piroxicam-comprimes-dispersibles .row0.col1  { background-color: lightblue; }
 
 #T_alendronate .row1 { border-bottom: 1px solid black; }
 #T_alendronate .row3 { border-bottom: 6px double black; }

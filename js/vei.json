@@ -13111,26 +13111,6 @@
         "N"
     ],
     [
-        300961,
-        "FENDOL Comp Pell Sec 500mg Bt 20",
-        "5,315",
-        "5,300",
-        "E",
-        "ACIDE MEFENAMIQUE",
-        9073381,
-        "N"
-    ],
-    [
-        301358,
-        "INFLAMYL FORT Comp Pell Sec 500 mg Bt 20",
-        "6,450",
-        "5,300",
-        "E",
-        "ACIDE MEFENAMIQUE",
-        9223281,
-        "N"
-    ],
-    [
         301147,
         "FENAMYL Gelule 250mg Bt 16",
         "2,005",
@@ -13168,6 +13148,26 @@
         "E",
         "ACIDE MEFENAMIQUE",
         9223051,
+        "N"
+    ],
+    [
+        300961,
+        "FENDOL Comp Pell Sec 500mg Bt 20",
+        "5,315",
+        "5,300",
+        "E",
+        "ACIDE MEFENAMIQUE",
+        9073381,
+        "N"
+    ],
+    [
+        301358,
+        "INFLAMYL FORT Comp Pell Sec 500 mg Bt 20",
+        "6,450",
+        "5,300",
+        "E",
+        "ACIDE MEFENAMIQUE",
+        9223281,
         "N"
     ],
     [
@@ -13971,6 +13971,26 @@
         "N"
     ],
     [
+        301228,
+        "BUPROFEN  Comp Eff 200 mg Bt 2 t \/10",
+        "4,790",
+        "4,780",
+        "E",
+        "IBUPROFEN",
+        null,
+        "N"
+    ],
+    [
+        300665,
+        "UPFEN 200 mg comp.efferv.t\/2\/10",
+        "6,280",
+        "4,780",
+        "E",
+        "IBUPROFEN",
+        9133301,
+        "N"
+    ],
+    [
         301644,
         "IBUPRANE Comp Pell 400 MG BT 20",
         "5,015",
@@ -14081,36 +14101,6 @@
         "N"
     ],
     [
-        301228,
-        "BUPROFEN  Comp Eff 200 mg Bt 2 t \/10",
-        "4,790",
-        "4,780",
-        "E",
-        "IBUPROFEN",
-        null,
-        "N"
-    ],
-    [
-        300665,
-        "UPFEN 200 mg comp.efferv.t\/2\/10",
-        "6,280",
-        "4,780",
-        "E",
-        "IBUPROFEN",
-        9133301,
-        "N"
-    ],
-    [
-        300406,
-        "MOMENT Gttes Buv 200mg\/ml Fl 12,5ml",
-        "4,880",
-        "4,875",
-        "E",
-        "IBUPROFEN",
-        9023641,
-        "N"
-    ],
-    [
         301159,
         "PAINOFEN (EX MOMENT 100)  Enf Nour  100 mg\/5ml  Susp Buv Fl 120 ml",
         "3,985",
@@ -14168,6 +14158,16 @@
         "E",
         "IBUPROFEN",
         9083451,
+        "N"
+    ],
+    [
+        300406,
+        "MOMENT Gttes Buv 200mg\/ml Fl 12,5ml",
+        "4,880",
+        "4,875",
+        "E",
+        "IBUPROFEN",
+        9023641,
         "N"
     ],
     [
@@ -27891,13 +27891,13 @@
         "O"
     ],
     [
-        101844,
-        "LAMICTAL Comp Disp 5mg Bt 30",
-        "13,027",
+        107485,
+        "LAMICTAL 5mg Comp.Disp. Bt 1Fl\/30",
+        "13,395",
         "13,020",
         "V",
         "LAMOTRIGINE",
-        2113091,
+        2113092,
         "N"
     ],
     [
@@ -28939,6 +28939,16 @@
         "ROPINIROLE",
         null,
         "O"
+    ],
+    [
+        309940,
+        "PARKIZOL 5mg Comp. Bt 30",
+        "4,740",
+        "4,200",
+        "E",
+        "TRIHEXYPHENIDYLE",
+        9073093,
+        "N"
     ],
     [
         307711,
